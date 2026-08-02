@@ -273,8 +273,9 @@ body.menu-open .mobile-menu{clip-path:circle(150% at 100% 0)}
 .arrivals .section-head{margin-bottom:3rem}
 .arrivals__row{display:grid;grid-template-columns:repeat(4,1fr);gap:1.4rem;max-width:var(--maxw);margin:0 auto;padding:0 var(--pad)}
 .prod{display:block;position:relative}
-.prod__media{aspect-ratio:4/5;overflow:hidden;background:var(--cream);border-radius:3px;display:grid;place-items:center}
-.prod__media img{width:100%;height:100%;object-fit:cover;transition:transform 1s var(--ease)}
+.prod__media{aspect-ratio:4/5;overflow:hidden;border-radius:3px;display:grid;place-items:center;
+  background:radial-gradient(120% 100% at 50% 20%,#f7f3ec,#e6ddcd)}
+.prod__media img{width:100%;height:100%;object-fit:contain;padding:6%;mix-blend-mode:multiply;transition:transform 1s var(--ease)}
 .prod:hover .prod__media img{transform:scale(1.05)}
 .prod__foot{display:flex;justify-content:space-between;align-items:baseline;margin-top:1rem}
 .prod__foot h3{font-size:1.5rem}
@@ -344,6 +345,18 @@ body.menu-open .mobile-menu{clip-path:circle(150% at 100% 0)}
 .reveal,.reveal-line{opacity:0;transform:translateY(34px);transition:opacity 1s var(--ease),transform 1s var(--ease)}
 .reveal.in,.reveal-line.in{opacity:1;transform:none}
 
+/* image wipe reveal — media unmasks as it enters */
+.iw{clip-path:inset(16% 9% 16% 9% round 3px);transition:clip-path 1.25s var(--ease)}
+.iw.in{clip-path:inset(0% 0% 0% 0% round 3px)}
+
+/* scroll progress line */
+.progress{position:fixed;top:0;left:0;right:0;height:2px;z-index:1500;pointer-events:none}
+.progress i{display:block;height:100%;background:linear-gradient(90deg,var(--gold-2),var(--gold));
+  transform:scaleX(0);transform-origin:left}
+
+/* parallax-driven elements: GSAP owns the transform, CSS keeps the fade */
+.plx{transition:opacity 1s var(--ease) !important;will-change:transform}
+
 /* ===========================================================
    COLLECTION PAGE
    =========================================================== */
@@ -384,7 +397,7 @@ body.menu-open .mobile-menu{clip-path:circle(150% at 100% 0)}
 .pcard.is-hidden{display:none}
 .pcard__media{aspect-ratio:4/5;overflow:hidden;border-radius:3px;position:relative;
   background:radial-gradient(120% 100% at 50% 20%,#f7f3ec,#e6ddcd)}
-.pcard__media img{width:100%;height:100%;object-fit:cover;transition:transform 1.1s var(--ease)}
+.pcard__media img{width:100%;height:100%;object-fit:contain;padding:6%;mix-blend-mode:multiply;transition:transform 1.1s var(--ease)}
 .pcard:hover .pcard__media img{transform:scale(1.05)}
 .pcard__tag{position:absolute;top:1rem;left:1rem;font-family:var(--font-sans);font-size:.6rem;letter-spacing:.2em;
   text-transform:uppercase;color:var(--black);background:var(--gold);padding:.4rem .8rem;border-radius:2px}
@@ -505,6 +518,11 @@ body.pdp{background:var(--paper);color:var(--ink)}
   .head-cart,.head-icon{display:none}
   .hero__title{font-size:clamp(3rem,15vw,5rem)}
   .foot__cols{grid-template-columns:repeat(2,1fr)}
+  /* keep the hero set fully in frame on phones */
+  .hero__piece{width:96vw;max-width:none;transform:translate(0,4%)}
+  .hero__glow{left:50%}
+  /* wide catalogue shots read better square on phones */
+  .prod__media{aspect-ratio:1/1}
 }
 @media (max-width:520px){
   .arrivals__row{grid-template-columns:1fr 1fr;gap:.9rem}
@@ -535,4 +553,5 @@ body.pdp{background:var(--paper);color:var(--ink)}
 @media (prefers-reduced-motion:reduce){
   *{animation:none !important;transition-duration:.01ms !important}
   .reveal,.reveal-line{opacity:1;transform:none}
+  .iw{clip-path:none !important}
 }

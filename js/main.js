@@ -133,6 +133,21 @@
       gsap.ticker.add(t => lenis.raf(t * 1000));
       gsap.ticker.lagSmoothing(0);
     }
+    /* marquee leans with scroll velocity — the band feels physical */
+    const marqueeEl = $('.marquee');
+    if (marqueeEl) {
+      let skT = 0, skC = 0, skR = null;
+      const skTick = () => {
+        skC += (skT - skC) * 0.12;
+        marqueeEl.style.transform = `skewX(${skC.toFixed(2)}deg)`;
+        if (Math.abs(skT - skC) > 0.02 || Math.abs(skC) > 0.02) skR = requestAnimationFrame(skTick);
+        else { marqueeEl.style.transform = ''; skR = null; }
+      };
+      lenis.on('scroll', e => {
+        skT = Math.max(-5, Math.min(5, (e.velocity || 0) * 0.35));
+        if (!skR) skR = requestAnimationFrame(skTick);
+      });
+    }
   }
   // anchor links
   $$('a[href^="#"]').forEach(a => a.addEventListener('click', e => {
@@ -146,7 +161,7 @@
   }));
 
   /* ---------- reveals ---------- */
-  const revealTargets = [...$$('.reveal'), ...$$('.reveal-line').filter(el => !el.closest('.hero'))];
+  const revealTargets = [...$$('.reveal'), ...$$('.iw'), ...$$('.reveal-line').filter(el => !el.closest('.hero'))];
   if ('IntersectionObserver' in window) {
     const io = new IntersectionObserver((entries) => {
       entries.forEach(en => {
@@ -185,6 +200,22 @@
       scrollTrigger: { trigger: '#hero', start: 'top top', end: 'bottom top', scrub: true } });
     gsap.fromTo('.feature__piece', { yPercent: 8 }, { yPercent: -8, ease: 'none',
       scrollTrigger: { trigger: '.feature', start: 'top bottom', end: 'bottom top', scrub: true } });
+
+    /* in-image parallax: media drifts inside its frame while you scroll */
+    $$('.col-card__media img, .rugs__media img, .ed-band__media img').forEach(img => {
+      img.classList.add('plx');
+      gsap.fromTo(img, { yPercent: -7, scale: 1.16 }, {
+        yPercent: 7, scale: 1.16, ease: 'none',
+        scrollTrigger: { trigger: img.parentElement, start: 'top bottom', end: 'bottom top', scrub: true }
+      });
+    });
+
+    /* section titles ease up as they arrive */
+    $$('.section-title, .rugs__title, .feature__title').forEach(t => {
+      t.classList.add('plx');
+      gsap.fromTo(t, { yPercent: 26 }, { yPercent: 0, ease: 'none',
+        scrollTrigger: { trigger: t, start: 'top 96%', end: 'top 58%', scrub: true } });
+    });
   }
 
   /* ---------- count-up ---------- */
@@ -240,12 +271,17 @@
 
   /* ---------- header behaviour ---------- */
   const head = $('#siteHead');
+  const progressBar = $('#scrollProgress');
   let lastY = 0;
   const onScroll = () => {
     const y = window.scrollY;
     head.classList.toggle('scrolled', y > 40);
     if (y > lastY && y > 400) head.classList.add('hide'); else head.classList.remove('hide');
     lastY = y;
+    if (progressBar) {
+      const max = document.documentElement.scrollHeight - innerHeight;
+      progressBar.style.transform = 'scaleX(' + (max > 0 ? y / max : 0) + ')';
+    }
   };
   addEventListener('scroll', onScroll, { passive: true });
   // header colour over light sections

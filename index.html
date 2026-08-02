@@ -1,0 +1,317 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Galerie Oasis — The Art of Living, Curated · Laval</title>
+<meta name="description" content="Galerie Oasis — a Laval atelier of handcrafted sofas, dining, bedrooms and hand-knotted rugs. Timeless furniture, chosen piece by piece." />
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;1,300;1,400;1,500&family=Jost:wght@300;400;500&display=swap" rel="stylesheet">
+<script>/* pre-paint: skip splash on repeat views + reduced motion; #intro replays it */
+(function(){var replay=location.hash==='#intro'||location.hash==='#introhold';if(!replay){try{if(sessionStorage.getItem('go_intro')||matchMedia('(prefers-reduced-motion: reduce)').matches){document.documentElement.classList.add('intro-skip');}}catch(e){}}})();</script>
+<link rel="stylesheet" href="css/styles.css" />
+</head>
+<body class="is-loading" data-lang="en">
+
+<!-- Splash intro -->
+<div class="splash" id="splash" aria-hidden="true">
+  <div class="splash__inner">
+    <img class="splash__mark" src="assets/img/logo.png" alt="" width="64" height="69" />
+    <h2 class="splash__word"><span class="m"><b>Galerie</b></span><span class="m"><b class="g">Oasis</b></span></h2>
+    <span class="splash__tag">Laval · Québec</span>
+    <span class="splash__bar"><i></i></span>
+  </div>
+</div>
+
+<!-- Custom cursor -->
+<div class="cursor" id="cursor"><span class="cursor__label" id="cursorLabel"></span></div>
+
+<!-- Grain overlay -->
+<div class="grain" aria-hidden="true"></div>
+
+<!-- Header -->
+<header class="site-head" id="siteHead">
+  <a class="brand" href="index.html" aria-label="Galerie Oasis home">
+    <img class="brand__mark" src="assets/img/logo.png" alt="" width="40" height="43" />
+    <span class="brand__word">Galerie <em>Oasis</em></span>
+  </a>
+
+  <nav class="nav" id="primaryNav" aria-label="Primary">
+    <a href="collection.html" data-en="Collections" data-fr="Collections">Collections</a>
+    <a href="collection.html" data-en="Living Room" data-fr="Salon">Living Room</a>
+    <a href="collection.html" data-en="Dining" data-fr="Salle à manger">Dining</a>
+    <a href="collection.html" data-en="Bedroom" data-fr="Chambre">Bedroom</a>
+    <a href="collection.html" data-en="Rugs" data-fr="Tapis">Rugs</a>
+    <a href="#visit" data-en="Visit" data-fr="Visiter">Visit</a>
+  </nav>
+
+  <div class="head-actions">
+    <button class="lang" id="langToggle" aria-label="Switch language">
+      <span class="lang__opt is-active" data-set="en">EN</span>
+      <span class="lang__sep">/</span>
+      <span class="lang__opt" data-set="fr">FR</span>
+    </button>
+    <a class="head-icon" href="#" aria-label="Search">
+      <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.3"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4.3-4.3"/></svg>
+    </a>
+    <a class="head-icon head-cart" href="#" aria-label="Cart">
+      <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.3"><path d="M6 7h12l-1 13H7L6 7z"/><path d="M9 7a3 3 0 0 1 6 0"/></svg>
+      <i class="head-cart__count">0</i>
+    </a>
+    <button class="burger" id="burger" aria-label="Menu"><span></span><span></span></button>
+  </div>
+</header>
+
+<!-- Mobile menu -->
+<div class="mobile-menu" id="mobileMenu">
+  <nav>
+    <a href="collection.html" data-en="Collections" data-fr="Collections">Collections</a>
+    <a href="collection.html" data-en="Living Room" data-fr="Salon">Living Room</a>
+    <a href="collection.html" data-en="Dining" data-fr="Salle à manger">Dining</a>
+    <a href="collection.html" data-en="Bedroom" data-fr="Chambre">Bedroom</a>
+    <a href="collection.html" data-en="Rugs" data-fr="Tapis">Rugs</a>
+    <a href="#visit" data-en="Visit the showroom" data-fr="Visiter la salle">Visit the showroom</a>
+  </nav>
+</div>
+
+<main>
+
+  <!-- ===================== HERO ===================== -->
+  <section class="hero" id="hero">
+    <canvas class="hero__gl" id="heroGL" aria-hidden="true"></canvas>
+    <div class="hero__vignette" aria-hidden="true"></div>
+    <div class="hero__scrim" aria-hidden="true"></div>
+
+    <div class="hero__stage">
+      <img class="hero__piece" id="heroPiece" src="assets/img/scene-sofa-1.jpg" alt="Emerald velvet living room collection by Galerie Oasis" />
+      <div class="hero__glow" aria-hidden="true"></div>
+    </div>
+
+    <div class="hero__content">
+      <p class="eyebrow reveal-line" data-en="Galerie Oasis — Laval, Québec" data-fr="Galerie Oasis — Laval, Québec">Galerie Oasis — Laval, Québec</p>
+      <h1 class="hero__title">
+        <span class="line" data-en="The art of living," data-fr="L'art de vivre,">The art of living,</span>
+        <span class="line"><em data-en="curated." data-fr="sur mesure.">curated.</em></span>
+      </h1>
+      <p class="hero__sub reveal-line" data-en="Handcrafted sofas, dining, bedrooms and hand-knotted rugs — chosen piece by piece for homes that outlive fashion." data-fr="Canapés, salles à manger, chambres et tapis noués main — choisis pièce par pièce pour des intérieurs qui traversent le temps.">Handcrafted sofas, dining, bedrooms and hand-knotted rugs — chosen piece by piece for homes that outlive fashion.</p>
+      <div class="hero__cta reveal-line">
+        <a class="btn btn--gold magnetic" href="collection.html" data-en="Explore collections" data-fr="Explorer les collections">Explore collections</a>
+        <a class="btn btn--ghost magnetic" href="#visit" data-en="Book a showroom visit" data-fr="Visiter la salle">Book a showroom visit</a>
+      </div>
+    </div>
+
+    <div class="hero__scroll">
+      <span data-en="Scroll" data-fr="Défiler">Scroll</span>
+      <i></i>
+    </div>
+  </section>
+
+  <!-- ===================== MARQUEE ===================== -->
+  <div class="marquee" aria-hidden="true">
+    <div class="marquee__track">
+      <span>Sofas</span><b>·</b><span>Sectionals</span><b>·</b><span>Dining</span><b>·</b><span>Bedrooms</span><b>·</b><span>Hand-knotted rugs</span><b>·</b><span>Décor</span><b>·</b>
+      <span>Sofas</span><b>·</b><span>Sectionals</span><b>·</b><span>Dining</span><b>·</b><span>Bedrooms</span><b>·</b><span>Hand-knotted rugs</span><b>·</b><span>Décor</span><b>·</b>
+    </div>
+  </div>
+
+  <!-- ===================== MANIFESTO ===================== -->
+  <section class="manifesto">
+    <p class="manifesto__eyebrow reveal" data-en="Our philosophy" data-fr="Notre philosophie">Our philosophy</p>
+    <h2 class="manifesto__text reveal-words"
+        data-en="We don't chase trends. We curate pieces — velvet, brass, marble and hand-knotted wool — with the patience of a gallery and the warmth of a home."
+        data-fr="Nous ne suivons pas les modes. Nous choisissons des pièces — velours, laiton, marbre et laine nouée main — avec la patience d'une galerie et la chaleur d'un foyer.">
+      We don't chase trends. We curate pieces — velvet, brass, marble and hand-knotted wool — with the patience of a gallery and the warmth of a home.
+    </h2>
+  </section>
+
+  <!-- ===================== COLLECTIONS ===================== -->
+  <section class="collections" id="collections">
+    <div class="section-head">
+      <p class="eyebrow reveal" data-en="Explore" data-fr="Explorer">Explore</p>
+      <h2 class="section-title reveal" data-en="Rooms, composed." data-fr="Des pièces, composées.">Rooms, composed.</h2>
+    </div>
+
+    <div class="collections__grid">
+      <a class="col-card reveal" href="collection.html">
+        <div class="col-card__media"><img src="assets/gen/room-living.jpg" alt="Living room collection" loading="lazy" /></div>
+        <div class="col-card__meta">
+          <span class="col-card__idx">01</span>
+          <h3 data-en="Living Room" data-fr="Salon">Living Room</h3>
+          <span class="col-card__go" data-en="View collection" data-fr="Voir la collection">View collection</span>
+        </div>
+      </a>
+      <a class="col-card reveal" href="collection.html">
+        <div class="col-card__media"><img src="assets/gen/room-dining.jpg" alt="Dining collection" loading="lazy" /></div>
+        <div class="col-card__meta">
+          <span class="col-card__idx">02</span>
+          <h3 data-en="Dining" data-fr="Salle à manger">Dining</h3>
+          <span class="col-card__go" data-en="View collection" data-fr="Voir la collection">View collection</span>
+        </div>
+      </a>
+      <a class="col-card reveal" href="collection.html">
+        <div class="col-card__media"><img src="assets/gen/room-bedroom.jpg" alt="Bedroom collection" loading="lazy" /></div>
+        <div class="col-card__meta">
+          <span class="col-card__idx">03</span>
+          <h3 data-en="Bedroom" data-fr="Chambre">Bedroom</h3>
+          <span class="col-card__go" data-en="View collection" data-fr="Voir la collection">View collection</span>
+        </div>
+      </a>
+    </div>
+  </section>
+
+  <!-- ===================== SIGNATURE FEATURE ===================== -->
+  <section class="feature" id="feature">
+    <div class="feature__bg" aria-hidden="true"></div>
+    <div class="feature__media">
+      <img class="feature__piece" src="assets/img/scene-sofa-2.jpg" alt="Signature tufted leather collection" />
+      <span class="hotspot" style="left:34%;top:58%"><i></i></span>
+      <span class="hotspot" style="left:62%;top:64%"><i></i></span>
+    </div>
+    <div class="feature__text">
+      <p class="eyebrow reveal" data-en="Signature" data-fr="Signature">Signature</p>
+      <h2 class="feature__title reveal" data-en="The Montréal Sectional" data-fr="Le sectionnel Montréal">The Montréal Sectional</h2>
+      <p class="feature__body reveal" data-en="Hand-tufted Italian leather over a solid hardwood frame, finished with brushed-brass. A centrepiece built to be handed down, not replaced." data-fr="Cuir italien capitonné main sur une structure en bois massif, rehaussé de laiton brossé. Une pièce maîtresse conçue pour se transmettre, non se remplacer.">
+        Hand-tufted Italian leather over a solid hardwood frame, finished with brushed-brass. A centrepiece built to be handed down, not replaced.
+      </p>
+      <ul class="feature__spec reveal">
+        <li><span data-en="Frame" data-fr="Structure">Frame</span><b data-en="Kiln-dried hardwood" data-fr="Bois massif séché">Kiln-dried hardwood</b></li>
+        <li><span data-en="Upholstery" data-fr="Revêtement">Upholstery</span><b data-en="Full-grain leather" data-fr="Cuir pleine fleur">Full-grain leather</b></li>
+        <li><span data-en="Finish" data-fr="Finition">Finish</span><b data-en="Brushed brass" data-fr="Laiton brossé">Brushed brass</b></li>
+      </ul>
+      <a class="btn btn--gold magnetic" href="product.html" data-en="View the piece" data-fr="Voir la pièce">View the piece</a>
+    </div>
+  </section>
+
+  <!-- ===================== NEW ARRIVALS ===================== -->
+  <section class="arrivals" id="arrivals">
+    <div class="section-head section-head--row">
+      <div>
+        <p class="eyebrow reveal" data-en="New arrivals" data-fr="Nouveautés">New arrivals</p>
+        <h2 class="section-title reveal" data-en="Just added to the floor." data-fr="Fraîchement arrivés.">Just added to the floor.</h2>
+      </div>
+      <a class="link-arrow magnetic" href="collection.html" data-en="See everything" data-fr="Tout voir">See everything</a>
+    </div>
+
+    <div class="arrivals__row" id="arrivalsRow">
+      <a class="prod reveal" href="product.html">
+        <div class="prod__media"><img src="assets/img/prod-aurora.jpg" alt="Aurora sofa" loading="lazy" /></div>
+        <div class="prod__foot"><h3>Aurora</h3><span data-en="Sofa" data-fr="Canapé">Sofa</span></div>
+        <p class="prod__price" data-en="On request" data-fr="Sur demande">On request</p>
+      </a>
+      <a class="prod reveal" href="product.html">
+        <div class="prod__media"><img src="assets/img/prod-annabelle.jpg" alt="Annabelle sofa" loading="lazy" /></div>
+        <div class="prod__foot"><h3>Annabelle</h3><span data-en="Sofa" data-fr="Canapé">Sofa</span></div>
+        <p class="prod__price" data-en="On request" data-fr="Sur demande">On request</p>
+      </a>
+      <a class="prod reveal" href="product.html">
+        <div class="prod__media"><img src="assets/img/scene-sofa-4.jpg" alt="Bellevue sectional" loading="lazy" /></div>
+        <div class="prod__foot"><h3>Bellevue</h3><span data-en="Sectional" data-fr="Sectionnel">Sectional</span></div>
+        <p class="prod__price" data-en="On request" data-fr="Sur demande">On request</p>
+      </a>
+      <a class="prod reveal" href="product.html">
+        <div class="prod__media"><img src="assets/img/scene-sofa-5.jpg" alt="Verdi armchair" loading="lazy" /></div>
+        <div class="prod__foot"><h3>Verdi</h3><span data-en="Armchair" data-fr="Fauteuil">Armchair</span></div>
+        <p class="prod__price" data-en="On request" data-fr="Sur demande">On request</p>
+      </a>
+    </div>
+  </section>
+
+  <!-- ===================== RUGS BAND ===================== -->
+  <section class="rugs" id="rugs">
+    <div class="rugs__text">
+      <p class="eyebrow reveal" data-en="Hand-knotted" data-fr="Noués main">Hand-knotted</p>
+      <h2 class="rugs__title reveal" data-en="Rugs with a story in every knot." data-fr="Des tapis, une histoire dans chaque nœud.">Rugs with a story in every knot.</h2>
+      <p class="rugs__body reveal" data-en="Sourced from master weavers, our carpets take months to make and generations to wear. Wool, silk and natural dyes, chosen to ground a room." data-fr="Créés par des maîtres tisserands, nos tapis demandent des mois de travail et des générations d'usure. Laine, soie et teintures naturelles, pour ancrer une pièce.">
+        Sourced from master weavers, our carpets take months to make and generations to wear. Wool, silk and natural dyes, chosen to ground a room.
+      </p>
+      <div class="stats reveal">
+        <div class="stat"><b class="count" data-target="18">0</b><span data-en="Collections" data-fr="Collections">Collections</span></div>
+        <div class="stat"><b class="count" data-target="1200">0</b><span data-en="Pieces on the floor" data-fr="Pièces en salle">Pieces on the floor</span></div>
+        <div class="stat"><b class="count" data-target="40" data-suffix="+">0</b><span data-en="Master makers" data-fr="Ateliers partenaires">Master makers</span></div>
+      </div>
+    </div>
+    <div class="rugs__media reveal">
+      <img src="assets/gen/rug-detail.jpg" alt="Hand-knotted wool and silk rug" loading="lazy" />
+    </div>
+  </section>
+
+  <!-- ===================== TESTIMONIAL ===================== -->
+  <section class="quote">
+    <blockquote class="quote__text reveal-words"
+      data-en="&ldquo;They didn't sell us furniture. They composed our home.&rdquo;"
+      data-fr="&laquo;&nbsp;Ils ne nous ont pas vendu des meubles. Ils ont composé notre maison.&nbsp;&raquo;">
+      &ldquo;They didn't sell us furniture. They composed our home.&rdquo;
+    </blockquote>
+    <cite class="reveal">— Élise &amp; Marc, Rosemère</cite>
+  </section>
+
+  <!-- ===================== VISIT / NEWSLETTER ===================== -->
+  <section class="visit" id="visit">
+    <div class="visit__inner">
+      <div class="visit__col">
+        <p class="eyebrow" data-en="Visit us" data-fr="Nous rendre visite">Visit us</p>
+        <h2 class="visit__title" data-en="Come feel the difference in Laval." data-fr="Venez sentir la différence à Laval.">Come feel the difference in Laval.</h2>
+        <p class="visit__body" data-en="Every piece deserves to be seen in person. Book a private walkthrough of the showroom and our design team will guide you." data-fr="Chaque pièce mérite d'être vue en personne. Réservez une visite privée de la salle d'exposition et notre équipe vous guidera.">
+          Every piece deserves to be seen in person. Book a private walkthrough of the showroom and our design team will guide you.
+        </p>
+        <a class="btn btn--gold magnetic" href="#" data-en="Book a visit" data-fr="Réserver une visite">Book a visit</a>
+      </div>
+      <div class="visit__col visit__news">
+        <p class="eyebrow" data-en="Stay in the know" data-fr="Restez informé">Stay in the know</p>
+        <h3 data-en="New arrivals & private previews." data-fr="Nouveautés et avant-premières.">New arrivals &amp; private previews.</h3>
+        <form class="news-form" onsubmit="return false">
+          <input type="email" required data-en-ph="Your email" data-fr-ph="Votre courriel" placeholder="Your email" />
+          <button class="btn btn--gold" type="submit" data-en="Subscribe" data-fr="S'abonner">Subscribe</button>
+        </form>
+        <p class="news-fine" data-en="No noise. Just the good pieces, first." data-fr="Pas de bruit. Juste les belles pièces, en primeur.">No noise. Just the good pieces, first.</p>
+      </div>
+    </div>
+  </section>
+
+</main>
+
+<!-- Footer -->
+<footer class="site-foot">
+  <div class="foot__top">
+    <div class="foot__brand">
+      <span class="brand__word brand__word--lg">Galerie <em>Oasis</em></span>
+      <p data-en="A Laval atelier of timeless furniture and hand-knotted rugs." data-fr="Un atelier lavallois de mobilier intemporel et de tapis noués main.">A Laval atelier of timeless furniture and hand-knotted rugs.</p>
+    </div>
+    <div class="foot__cols">
+      <div><h4 data-en="Collections" data-fr="Collections">Collections</h4>
+        <a href="collection.html" data-en="Living Room" data-fr="Salon">Living Room</a>
+        <a href="collection.html" data-en="Dining" data-fr="Salle à manger">Dining</a>
+        <a href="collection.html" data-en="Bedroom" data-fr="Chambre">Bedroom</a>
+        <a href="collection.html" data-en="Rugs" data-fr="Tapis">Rugs</a>
+      </div>
+      <div><h4 data-en="Maison" data-fr="Maison">Maison</h4>
+        <a href="#" data-en="About" data-fr="À propos">About</a>
+        <a href="#" data-en="Craftsmanship" data-fr="Savoir-faire">Craftsmanship</a>
+        <a href="#" data-en="Journal" data-fr="Journal">Journal</a>
+        <a href="#visit" data-en="Visit" data-fr="Visiter">Visit</a>
+      </div>
+      <div><h4 data-en="Visit" data-fr="Visite">Visit</h4>
+        <a href="#" data-en="Laval, Québec" data-fr="Laval, Québec">Laval, Québec</a>
+        <a href="#" data-en="Mon–Sat, 10–6" data-fr="Lun–Sam, 10–18">Mon–Sat, 10–6</a>
+        <a href="#" data-en="Contact" data-fr="Contact">Contact</a>
+      </div>
+    </div>
+  </div>
+  <div class="foot__bottom">
+    <span>© Galerie Oasis</span>
+    <span class="foot__made" data-en="Concept demo · crafted with care" data-fr="Démo conceptuelle · faite avec soin">Concept demo · crafted with care</span>
+    <div class="foot__social">
+      <a href="#" aria-label="Instagram">Instagram</a>
+      <a href="#" aria-label="Facebook">Facebook</a>
+      <a href="#" aria-label="Pinterest">Pinterest</a>
+    </div>
+  </div>
+</footer>
+
+<script src="https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/gsap.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/ScrollTrigger.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@studio-freight/lenis@1.0.42/dist/lenis.min.js"></script>
+<script src="js/main.js"></script>
+</body>
+</html>

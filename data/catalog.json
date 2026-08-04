@@ -1297,7 +1297,9 @@
   "gallery": [
    "assets/catalog/micro_shaggy-2.jpg",
    "assets/catalog/micro_shaggy-3.jpg",
-   "assets/catalog/micro_shaggy-4.jpg"
+   "assets/catalog/micro_shaggy-4.jpg",
+   "assets/catalog/micro_shaggy-5.jpg",
+   "assets/catalog/micro_shaggy-6.jpg"
   ],
   "short": "Micro_Shaggy"
  },
@@ -1319,7 +1321,11 @@
   "gallery": [
    "assets/catalog/plain_shaggy-2.jpg",
    "assets/catalog/plain_shaggy-3.jpg",
-   "assets/catalog/plain_shaggy-4.jpg"
+   "assets/catalog/plain_shaggy-4.jpg",
+   "assets/catalog/plain_shaggy-5.jpg",
+   "assets/catalog/plain_shaggy-6.jpg",
+   "assets/catalog/plain_shaggy-7.jpg",
+   "assets/catalog/plain_shaggy-8.jpg"
   ],
   "short": "Plain_Shaggy"
  },
@@ -3153,7 +3159,10 @@
   "gallery": [
    "assets/catalog/stationary-28-2.jpg",
    "assets/catalog/stationary-28-3.jpg",
-   "assets/catalog/stationary-28-4.jpg"
+   "assets/catalog/stationary-28-4.jpg",
+   "assets/catalog/stationary-28-5.jpg",
+   "assets/catalog/stationary-28-6.jpg",
+   "assets/catalog/stationary-28-7.jpg"
   ],
   "short": "Stationary"
  },
@@ -3175,7 +3184,10 @@
   "gallery": [
    "assets/catalog/stationary-27-2.jpg",
    "assets/catalog/stationary-27-3.jpg",
-   "assets/catalog/stationary-27-4.jpg"
+   "assets/catalog/stationary-27-4.jpg",
+   "assets/catalog/stationary-27-5.jpg",
+   "assets/catalog/stationary-27-6.jpg",
+   "assets/catalog/stationary-27-7.jpg"
   ],
   "short": "Stationary"
  },
@@ -3197,7 +3209,10 @@
   "gallery": [
    "assets/catalog/stationary-26-2.jpg",
    "assets/catalog/stationary-26-3.jpg",
-   "assets/catalog/stationary-26-4.jpg"
+   "assets/catalog/stationary-26-4.jpg",
+   "assets/catalog/stationary-26-5.jpg",
+   "assets/catalog/stationary-26-6.jpg",
+   "assets/catalog/stationary-26-7.jpg"
   ],
   "short": "Stationary"
  },
@@ -3219,7 +3234,10 @@
   "gallery": [
    "assets/catalog/stationary-25-2.jpg",
    "assets/catalog/stationary-25-3.jpg",
-   "assets/catalog/stationary-25-4.jpg"
+   "assets/catalog/stationary-25-4.jpg",
+   "assets/catalog/stationary-25-5.jpg",
+   "assets/catalog/stationary-25-6.jpg",
+   "assets/catalog/stationary-25-7.jpg"
   ],
   "short": "Stationary"
  },
@@ -3259,7 +3277,8 @@
   "gallery": [
    "assets/catalog/stationary-23-2.jpg",
    "assets/catalog/stationary-23-3.jpg",
-   "assets/catalog/stationary-23-4.jpg"
+   "assets/catalog/stationary-23-4.jpg",
+   "assets/catalog/stationary-23-5.jpg"
   ],
   "short": "Stationary"
  },
@@ -3280,7 +3299,9 @@
   "img": "assets/catalog/stationary-22.jpg",
   "gallery": [
    "assets/catalog/stationary-22-2.jpg",
-   "assets/catalog/stationary-22-3.jpg"
+   "assets/catalog/stationary-22-3.jpg",
+   "assets/catalog/stationary-22-4.jpg",
+   "assets/catalog/stationary-22-5.jpg"
   ],
   "short": "Stationary"
  },
@@ -3323,7 +3344,9 @@
   "gallery": [
    "assets/catalog/stationary-20-2.jpg",
    "assets/catalog/stationary-20-3.jpg",
-   "assets/catalog/stationary-20-4.jpg"
+   "assets/catalog/stationary-20-4.jpg",
+   "assets/catalog/stationary-20-5.jpg",
+   "assets/catalog/stationary-20-6.jpg"
   ],
   "short": "Stationary"
  },
@@ -3345,7 +3368,12 @@
   "gallery": [
    "assets/catalog/stationary-19-2.jpg",
    "assets/catalog/stationary-19-3.jpg",
-   "assets/catalog/stationary-19-4.jpg"
+   "assets/catalog/stationary-19-4.jpg",
+   "assets/catalog/stationary-19-5.jpg",
+   "assets/catalog/stationary-19-6.jpg",
+   "assets/catalog/stationary-19-7.jpg",
+   "assets/catalog/stationary-19-8.jpg",
+   "assets/catalog/stationary-19-9.jpg"
   ],
   "short": "Stationary"
  },
@@ -3973,7 +4001,9 @@
   "gallery": [
    "assets/catalog/bed-room-10-2.jpg",
    "assets/catalog/bed-room-10-3.jpg",
-   "assets/catalog/bed-room-10-4.jpg"
+   "assets/catalog/bed-room-10-4.jpg",
+   "assets/catalog/bed-room-10-5.jpg",
+   "assets/catalog/bed-room-10-6.jpg"
   ],
   "short": "Sonia"
  },

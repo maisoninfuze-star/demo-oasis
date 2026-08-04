@@ -24,7 +24,7 @@ jobs = []
 for pr in products:
     imgs = pr.get('images') or []
     main = imgs[0]['src'] if imgs else None
-    gallery = [i['src'] for i in imgs[1:4]]
+    gallery = [i['src'] for i in imgs[1:10]]
     slug = pr['slug'][:60]
     local_main = f"assets/catalog/{slug}.jpg" if main else None
     if main:
@@ -35,8 +35,18 @@ for pr in products:
         jobs.append((gurl, os.path.join(ROOT, gpath)))
         glocal.append(gpath)
     prices = pr.get('prices') or {}
+    nm = html.unescape(pr['name']).strip()
+    sh = nm
+    sh = re.sub(r'\s+in\s+Laval\s*$', '', sh, flags=re.I)
+    sh = re.sub(r'\s*[-\u2013|]\s*(hand[- ]?knotted|machine[- ]?made).*$', '', sh, flags=re.I)
+    sh = re.sub(r'\s+(hand[- ]?knotted|machine[- ]?made)\b.*$', '', sh, flags=re.I)
+    sh = re.sub(r'\s+(wool|silk|viscose)\s+(rectangle|round|runner)?\s*rugs?\s*$', '', sh, flags=re.I)
+    sh = re.sub(r'\s+rugs?\s*$', '', sh, flags=re.I)
+    sh = sh.strip(' -\u2013|')
+    sh = (sh[:1].upper() + sh[1:].lower()).title() if sh.isupper() else sh
     catalog.append({
         'id': pr['id'],
+        'short': sh,
         'name': html.unescape(pr['name']).strip(),
         'slug': pr['slug'],
         'cats': [cat_by_id[c['id']]['slug'] for c in pr.get('categories', []) if c['id'] in cat_by_id],

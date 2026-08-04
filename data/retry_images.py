@@ -14,7 +14,7 @@ jobs = []
 for pr in products:
     imgs = pr.get('images') or []
     slug = pr['slug'][:60]
-    for idx, im in enumerate(imgs[:4]):
+    for idx, im in enumerate(imgs[:10]):
         name = f"{slug}.jpg" if idx == 0 else f"{slug}-{idx+1}.jpg"
         dest = os.path.join(IMGDIR, name)
         if not os.path.exists(dest):

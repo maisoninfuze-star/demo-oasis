@@ -1,0 +1,56 @@
+{
+  "_note": "Custom-made programme. Swatch images are real crops of the owner's showroom sample books. Colour names/codes for Ennis lines are from ennisfabrics.com; ACU/Elite names are placeholders pending rep scans.",
+  "programs": {
+    "acu-iconic": {
+      "supplier": "A Class Upholstery",
+      "supplierNote": { "en": "Made-to-order in Mississauga, Ontario", "fr": "Fabriqué sur commande à Mississauga, Ontario" },
+      "books": [
+        { "name": "Iconic Collection Vol. I", "kind": { "en": "Performance woven", "fr": "Tissé performant" } },
+        { "name": "Iconic Collection Vol. II", "kind": { "en": "Performance velvet", "fr": "Velours performant" } }
+      ],
+      "leadTime": { "en": "8–10 weeks", "fr": "8–10 semaines" },
+      "features": [
+        { "en": "Stain & soil release", "fr": "Anti-taches" },
+        { "en": "99.9% bacterial reduction", "fr": "Réduction bactérienne 99,9 %" },
+        { "en": "Moisture barrier", "fr": "Barrière anti-humidité" },
+        { "en": "No formaldehyde or phthalates", "fr": "Sans formaldéhyde ni phtalates" }
+      ],
+      "fabrics": [
+        { "id": "sage",  "name": { "en": "Sage velvet", "fr": "Velours sauge" },   "book": "Vol. II", "img": "assets/fabrics/acu-velvet-sage.jpg",  "tint": "#4a6b5f" },
+        { "id": "camel", "name": { "en": "Camel velvet", "fr": "Velours camel" },  "book": "Vol. II", "img": "assets/fabrics/acu-velvet-camel.jpg", "tint": "#b07d3f" },
+        { "id": "cream", "name": { "en": "Cream velvet", "fr": "Velours crème" },  "book": "Vol. II", "img": "assets/fabrics/acu-velvet-cream.jpg", "tint": "#c9b79a" },
+        { "id": "navy",  "name": { "en": "Navy woven", "fr": "Tissé marine" },     "book": "Vol. I",  "img": "assets/fabrics/acu-navy.jpg",         "tint": "#2b3348" },
+        { "id": "sable", "name": { "en": "Sable tweed", "fr": "Tweed sable" },     "book": "Vol. I",  "img": "assets/fabrics/acu-tweed-sable.jpg",  "tint": "#4a4038" },
+        { "id": "geo",   "name": { "en": "Olive geometric", "fr": "Géométrique olive" }, "book": "Vol. I", "img": "assets/fabrics/acu-geo-olive.jpg", "tint": "#7a6a3f" }
+      ]
+    },
+    "ennis": {
+      "supplier": "Ennis Fabrics",
+      "supplierNote": { "en": "Canadian mill programme — 3 books in our showroom", "fr": "Programme canadien — 3 livres en salle d'exposition" },
+      "books": [
+        { "name": "Harper", "kind": { "en": "Textured weave · contract rated", "fr": "Tissé texturé · homologué contrat" } },
+        { "name": "Franklin 2nd Edition", "kind": { "en": "Velvet look", "fr": "Aspect velours" } },
+        { "name": "Heavenly 3rd Edition", "kind": { "en": "Plush · 47 colourways", "fr": "Peluché · 47 coloris" } }
+      ],
+      "leadTime": { "en": "6–8 weeks", "fr": "6–8 semaines" },
+      "features": [
+        { "en": "145,000 double rubs (Harper)", "fr": "145 000 doubles frottements (Harper)" },
+        { "en": "Endurepel stain defence available", "fr": "Protection Endurepel disponible" },
+        { "en": "Cleaning code W", "fr": "Code d'entretien W" },
+        { "en": "56\" wide · 100% polyester", "fr": "56 po de large · 100 % polyester" }
+      ],
+      "fabrics": [
+        { "id": "cinder",  "name": { "en": "Harper 97 Cinder", "fr": "Harper 97 Cinder" },   "book": "Harper",   "img": "assets/fabrics/harper-cinder.jpg",   "tint": "#8d8b80" },
+        { "id": "petrol",  "name": { "en": "Franklin 308 Petrol", "fr": "Franklin 308 Petrol" }, "book": "Franklin", "img": "assets/fabrics/franklin-petrol.jpg", "tint": "#37596b" },
+        { "id": "teal",    "name": { "en": "Heavenly Teal", "fr": "Heavenly Teal" },         "book": "Heavenly", "img": "assets/fabrics/heavenly-teal.jpg",   "tint": "#2f9b91" },
+        { "id": "sable2",  "name": { "en": "Harper 809 Sable", "fr": "Harper 809 Sable" },   "book": "Harper",   "img": "assets/fabrics/acu-tweed-sable.jpg", "tint": "#5a4c3e" },
+        { "id": "camel2",  "name": { "en": "Franklin 47 Camel", "fr": "Franklin 47 Camel" }, "book": "Franklin", "img": "assets/fabrics/acu-velvet-camel.jpg","tint": "#b07d3f" },
+        { "id": "cream2",  "name": { "en": "Franklin 61 Snow", "fr": "Franklin 61 Snow" },   "book": "Franklin", "img": "assets/fabrics/acu-velvet-cream.jpg","tint": "#cbbaa2" }
+      ]
+    }
+  },
+  "products": {
+    "20318": { "program": "acu-iconic" },
+    "20315": { "program": "ennis" }
+  }
+}

@@ -118,14 +118,23 @@
   }
 
   function inCat(p, slug) {
-    if (slug === 'all') return cat === 'all' ? true : p.cats.includes(cat);
+    /* Parent views must include children: the old store left some pieces
+       tagged only with a subcategory (e.g. "stationary" but not "living-room"),
+       which hid 10 sofas — the newest ones — from the Living Room listing. */
+    if (slug === 'all') {
+      if (cat === 'all') return true;
+      return p.cats.includes(cat) || conf.kids.some(k => p.cats.includes(k));
+    }
     return p.cats.includes(slug);
   }
 
   function cardHTML(p) {
     const tl = TYPE_LABEL[typeOf(p)] || TYPE_LABEL['living-room'];
     const img = p.img ? `<img src="${p.img}" alt="${p.short || p.name}" loading="lazy" />` : '';
-    const sale = p.sale ? `<span class="pcard__tag">${lang() === 'fr' ? 'Promotion' : 'On promotion'}</span>` : '';
+    const isCustom = (window.__customIds || new Set()).has(p.id);
+    const sale = isCustom
+      ? `<span class="pcard__tag pcard__tag--custom">${lang() === 'fr' ? 'Sur mesure' : 'Custom made'}</span>`
+      : (p.sale ? `<span class="pcard__tag">${lang() === 'fr' ? 'Promotion' : 'On promotion'}</span>` : '');
     return `<a class="pcard" href="product.html?id=${p.id}">
       <div class="pcard__media">${img}${sale}</div>
       <div class="pcard__info"><div><h3>${p.short || p.name}</h3><span>${tl[lang()]}</span></div>
@@ -145,10 +154,16 @@
     if (window.ScrollTrigger) ScrollTrigger.refresh();
   }
 
-  fetch('data/catalog.json')
-    .then(r => r.json())
-    .then(data => { catalog = data; buildChips(); render(); })
-    .catch(() => { /* leave static fallback grid */ });
+  let customIds = new Set();
+  Promise.all([
+    fetch('data/catalog.json').then(r => r.json()),
+    fetch('data/custom.json').then(r => r.json()).catch(() => null)
+  ]).then(([data, custom]) => {
+    catalog = data;
+    if (custom) customIds = new Set(Object.keys(custom.products).map(Number));
+    window.__customIds = customIds;
+    buildChips(); render();
+  }).catch(() => { /* leave static fallback grid */ });
 
   /* re-render labels on language switch */
   $('#langToggle')?.addEventListener('click', () => setTimeout(() => {

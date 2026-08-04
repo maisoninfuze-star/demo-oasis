@@ -1,0 +1,96 @@
+{
+  "suppliers": [
+    {
+      "id": "ennis",
+      "name": "Ennis Fabrics",
+      "type": "fabric-distributor",
+      "web": "https://ennisfabrics.com",
+      "location": "Edmonton, AB (DCs: Toronto, Vancouver)",
+      "digitalAssets": "public per-colorway swatch images; pricing via dealer login",
+      "collections": [
+        {
+          "slug": "harper",
+          "name": "Harper",
+          "kind": "Textured weave — contract rated",
+          "specs": { "composition": "100% polyester", "width_in": 56, "abrasion": "145,000 double rubs (Wyzenbeek)", "cleaning": "W" },
+          "performanceVariant": "Endurepel Harper",
+          "colorways": [
+            { "code": "99", "name": "Mineral", "status": "current" },
+            { "code": "608", "name": "Oyster", "status": "current" },
+            { "code": "92", "name": "Pewter", "status": "current" },
+            { "code": "97", "name": "Cinder", "status": "current" },
+            { "code": "308", "name": "Indigo", "status": "current" },
+            { "code": "14", "name": "Poppy", "status": "current" },
+            { "code": "209", "name": "Cypress", "status": "discontinued" },
+            { "code": "47", "name": "Amber", "status": "discontinued" },
+            { "code": "809", "name": "Sable", "status": "discontinued" },
+            { "code": "903", "name": "Slate", "status": "discontinued" },
+            { "code": "205", "name": "Meadow", "status": "discontinued" },
+            { "code": "908", "name": "Charcoal", "status": "discontinued" },
+            { "code": "406", "name": "Ginger", "status": "discontinued" }
+          ]
+        },
+        {
+          "slug": "franklin",
+          "name": "Franklin (2nd Edition)",
+          "kind": "Velvet look — contract rated",
+          "ownerNote": "Owner marked 'ORDER 2' on the book — active line",
+          "performanceVariant": "Endurepel Franklin",
+          "colorwaysKnown": [
+            { "code": "308", "name": "Petrol" }, { "code": "67", "name": "Fawn" },
+            { "code": "61", "name": "Snow" }, { "code": "609", "name": "Mink" },
+            { "code": "47", "name": "Camel" }, { "code": "1008", "name": "Deep Purple" },
+            { "code": "105", "name": "Blush" }, { "code": "108", "name": "Orchid" },
+            { "code": "14", "name": "Theatre Red" }, { "code": "202", "name": "Sage" }
+          ],
+          "colorwayCountApprox": 28,
+          "todo": "pull full list + swatch images via dealer account"
+        },
+        {
+          "slug": "heavenly",
+          "name": "Heavenly (3rd Edition)",
+          "kind": "Plush residential upholstery",
+          "performanceVariant": "Endurepel Heavenly (17 colorways)",
+          "colorwaysKnown": [
+            { "code": "1006", "name": "Burgundy" }, { "code": "1008", "name": "Plum" },
+            { "code": "1009", "name": "Aubergine" }, { "code": "11", "name": "Coral" },
+            { "code": "17", "name": "Mulberry" }
+          ],
+          "colorwayCountApprox": 47,
+          "todo": "pull full list + swatch images via dealer account"
+        }
+      ]
+    },
+    {
+      "id": "acu",
+      "name": "A Class Upholstery Ltd",
+      "type": "furniture-manufacturer",
+      "web": "https://www.aclassfurniture.ca",
+      "location": "7635 Kimbel St, Mississauga, ON L5S 1M6",
+      "phone": "(905) 595-2330",
+      "email": "info@aclassfurniture.ca",
+      "digitalAssets": "none public — request scans from rep or scan books in-store",
+      "collections": [
+        { "slug": "iconic-1", "name": "Iconic Collection Vol. I", "kind": "Performance — woven texture", "colorways": [], "todo": "scan book / request list" },
+        { "slug": "iconic-2", "name": "Iconic Collection Vol. II", "kind": "Performance — velvet texture", "colorways": [], "todo": "scan book / request list" }
+      ],
+      "performanceClaims": ["stain & soil release", "99.9% bacterial reduction", "easy clean", "moisture barrier", "no formaldehyde/phthalates", "95% water-based technology"]
+    },
+    {
+      "id": "elite",
+      "name": "Elite Textiles (Elite Canada)",
+      "type": "fabric-distributor",
+      "web": null,
+      "location": "Montréal, QC (listing: 9200 rue Claveau, H1J 1Z4)",
+      "phone": "438-805-6550",
+      "digitalAssets": "none — trade only; get list/scans from rep",
+      "collections": [
+        { "slug": "villa-2", "name": "Villa 2 Collection", "kind": "Woven upholstery + velvet, neutral range", "colorways": [], "todo": "scan book / request list" }
+      ]
+    }
+  ],
+  "finishes": {
+    "note": "Wood stain chips photographed in-store — future 'Finish' selector",
+    "known": ["Mahogany", "Espresso", "Dark walnut"]
+  }
+}

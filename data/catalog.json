@@ -1281,7 +1281,10 @@
   "id": 19469,
   "name": "VERONA GREY & RED",
   "slug": "verona-grey-red",
-  "cats": [],
+  "cats": [
+   "carpets",
+   "machine-made"
+  ],
   "price": "0",
   "regular": "0",
   "sale": false,
@@ -2223,7 +2226,10 @@
   "id": 18741,
   "name": "Sectional",
   "slug": "sectional-18",
-  "cats": [],
+  "cats": [
+   "living-room",
+   "sectional"
+  ],
   "price": "0",
   "regular": "0",
   "sale": false,
@@ -3112,7 +3118,10 @@
   "id": 18546,
   "name": "Ottoman",
   "slug": "ottoman-10",
-  "cats": [],
+  "cats": [
+   "living-room",
+   "ottomans"
+  ],
   "price": "0",
   "regular": "0",
   "sale": false,
@@ -4167,7 +4176,9 @@
   "id": 18262,
   "name": "KELDELL GREY",
   "slug": "bed",
-  "cats": [],
+  "cats": [
+   "bed-room"
+  ],
   "price": "0",
   "regular": "0",
   "sale": false,

@@ -1,0 +1,7 @@
+{
+  "_note": "Products the old WordPress store left in Uncategorized — invisible in its own nav. Classified from product description/slug/photo so they appear in the right place on the new site.",
+  "19469": { "cats": ["carpets", "machine-made"], "why": "desc: 100% frieze polypropylene with jute backing = machine-made rug (photo confirms)" },
+  "18546": { "cats": ["living-room", "ottomans"], "why": "slug ottoman-10" },
+  "18262": { "cats": ["bed-room"], "why": "slug 'bed'; desc lists QUEEN size" },
+  "18741": { "cats": ["living-room", "sectional"], "why": "slug sectional-18 (no photo on the old store)" }
+}

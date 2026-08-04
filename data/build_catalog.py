@@ -17,6 +17,12 @@ for p in (1, 2, 3):
         products += json.load(f)
 
 cats = json.load(open(os.path.join(DATA, 'categories-raw.json')))
+# Products the old store left in Uncategorized get a hand-checked home.
+try:
+    OVERRIDES = {k: v for k, v in json.load(open(os.path.join(DATA, 'category-overrides.json'))).items()
+                 if not k.startswith('_')}
+except FileNotFoundError:
+    OVERRIDES = {}
 cat_by_id = {c['id']: c for c in cats}
 
 catalog = []
@@ -49,7 +55,8 @@ for pr in products:
         'short': sh,
         'name': html.unescape(pr['name']).strip(),
         'slug': pr['slug'],
-        'cats': [cat_by_id[c['id']]['slug'] for c in pr.get('categories', []) if c['id'] in cat_by_id],
+        'cats': ([cat_by_id[c['id']]['slug'] for c in pr.get('categories', []) if c['id'] in cat_by_id]
+                 or OVERRIDES.get(str(pr['id']), {}).get('cats', [])),
         'price': prices.get('price'),
         'regular': prices.get('regular_price'),
         'sale': pr.get('on_sale', False),

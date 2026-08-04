@@ -317,6 +317,13 @@ body.menu-open .mobile-menu{clip-path:circle(150% at 100% 0)}
   border-top:1px solid var(--line-gold);padding-top:clamp(4rem,8vw,7rem)}
 .visit__title{font-size:clamp(2.2rem,4.5vw,3.8rem);margin:1rem 0 1.3rem}
 .visit__body{color:rgba(246,241,232,.72);max-width:30rem;margin-bottom:2rem}
+.visit__info{list-style:none;margin:0 0 2rem;border-top:1px solid var(--line-gold);max-width:34rem}
+.visit__info li{display:flex;justify-content:space-between;gap:1.5rem;padding:.8rem 0;border-bottom:1px solid var(--line-dark);
+  font-size:.88rem;align-items:baseline}
+.visit__info span{font-family:var(--font-sans);font-size:.68rem;letter-spacing:.2em;text-transform:uppercase;color:rgba(246,241,232,.5);white-space:nowrap}
+.visit__info b{font-weight:300;text-align:right;color:var(--cream)}
+.visit__info b a{color:var(--cream);border-bottom:1px solid var(--line-gold);padding-bottom:1px;transition:color .3s,border-color .3s}
+.visit__info b a:hover{color:var(--gold);border-color:var(--gold)}
 .visit__news h3{font-size:clamp(1.6rem,3vw,2.4rem);margin:.8rem 0 1.5rem}
 .news-form{display:flex;gap:.6rem;flex-wrap:wrap}
 .news-form input{flex:1;min-width:220px;background:transparent;border:none;border-bottom:1px solid var(--line-gold);

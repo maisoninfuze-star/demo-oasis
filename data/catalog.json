@@ -1,0 +1,4379 @@
+[
+ {
+  "id": 20318,
+  "name": "ANNABELLE",
+  "slug": "annabelle",
+  "cats": [
+   "stationary"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Modern Sofa, Loveseat, and Chair exclusively at Galerie Oasis in Laval!",
+  "img": "assets/catalog/annabelle.jpg",
+  "gallery": [],
+  "short": "Annabelle"
+ },
+ {
+  "id": 20315,
+  "name": "SOPHIA",
+  "slug": "sophia",
+  "cats": [
+   "stationary"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Modern Sofa, Loveseat, and Chair exclusively at Galerie Oasis in Laval!",
+  "img": "assets/catalog/sophia.jpg",
+  "gallery": [],
+  "short": "Sophia"
+ },
+ {
+  "id": 20313,
+  "name": "SANTANA",
+  "slug": "santana",
+  "cats": [
+   "sectional",
+   "stationary"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "High Quality Modern Santana Sectional – exclusively designed by Galerie Oasis located at 1877 Boul Cure Labelle in Laval. Visit today!",
+  "img": "assets/catalog/santana.jpg",
+  "gallery": [],
+  "short": "Santana"
+ },
+ {
+  "id": 20311,
+  "name": "ROSALIE",
+  "slug": "rosalie",
+  "cats": [
+   "stationary"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Modern Sofa, Loveseat, and Chair exclusively at Galerie Oasis in Laval!",
+  "img": "assets/catalog/rosalie.jpg",
+  "gallery": [],
+  "short": "Rosalie"
+ },
+ {
+  "id": 20288,
+  "name": "MONA LISA",
+  "slug": "mona-lisa",
+  "cats": [
+   "stationary"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Classic sleek living room set consisting of sofa, loveseat, and chair, with beautifully contrasting wooden accents and a high quality finish",
+  "img": "assets/catalog/mona-lisa.jpg",
+  "gallery": [],
+  "short": "Mona Lisa"
+ },
+ {
+  "id": 20286,
+  "name": "MARIE ANTOINETTE",
+  "slug": "marie-antoinette",
+  "cats": [
+   "stationary"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Classic sleek living room set consisting of a sofa, loveseat, and chair, finely finished with champagne wood accents.",
+  "img": "assets/catalog/marie-antoinette.jpg",
+  "gallery": [],
+  "short": "Marie Antoinette"
+ },
+ {
+  "id": 20284,
+  "name": "AURORA",
+  "slug": "aurora",
+  "cats": [
+   "stationary"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "High end classic tufted living room set complete with sofa, loveseat, and chair. Finished in a fine velour fabric.",
+  "img": "assets/catalog/aurora.jpg",
+  "gallery": [],
+  "short": "Aurora"
+ },
+ {
+  "id": 20282,
+  "name": "QUEEN ANNE",
+  "slug": "queen-anne",
+  "cats": [
+   "stationary"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Classic sofa, loveseat, and chair with elaborate wood carvings. Exclusively at Galerie Oasis.",
+  "img": "assets/catalog/queen-anne.jpg",
+  "gallery": [],
+  "short": "Queen Anne"
+ },
+ {
+  "id": 20279,
+  "name": "OPHELIA",
+  "slug": "ophelia-wh005",
+  "cats": [
+   "stationary"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Classic sofa, loveseat, and chair with solid wood accents. Exclusively at Galerie Oasis.",
+  "img": "assets/catalog/ophelia-wh005.jpg",
+  "gallery": [],
+  "short": "Ophelia"
+ },
+ {
+  "id": 20277,
+  "name": "ELEANOR",
+  "slug": "eleanor-wa552",
+  "cats": [
+   "stationary"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Classic sofa, loveseat, and chair with elaborate wood carvings. Exclusively at Galerie Oasis.",
+  "img": "assets/catalog/eleanor-wa552.jpg",
+  "gallery": [],
+  "short": "Eleanor"
+ },
+ {
+  "id": 20071,
+  "name": "SAMUEL",
+  "slug": "samuel",
+  "cats": [
+   "bed-room",
+   "bed-room-sets"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Code: WA190 Available: YES QTY SET: Package Includes: King or Queen Bed, Chest of Drawers, Dresser & Mirror, and 2 Night Tables Color: Brown Size: KING AND QUEEN Style: Classic",
+  "img": "assets/catalog/samuel.jpg",
+  "gallery": [],
+  "short": "Samuel"
+ },
+ {
+  "id": 20022,
+  "name": "PERSIAN KHORAMABAD Hand-Knotted Wool Rectangle Rug in Laval",
+  "slug": "persian-khoramabad-hand-knotted-wool-rectangle-rug-in-laval",
+  "cats": [
+   "carpets",
+   "hand-made-carpets"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "HAND KNOTTED AUTHENTIC KHORAMABAD PERSIAN TRIBAL RUG, HELWAYEE DESIGN OF ROSES, DOUBLE KNOT WEAVE. SKU: 780787 GTIN: 000861 Products specifications Origin PERSIAN/IRAN Shape RECTANGLE Size SMALL Weave HAND KNOTTED Material WOOL Age NEW Weight 3.9KG Measurement 5′ X 3’5″",
+  "img": "assets/catalog/persian-khoramabad-hand-knotted-wool-rectangle-rug-in-laval.jpg",
+  "gallery": [],
+  "short": "Persian Khoramabad"
+ },
+ {
+  "id": 20020,
+  "name": "PERSIAN HAMADAN Hand-Knotted Wool Rectangle Rug in Laval",
+  "slug": "persian-hamadan-hand-knotted-wool-rectangle-rug-in-laval-3",
+  "cats": [
+   "carpets",
+   "hand-made-carpets"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "HAND KNOTTED AUTHENTIC PERSIAN HAMADAN WOOL RUG. SKU: 728115 GTIN: 000851 Products specifications Origin PERSIAN/IRAN Shape RECTANGLE Measurement 5’2″ X 3’2″ Size SMALL Weave HAND KNOTTED Material WOOL Age NEW Weight 3.8KG",
+  "img": "assets/catalog/persian-hamadan-hand-knotted-wool-rectangle-rug-in-laval-3.jpg",
+  "gallery": [],
+  "short": "Persian Hamadan"
+ },
+ {
+  "id": 20018,
+  "name": "PERSIAN GOLTOCH Hand-Knotted Wool Rectangle Rug in Laval",
+  "slug": "persian-goltoch-hand-knotted-wool-rectangle-rug-in-laval",
+  "cats": [
+   "carpets",
+   "hand-made-carpets"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Hand knotted authentic Persian Goltoch wool Rug. Double knot weave. New and crisp colors SKU: 981106 GTIN: 002162 Products specifications Origin PERSIAN/IRAN Shape RECTANGLE Measurement 4’9″ X 3’3″ Size SMALL Weave HAND KNOTTED Material WOOL Age NEW Weight 3KG",
+  "img": "assets/catalog/persian-goltoch-hand-knotted-wool-rectangle-rug-in-laval.jpg",
+  "gallery": [],
+  "short": "Persian Goltoch"
+ },
+ {
+  "id": 20016,
+  "name": "PERSIAN HAMADAN Hand-Knotted Wool Rectangle Rug in Laval",
+  "slug": "persian-hamadan-hand-knotted-wool-rectangle-rug-in-laval-2",
+  "cats": [
+   "carpets",
+   "hand-made-carpets"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "HAND KNOTTED AUTHENTIC PERSIAN HAMADAN WOOL RUG. SKU: 783240 GTIN: 002258 Products specifications Origin PERSIAN/IRAN Shape RECTANGLE Measurement 4’8″ X 3’4″ Size SMALL Weave HAND KNOTTED Material WOOL Age NEW Weight 3.2KG",
+  "img": "assets/catalog/persian-hamadan-hand-knotted-wool-rectangle-rug-in-laval-2.jpg",
+  "gallery": [],
+  "short": "Persian Hamadan"
+ },
+ {
+  "id": 20014,
+  "name": "PERSIAN HAMADAN Hand-Knotted Wool Rectangle Rug in Laval",
+  "slug": "persian-hamadan-hand-knotted-wool-rectangle-rug-in-laval",
+  "cats": [
+   "carpets",
+   "hand-made-carpets"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "HAND KNOTTED AUTHENTIC PERSIAN HAMADAN WOOL RUG. SKU: 728390 GTIN: 000850 Products specifications Origin PERSIAN/IRAN Shape RECTANGLE Size SMALL Weave HAND KNOTTED Material WOOL Age NEW Weight 3.8KG Measurement 4’8″ X 3’3″",
+  "img": "assets/catalog/persian-hamadan-hand-knotted-wool-rectangle-rug-in-laval.jpg",
+  "gallery": [],
+  "short": "Persian Hamadan"
+ },
+ {
+  "id": 20012,
+  "name": "JAIPUR Hand-Tufted Wool Rectangle Rug in Laval",
+  "slug": "jaipur-hand-tufted-wool-rectangle-rug-in-laval-3",
+  "cats": [
+   "carpets",
+   "hand-made-carpets"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "HAND TUFTED FINE JAIPUR WOOL RUG. SKU: 653619 GTIN: 001111 Products specifications Origin INDIA Shape RECTANGLE Measurement 6′ X 4′ Size SMALL Weave HAND TUFTED Material WOOL Age NEW Weight 5KG",
+  "img": "assets/catalog/jaipur-hand-tufted-wool-rectangle-rug-in-laval-3.jpg",
+  "gallery": [],
+  "short": "JAIPUR Hand-Tufted"
+ },
+ {
+  "id": 20010,
+  "name": "JAIPUR Hand-Tufted Wool Rectangle Rug in Laval",
+  "slug": "jaipur-hand-tufted-wool-rectangle-rug-in-laval-2",
+  "cats": [
+   "carpets",
+   "hand-made-carpets"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "HAND TUFTED FINE JAIPUR WOOL RUG. SKU: 653621 GTIN: 001110 Products specifications Origin INDIA Shape RECTANGLE Measurement 6′ X 4′ Size SMALL Weave HAND TUFTED Material WOOL Age NEW Weight 5KG",
+  "img": "assets/catalog/jaipur-hand-tufted-wool-rectangle-rug-in-laval-2.jpg",
+  "gallery": [],
+  "short": "JAIPUR Hand-Tufted"
+ },
+ {
+  "id": 20007,
+  "name": "JAIPUR Hand-Tufted Wool Rectangle Rug in Laval",
+  "slug": "jaipur-hand-tufted-wool-rectangle-rug-in-laval",
+  "cats": [
+   "carpets",
+   "hand-made-carpets"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "HAND TUFTED FINE JAIPUR WOOL RUG. SKU: 653623 GTIN: 001109 Products specifications Origin INDIA Shape RECTANGLE Measurement 6′ X 4′ Size SMALL Weave HAND TUFTED Material WOOL Age NEW Weight 5KG",
+  "img": "assets/catalog/jaipur-hand-tufted-wool-rectangle-rug-in-laval.jpg",
+  "gallery": [],
+  "short": "JAIPUR Hand-Tufted"
+ },
+ {
+  "id": 20005,
+  "name": "TABRIZ DESIGN Hand-Tufted Wool and Silk Runner in Laval",
+  "slug": "tabriz-design-hand-tufted-wool-and-silk-runner-in-laval",
+  "cats": [
+   "carpets",
+   "hand-made-carpets"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Hand tufted, Tabriz design, all wool, Indo Persian wool runner. Woven with 100% New Zealand wool and dense pile. SKU: 585261 GTIN: 001142 Products specifications Origin INDIA Shape RUNNER Measurement 8′ X 2’4″ Size MEDIUM Weave HAND TUFTED Material WOOL AND SILK Age NEW Weight 4.4KG",
+  "img": "assets/catalog/tabriz-design-hand-tufted-wool-and-silk-runner-in-laval.jpg",
+  "gallery": [],
+  "short": "TABRIZ DESIGN Hand-Tufted Wool and Silk Runner"
+ },
+ {
+  "id": 20002,
+  "name": "PERSIAN HAMADAN Hand-Knotted Wool Rug in Laval",
+  "slug": "persian-hamadan-hand-knotted-wool-rug-in-laval-6",
+  "cats": [
+   "carpets",
+   "hand-made-carpets"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "HAND KNOTTED AUTHENTIC PERSIAN HAMADAN WOOL RUG. SKU: 783215 GTIN: 002232 Products specifications Origin PERSIAN/IRAN Shape RECTANGLE Measurement 4’9″ X 3′ Size SMALL Weave HAND KNOTTED Material WOOL Age NEW Weight 3.2KG",
+  "img": "assets/catalog/persian-hamadan-hand-knotted-wool-rug-in-laval-6.jpg",
+  "gallery": [],
+  "short": "Persian Hamadan"
+ },
+ {
+  "id": 20000,
+  "name": "PERSIAN HAMADAN Hand-Knotted Wool Rug in Laval",
+  "slug": "persian-hamadan-hand-knotted-wool-rug-in-laval-5",
+  "cats": [
+   "carpets",
+   "hand-made-carpets"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "HAND KNOTTED AUTHENTIC PERSIAN HAMADAN WOOL RUG. SKU: 783229 GTIN: 002238 Products specifications Origin PERSIAN/IRAN Shape RECTANGLE Measurement 4’11” X 3’2″ Size SMALL Weave HAND KNOTTED Material WOOL Age NEW Weight 3.5KG",
+  "img": "assets/catalog/persian-hamadan-hand-knotted-wool-rug-in-laval-5.jpg",
+  "gallery": [],
+  "short": "Persian Hamadan"
+ },
+ {
+  "id": 19998,
+  "name": "PERSIAN HAMADAN Hand-Knotted Wool Rug in Laval",
+  "slug": "persian-hamadan-hand-knotted-wool-rug-in-laval-4",
+  "cats": [
+   "carpets",
+   "hand-made-carpets"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "HAND KNOTTED AUTHENTIC PERSIAN HAMADAN WOOL RUG. SKU: 781326 GTIN: 002236 Products specifications Origin PERSIAN/IRAN Shape RECTANGLE Measurement 4’10 X 3′ Size SMALL Weave HAND KNOTTED Material WOOL Age NEW Weight 2.7KG",
+  "img": "assets/catalog/persian-hamadan-hand-knotted-wool-rug-in-laval-4.jpg",
+  "gallery": [],
+  "short": "Persian Hamadan"
+ },
+ {
+  "id": 19995,
+  "name": "PERSIAN HAMADAN Hand-Knotted Wool Rug in Laval",
+  "slug": "persian-hamadan-hand-knotted-wool-rug-in-laval-3",
+  "cats": [
+   "carpets",
+   "hand-made-carpets"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "HAND KNOTTED AUTHENTIC PERSIAN HAMADAN WOOL RUG. SKU: 783305 GTIN: 002231 Products specifications Origin PERSIAN/IRAN Shape RECTANGLE Measurement 4’6″ X 3’4″ Size SMALL Weave HAND KNOTTED Material WOOL Age NEW Weight 3.4KG",
+  "img": "assets/catalog/persian-hamadan-hand-knotted-wool-rug-in-laval-3.jpg",
+  "gallery": [],
+  "short": "Persian Hamadan"
+ },
+ {
+  "id": 19993,
+  "name": "PERSIAN HAMADAN Hand-Knotted Wool Rug in Laval",
+  "slug": "persian-hamadan-hand-knotted-wool-rug-in-laval-2",
+  "cats": [
+   "carpets",
+   "hand-made-carpets"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "HAND KNOTTED AUTHENTIC PERSIAN HAMADAN WOOL RUG. SKU: 327359 GTIN: 002205 Products specifications Origin PERSIAN/IRAN Shape RECTANGLE Measurement 4’5″ X 3’6″ Size SMALL Weave HAND KNOTTED Material WOOL Age NEW Weight 3KG",
+  "img": "assets/catalog/persian-hamadan-hand-knotted-wool-rug-in-laval-2.jpg",
+  "gallery": [],
+  "short": "Persian Hamadan"
+ },
+ {
+  "id": 19991,
+  "name": "PERSIAN HAMADAN Hand-Knotted Wool Rug in Laval",
+  "slug": "persian-hamadan-hand-knotted-wool-rug-in-laval",
+  "cats": [
+   "carpets",
+   "hand-made-carpets"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "HAND KNOTTED AUTHENTIC PERSIAN HAMADAN WOOL RUG. SKU: 985476 GTIN: 002203 Products specifications Origin PERSIAN/IRAN Shape RECTANGLE Measurement 4’7″ X 3’4″ Size SMALL Weave HAND KNOTTED Material WOOL Age NEW Weight 3KG",
+  "img": "assets/catalog/persian-hamadan-hand-knotted-wool-rug-in-laval.jpg",
+  "gallery": [],
+  "short": "Persian Hamadan"
+ },
+ {
+  "id": 19988,
+  "name": "JAIPUR Hand-Tufted Wool Rug in Laval",
+  "slug": "jaipur-hand-tufted-wool-rug-in-laval",
+  "cats": [
+   "carpets",
+   "hand-made-carpets"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "HAND TUFTED FINE JAIPUR WOOL RUG. SKU: 653152 GTIN: 001112 Products specifications Origin INDIA Shape RECTANGLE Measurement 5’6″ X 3’6″ Size SMALL Weave HAND TUFTED Material WOOL Age NEW Weight 4.2KG",
+  "img": "assets/catalog/jaipur-hand-tufted-wool-rug-in-laval.jpg",
+  "gallery": [],
+  "short": "JAIPUR Hand-Tufted"
+ },
+ {
+  "id": 19986,
+  "name": "BOUKHARA Hand-Knotted Wool Rug in Laval",
+  "slug": "boukhara-hand-knotted-wool-rug-in-laval-2",
+  "cats": [
+   "carpets",
+   "hand-made-carpets"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "HAND KNOTTED FINE BOKHARA WOOL RUG, A VERY FINE SOFT TO THE TOUCH VIRGIN WOOL. SKU: 645293 GTIN: 000858 Products specifications Origin AFGHANISTAN Shape RECTANGLE Size SMALL Weave HAND KNOTTED Material WOOL Age NEW Weight 3.3KG Measurement 5′ X 3’2″",
+  "img": "assets/catalog/boukhara-hand-knotted-wool-rug-in-laval-2.jpg",
+  "gallery": [],
+  "short": "Boukhara"
+ },
+ {
+  "id": 19984,
+  "name": "BOUKHARA Hand-Knotted Wool Rug in Laval",
+  "slug": "boukhara-hand-knotted-wool-rug-in-laval",
+  "cats": [
+   "carpets",
+   "hand-made-carpets"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "HAND KNOTTED FINE BOKHARA WOOL RUG, A VERY FINE SOFT TO THE TOUCH VIRGIN WOOL. SKU: 970111 GTIN: 000855 Products specifications Origin AFGHANISTAN Shape RECTANGLE Size SMALL Weave HAND KNOTTED Material WOOL Age NEW Weight 3.1KG Measurement 5′ X 3’1″",
+  "img": "assets/catalog/boukhara-hand-knotted-wool-rug-in-laval.jpg",
+  "gallery": [],
+  "short": "Boukhara"
+ },
+ {
+  "id": 19982,
+  "name": "PERSIAN SAROUGH Hand-Knotted Wool Rug in Laval",
+  "slug": "persian-sarough-hand-knotted-wool-rug-in-laval-2",
+  "cats": [
+   "carpets",
+   "hand-made-carpets"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "HAND KNOTTED GENUINE PERSIAN SAROUGH, A VERY FINE QUALITY WOOL RUG. SKU: 981403 GTIN: 000822 Products specifications Origin PERSIAN/IRAN Shape RECTANGLE Size SMALL Weave HAND KNOTTED Material WOOL Age NEW Weight 2.2KG Measurement 4’2″ X 2’6″",
+  "img": "assets/catalog/persian-sarough-hand-knotted-wool-rug-in-laval-2.jpg",
+  "gallery": [],
+  "short": "Persian Sarough"
+ },
+ {
+  "id": 19980,
+  "name": "PERSIAN SAROUGH Hand-Knotted Wool Rug in Laval",
+  "slug": "persian-sarough-hand-knotted-wool-rug-in-laval",
+  "cats": [
+   "carpets",
+   "hand-made-carpets"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "HAND KNOTTED GENUINE PERSIAN SAROUGH, A VERY FINE QUALITY WOOL RUG. SKU: 981418 GTIN: 000816 Products specifications Origin PERSIAN/IRAN Shape RECTANGLE Size SMALL Weave HAND KNOTTED Material WOOL Age NEW Weight 1.8KG Measurement 3’6″ X 2’3″",
+  "img": "assets/catalog/persian-sarough-hand-knotted-wool-rug-in-laval.jpg",
+  "gallery": [],
+  "short": "Persian Sarough"
+ },
+ {
+  "id": 19978,
+  "name": "HAMADAN Persian Hand-Knotted Wool Rug in Laval",
+  "slug": "hamadan-persian-hand-knotted-wool-rug-in-laval",
+  "cats": [
+   "carpets",
+   "hand-made-carpets"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "HAND KNOTTED PERSIAN TRIBAL HAMADAN, EXTREMELY DURABLE EVER-LASTING RUG. SKU: 787238 GTIN: 000378 Products specifications Size SMALL Measurement 4’9″ X 3’3″ Shape RECTANGLE Material WOOL Weave HAND KNOTTED Weight 3.2KG Origin PERSIAN/IRAN Age NEW",
+  "img": "assets/catalog/hamadan-persian-hand-knotted-wool-rug-in-laval.jpg",
+  "gallery": [],
+  "short": "HAMADAN Persian"
+ },
+ {
+  "id": 19955,
+  "name": "ROYAL BALOUCHI Rug in Laval",
+  "slug": "royal-balouchi-rug-in-laval",
+  "cats": [
+   "carpets",
+   "hand-made-carpets"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "HAND KNOTTED ROYAL BALOUCH WOOL RUG. SKU: 789852 GTIN: 000863 Products specifications Origin AFGHANISTAN Shape RECTANGLE Size SMALL Weave HAND KNOTTED Material WOOL Age NEW Weight 2.6KG Measurement 4’4″ X 3′",
+  "img": "assets/catalog/royal-balouchi-rug-in-laval.jpg",
+  "gallery": [],
+  "short": "Royal Balouchi"
+ },
+ {
+  "id": 19952,
+  "name": "NEPAL Runner in Laval",
+  "slug": "nepal-runner-in-laval",
+  "cats": [
+   "carpets",
+   "hand-made-carpets"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Hand tufted, all wool, Nepal design, Indo runner. Woven with 100% wool pile. SKU: 653671 GTIN: 001141 Products specifications Origin INDIA Shape RUNNER Measurement 8′ X 2’3″ Size MEDIUM Weave HAND TUFTED Material WOOL Age NEW Weight 4KG",
+  "img": "assets/catalog/nepal-runner-in-laval.jpg",
+  "gallery": [],
+  "short": "NEPAL Runner"
+ },
+ {
+  "id": 19895,
+  "name": "ARIELLA – High Quality Hand Crafted Bedroom Furniture",
+  "slug": "bed-room-15",
+  "cats": [
+   "bed-room",
+   "bed-room-sets"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Code: WA 206 QTY SET: Package Includes (8 Pieces): 3-pieces Queen Bed Drawers Dresser Mirror and Dresser 2 Night Table Color: White Size: KING AND QUEEN Style: Design Antique",
+  "img": "assets/catalog/bed-room-15.jpg",
+  "gallery": [],
+  "short": "ARIELLA – High Quality Hand Crafted Bedroom Furniture"
+ },
+ {
+  "id": 19891,
+  "name": "ANASTASIA – High Quality Hand Crafted Bedroom Furniture",
+  "slug": "bed-room-14",
+  "cats": [
+   "bed-room",
+   "bed-room-sets"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "ANATASIA BEDROOM SET Code: WA 230 Available: IN STOCK SET INCLUDES: (8 Pieces): King/Queen Bed, Chest of Drawers, Dresser, Mirror and 2 Night Tables Color: CHAMPAGNE Size: KING AND QUEEN Materials: SOLID WOOD & VINYL Style: CLASSIC",
+  "img": "assets/catalog/bed-room-14.jpg",
+  "gallery": [],
+  "short": "ANASTASIA – High Quality Hand Crafted Bedroom Furniture"
+ },
+ {
+  "id": 19889,
+  "name": "JULIAN – High Quality Hand Crafted Bedroom Furniture",
+  "slug": "bed-room-13",
+  "cats": [
+   "bed-room",
+   "bed-room-sets"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Code: WA 231 Available: Yes QTY SET: Package Includes (8 Pieces): 3-pieces Queen Bed Drawers Dresser Mirror and Dresser 2 Night Table Color: Dark Cherry Size: KING AND QUEEN",
+  "img": "assets/catalog/bed-room-13.jpg",
+  "gallery": [],
+  "short": "JULIAN – High Quality Hand Crafted Bedroom Furniture"
+ },
+ {
+  "id": 19885,
+  "name": "THE TUXEDO – High Quality Hand Crafted Dining Room Furniture",
+  "slug": "dining-room-16",
+  "cats": [
+   "dining-room"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Discover perfect harmony with the luxurious Tuxedo dining room table equipped with tufted chairs and a stunning buffet and hutch!",
+  "img": "assets/catalog/dining-room-16.jpg",
+  "gallery": [],
+  "short": "THE TUXEDO – High Quality Hand Crafted Dining Room Furniture"
+ },
+ {
+  "id": 19881,
+  "name": "GABRIELA Dining Room",
+  "slug": "dining-room-15",
+  "cats": [
+   "dining-room"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Discover the perfect harmony between modern design and functionality with our dining room set /Available/",
+  "img": "assets/catalog/dining-room-15.jpg",
+  "gallery": [],
+  "short": "GABRIELA Dining Room"
+ },
+ {
+  "id": 19825,
+  "name": "12″ Breeze foam encased pocket coil plush Eurotop mattress",
+  "slug": "12-breeze-foam-encased-pocket-coil-plush-eurotop-mattress",
+  "cats": [
+   "bed-room",
+   "mattresses"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "This is an excellent quality Canadian-made mattress made right. Breeze pocket coil Euro top plush mattress with foam-encased coil system Available in Single, Double, Queen, and King sizes Medium to Soft feel.",
+  "img": "assets/catalog/12-breeze-foam-encased-pocket-coil-plush-eurotop-mattress.jpg",
+  "gallery": [
+   "assets/catalog/12-breeze-foam-encased-pocket-coil-plush-eurotop-mattress-2.jpg",
+   "assets/catalog/12-breeze-foam-encased-pocket-coil-plush-eurotop-mattress-3.jpg"
+  ],
+  "short": "12″ Breeze foam encased pocket coil plush Eurotop mattress"
+ },
+ {
+  "id": 19815,
+  "name": "Olivia 10″ Soft gel Rolled mattress",
+  "slug": "olivia-10-soft-gel-rolled-mattress",
+  "cats": [
+   "bed-room",
+   "mattresses"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "This is an excellent quality Canadian-made mattress. 8″ high-density foam core plus 2″ of Gel memory foam for a firmer but not hard feel. Bamboo covers will help keep you comfortable all night long. Available in Single, Double, Queen, and King sizes. Softer feel!",
+  "img": "assets/catalog/olivia-10-soft-gel-rolled-mattress.jpg",
+  "gallery": [
+   "assets/catalog/olivia-10-soft-gel-rolled-mattress-2.jpg",
+   "assets/catalog/olivia-10-soft-gel-rolled-mattress-3.jpg",
+   "assets/catalog/olivia-10-soft-gel-rolled-mattress-4.jpg"
+  ],
+  "short": "Olivia 10″ Soft gel Rolled mattress"
+ },
+ {
+  "id": 19805,
+  "name": "10″ Brisk foam encased pocket coil firm mattress",
+  "slug": "10-brisk-foam-encased-pocket-coil-firm-mattress",
+  "cats": [
+   "bed-room",
+   "mattresses"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "This is an excellent quality Canadian-made mattress. Brisk pocket coil firm mattress with foam-encased coil system. Available in Single, Double, Queen, and King sizes.",
+  "img": "assets/catalog/10-brisk-foam-encased-pocket-coil-firm-mattress.jpg",
+  "gallery": [
+   "assets/catalog/10-brisk-foam-encased-pocket-coil-firm-mattress-2.jpg",
+   "assets/catalog/10-brisk-foam-encased-pocket-coil-firm-mattress-3.jpg"
+  ],
+  "short": "10″ Brisk foam encased pocket coil firm mattress"
+ },
+ {
+  "id": 19799,
+  "name": "11″ Dream Classic pocket coil plush Eurotop Rolled",
+  "slug": "11-dream-classic-pocket-coil-plush-eurotop-rolled",
+  "cats": [
+   "bed-room",
+   "mattresses"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "This is an excellent quality Canadian-made mattress. Dream classic pocket coil Euro top plush mattress. Available in Single, Double, Queen, and King sizes. Medium to Soft feel",
+  "img": "assets/catalog/11-dream-classic-pocket-coil-plush-eurotop-rolled.jpg",
+  "gallery": [
+   "assets/catalog/11-dream-classic-pocket-coil-plush-eurotop-rolled-2.jpg",
+   "assets/catalog/11-dream-classic-pocket-coil-plush-eurotop-rolled-3.jpg"
+  ],
+  "short": "11″ Dream Classic pocket coil plush Eurotop Rolled"
+ },
+ {
+  "id": 19796,
+  "name": "Easygo Mattress",
+  "slug": "10-pocket-coil-firm-rolled-mattress",
+  "cats": [
+   "bed-room",
+   "mattresses"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Introducing the Easygo Mattress, a Canadian-made that flawlessly combines plush comfort with essential firm support. Crafted with innovative easy-to-pocket coil firmness technology, this 10″ Pocket coil firm Rolled mattress adapts to your body’s contours for a personalized and rejuvenating sleep experience. Available in Single, Double, Queen, and King sizes, the Easygo Mattress caters to every sle",
+  "img": "assets/catalog/10-pocket-coil-firm-rolled-mattress.jpg",
+  "gallery": [
+   "assets/catalog/10-pocket-coil-firm-rolled-mattress-2.jpg",
+   "assets/catalog/10-pocket-coil-firm-rolled-mattress-3.jpg"
+  ],
+  "short": "Easygo Mattress"
+ },
+ {
+  "id": 19759,
+  "name": "STELLA",
+  "slug": "stella",
+  "cats": [
+   "bed-room",
+   "bed-room-sets"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "OUT OF STOCK QTY SET: Package Includes (7 Pieces): 3-pieces Queen Bed Drawers Dresser Mirror and Dresser Night Table Color: White Size: QUEEN Materials: Wood Style: Modern style",
+  "img": "assets/catalog/stella.jpg",
+  "gallery": [],
+  "short": "Stella"
+ },
+ {
+  "id": 19657,
+  "name": "Thorley Lift",
+  "slug": "thorley-lift",
+  "cats": [
+   "living-room",
+   "motion-seating"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Indulge in contemporary comfort with Galerie Oasis Power Recliners. The Metro recliner, featuring infinite lay-flat positioning and fabric in soft, adds a cozy touch to bright spaces. With a built-in USB port for smart device charging, it’s the perfect blend of style and convenience. Elevate your relaxation with the richness and luxury of Galerie Oasis!",
+  "img": "assets/catalog/thorley-lift.jpg",
+  "gallery": [],
+  "short": "Thorley Lift"
+ },
+ {
+  "id": 19650,
+  "name": "Stetson Lift",
+  "slug": "stetson-lift",
+  "cats": [
+   "living-room",
+   "motion-seating"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Indulge in contemporary comfort with Galerie Oasis Power Recliners. The Metro recliner, featuring infinite lay-flat positioning and fabric in soft, adds a cozy touch to bright spaces. With a built-in USB port for smart device charging, it’s the perfect blend of style and convenience. Elevate your relaxation with the richness and luxury of Galerie Oasis!",
+  "img": "assets/catalog/stetson-lift.jpg",
+  "gallery": [],
+  "short": "Stetson Lift"
+ },
+ {
+  "id": 19646,
+  "name": "Nakita detail LIFT CHAIR",
+  "slug": "nakita-detail-lift-chair",
+  "cats": [
+   "living-room",
+   "motion-seating"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Indulge in contemporary comfort with Galerie Oasis Power Recliners. The Metro recliner, featuring infinite lay-flat positioning and fabric in soft, adds a cozy touch to bright spaces. With a built-in USB port for smart device charging, it’s the perfect blend of style and convenience. Elevate your relaxation with the richness and luxury of Galerie Oasis!",
+  "img": "assets/catalog/nakita-detail-lift-chair.jpg",
+  "gallery": [],
+  "short": "Nakita detail LIFT CHAIR"
+ },
+ {
+  "id": 19639,
+  "name": "Safiyah detail",
+  "slug": "safiyah_detail",
+  "cats": [
+   "living-room",
+   "motion-seating"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Safiyah contemporary power motion sofa group features pocket coil seating, padded headrests and pillow top arms.",
+  "img": "assets/catalog/safiyah_detail.jpg",
+  "gallery": [],
+  "short": "Safiyah detail"
+ },
+ {
+  "id": 19638,
+  "name": "MILTON",
+  "slug": "milton",
+  "cats": [
+   "living-room",
+   "motion-seating"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Color: Chocolate – Beige Material : Air Leather SOFA WITH DROP DOWN TRAY 89.37 39.50 39 GLIDER LOVESEAT WITH CONSOLE 80 39.5 39 ROCKER CHAIR RECLINER 44 39.5 39",
+  "img": "assets/catalog/milton.jpg",
+  "gallery": [],
+  "short": "Milton"
+ },
+ {
+  "id": 19569,
+  "name": "VEGAS BEIGE",
+  "slug": "vegas-beige",
+  "cats": [
+   "carpets",
+   "machine-made"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Drop Stich Low-cut Pile Dense with Jute Backing (100% Polypropylene) SKU: 4986B Products specifications Origin TURKEY Shape RECTANGLE",
+  "img": "assets/catalog/vegas-beige.jpg",
+  "gallery": [],
+  "short": "Vegas Beige"
+ },
+ {
+  "id": 19554,
+  "name": "PHOENIX DARK_LILAC",
+  "slug": "phoenix-dark_lilac",
+  "cats": [
+   "carpets",
+   "machine-made"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "High Pile Plush Frieze Yarn with Jute Backing(100% Frieze Polypropylene) SKU: 3437A Products specifications Origin TURKEY Shape RECTANGLE Material 100% Frieze Polypropylene Weave Machine Woven",
+  "img": "assets/catalog/phoenix-dark_lilac.jpg",
+  "gallery": [],
+  "short": "Phoenix Dark_Lilac"
+ },
+ {
+  "id": 19552,
+  "name": "VERONA BLACK",
+  "slug": "verona-black-3",
+  "cats": [
+   "carpets",
+   "machine-made"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Frieze Heatset Carved with Jute Backing(100% Frieze Polypropylene) SKU: 4350D Products specifications Origin TURKEY Shape RECTANGLE",
+  "img": "assets/catalog/verona-black-3.jpg",
+  "gallery": [],
+  "short": "Verona Black"
+ },
+ {
+  "id": 19546,
+  "name": "SAVANNAH DARK_GREY",
+  "slug": "savannah-dark_grey",
+  "cats": [
+   "carpets",
+   "machine-made"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Low-cut Pile with Jute Backing(100% Polypropylene) SKU: H460B Products specifications Origin TURKEY Shape RECTANGLE",
+  "img": "assets/catalog/savannah-dark_grey.jpg",
+  "gallery": [],
+  "short": "Savannah Dark_Grey"
+ },
+ {
+  "id": 19541,
+  "name": "VERONA WHITE",
+  "slug": "verona-white",
+  "cats": [
+   "carpets",
+   "machine-made"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Frieze Heatset Carved with Jute Backing(100% Frieze Polypropylene) SKU: E321B Products specifications Origin TURKEY Shape RECTANGLE",
+  "img": "assets/catalog/verona-white.jpg",
+  "gallery": [],
+  "short": "Verona White"
+ },
+ {
+  "id": 19533,
+  "name": "MEDUSA WHITE",
+  "slug": "medusa-white",
+  "cats": [
+   "carpets",
+   "machine-made"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Cut Pile with Jute Backing(100% Polypropylene) SKU: G242A Products specifications Origin TURKEY Shape RECTANGLE",
+  "img": "assets/catalog/medusa-white.jpg",
+  "gallery": [],
+  "short": "Medusa White"
+ },
+ {
+  "id": 19531,
+  "name": "VENUS DARK_BEIGE",
+  "slug": "venus-dark_beige",
+  "cats": [
+   "carpets",
+   "machine-made"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Drop Stich Low-cut Pile with Jute Backing(100% Polypropylene) SKU: F361B Products specifications Origin TURKEY Shape RECTANGLE",
+  "img": "assets/catalog/venus-dark_beige.jpg",
+  "gallery": [],
+  "short": "Venus Dark_Beige"
+ },
+ {
+  "id": 19522,
+  "name": "SEVILLE BEIGE",
+  "slug": "seville-beige",
+  "cats": [
+   "carpets",
+   "machine-made"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "SKU: 7175A Products specifications Origin TURKEY Shape RECTANGLE Weave Machine Woven",
+  "img": "assets/catalog/seville-beige.jpg",
+  "gallery": [],
+  "short": "Seville Beige"
+ },
+ {
+  "id": 19519,
+  "name": "SAVANNAH LIGHT_GREY",
+  "slug": "savannah-light_grey",
+  "cats": [
+   "carpets",
+   "machine-made"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Low-cut Pile with Jute Backing(100% Polypropylene) SKU: H997A Products specifications Origin TURKEY Shape RECTANGLE",
+  "img": "assets/catalog/savannah-light_grey.jpg",
+  "gallery": [],
+  "short": "Savannah Light_Grey"
+ },
+ {
+  "id": 19513,
+  "name": "SOFT_SHAGGY WHITE",
+  "slug": "soft_shaggy-white",
+  "cats": [
+   "carpets",
+   "machine-made"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "SKU: 04203A Products specifications Origin TURKEY Shape RECTANGLE Weave Machine Woven",
+  "img": "assets/catalog/soft_shaggy-white.jpg",
+  "gallery": [],
+  "short": "Soft_Shaggy White"
+ },
+ {
+  "id": 19508,
+  "name": "SEVILLE LIGHT_GREY_CREAM",
+  "slug": "seville-light_grey_cream-2",
+  "cats": [
+   "carpets",
+   "machine-made"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "SKU: 7313A Products specifications Origin TURKEY Shape RECTANGLE Weave Machine Woven",
+  "img": "assets/catalog/seville-light_grey_cream-2.jpg",
+  "gallery": [],
+  "short": "Seville Light_Grey_Cream"
+ },
+ {
+  "id": 19496,
+  "name": "SEVILLE LIGHT_GREY_CREAM",
+  "slug": "seville-light_grey_cream",
+  "cats": [
+   "carpets",
+   "machine-made"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "SKU: 7314A Products specifications Origin TURKEY Shape RECTANGLE Weave Machine Woven",
+  "img": "assets/catalog/seville-light_grey_cream.jpg",
+  "gallery": [],
+  "short": "Seville Light_Grey_Cream"
+ },
+ {
+  "id": 19495,
+  "name": "VERONA DARK_BROWN",
+  "slug": "verona-dark_brown-2",
+  "cats": [
+   "carpets",
+   "machine-made"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Frieze Heatset Carved with Jute Backing(100% Frieze Polypropylene) SKU: 4358A Products specifications Origin TURKEY Shape RECTANGLE",
+  "img": "assets/catalog/verona-dark_brown-2.jpg",
+  "gallery": [],
+  "short": "Verona Dark_Brown"
+ },
+ {
+  "id": 19491,
+  "name": "VERONA DARK_BROWN",
+  "slug": "verona-dark_brown",
+  "cats": [
+   "carpets",
+   "machine-made"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Frieze Heatset Carved with Jute Backing(100% Frieze Polypropylene) SKU: 4335C Products specifications Origin TURKEY Shape RECTANGLE",
+  "img": "assets/catalog/verona-dark_brown.jpg",
+  "gallery": [],
+  "short": "Verona Dark_Brown"
+ },
+ {
+  "id": 19487,
+  "name": "VERONA ANTHRACITE",
+  "slug": "verona-anthracite-2",
+  "cats": [
+   "carpets",
+   "machine-made"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Frieze Heatset Carved with Jute Backing(100% Frieze Polypropylene) SKU: 3476A Products specifications Origin TURKEY Shape RECTANGLE",
+  "img": "assets/catalog/verona-anthracite-2.jpg",
+  "gallery": [],
+  "short": "Verona Anthracite"
+ },
+ {
+  "id": 19483,
+  "name": "VERONA GREY",
+  "slug": "verona-grey",
+  "cats": [
+   "carpets",
+   "machine-made"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Frieze Heatset Carved with Jute Backing(100% Frieze Polypropylene) SKU: 3469C Products specifications Origin TURKEY Shape RECTANGLE",
+  "img": "assets/catalog/verona-grey.jpg",
+  "gallery": [],
+  "short": "Verona Grey"
+ },
+ {
+  "id": 19479,
+  "name": "VERONA ANTHRACITE",
+  "slug": "verona-anthracite",
+  "cats": [
+   "carpets",
+   "machine-made"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Frieze Heatset Carved with Jute Backing(100% Frieze Polypropylene) SKU: 3485A Products specifications Origin TURKEY Shape RECTANGLE",
+  "img": "assets/catalog/verona-anthracite.jpg",
+  "gallery": [],
+  "short": "Verona Anthracite"
+ },
+ {
+  "id": 19469,
+  "name": "VERONA GREY & RED",
+  "slug": "verona-grey-red",
+  "cats": [],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Frieze Heatset Carved with Jute Backing(100% Frieze Polypropylene) SKU: 3469B Products specifications Origin TURKEY Shape RECTANGLE",
+  "img": "assets/catalog/verona-grey-red.jpg",
+  "gallery": [],
+  "short": "Verona Grey & Red"
+ },
+ {
+  "id": 19462,
+  "name": "VERONA BLACK",
+  "slug": "verona-black-2",
+  "cats": [
+   "carpets",
+   "machine-made"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Frieze Heatset Carved with Jute Backing(100% Frieze Polypropylene) SKU: 3469A Products specifications Origin TURKEY Shape RECTANGLE",
+  "img": "assets/catalog/verona-black-2.jpg",
+  "gallery": [],
+  "short": "Verona Black"
+ },
+ {
+  "id": 19461,
+  "name": "VERONA BLACK",
+  "slug": "verona-black",
+  "cats": [
+   "carpets",
+   "machine-made"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Frieze Heatset Carved with Jute Backing(100% Frieze Polypropylene) SKU: 3466A Products specifications Origin TURKEY Shape RECTANGLE",
+  "img": "assets/catalog/verona-black.jpg",
+  "gallery": [],
+  "short": "Verona Black"
+ },
+ {
+  "id": 19456,
+  "name": "TAMPA BLACK",
+  "slug": "tampa-black",
+  "cats": [
+   "carpets",
+   "machine-made"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Cut Pile Carved with Jute Backing(100% Polypropylene) SKU: 4329B Products specifications Origin TURKEY",
+  "img": "assets/catalog/tampa-black.jpg",
+  "gallery": [],
+  "short": "Tampa Black"
+ },
+ {
+  "id": 19444,
+  "name": "MICRO_SHAGGY",
+  "slug": "micro_shaggy",
+  "cats": [
+   "carpets",
+   "machine-made"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "SKU: 1820A Products specifications Origin TURKEY Shape RECTANGLE Weave Machine Woven",
+  "img": "assets/catalog/micro_shaggy.jpg",
+  "gallery": [
+   "assets/catalog/micro_shaggy-2.jpg",
+   "assets/catalog/micro_shaggy-3.jpg",
+   "assets/catalog/micro_shaggy-4.jpg"
+  ],
+  "short": "Micro_Shaggy"
+ },
+ {
+  "id": 19431,
+  "name": "PLAIN_SHAGGY",
+  "slug": "plain_shaggy",
+  "cats": [
+   "carpets",
+   "machine-made"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Long Pile Shaggy with Jute Backing(Polypropylene & Polyester) SKU: 01810A Products specifications Origin TURKEY Shape RECTANGLE Material Polypropylene & Polyester Weave Machine Woven",
+  "img": "assets/catalog/plain_shaggy.jpg",
+  "gallery": [
+   "assets/catalog/plain_shaggy-2.jpg",
+   "assets/catalog/plain_shaggy-3.jpg",
+   "assets/catalog/plain_shaggy-4.jpg"
+  ],
+  "short": "Plain_Shaggy"
+ },
+ {
+  "id": 19424,
+  "name": "ROYAL_SHAGGY LIGHT_BEIGE",
+  "slug": "royal_shaggy-light_beige",
+  "cats": [
+   "carpets",
+   "machine-made"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Medium Pile Shaggy with Jute Backing(100% Polyester) SKU: 03662A Products specifications Origin TURKEY Shape RECTANGLE",
+  "img": "assets/catalog/royal_shaggy-light_beige.jpg",
+  "gallery": [],
+  "short": "Royal_Shaggy Light_Beige"
+ },
+ {
+  "id": 19419,
+  "name": "ROYAL_SHAGGY LIGHT_BLUE",
+  "slug": "royal_shaggy-light_blue",
+  "cats": [
+   "carpets",
+   "machine-made"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Medium Pile Shaggy with Jute Backing(100% Polyester) SKU: 03976A Products specifications Origin TURKEY Shape RECTANGLE",
+  "img": "assets/catalog/royal_shaggy-light_blue.jpg",
+  "gallery": [],
+  "short": "Royal_Shaggy Light_Blue"
+ },
+ {
+  "id": 19413,
+  "name": "SOFT_SHAGGY CREAM",
+  "slug": "soft_shaggy-cream",
+  "cats": [
+   "carpets",
+   "machine-made"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "SKU: 01820A Products specifications Origin TURKEY Shape RECTANGLE Weave Machine Woven",
+  "img": "assets/catalog/soft_shaggy-cream.jpg",
+  "gallery": [],
+  "short": "Soft_Shaggy Cream"
+ },
+ {
+  "id": 19411,
+  "name": "MONTANA CREAM",
+  "slug": "montana-cream",
+  "cats": [
+   "carpets",
+   "machine-made"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "SKU: U323A Products specifications Origin TURKEY Shape RECTANGLE Weave Machine Woven",
+  "img": "assets/catalog/montana-cream.jpg",
+  "gallery": [],
+  "short": "Montana Cream"
+ },
+ {
+  "id": 19406,
+  "name": "FLORENCE WHITE",
+  "slug": "florence-white",
+  "cats": [
+   "carpets",
+   "machine-made"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Cut Pile with Jute Backing(100% Polypropylene) SKU: H531D Products specifications Origin TURKEY Shape RECTANGLE",
+  "img": "assets/catalog/florence-white.jpg",
+  "gallery": [],
+  "short": "Florence White"
+ },
+ {
+  "id": 19401,
+  "name": "BALI WHITE",
+  "slug": "bali-white",
+  "cats": [
+   "carpets",
+   "machine-made"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "High Pile & Plush with Jute Backing(100% Polypropylene) SKU: H899A Products specifications Origin TURKEY Shape RECTANGLE",
+  "img": "assets/catalog/bali-white.jpg",
+  "gallery": [],
+  "short": "Bali White"
+ },
+ {
+  "id": 19396,
+  "name": "BALI LIGHT_GREY",
+  "slug": "bali-light_grey",
+  "cats": [
+   "carpets",
+   "machine-made"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "High Pile & Plush with Jute Backing(100% Polypropylene) SKU: H913A Products specifications Origin TURKEY Shape RECTANGLE",
+  "img": "assets/catalog/bali-light_grey.jpg",
+  "gallery": [],
+  "short": "Bali Light_Grey"
+ },
+ {
+  "id": 19278,
+  "name": "HAMADAN Persian Hand-Knotted Wool Rug in Laval",
+  "slug": "hamadan-2",
+  "cats": [
+   "carpets",
+   "hand-made-carpets"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "HAND-KNOTTED PERSIAN TRIBAL HAMADAN, EXTREMELY DURABLE EVER-LASTING RUG. Availability: 1 in stock SKU: 1507 GTIN: 000147 Products specifications Size SMALL Measurement 4’11” X 3′ Shape RECTANGLE Material WOOL Weave HAND KNOTTED Weight 2.4KG Origin PERSIAN/IRAN Age NEW",
+  "img": "assets/catalog/hamadan-2.jpg",
+  "gallery": [],
+  "short": "HAMADAN Persian"
+ },
+ {
+  "id": 19273,
+  "name": "HAMADAN Persian Hand-Knotted Wool Rug in Laval",
+  "slug": "hamadan",
+  "cats": [
+   "carpets",
+   "hand-made-carpets"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "HAND-KNOTTED PERSIAN TRIBAL HAMADAN, AN EXTREMELY DURABLE EVER-LASTING RUG. Availability: 1 in stock SKU: 1401 GTIN: 000146 Products specifications Origin PERSIAN/IRAN Shape RECTANGLE Measurement 4’7″ X 2’11” Size SMALL Weave HAND KNOTTED Material WOOL Age NEW Weight 2.2KG",
+  "img": "assets/catalog/hamadan.jpg",
+  "gallery": [],
+  "short": "HAMADAN Persian"
+ },
+ {
+  "id": 19266,
+  "name": "MISHKIN Aged Persian Hand-Knotted Wool Rug in Laval",
+  "slug": "mishkin",
+  "cats": [
+   "carpets",
+   "hand-made-carpets"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "HAND-KNOTTED PERSIAN MISHKIN VINTAGE RUG IN GOOD CONDITION WITH MINOR WEAR. Availability: In stock SKU: 920052 GTIN: 000244 Products specifications Size SMALL Measurement 7′ X 3’6″ Shape RECTANGLE Material WOOL Weave HAND KNOTTED Weight 4.4KG Origin PERSIAN/IRAN Age AGED Sale FINAL",
+  "img": "assets/catalog/mishkin.jpg",
+  "gallery": [],
+  "short": "MISHKIN Aged Persian"
+ },
+ {
+  "id": 19251,
+  "name": "PERSIAN AFSHAR Hand-Knotted Wool Rug in Laval",
+  "slug": "persian-afshar",
+  "cats": [
+   "carpets",
+   "hand-made-carpets"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "HAND-KNOTTED AFSHAR PERSIAN CARPET Availability: 1 in stock SKU: 3301 GTIN: 000149 Products specifications Origin PERSIAN/IRAN Shape RECTANGLE Measurement 4’7″ X 3’5″ Size SMALL Weave HAND KNOTTED Material WOOL Age NEW Weight 1.4KG",
+  "img": "assets/catalog/persian-afshar.jpg",
+  "gallery": [],
+  "short": "Persian Afshar"
+ },
+ {
+  "id": 19249,
+  "name": "JALDAR BOUKHARA Silk Blend Rug in Laval",
+  "slug": "jaldar-boukhara-6",
+  "cats": [
+   "carpets",
+   "hand-made-carpets"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "HAND-KNOTTED FINE JALDAR DESIGN BOKHARA WOOL RUG. Availability: In stock SKU: 224331 GTIN: 000815 Products specifications Origin PAKISTAN Shape RECTANGLE Size SMALL Weave HAND KNOTTED Material WOOL AND SILK Age NEW Weight 1.8KG Measurement 4’3″ X 2’8″",
+  "img": "assets/catalog/jaldar-boukhara-6.jpg",
+  "gallery": [],
+  "short": "JALDAR BOUKHARA Silk Blend"
+ },
+ {
+  "id": 19247,
+  "name": "JALDAR BOUKHARA Rug in Laval",
+  "slug": "jaldar-boukhara-5",
+  "cats": [
+   "carpets",
+   "hand-made-carpets"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "HAND-KNOTTED FINE JALDAR DESIGN BOKHARA WOOL RUG. Availability: In stock SKU: 787454 GTIN: 000814 Products specifications Origin PAKISTAN Shape RECTANGLE Size SMALL Weave HAND KNOTTED Material WOOL Age NEW Weight 1.7KG Measurement 4’3″ X 2’8″",
+  "img": "assets/catalog/jaldar-boukhara-5.jpg",
+  "gallery": [],
+  "short": "Jaldar Boukhara"
+ },
+ {
+  "id": 19239,
+  "name": "PERSIAN SAROUGH Rug in Laval",
+  "slug": "persian-sarough",
+  "cats": [
+   "carpets",
+   "hand-made-carpets"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "HAND-KNOTTED GENUINE PERSIAN SAROUGH, A VERY FINE QUALITY WOOL RUG. Availability: In stock SKU: 981404 GTIN: 000798 Products specifications Origin PERSIAN/IRAN Shape RECTANGLE Size SMALL Weave HAND KNOTTED Material WOOL Age NEW Weight 1.5KG Measurement 4′ X 2’5″",
+  "img": "assets/catalog/persian-sarough.jpg",
+  "gallery": [],
+  "short": "Persian Sarough"
+ },
+ {
+  "id": 19237,
+  "name": "KAZAK Rug in Laval",
+  "slug": "kazak",
+  "cats": [
+   "carpets",
+   "hand-made-carpets"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "HAND-KNOTTED AUTHENTIC AFGHAN KAZAK WOOL RUG. THE GEOMETRICAL DESIGN OF KAZAK GIVES THEM THE FLEXIBILITY OF WORKING WITH MODERN AS WELL AS TRADITIONAL DESIGNS. Availability: In stock SKU: 722813 GTIN: 000797 Products specifications Origin AFGHANISTAN Shape RECTANGLE Size SMALL Weave HAND KNOTTED Material WOOL Age NEW Weight 2.2KG Measurement 4′ X 2’9″",
+  "img": "assets/catalog/kazak.jpg",
+  "gallery": [],
+  "short": "Kazak"
+ },
+ {
+  "id": 19232,
+  "name": "HERIZ PATINA Rug in Laval",
+  "slug": "heriz-patina",
+  "cats": [
+   "carpets",
+   "hand-made-carpets"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "HAND-KNOTTED HERIZ DESIGN INDO PERSIAN WOOL RUG. Availability: In stock SKU: 575397 GTIN: 000854 Products specifications Origin INDIA Shape RECTANGLE Weave HAND KNOTTED Material WOOL Age NEW Weight 3.2KG Measurement 5′ X 3′",
+  "img": "assets/catalog/heriz-patina.jpg",
+  "gallery": [],
+  "short": "Heriz Patina"
+ },
+ {
+  "id": 19214,
+  "name": "TAJIK CAUCASUS Rug in Laval",
+  "slug": "tajik-caucasus",
+  "cats": [
+   "carpets",
+   "hand-made-carpets"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "HAND KNOTTED AUTHENTIC AFGHAN TAJIK ALL WOOL RUG. Availability: In stock SKU: 734189 GTIN: 000671 Products specifications Origin AFGHANISTAN Shape RECTANGLE Size SMALL Weave HAND KNOTTED Material WOOL Age NEW Weight 2.8KG Measurement 4’7″ X 3′",
+  "img": "assets/catalog/tajik-caucasus.jpg",
+  "gallery": [],
+  "short": "Tajik Caucasus"
+ },
+ {
+  "id": 19209,
+  "name": "JALDAR BOUKHARA Rug in Laval",
+  "slug": "jaldar-boukhara-4",
+  "cats": [
+   "carpets",
+   "hand-made-carpets"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "HAND KNOTTED FINE JALDAR DESIGN BOKHARA WOOL RUG. Availability: In stock SKU: 787447 GTIN: 000813 Products specifications Origin PAKISTAN Shape RECTANGLE Size SMALL Weave HAND KNOTTED Material WOOL Age NEW Weight 1.6KG Measurement 4’3″ X 2’7″",
+  "img": "assets/catalog/jaldar-boukhara-4.jpg",
+  "gallery": [],
+  "short": "Jaldar Boukhara"
+ },
+ {
+  "id": 19204,
+  "name": "JALDAR BOUKHARA Rug in Laval",
+  "slug": "jaldar-boukhara-3",
+  "cats": [
+   "carpets",
+   "hand-made-carpets"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "HAND KNOTTED FINE JALDAR DESIGN BOKHARA WOOL RUG. Availability: In stock SKU: 787253 GTIN: 000812 Products specifications Origin PAKISTAN Shape RECTANGLE Size SMALL Weave HAND KNOTTED Material WOOL Age NEW Weight 1.6KG Measurement 4’2″ X 2’8″",
+  "img": "assets/catalog/jaldar-boukhara-3.jpg",
+  "gallery": [],
+  "short": "Jaldar Boukhara"
+ },
+ {
+  "id": 19202,
+  "name": "ROYAL BALUCHI Rug in Laval",
+  "slug": "royal-baluchi",
+  "cats": [
+   "carpets",
+   "hand-made-carpets"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "HAND KNOTTED ROYAL BALOUCH WOOL RUG. Availability: In stock SKU: 100247 GTIN: 000750 Products specifications Origin PAKISTAN Shape RECTANGLE Size SMALL Weave HAND KNOTTED Material WOOL Age NEW Weight 2.9KG Measurement 4’8″ X 3’1″",
+  "img": "assets/catalog/royal-baluchi.jpg",
+  "gallery": [],
+  "short": "Royal Baluchi"
+ },
+ {
+  "id": 19194,
+  "name": "ROYAL BALOUCH Rug in Laval",
+  "slug": "royal-balouch-3",
+  "cats": [
+   "carpets",
+   "hand-made-carpets"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Hand knotted Royal Balouch, all wool Afghan rug. Village woven nomadic piece, some pictorial images of structures and symbols representing tribal Balouch. Off-white, blue, brick red, and taupe are the colours of this carpet. See pictures for colour accuracy and details. Available in stock for immediate shipping. SKU: 734217 GTIN: 002184 Products specifications Origin AFGHANISTAN Shape RECTANGLE Me",
+  "img": "assets/catalog/royal-balouch-3.jpg",
+  "gallery": [],
+  "short": "Royal Balouch"
+ },
+ {
+  "id": 19192,
+  "name": "ROYAL BALOUCHI Rug in Laval",
+  "slug": "royal-balouchi-5",
+  "cats": [
+   "carpets",
+   "hand-made-carpets"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "HAND KNOTTED ROYAL BALOUCH WOOL RUG. Availability: In stock SKU: 100275 GTIN: 000818 Products specifications Origin AFGHANISTAN Shape RECTANGLE Size SMALL Weave HAND KNOTTED Material WOOL Age NEW Weight 1.6KG Measurement 4’8″ X 3′",
+  "img": "assets/catalog/royal-balouchi-5.jpg",
+  "gallery": [],
+  "short": "Royal Balouchi"
+ },
+ {
+  "id": 19187,
+  "name": "ROYAL BALOUCHI Rug in Laval",
+  "slug": "royal-balouchi-4",
+  "cats": [
+   "carpets",
+   "hand-made-carpets"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "HAND KNOTTED ROYAL BALOUCH WOOL RUG. Availability: In stock SKU: 100282 GTIN: 000821 Products specifications Origin AFGHANISTAN Shape RECTANGLE Size SMALL Weave HAND KNOTTED Material WOOL Age NEW Weight 1.6KG Measurement 4’9″ X 2’9″",
+  "img": "assets/catalog/royal-balouchi-4.jpg",
+  "gallery": [],
+  "short": "Royal Balouchi"
+ },
+ {
+  "id": 19181,
+  "name": "BOUKHARA Rug in Laval",
+  "slug": "boukhara",
+  "cats": [
+   "carpets",
+   "hand-made-carpets"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "HAND KNOTTED FINE BOKHARA WOOL RUG, A VERY FINE SOFT TO THE TOUCH VIRGIN WOOL. Availability: In stock SKU: 787455 GTIN: 000811 Products specifications Origin PAKISTAN Shape RECTANGLE Size SMALL Weave HAND KNOTTED Material WOOL Age NEW Weight 1.6KG Measurement 4’4″ X 2’7″",
+  "img": "assets/catalog/boukhara.jpg",
+  "gallery": [],
+  "short": "Boukhara"
+ },
+ {
+  "id": 19173,
+  "name": "JALDAR BOUKHARA Rug in Laval",
+  "slug": "jaldar-boukhara-2",
+  "cats": [
+   "carpets",
+   "hand-made-carpets"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "HAND KNOTTED FINE JALDAR DESIGN BOKHARA WOOL RUG. Availability: In stock SKU: 787629 GTIN: 000810 Products specifications Origin PAKISTAN Shape RECTANGLE Size SMALL Weave HAND KNOTTED Material WOOL Age NEW Weight 1.6KG Measurement 4’1″ X 2’7″",
+  "img": "assets/catalog/jaldar-boukhara-2.jpg",
+  "gallery": [],
+  "short": "Jaldar Boukhara"
+ },
+ {
+  "id": 19168,
+  "name": "JALDAR BOUKHARA Rug in Laval",
+  "slug": "jaldar-boukhara",
+  "cats": [
+   "carpets",
+   "hand-made-carpets"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "HAND KNOTTED FINE JALDAR DESIGN BOKHARA WOOL RUG. Availability: 1 in stock SKU: 787002 GTIN: 000799 Products specifications Origin PAKISTAN Shape RECTANGLE Size SMALL Weave HAND KNOTTED Material WOOL AND SILK Age NEW Weight 1.3KG Measurement 4′ X 2’7″",
+  "img": "assets/catalog/jaldar-boukhara.jpg",
+  "gallery": [],
+  "short": "Jaldar Boukhara"
+ },
+ {
+  "id": 19161,
+  "name": "INDO HERIZ Rug in Laval",
+  "slug": "indo-heriz-2",
+  "cats": [
+   "carpets",
+   "hand-made-carpets"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "HAND KNOTTED HERIZ DESIGN INDO PERSIAN RUG. Availability: In stock SKU: 786832 GTIN: 000635 Products specifications Origin INDIA Shape RECTANGLE Size SMALL Weave HAND KNOTTED Material WOOL Age NEW Weight 4KG Measurement 5′ X 3’1″",
+  "img": "assets/catalog/indo-heriz-2.jpg",
+  "gallery": [],
+  "short": "Indo Heriz"
+ },
+ {
+  "id": 19154,
+  "name": "INDO HERIZ Rug in Laval",
+  "slug": "indo-heriz",
+  "cats": [
+   "carpets",
+   "hand-made-carpets"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "HAND KNOTTED PERSIAN DESIGN INDO HERIZ WOOL RUG. Availability: In stock SKU: 786800 GTIN: 000647 Products specifications Origin INDIA Shape RECTANGLE Size SMALL Weave HAND KNOTTED Material WOOL Age NEW Weight 3.4KG Measurement 5’1″ X 3′",
+  "img": "assets/catalog/indo-heriz.jpg",
+  "gallery": [],
+  "short": "Indo Heriz"
+ },
+ {
+  "id": 19146,
+  "name": "ROYAL BALOUCH Rug in Laval",
+  "slug": "royal-balouch-2",
+  "cats": [
+   "carpets",
+   "hand-made-carpets"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Hand knotted, all wool very fine Balouch Afghan carpet. Dense pile and tight knots will ensure maximum durability and comfort. Aztec gold, black, off-white, green, rust and light blue are the colours of this rug. See pictures for colour accuracy and details. Available in stock for immediate shipping. SKU: 734228 GTIN: 002190 Products specifications Origin AFGHANISTAN Shape RECTANGLE Measurement 4’",
+  "img": "assets/catalog/royal-balouch-2.jpg",
+  "gallery": [],
+  "short": "Royal Balouch"
+ },
+ {
+  "id": 19141,
+  "name": "BALOUCHI Rug in Laval",
+  "slug": "balouchi-5",
+  "cats": [
+   "carpets",
+   "hand-made-carpets"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Hand knotted Afghan all wool Balouch Rug. Availability: In stock SKU: 787011 GTIN: 000655 Products specifications Origin AFGHANISTAN Shape RECTANGLE Size SMALL Weave HAND KNOTTED Material WOOL Age NEW Weight 3.4KG Measurement 4’9″ X 3’1″",
+  "img": "assets/catalog/balouchi-5.jpg",
+  "gallery": [],
+  "short": "Balouchi"
+ },
+ {
+  "id": 19138,
+  "name": "YALAMEH PATINA Rug in Laval",
+  "slug": "yalameh-patina",
+  "cats": [
+   "carpets",
+   "hand-made-carpets"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "HAND KNOTTED YALAMEH SINO PERSIAN WOOL RUG. Availability: In stock SKU: 535585 GTIN: 000151 Products specifications Size SMALL Measurement 4’2″ X 2’8″ Shape RECTANGLE Material WOOL Weave HAND KNOTTED Weight 2.3KG Origin CHINA Age NEW",
+  "img": "assets/catalog/yalameh-patina.jpg",
+  "gallery": [],
+  "short": "Yalameh Patina"
+ },
+ {
+  "id": 19130,
+  "name": "YALAMEH DESIGN Rug in Laval",
+  "slug": "yalameh-design",
+  "cats": [
+   "carpets",
+   "hand-made-carpets"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "HAND KNOTTED YALAMEH SINO PERSIAN WOOL RUG. Availability: In stock SKU: 535586 GTIN: 000825 Products specifications Origin CHINA Shape RECTANGLE Size SMALL Weave HAND KNOTTED Material WOOL Age NEW Weight 2.2KG Measurement 4’2″ X 2’8″",
+  "img": "assets/catalog/yalameh-design.jpg",
+  "gallery": [],
+  "short": "Yalameh Design"
+ },
+ {
+  "id": 19128,
+  "name": "ROYAL BALOUCHI Rug in Laval",
+  "slug": "royal-balouchi-3",
+  "cats": [
+   "carpets",
+   "hand-made-carpets"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "HAND KNOTTED ROYAL BALOUCH WOOL RUG Availability: In stock SKU: 100270 GTIN: 000864 Products specifications Origin AFGHANISTAN Shape RECTANGLE Size SMALL Weave HAND KNOTTED Material WOOL Age NEW Weight 2.6KG Measurement 4’3″ X 3′",
+  "img": "assets/catalog/royal-balouchi-3.jpg",
+  "gallery": [],
+  "short": "Royal Balouchi"
+ },
+ {
+  "id": 19117,
+  "name": "BALUCH Rug in Laval",
+  "slug": "baluch-3",
+  "cats": [
+   "carpets",
+   "hand-made-carpets"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Hand knotted Authentic Afghan Baluch all wool Rug. SKU: 100291 GTIN: 002188 Products specifications Origin PAKISTAN Shape RECTANGLE Measurement 4’5″ X 2’9″ Size SMALL Weave HAND KNOTTED Material WOOL Age NEW Weight 2KG",
+  "img": "assets/catalog/baluch-3.jpg",
+  "gallery": [],
+  "short": "Baluch"
+ },
+ {
+  "id": 19106,
+  "name": "BALUCH Rug in Laval",
+  "slug": "baluch-2",
+  "cats": [
+   "carpets",
+   "hand-made-carpets"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Hand knotted Authentic Afghan Baluch all wool Rug. SKU: 131100 GTIN: 002187 Products specifications Origin PAKISTAN Shape RECTANGLE Measurement 4’6″ X 2’9″ Size SMALL Weave HAND KNOTTED Material WOOL Age NEW Weight 2KG",
+  "img": "assets/catalog/baluch-2.jpg",
+  "gallery": [],
+  "short": "Baluch"
+ },
+ {
+  "id": 19098,
+  "name": "BALOUCHI Rug in Laval",
+  "slug": "balouchi-4",
+  "cats": [
+   "carpets",
+   "hand-made-carpets"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Hand knotted Afghan all wool Balouch Rug. Availability: In stock SKU: 734195 GTIN: 000670 Products specifications Origin AFGHANISTAN Shape RECTANGLE Size SMALL Weave HAND KNOTTED Material WOOL Age NEW Weight 2.5KG Measurement 4’7″ X 2’10”",
+  "img": "assets/catalog/balouchi-4.jpg",
+  "gallery": [],
+  "short": "Balouchi"
+ },
+ {
+  "id": 19096,
+  "name": "BALOUCHI Rug in Laval",
+  "slug": "balouchi-3",
+  "cats": [
+   "carpets",
+   "hand-made-carpets"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Hand knotted Afghan all wool Balouch Rug. Availability: In stock SKU: 100266 GTIN: 000668 Products specifications Origin PAKISTAN Shape RECTANGLE Size SMALL Weave HAND KNOTTED Material WOOL Age NEW Weight 2.7KG Measurement 4’6″ X 3′",
+  "img": "assets/catalog/balouchi-3.jpg",
+  "gallery": [],
+  "short": "Balouchi"
+ },
+ {
+  "id": 19086,
+  "name": "BALOUCHI Rug in Laval",
+  "slug": "balouchi-2",
+  "cats": [
+   "carpets",
+   "hand-made-carpets"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Hand knotted Afghan all wool Balouch Rug Availability: In stock SKU: 100269 GTIN: 000657 Products specifications Origin PAKISTAN Shape RECTANGLE Size SMALL Weave HAND KNOTTED Material WOOL Age NEW Weight 2.7KG Measurement 4’5″ X 3′",
+  "img": "assets/catalog/balouchi-2.jpg",
+  "gallery": [],
+  "short": "Balouchi"
+ },
+ {
+  "id": 19083,
+  "name": "BALUCH Rug in Laval",
+  "slug": "baluch",
+  "cats": [
+   "carpets",
+   "hand-made-carpets"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Hand knotted Authentic Afghan Baluch all wool Rug. SKU: 100281 GTIN: 002189 Products specifications Origin PAKISTAN Shape RECTANGLE Measurement 4’4″ X 2’9″ Size SMALL Weave HAND KNOTTED Material WOOL Age NEW Weight 2KG",
+  "img": "assets/catalog/baluch.jpg",
+  "gallery": [],
+  "short": "Baluch"
+ },
+ {
+  "id": 19073,
+  "name": "BALOUCHI Rug in Laval",
+  "slug": "balouchi",
+  "cats": [
+   "carpets",
+   "hand-made-carpets"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Hand knotted Afghan all wool Balouch Rug. Availability: In stock SKU: 100285 GTIN: 000656 Products specifications Origin PAKISTAN Shape RECTANGLE Size SMALL Weave HAND KNOTTED Material WOOL Age NEW Weight 2.7KG Measurement 4’3″ X 2’9″",
+  "img": "assets/catalog/balouchi.jpg",
+  "gallery": [],
+  "short": "Balouchi"
+ },
+ {
+  "id": 19072,
+  "name": "ROYAL BALOUCH Rug in Laval",
+  "slug": "royal-balouch",
+  "cats": [
+   "carpets",
+   "hand-made-carpets"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "HAND KNOTTED ROYAL BALOUCH WOOL RUG. Availability: In stock SKU: 647017 GTIN: 000154 Products specifications Size SMALL Measurement 5′ X 2’9″ Shape RECTANGLE Material WOOL Weave HAND KNOTTED Weight 1.8KG Origin AFGHANISTAN Age NEW",
+  "img": "assets/catalog/royal-balouch.jpg",
+  "gallery": [],
+  "short": "Royal Balouch"
+ },
+ {
+  "id": 19060,
+  "name": "ROYAL BALOUCHI Rug in Laval",
+  "slug": "royal-balouchi",
+  "cats": [
+   "carpets",
+   "hand-made-carpets"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "HAND KNOTTED ROYAL BALOUCH WOOL RUG. Availability: In stock SKU: 734213 GTIN: 000659 Products specifications Origin AFGHANISTAN Shape RECTANGLE Size SMALL Weave HAND KNOTTED Material WOOL Age NEW Weight 1.9KG Measurement 4’1″ X 3′",
+  "img": "assets/catalog/royal-balouchi.jpg",
+  "gallery": [],
+  "short": "Royal Balouchi"
+ },
+ {
+  "id": 19058,
+  "name": "BALOUCH Rug in Laval",
+  "slug": "balouch",
+  "cats": [
+   "carpets",
+   "hand-made-carpets"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Hand knotted Authentic Afghan Baluch all wool Rug. SKU: 100284 GTIN: 002185 Products specifications Origin PAKISTAN Shape RECTANGLE Measurement 4’4″ X 2’9″ Size SMALL Weave HAND KNOTTED Material WOOL Age NEW Weight 2KG",
+  "img": "assets/catalog/balouch.jpg",
+  "gallery": [],
+  "short": "Balouch"
+ },
+ {
+  "id": 18741,
+  "name": "Sectional",
+  "slug": "sectional-18",
+  "cats": [],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "",
+  "img": null,
+  "gallery": [],
+  "short": "Sectional"
+ },
+ {
+  "id": 18760,
+  "name": "Sectional",
+  "slug": "sectional-17",
+  "cats": [
+   "living-room",
+   "sectional"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Design your perfect sectional with our wide selection of over 100 models, fabrics, and colours, tailored to suit your unique style and comfort preferences. |Available By Order|",
+  "img": "assets/catalog/sectional-17.jpg",
+  "gallery": [],
+  "short": "Sectional"
+ },
+ {
+  "id": 18759,
+  "name": "Sectional",
+  "slug": "18759",
+  "cats": [
+   "living-room",
+   "sectional"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Design your perfect sectional with our wide selection of over 100 models, fabrics, and colours, tailored to suit your unique style and comfort preferences. |Available By Order|",
+  "img": "assets/catalog/18759.jpg",
+  "gallery": [],
+  "short": "Sectional"
+ },
+ {
+  "id": 18758,
+  "name": "Sectional",
+  "slug": "sectional-16",
+  "cats": [
+   "living-room",
+   "sectional"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Design your perfect sectional with our wide selection of over 100 models, fabrics, and colours, tailored to suit your unique style and comfort preferences. |Available By Order|",
+  "img": "assets/catalog/sectional-16.jpg",
+  "gallery": [],
+  "short": "Sectional"
+ },
+ {
+  "id": 18757,
+  "name": "Sectional",
+  "slug": "sectional-15",
+  "cats": [
+   "living-room",
+   "sectional"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Design your perfect sectional with our wide selection of over 100 models, fabrics, and colours, tailored to suit your unique style and comfort preferences. |Available By Order|",
+  "img": "assets/catalog/sectional-15.jpg",
+  "gallery": [],
+  "short": "Sectional"
+ },
+ {
+  "id": 18756,
+  "name": "Sectional",
+  "slug": "18756",
+  "cats": [
+   "living-room",
+   "sectional"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Design your perfect sectional with our wide selection of over 100 models, fabrics, and colours, tailored to suit your unique style and comfort preferences. |Available By Order|",
+  "img": "assets/catalog/18756.jpg",
+  "gallery": [],
+  "short": "Sectional"
+ },
+ {
+  "id": 18755,
+  "name": "Sectional",
+  "slug": "18755",
+  "cats": [
+   "living-room",
+   "sectional"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Design your perfect sectional with our wide selection of over 100 models, fabrics, and colours, tailored to suit your unique style and comfort preferences. |Available By Order|",
+  "img": "assets/catalog/18755.jpg",
+  "gallery": [],
+  "short": "Sectional"
+ },
+ {
+  "id": 18753,
+  "name": "Sectional",
+  "slug": "sectional-14",
+  "cats": [
+   "living-room",
+   "sectional"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Design your perfect sectional with our wide selection of over 100 models, fabrics, and colours, tailored to suit your unique style and comfort preferences. |Available By Order|",
+  "img": "assets/catalog/sectional-14.jpg",
+  "gallery": [],
+  "short": "Sectional"
+ },
+ {
+  "id": 18752,
+  "name": "Sectional",
+  "slug": "sectional-13",
+  "cats": [
+   "living-room",
+   "sectional"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Design your perfect sectional with our wide selection of over 100 models, fabrics, and colours, tailored to suit your unique style and comfort preferences. |Available By Order|",
+  "img": "assets/catalog/sectional-13.jpg",
+  "gallery": [],
+  "short": "Sectional"
+ },
+ {
+  "id": 18751,
+  "name": "Sectional",
+  "slug": "sectional-12",
+  "cats": [
+   "living-room",
+   "sectional"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Design your perfect sectional with our wide selection of over 100 models, fabrics, and colours, tailored to suit your unique style and comfort preferences. |Available By Order|",
+  "img": "assets/catalog/sectional-12.jpg",
+  "gallery": [],
+  "short": "Sectional"
+ },
+ {
+  "id": 18750,
+  "name": "Sectional",
+  "slug": "sectional-11",
+  "cats": [
+   "living-room",
+   "sectional"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Design your perfect sectional with our wide selection of over 100 models, fabrics, and colours, tailored to suit your unique style and comfort preferences. |Available By Order|",
+  "img": "assets/catalog/sectional-11.jpg",
+  "gallery": [],
+  "short": "Sectional"
+ },
+ {
+  "id": 18749,
+  "name": "Sectional",
+  "slug": "sectional-10",
+  "cats": [
+   "living-room",
+   "sectional"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Design your perfect sectional with our wide selection of over 100 models, fabrics, and colours, tailored to suit your unique style and comfort preferences. |Available By Order|",
+  "img": "assets/catalog/sectional-10.jpg",
+  "gallery": [],
+  "short": "Sectional"
+ },
+ {
+  "id": 18748,
+  "name": "Sectional",
+  "slug": "sectional-9",
+  "cats": [
+   "living-room",
+   "sectional"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Design your perfect sectional with our wide selection of over 100 models, fabrics, and colours, tailored to suit your unique style and comfort preferences. |Available By Order|",
+  "img": "assets/catalog/sectional-9.jpg",
+  "gallery": [],
+  "short": "Sectional"
+ },
+ {
+  "id": 18747,
+  "name": "Sectional",
+  "slug": "sectional-8",
+  "cats": [
+   "living-room",
+   "sectional"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Design your perfect sectional with our wide selection of over 100 models, fabrics, and colours, tailored to suit your unique style and comfort preferences. |Available By Order|",
+  "img": "assets/catalog/sectional-8.jpg",
+  "gallery": [],
+  "short": "Sectional"
+ },
+ {
+  "id": 18746,
+  "name": "Sectional",
+  "slug": "sectional-7",
+  "cats": [
+   "living-room",
+   "sectional"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Design your perfect sectional with our wide selection of over 100 models, fabrics, and colours, tailored to suit your unique style and comfort preferences. |Available By Order|",
+  "img": "assets/catalog/sectional-7.jpg",
+  "gallery": [],
+  "short": "Sectional"
+ },
+ {
+  "id": 18745,
+  "name": "Sectional",
+  "slug": "sectional-6",
+  "cats": [
+   "living-room",
+   "sectional"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Design your perfect sectional with our wide selection of over 100 models, fabrics, and colours, tailored to suit your unique style and comfort preferences. |Available By Order|",
+  "img": "assets/catalog/sectional-6.jpg",
+  "gallery": [],
+  "short": "Sectional"
+ },
+ {
+  "id": 18743,
+  "name": "Sectional",
+  "slug": "sectional-5",
+  "cats": [
+   "living-room",
+   "sectional"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Design your perfect sectional with our wide selection of over 100 models, fabrics, and colours, tailored to suit your unique style and comfort preferences. |Available By Order|",
+  "img": "assets/catalog/sectional-5.jpg",
+  "gallery": [],
+  "short": "Sectional"
+ },
+ {
+  "id": 18742,
+  "name": "Sectional",
+  "slug": "sectional-4",
+  "cats": [
+   "living-room",
+   "sectional"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Design your perfect sectional with our wide selection of over 100 models, fabrics, and colours, tailored to suit your unique style and comfort preferences. |Available By Order|",
+  "img": "assets/catalog/sectional-4.jpg",
+  "gallery": [],
+  "short": "Sectional"
+ },
+ {
+  "id": 18739,
+  "name": "Sectional",
+  "slug": "sectional-3",
+  "cats": [
+   "living-room",
+   "sectional"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Design your perfect sectional with our wide selection of over 100 models, fabrics, and colours, tailored to suit your unique style and comfort preferences. |Available By Order|",
+  "img": "assets/catalog/sectional-3.jpg",
+  "gallery": [],
+  "short": "Sectional"
+ },
+ {
+  "id": 18738,
+  "name": "Sectional",
+  "slug": "sectional-2",
+  "cats": [
+   "living-room",
+   "sectional"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Design your perfect sectional with our wide selection of over 100 models, fabrics, and colours, tailored to suit your unique style and comfort preferences. |Available By Order|",
+  "img": "assets/catalog/sectional-2.jpg",
+  "gallery": [],
+  "short": "Sectional"
+ },
+ {
+  "id": 18630,
+  "name": "Sectional",
+  "slug": "sectional",
+  "cats": [
+   "living-room",
+   "sectional"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Design your perfect sectional with our wide selection of over 100 models, fabrics, and colours, tailored to suit your unique style and comfort preferences. |Available By Order|",
+  "img": "assets/catalog/sectional.jpg",
+  "gallery": [],
+  "short": "Sectional"
+ },
+ {
+  "id": 18629,
+  "name": "Chair",
+  "slug": "chair-21",
+  "cats": [
+   "chair-chaise",
+   "living-room"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Design your perfect chair with our wide selection of over 100 models, fabrics, and colors, tailored to suit your unique style and comfort preferences. |Available By Order|",
+  "img": "assets/catalog/chair-21.jpg",
+  "gallery": [],
+  "short": "Chair"
+ },
+ {
+  "id": 18628,
+  "name": "Chair",
+  "slug": "chair-20",
+  "cats": [
+   "chair-chaise",
+   "living-room"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Design your perfect chair with our wide selection of over 100 models, fabrics, and colors, tailored to suit your unique style and comfort preferences. |Available By Order|",
+  "img": "assets/catalog/chair-20.jpg",
+  "gallery": [],
+  "short": "Chair"
+ },
+ {
+  "id": 18627,
+  "name": "Chair",
+  "slug": "chair-19",
+  "cats": [
+   "chair-chaise",
+   "living-room"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Design your perfect chair with our wide selection of over 100 models, fabrics, and colors, tailored to suit your unique style and comfort preferences. |Available By Order|",
+  "img": "assets/catalog/chair-19.jpg",
+  "gallery": [],
+  "short": "Chair"
+ },
+ {
+  "id": 18626,
+  "name": "Chair",
+  "slug": "chair-18",
+  "cats": [
+   "chair-chaise",
+   "living-room"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Design your perfect chair with our wide selection of over 100 models, fabrics, and colors, tailored to suit your unique style and comfort preferences. |Available By Order|",
+  "img": "assets/catalog/chair-18.jpg",
+  "gallery": [],
+  "short": "Chair"
+ },
+ {
+  "id": 18625,
+  "name": "Chair",
+  "slug": "chair-17",
+  "cats": [
+   "chair-chaise",
+   "living-room"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Design your perfect chair with our wide selection of over 100 models, fabrics, and colors, tailored to suit your unique style and comfort preferences. |Available By Order|",
+  "img": "assets/catalog/chair-17.jpg",
+  "gallery": [],
+  "short": "Chair"
+ },
+ {
+  "id": 18623,
+  "name": "Chair",
+  "slug": "chair-16",
+  "cats": [
+   "chair-chaise",
+   "living-room"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Design your perfect chair with our wide selection of over 100 models, fabrics, and colors, tailored to suit your unique style and comfort preferences. |Available By Order|",
+  "img": "assets/catalog/chair-16.jpg",
+  "gallery": [],
+  "short": "Chair"
+ },
+ {
+  "id": 18622,
+  "name": "Chair",
+  "slug": "chair-15",
+  "cats": [
+   "chair-chaise",
+   "living-room"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Design your perfect chair with our wide selection of over 100 models, fabrics, and colors, tailored to suit your unique style and comfort preferences. |Available By Order|",
+  "img": "assets/catalog/chair-15.jpg",
+  "gallery": [],
+  "short": "Chair"
+ },
+ {
+  "id": 18621,
+  "name": "Chair",
+  "slug": "chair-14",
+  "cats": [
+   "chair-chaise",
+   "living-room"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Design your perfect chair with our wide selection of over 100 models, fabrics, and colors, tailored to suit your unique style and comfort preferences. |Available By Order|",
+  "img": "assets/catalog/chair-14.jpg",
+  "gallery": [],
+  "short": "Chair"
+ },
+ {
+  "id": 18620,
+  "name": "Chair",
+  "slug": "chair-13",
+  "cats": [
+   "chair-chaise",
+   "living-room"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Design your perfect chair with our wide selection of over 100 models, fabrics, and colors, tailored to suit your unique style and comfort preferences. |Available By Order|",
+  "img": "assets/catalog/chair-13.jpg",
+  "gallery": [],
+  "short": "Chair"
+ },
+ {
+  "id": 18618,
+  "name": "Chair",
+  "slug": "chair-12",
+  "cats": [
+   "chair-chaise",
+   "living-room"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Design your perfect chair with our wide selection of over 100 models, fabrics, and colors, tailored to suit your unique style and comfort preferences. |Available By Order|",
+  "img": "assets/catalog/chair-12.jpg",
+  "gallery": [],
+  "short": "Chair"
+ },
+ {
+  "id": 18617,
+  "name": "Chair",
+  "slug": "chair-11",
+  "cats": [
+   "chair-chaise",
+   "living-room"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Design your perfect chair with our wide selection of over 100 models, fabrics, and colors, tailored to suit your unique style and comfort preferences. |Available By Order|",
+  "img": "assets/catalog/chair-11.jpg",
+  "gallery": [],
+  "short": "Chair"
+ },
+ {
+  "id": 18616,
+  "name": "chair",
+  "slug": "chair-10",
+  "cats": [
+   "chair-chaise",
+   "living-room"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Design your perfect chair with our wide selection of over 100 models, fabrics, and colors, tailored to suit your unique style and comfort preferences. |Available By Order|",
+  "img": "assets/catalog/chair-10.jpg",
+  "gallery": [],
+  "short": "chair"
+ },
+ {
+  "id": 18615,
+  "name": "Chair",
+  "slug": "chair-9",
+  "cats": [
+   "chair-chaise",
+   "living-room"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Design your perfect chair with our wide selection of over 100 models, fabrics, and colors, tailored to suit your unique style and comfort preferences. |Available By Order|",
+  "img": "assets/catalog/chair-9.jpg",
+  "gallery": [],
+  "short": "Chair"
+ },
+ {
+  "id": 18614,
+  "name": "Chair",
+  "slug": "chair-8",
+  "cats": [
+   "chair-chaise",
+   "living-room"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Design your perfect chair with our wide selection of over 100 models, fabrics, and colors, tailored to suit your unique style and comfort preferences. |Available By Order|",
+  "img": "assets/catalog/chair-8.jpg",
+  "gallery": [],
+  "short": "Chair"
+ },
+ {
+  "id": 18613,
+  "name": "Chair",
+  "slug": "chair-7",
+  "cats": [
+   "chair-chaise",
+   "living-room"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Design your perfect chair with our wide selection of over 100 models, fabrics, and colors, tailored to suit your unique style and comfort preferences. |Available By Order|",
+  "img": "assets/catalog/chair-7.jpg",
+  "gallery": [],
+  "short": "Chair"
+ },
+ {
+  "id": 18612,
+  "name": "Chair",
+  "slug": "chair-6",
+  "cats": [
+   "chair-chaise",
+   "living-room"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Design your perfect chair with our wide selection of over 100 models, fabrics, and colors, tailored to suit your unique style and comfort preferences. |Available By Order|",
+  "img": "assets/catalog/chair-6.jpg",
+  "gallery": [],
+  "short": "Chair"
+ },
+ {
+  "id": 18611,
+  "name": "Chair",
+  "slug": "chair-5",
+  "cats": [
+   "chair-chaise",
+   "living-room"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Design your perfect chair with our wide selection of over 100 models, fabrics, and colors, tailored to suit your unique style and comfort preferences. |Available By Order|",
+  "img": "assets/catalog/chair-5.jpg",
+  "gallery": [],
+  "short": "Chair"
+ },
+ {
+  "id": 18610,
+  "name": "Chair",
+  "slug": "chair-4",
+  "cats": [
+   "chair-chaise",
+   "living-room"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Design your perfect chair with our wide selection of over 100 models, fabrics, and colors, tailored to suit your unique style and comfort preferences. |Available By Order|",
+  "img": "assets/catalog/chair-4.jpg",
+  "gallery": [],
+  "short": "Chair"
+ },
+ {
+  "id": 18608,
+  "name": "Chair",
+  "slug": "chair-3",
+  "cats": [
+   "chair-chaise",
+   "living-room"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Design your perfect chair with our wide selection of over 100 models, fabrics, and colors, tailored to suit your unique style and comfort preferences. |Available By Order|",
+  "img": "assets/catalog/chair-3.jpg",
+  "gallery": [],
+  "short": "Chair"
+ },
+ {
+  "id": 18607,
+  "name": "Chair",
+  "slug": "chair-2",
+  "cats": [
+   "chair-chaise",
+   "living-room"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Design your perfect chair with our wide selection of over 100 models, fabrics, and colors, tailored to suit your unique style and comfort preferences. |Available By Order|",
+  "img": "assets/catalog/chair-2.jpg",
+  "gallery": [],
+  "short": "Chair"
+ },
+ {
+  "id": 18606,
+  "name": "Chair",
+  "slug": "chair",
+  "cats": [
+   "chair-chaise",
+   "living-room"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Design your perfect chair with our wide selection of over 100 models, fabrics, and colors, tailored to suit your unique style and comfort preferences. |Available By Order|",
+  "img": "assets/catalog/chair.jpg",
+  "gallery": [],
+  "short": "Chair"
+ },
+ {
+  "id": 18605,
+  "name": "Chaise",
+  "slug": "chaise-5",
+  "cats": [
+   "chair-chaise",
+   "living-room"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Design your perfect chaise with our wide selection of over 100 models, fabrics, and colors, tailored to suit your unique style and comfort preferences. |Available By Order|",
+  "img": "assets/catalog/chaise-5.jpg",
+  "gallery": [],
+  "short": "Chaise"
+ },
+ {
+  "id": 18603,
+  "name": "Chaise",
+  "slug": "chaise-4",
+  "cats": [
+   "chair-chaise",
+   "living-room"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Design your perfect chaise with our wide selection of over 100 models, fabrics, and colors, tailored to suit your unique style and comfort preferences. |Available By Order|",
+  "img": "assets/catalog/chaise-4.jpg",
+  "gallery": [],
+  "short": "Chaise"
+ },
+ {
+  "id": 18602,
+  "name": "Chaise",
+  "slug": "chaise-3",
+  "cats": [
+   "chair-chaise",
+   "living-room"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Design your perfect chaise with our wide selection of over 100 models, fabrics, and colors, tailored to suit your unique style and comfort preferences. |Available By Order|",
+  "img": "assets/catalog/chaise-3.jpg",
+  "gallery": [],
+  "short": "Chaise"
+ },
+ {
+  "id": 18601,
+  "name": "Chaise",
+  "slug": "chaise-2",
+  "cats": [
+   "chair-chaise",
+   "living-room"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Design your perfect chaise with our wide selection of over 100 models, fabrics, and colors, tailored to suit your unique style and comfort preferences. |Available By Order|",
+  "img": "assets/catalog/chaise-2.jpg",
+  "gallery": [],
+  "short": "Chaise"
+ },
+ {
+  "id": 18561,
+  "name": "Chaise",
+  "slug": "chaise",
+  "cats": [
+   "chair-chaise",
+   "living-room"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Design your perfect chaise with our wide selection of over 100 models, fabrics, and colors, tailored to suit your unique style and comfort preferences. |Available By Order|",
+  "img": "assets/catalog/chaise.jpg",
+  "gallery": [],
+  "short": "Chaise"
+ },
+ {
+  "id": 18546,
+  "name": "Ottoman",
+  "slug": "ottoman-10",
+  "cats": [],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "",
+  "img": "assets/catalog/ottoman-10.jpg",
+  "gallery": [],
+  "short": "Ottoman"
+ },
+ {
+  "id": 18548,
+  "name": "Ottoman",
+  "slug": "ottoman-9",
+  "cats": [
+   "living-room",
+   "ottomans"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Design your perfect Ottoman with your wide selection of over 100 models, fabrics, and colors. |Available By Order|",
+  "img": "assets/catalog/ottoman-9.jpg",
+  "gallery": [],
+  "short": "Ottoman"
+ },
+ {
+  "id": 18547,
+  "name": "Ottoman",
+  "slug": "ottoman-8",
+  "cats": [
+   "living-room",
+   "ottomans"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Design your perfect Ottoman with your wide selection of over 100 models, fabrics, and colors. |Available By Order|",
+  "img": "assets/catalog/ottoman-8.jpg",
+  "gallery": [],
+  "short": "Ottoman"
+ },
+ {
+  "id": 18545,
+  "name": "Ottoman",
+  "slug": "ottoman-7",
+  "cats": [
+   "living-room",
+   "ottomans"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Design your perfect Ottoman with your wide selection of over 100 models, fabrics, and colors. |Available By Order|",
+  "img": "assets/catalog/ottoman-7.jpg",
+  "gallery": [],
+  "short": "Ottoman"
+ },
+ {
+  "id": 18544,
+  "name": "Ottoman",
+  "slug": "ottoman-6",
+  "cats": [
+   "living-room",
+   "ottomans"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Design your perfect Ottoman with your wide selection of over 100 models, fabrics, and colors. |Available By Order|",
+  "img": "assets/catalog/ottoman-6.jpg",
+  "gallery": [],
+  "short": "Ottoman"
+ },
+ {
+  "id": 18543,
+  "name": "Ottoman",
+  "slug": "ottoman-5",
+  "cats": [
+   "living-room",
+   "ottomans"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Design your perfect Ottoman with your wide selection of over 100 models, fabrics, and colors. |Available By Order|",
+  "img": "assets/catalog/ottoman-5.jpg",
+  "gallery": [],
+  "short": "Ottoman"
+ },
+ {
+  "id": 18542,
+  "name": "Ottoman",
+  "slug": "ottoman-4",
+  "cats": [
+   "living-room",
+   "ottomans"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Design your perfect Ottoman with your wide selection of over 100 models, fabrics, and colors. |Available By Order|",
+  "img": "assets/catalog/ottoman-4.jpg",
+  "gallery": [],
+  "short": "Ottoman"
+ },
+ {
+  "id": 18541,
+  "name": "Ottoman",
+  "slug": "ottoman-3",
+  "cats": [
+   "living-room",
+   "ottomans"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Design your perfect Ottoman with your wide selection of over 100 models, fabrics, and colors. |Available By Order|",
+  "img": "assets/catalog/ottoman-3.jpg",
+  "gallery": [],
+  "short": "Ottoman"
+ },
+ {
+  "id": 18540,
+  "name": "Ottoman",
+  "slug": "ottoman-2",
+  "cats": [
+   "living-room",
+   "ottomans"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Design your perfect Ottoman with your wide selection of over 100 models, fabrics, and colors. |Available By Order|",
+  "img": "assets/catalog/ottoman-2.jpg",
+  "gallery": [],
+  "short": "Ottoman"
+ },
+ {
+  "id": 18539,
+  "name": "Ottoman",
+  "slug": "ottoman",
+  "cats": [
+   "living-room",
+   "ottomans"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Design your perfect Ottoman with your wide selection of over 100 models, fabrics, and colors. |Available By Order|",
+  "img": "assets/catalog/ottoman.jpg",
+  "gallery": [],
+  "short": "Ottoman"
+ },
+ {
+  "id": 18516,
+  "name": "Stationary",
+  "slug": "stationary-29",
+  "cats": [
+   "living-room",
+   "stationary"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Living room set – 3 pieces |Not Available|",
+  "img": "assets/catalog/stationary-29.jpg",
+  "gallery": [],
+  "short": "Stationary"
+ },
+ {
+  "id": 18515,
+  "name": "Stationary",
+  "slug": "stationary-28",
+  "cats": [
+   "living-room",
+   "stationary"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Living room set – 3 pieces |Not Available|",
+  "img": "assets/catalog/stationary-28.jpg",
+  "gallery": [
+   "assets/catalog/stationary-28-2.jpg",
+   "assets/catalog/stationary-28-3.jpg",
+   "assets/catalog/stationary-28-4.jpg"
+  ],
+  "short": "Stationary"
+ },
+ {
+  "id": 18508,
+  "name": "Stationary",
+  "slug": "stationary-27",
+  "cats": [
+   "living-room",
+   "stationary"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Living room set – 3 pieces |Not Available|",
+  "img": "assets/catalog/stationary-27.jpg",
+  "gallery": [
+   "assets/catalog/stationary-27-2.jpg",
+   "assets/catalog/stationary-27-3.jpg",
+   "assets/catalog/stationary-27-4.jpg"
+  ],
+  "short": "Stationary"
+ },
+ {
+  "id": 18504,
+  "name": "Stationary",
+  "slug": "stationary-26",
+  "cats": [
+   "living-room",
+   "stationary"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Living room set – 3 pieces |Available|",
+  "img": "assets/catalog/stationary-26.jpg",
+  "gallery": [
+   "assets/catalog/stationary-26-2.jpg",
+   "assets/catalog/stationary-26-3.jpg",
+   "assets/catalog/stationary-26-4.jpg"
+  ],
+  "short": "Stationary"
+ },
+ {
+  "id": 18500,
+  "name": "Stationary",
+  "slug": "stationary-25",
+  "cats": [
+   "living-room",
+   "stationary"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Living room set – 3 pieces |Available|",
+  "img": "assets/catalog/stationary-25.jpg",
+  "gallery": [
+   "assets/catalog/stationary-25-2.jpg",
+   "assets/catalog/stationary-25-3.jpg",
+   "assets/catalog/stationary-25-4.jpg"
+  ],
+  "short": "Stationary"
+ },
+ {
+  "id": 18496,
+  "name": "Stationary",
+  "slug": "stationary-24",
+  "cats": [
+   "living-room",
+   "stationary"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Living room set – 2 pieces |Available|",
+  "img": "assets/catalog/stationary-24.jpg",
+  "gallery": [],
+  "short": "Stationary"
+ },
+ {
+  "id": 18492,
+  "name": "Stationary",
+  "slug": "stationary-23",
+  "cats": [
+   "living-room",
+   "stationary"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Living room set – 3 pieces |Not Available|",
+  "img": "assets/catalog/stationary-23.jpg",
+  "gallery": [
+   "assets/catalog/stationary-23-2.jpg",
+   "assets/catalog/stationary-23-3.jpg",
+   "assets/catalog/stationary-23-4.jpg"
+  ],
+  "short": "Stationary"
+ },
+ {
+  "id": 18489,
+  "name": "Stationary",
+  "slug": "stationary-22",
+  "cats": [
+   "living-room",
+   "stationary"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Living room set – 3 pieces |Not Available|",
+  "img": "assets/catalog/stationary-22.jpg",
+  "gallery": [
+   "assets/catalog/stationary-22-2.jpg",
+   "assets/catalog/stationary-22-3.jpg"
+  ],
+  "short": "Stationary"
+ },
+ {
+  "id": 18482,
+  "name": "Stationary",
+  "slug": "stationary-21",
+  "cats": [
+   "living-room",
+   "stationary"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Living room set – 4 pieces |Not Available|",
+  "img": "assets/catalog/stationary-21.jpg",
+  "gallery": [
+   "assets/catalog/stationary-21-2.jpg",
+   "assets/catalog/stationary-21-3.jpg"
+  ],
+  "short": "Stationary"
+ },
+ {
+  "id": 18481,
+  "name": "Stationary",
+  "slug": "stationary-20",
+  "cats": [
+   "living-room",
+   "stationary"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Living room set – 3 pieces |Not Available|",
+  "img": "assets/catalog/stationary-20.jpg",
+  "gallery": [
+   "assets/catalog/stationary-20-2.jpg",
+   "assets/catalog/stationary-20-3.jpg",
+   "assets/catalog/stationary-20-4.jpg"
+  ],
+  "short": "Stationary"
+ },
+ {
+  "id": 18477,
+  "name": "Stationary",
+  "slug": "stationary-19",
+  "cats": [
+   "living-room",
+   "stationary"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Living room set – 3 pieces |Available|",
+  "img": "assets/catalog/stationary-19.jpg",
+  "gallery": [
+   "assets/catalog/stationary-19-2.jpg",
+   "assets/catalog/stationary-19-3.jpg",
+   "assets/catalog/stationary-19-4.jpg"
+  ],
+  "short": "Stationary"
+ },
+ {
+  "id": 18470,
+  "name": "Stationary",
+  "slug": "stationary-18",
+  "cats": [
+   "living-room",
+   "stationary"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Living room set – 3 pieces |Not Available|",
+  "img": "assets/catalog/stationary-18.jpg",
+  "gallery": [
+   "assets/catalog/stationary-18-2.jpg",
+   "assets/catalog/stationary-18-3.jpg",
+   "assets/catalog/stationary-18-4.jpg"
+  ],
+  "short": "Stationary"
+ },
+ {
+  "id": 18468,
+  "name": "Stationary",
+  "slug": "stationary-17",
+  "cats": [
+   "living-room",
+   "stationary"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Living room set – 3 pieces |Available|",
+  "img": "assets/catalog/stationary-17.jpg",
+  "gallery": [],
+  "short": "Stationary"
+ },
+ {
+  "id": 18431,
+  "name": "Stationary",
+  "slug": "stationary-16",
+  "cats": [
+   "living-room",
+   "stationary"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Living room set – 2 pieces |Available|",
+  "img": "assets/catalog/stationary-16.jpg",
+  "gallery": [],
+  "short": "Stationary"
+ },
+ {
+  "id": 18424,
+  "name": "Stationary",
+  "slug": "stationary-15",
+  "cats": [
+   "living-room",
+   "stationary"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Living room set – 2 pieces |Available|",
+  "img": "assets/catalog/stationary-15.jpg",
+  "gallery": [],
+  "short": "Stationary"
+ },
+ {
+  "id": 18420,
+  "name": "Sofa",
+  "slug": "sofa-5",
+  "cats": [
+   "living-room",
+   "stationary"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Design your perfect sofa Or Sofa bed with our wide selection of over 100 models, fabrics, and colours, tailored to suit your unique style and comfort preferences. |Available By Order|",
+  "img": "assets/catalog/sofa-5.jpg",
+  "gallery": [
+   "assets/catalog/sofa-5-2.jpg"
+  ],
+  "short": "Sofa"
+ },
+ {
+  "id": 18416,
+  "name": "Stationary",
+  "slug": "stationary-14",
+  "cats": [
+   "living-room",
+   "stationary"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Design your perfect sofa Or Sofa bed with our wide selection of over 100 models, fabrics, and colours, tailored to suit your unique style and comfort preferences. |Available By Order|",
+  "img": "assets/catalog/stationary-14.jpg",
+  "gallery": [
+   "assets/catalog/stationary-14-2.jpg",
+   "assets/catalog/stationary-14-3.jpg"
+  ],
+  "short": "Stationary"
+ },
+ {
+  "id": 18415,
+  "name": "Stationary",
+  "slug": "stationary-13",
+  "cats": [
+   "living-room",
+   "stationary"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Design your perfect sofa Or Sofa bed with our wide selection of over 100 models, fabrics, and colours, tailored to suit your unique style and comfort preferences. |Available By Order|",
+  "img": "assets/catalog/stationary-13.jpg",
+  "gallery": [],
+  "short": "Stationary"
+ },
+ {
+  "id": 18408,
+  "name": "Stationary",
+  "slug": "stationary-12",
+  "cats": [
+   "living-room",
+   "stationary"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Design your perfect sofa Or Sofa bed with our wide selection of over 100 models, fabrics, and colours, tailored to suit your unique style and comfort preferences. |Available By Order|",
+  "img": "assets/catalog/stationary-12.jpg",
+  "gallery": [
+   "assets/catalog/stationary-12-2.jpg"
+  ],
+  "short": "Stationary"
+ },
+ {
+  "id": 18406,
+  "name": "Stationary",
+  "slug": "stationary-11",
+  "cats": [
+   "living-room",
+   "stationary"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Design your perfect sofa Or Sofa bed with our wide selection of over 100 models, fabrics, and colours, tailored to suit your unique style and comfort preferences. |Available By Order|",
+  "img": "assets/catalog/stationary-11.jpg",
+  "gallery": [],
+  "short": "Stationary"
+ },
+ {
+  "id": 18399,
+  "name": "Stationary",
+  "slug": "stationary-10",
+  "cats": [
+   "living-room",
+   "stationary"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Design your perfect sofa Or Sofa bed with our wide selection of over 100 models, fabrics, and colours, tailored to suit your unique style and comfort preferences. |Available By Order|",
+  "img": "assets/catalog/stationary-10.jpg",
+  "gallery": [],
+  "short": "Stationary"
+ },
+ {
+  "id": 18398,
+  "name": "Stationary",
+  "slug": "stationary-9",
+  "cats": [
+   "living-room",
+   "stationary"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Design your perfect sofa Or Sofa bed with our wide selection of over 100 models, fabrics, and colours, tailored to suit your unique style and comfort preferences. |Available By Order|",
+  "img": "assets/catalog/stationary-9.jpg",
+  "gallery": [],
+  "short": "Stationary"
+ },
+ {
+  "id": 18394,
+  "name": "Stationary",
+  "slug": "stationary-8",
+  "cats": [
+   "living-room",
+   "stationary"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Design your perfect sofa Or Sofa bed with our wide selection of over 100 models, fabrics, and colours, tailored to suit your unique style and comfort preferences. |Available By Order|",
+  "img": "assets/catalog/stationary-8.jpg",
+  "gallery": [
+   "assets/catalog/stationary-8-2.jpg"
+  ],
+  "short": "Stationary"
+ },
+ {
+  "id": 18383,
+  "name": "Stationary",
+  "slug": "stationary-7",
+  "cats": [
+   "living-room",
+   "stationary"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Design your perfect sofa Or Sofa bed with our wide selection of over 100 models, fabrics, and colours, tailored to suit your unique style and comfort preferences. |Available By Order|",
+  "img": "assets/catalog/stationary-7.jpg",
+  "gallery": [],
+  "short": "Stationary"
+ },
+ {
+  "id": 18382,
+  "name": "Stationary",
+  "slug": "stationary-6",
+  "cats": [
+   "living-room",
+   "stationary"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Design your perfect sofa Or Sofa bed with our wide selection of over 100 models, fabrics, and colours, tailored to suit your unique style and comfort preferences. |Available By Order|",
+  "img": "assets/catalog/stationary-6.jpg",
+  "gallery": [
+   "assets/catalog/stationary-6-2.jpg"
+  ],
+  "short": "Stationary"
+ },
+ {
+  "id": 18378,
+  "name": "Stationary",
+  "slug": "stationary-5",
+  "cats": [
+   "living-room",
+   "stationary"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Design your perfect sofa Or Sofa bed with our wide selection of over 100 models, fabrics, and colours, tailored to suit your unique style and comfort preferences. |Available By Order|",
+  "img": "assets/catalog/stationary-5.jpg",
+  "gallery": [],
+  "short": "Stationary"
+ },
+ {
+  "id": 18371,
+  "name": "Stationary",
+  "slug": "stationary-4",
+  "cats": [
+   "living-room",
+   "stationary"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Design your perfect sofa Or Sofa bed with our wide selection of over 100 models, fabrics, and colours, tailored to suit your unique style and comfort preferences. |Available By Order|",
+  "img": "assets/catalog/stationary-4.jpg",
+  "gallery": [
+   "assets/catalog/stationary-4-2.jpg",
+   "assets/catalog/stationary-4-3.jpg"
+  ],
+  "short": "Stationary"
+ },
+ {
+  "id": 18364,
+  "name": "Stationary",
+  "slug": "stationary-3",
+  "cats": [
+   "living-room",
+   "stationary"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Design your perfect sofa or sofa bed with our wide selection of over 100 models, fabrics, and colours, tailored to suit your unique style and comfort preferences. |Available By Order|",
+  "img": "assets/catalog/stationary-3.jpg",
+  "gallery": [],
+  "short": "Stationary"
+ },
+ {
+  "id": 18359,
+  "name": "Stationary",
+  "slug": "stationary-2",
+  "cats": [
+   "living-room",
+   "stationary"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Design your perfect sofa Or Sofa bed with our wide selection of over 100 models, fabrics, and colours, tailored to suit your unique style and comfort preferences. |Available By Order.|",
+  "img": "assets/catalog/stationary-2.jpg",
+  "gallery": [],
+  "short": "Stationary"
+ },
+ {
+  "id": 18357,
+  "name": "Stationary",
+  "slug": "stationary",
+  "cats": [
+   "living-room",
+   "stationary"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Design your perfect sofa Or Sofa bed with our wide selection of over 100 models, fabrics, and colours, tailored to suit your unique style and comfort preferences. |Available By Order.|",
+  "img": "assets/catalog/stationary.jpg",
+  "gallery": [],
+  "short": "Stationary"
+ },
+ {
+  "id": 18350,
+  "name": "Sofa",
+  "slug": "sofa-4",
+  "cats": [
+   "living-room",
+   "sofa-bed"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Design your perfect sofa Or Sofa bed with our wide selection of over 100 models, fabrics, and colours, tailored to suit your unique style and comfort preferences. |Available By Order.|",
+  "img": "assets/catalog/sofa-4.jpg",
+  "gallery": [],
+  "short": "Sofa"
+ },
+ {
+  "id": 18343,
+  "name": "Sofa",
+  "slug": "sofa-3",
+  "cats": [
+   "living-room",
+   "stationary"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Design your perfect sofa Or Sofa bed with our wide selection of over 100 models, fabrics, and colors, tailored to suit your unique style and comfort preferences. |Available By Order.|",
+  "img": "assets/catalog/sofa-3.jpg",
+  "gallery": [],
+  "short": "Sofa"
+ },
+ {
+  "id": 18341,
+  "name": "Sofa",
+  "slug": "sofa-2",
+  "cats": [
+   "living-room",
+   "stationary"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "|Available By Order|",
+  "img": "assets/catalog/sofa-2.jpg",
+  "gallery": [
+   "assets/catalog/sofa-2-2.jpg"
+  ],
+  "short": "Sofa"
+ },
+ {
+  "id": 18337,
+  "name": "Sofa",
+  "slug": "sofa",
+  "cats": [
+   "living-room",
+   "stationary"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "|Available By Order|",
+  "img": "assets/catalog/sofa.jpg",
+  "gallery": [],
+  "short": "Sofa"
+ },
+ {
+  "id": 18314,
+  "name": "Sofa Bed",
+  "slug": "sofa-bed-6",
+  "cats": [
+   "living-room",
+   "sofa-bed"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Design your perfect sofa bed with our wide selection of over 100 models, fabrics, and colors, tailored to suit your unique style and comfort preferences. | Available By Order|",
+  "img": "assets/catalog/sofa-bed-6.jpg",
+  "gallery": [],
+  "short": "Sofa Bed"
+ },
+ {
+  "id": 18310,
+  "name": "Sofa Bed",
+  "slug": "sofa-bed-5",
+  "cats": [
+   "living-room",
+   "sofa-bed"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Design your perfect sofa bed with our wide selection of over 100 models, fabrics, and colors, tailored to suit your unique style and comfort preferences. | Available By Order|",
+  "img": "assets/catalog/sofa-bed-5.jpg",
+  "gallery": [
+   "assets/catalog/sofa-bed-5-2.jpg"
+  ],
+  "short": "Sofa Bed"
+ },
+ {
+  "id": 18309,
+  "name": "Sofa Bed",
+  "slug": "sofa-bed-4",
+  "cats": [
+   "living-room",
+   "sofa-bed"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "The Pamina Sectional in Grey combines versatility and style, featuring a roll-out bed, one ottoman, and two stools, along with small storage compartment, making it the perfect addition to contemporary living spaces. |Available|",
+  "img": "assets/catalog/sofa-bed-4.jpg",
+  "gallery": [
+   "assets/catalog/sofa-bed-4-2.jpg"
+  ],
+  "short": "Sofa Bed"
+ },
+ {
+  "id": 18304,
+  "name": "Sofa Bed",
+  "slug": "sofa-bed-3",
+  "cats": [
+   "living-room",
+   "sofa-bed"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "The Sectional in Grey combines versatility and style, featuring a roll-out bed, along with storage compartment, making it the perfect addition to contemporary living spaces. |Available|",
+  "img": "assets/catalog/sofa-bed-3.jpg",
+  "gallery": [
+   "assets/catalog/sofa-bed-3-2.jpg",
+   "assets/catalog/sofa-bed-3-3.jpg"
+  ],
+  "short": "Sofa Bed"
+ },
+ {
+  "id": 18300,
+  "name": "Sofa Bed",
+  "slug": "sofa-bed-2",
+  "cats": [
+   "living-room",
+   "sofa-bed"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "The Sectional combines versatility and style, featuring a roll-out bed, one ottoman, along with small storage compartment, making it the perfect addition to contemporary living spaces. |Available|",
+  "img": "assets/catalog/sofa-bed-2.jpg",
+  "gallery": [],
+  "short": "Sofa Bed"
+ },
+ {
+  "id": 18296,
+  "name": "Sofa Bed",
+  "slug": "bed-room-12",
+  "cats": [
+   "living-room",
+   "sofa-bed"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Design your perfect sofa bed with our wide selection of over 100 models, fabrics, and colors, tailored to suit your unique style and comfort preferences. |Available By Order.|",
+  "img": "assets/catalog/bed-room-12.jpg",
+  "gallery": [
+   "assets/catalog/bed-room-12-2.jpg",
+   "assets/catalog/bed-room-12-3.jpg",
+   "assets/catalog/bed-room-12-4.jpg"
+  ],
+  "short": "Sofa Bed"
+ },
+ {
+  "id": 18292,
+  "name": "Sofa Bed",
+  "slug": "sofa-bed",
+  "cats": [
+   "living-room",
+   "sofa-bed"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "The Sectional combines versatility and style, featuring a roll-out bed, along with storage compartments, making it the perfect addition to contemporary living spaces. |Available|",
+  "img": "assets/catalog/sofa-bed.jpg",
+  "gallery": [
+   "assets/catalog/sofa-bed-2.jpg"
+  ],
+  "short": "Sofa Bed"
+ },
+ {
+  "id": 18262,
+  "name": "KELDELL GREY",
+  "slug": "bed",
+  "cats": [],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Code: GL 2963 Available: YES QTY SET: 1 pic Color: Gray Size: QUEEN Materials: Wood And velvet fabric Origin: Made in Canada Style: Contemporary design",
+  "img": "assets/catalog/bed.jpg",
+  "gallery": [],
+  "short": "Keldell Grey"
+ },
+ {
+  "id": 18260,
+  "name": "RONY",
+  "slug": "bed-room-11",
+  "cats": [
+   "bed-room",
+   "bed-room-sets"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Code: GL2864 Available: YES QTY SET: 1 PIC Color: Gray Size: KING Materials: Wood And velvet fabric Origin: Made in Canada Style: Contemporary design",
+  "img": "assets/catalog/bed-room-11.jpg",
+  "gallery": [],
+  "short": "Rony"
+ },
+ {
+  "id": 18259,
+  "name": "SONIA",
+  "slug": "bed-room-10",
+  "cats": [
+   "bed-room",
+   "bed-room-sets"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Code: GL 288 Available: YES QTY SET: Package Includes (7 Pieces): 3-pieces Queen Bed, Drawers Dresser, Mirror, and Dresser Night Table Size: QUEEN Materials: High-quality wood and sumptuous faux leather Origin: Made in Canada Style: Casual Contemporary, a blend of modern aesthetics and comfort",
+  "img": "assets/catalog/bed-room-10.jpg",
+  "gallery": [
+   "assets/catalog/bed-room-10-2.jpg",
+   "assets/catalog/bed-room-10-3.jpg",
+   "assets/catalog/bed-room-10-4.jpg"
+  ],
+  "short": "Sonia"
+ },
+ {
+  "id": 18257,
+  "name": "KYLA WHITE",
+  "slug": "bed-room-9",
+  "cats": [
+   "bed-room",
+   "bed-room-sets"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Code: GL 2464 Available: YES QTY SET: Package Includes (7 Pieces): 3-pieces Queen Bed Drawers Dresser Mirror and Dresser Night Table COLOR: WHITE Size: QUEEN Materials: wood Origin: Made in Canada Style: Modern",
+  "img": "assets/catalog/bed-room-9.jpg",
+  "gallery": [],
+  "short": "Kyla White"
+ },
+ {
+  "id": 18256,
+  "name": "LOUIS PHILLIP",
+  "slug": "bed-room-8",
+  "cats": [
+   "bed-room",
+   "bed-room-sets"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Code: GL2555 Available: YES QTY SET: Package Includes (7 Pieces): 3-pieces Queen Bed Drawers Dresser Mirror and Dresser Night Table Color: Cherry Size: QUEEN Materials: Solid Wood, Wood Veneer, Others Origin: Made in Canada Style: classic collection",
+  "img": "assets/catalog/bed-room-8.jpg",
+  "gallery": [],
+  "short": "Louis Phillip"
+ },
+ {
+  "id": 18246,
+  "name": "Leather bedroom",
+  "slug": "bed-room-6",
+  "cats": [
+   "bed-room",
+   "bed-room-sets"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Code: F1747 Available: YES QTY SET: Package Includes (8 Pieces): 3-pieces Queen Bed Drawers Dresser Mirror and Dresser 2 Night Table Color: Brown Size: KING AND QUEEN Materials: 1.Pine Wood+ Plywood+ MDF Origin: Made in Vietnam Style: Classic leather",
+  "img": "assets/catalog/bed-room-6.jpg",
+  "gallery": [],
+  "short": "Leather bedroom"
+ },
+ {
+  "id": 18239,
+  "name": "COLOSSUS",
+  "slug": "bed-room-5",
+  "cats": [
+   "bed-room",
+   "bed-room-sets"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Code: GL 2380 Available: YES QTY SET: Package Includes (7 Pieces): 3-pieces Queen Bed, Drawers Dresser, Mirror and Dresser Night Table Color : Walnut Size: QUEEN Materials: Solid Wood Origin: Made in Canada Style: simple",
+  "img": "assets/catalog/bed-room-5.jpg",
+  "gallery": [],
+  "short": "Colossus"
+ },
+ {
+  "id": 18238,
+  "name": "BALTIMORE LEATHER",
+  "slug": "bed-room-4",
+  "cats": [
+   "bed-room",
+   "bed-room-sets"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Code: GL 2931 Available: YES QTY SET: Package Includes (7 Pieces): 3-pieces Queen Bed Drawers Dresser Mirror and Dresser Night Table Color: Dark Cherry Size: QUEEN Materials: Kiln-dried hardwood prevents warping, cracking, and splitting Origin: Made in Canada Style: Contemporary",
+  "img": "assets/catalog/bed-room-4.jpg",
+  "gallery": [],
+  "short": "Baltimore Leather"
+ },
+ {
+  "id": 18234,
+  "name": "Allson",
+  "slug": "bed-room-3",
+  "cats": [
+   "bed-room",
+   "bed-room-sets"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Code: WA191 Available: YES QTY SET: Package Includes (8 Pieces): 3-pieces KING Bed Drawers Dresser Mirror and Dresser 2 Night Table Color: Dark Cherry Size: KING Materials: Solid wood Origin: Made in Vietnam Style: Classic",
+  "img": "assets/catalog/bed-room-3.jpg",
+  "gallery": [],
+  "short": "Allson"
+ },
+ {
+  "id": 18225,
+  "name": "MORELLI",
+  "slug": "bed-room-2",
+  "cats": [
+   "bed-room",
+   "bed-room-sets"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "MORELLI BEDROOM SET Code: WA 193 Available: YES QTY SET: Package Includes: King or Queen Bed, Chest of Drawers, Dresser & Mirror with Marble Top, and Dresser 2 Night Tables with Marble Tops Color: Brown Size: KING AND QUEEN Materials: Solid wood + Marble Tops Style: Casual Contemporary",
+  "img": "assets/catalog/bed-room-2.jpg",
+  "gallery": [],
+  "short": "Morelli"
+ },
+ {
+  "id": 18216,
+  "name": "Andrea",
+  "slug": "bed-room",
+  "cats": [
+   "bed-room",
+   "bed-room-sets"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Code: B1900 Available: YES QTY SET: Package Includes (8 Pieces): 3-pieces Queen Bed Drawers Dresser Mirror and Dresser 2 Night Table Color: Brown Size: KING AND QUEEN Materials: Solid wood Origin: Made in Vietnam Style: Luxury",
+  "img": "assets/catalog/bed-room.jpg",
+  "gallery": [],
+  "short": "Andrea"
+ },
+ {
+  "id": 18199,
+  "name": "Dining Room",
+  "slug": "dining-room-14",
+  "cats": [
+   "dining-room"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Discover the perfect harmony between modern design and functionality with our set of table and 4 chairs. (5 Pieces) |Available|",
+  "img": "assets/catalog/dining-room-14.jpg",
+  "gallery": [],
+  "short": "Dining Room"
+ },
+ {
+  "id": 18195,
+  "name": "Dining Room",
+  "slug": "dining-room-13",
+  "cats": [
+   "dining-room"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Discover the perfect harmony between modern design and functionality with our set of table and 4 chairs. (5 Pieces) |Available|",
+  "img": "assets/catalog/dining-room-13.jpg",
+  "gallery": [],
+  "short": "Dining Room"
+ },
+ {
+  "id": 18191,
+  "name": "Dining Room",
+  "slug": "dining-room-12",
+  "cats": [
+   "dining-room"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Discover the perfect harmony between modern design and functionality with our set of table and 4 chairs. (5 Pieces) |Available|",
+  "img": "assets/catalog/dining-room-12.jpg",
+  "gallery": [],
+  "short": "Dining Room"
+ },
+ {
+  "id": 18187,
+  "name": "Dining Room",
+  "slug": "dining-room-11",
+  "cats": [
+   "dining-room"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Discover the perfect harmony between modern design and functionality with our set of table and 4 chairs. (5 Pieces) |Available|",
+  "img": "assets/catalog/dining-room-11.jpg",
+  "gallery": [],
+  "short": "Dining Room"
+ },
+ {
+  "id": 18182,
+  "name": "KESWICK",
+  "slug": "dining-room-10",
+  "cats": [
+   "dining-room"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Discover the perfect harmony between modern design and functionality with our set of table and 6 chairs. (7 pieces) |Available|",
+  "img": "assets/catalog/dining-room-10.jpg",
+  "gallery": [],
+  "short": "Keswick"
+ },
+ {
+  "id": 18181,
+  "name": "Dining Room",
+  "slug": "dining-room-9",
+  "cats": [
+   "dining-room"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Discover the perfect harmony between modern design and functionality with our set of table and 4 chairs. (5 Pieces) |Available|",
+  "img": "assets/catalog/dining-room-9.jpg",
+  "gallery": [],
+  "short": "Dining Room"
+ },
+ {
+  "id": 18173,
+  "name": "Dining Room",
+  "slug": "dining-room-8",
+  "cats": [
+   "dining-room"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Discover the perfect harmony between modern design and functionality with our set of table and 6 chairs. (7 Pieces) |Available|",
+  "img": "assets/catalog/dining-room-8.jpg",
+  "gallery": [],
+  "short": "Dining Room"
+ },
+ {
+  "id": 18169,
+  "name": "Dining Room",
+  "slug": "dining-room-7",
+  "cats": [
+   "dining-room"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Discover the perfect harmony between modern design and functionality with our set of table and 4 chairs. (5 Pieces) |Available|",
+  "img": "assets/catalog/dining-room-7.jpg",
+  "gallery": [],
+  "short": "Dining Room"
+ },
+ {
+  "id": 18165,
+  "name": "Dining Room",
+  "slug": "dining-room-6",
+  "cats": [
+   "dining-room"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Discover the perfect harmony between modern design and functionality with our set of table and chairs. |Available|",
+  "img": "assets/catalog/dining-room-6.jpg",
+  "gallery": [],
+  "short": "Dining Room"
+ },
+ {
+  "id": 18161,
+  "name": "Dining Room",
+  "slug": "dining-room-5",
+  "cats": [
+   "dining-room"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Discover the perfect harmony between modern design and functionality with our set of table and 4 chairs. (5 Pieces) |Available|",
+  "img": "assets/catalog/dining-room-5.jpg",
+  "gallery": [],
+  "short": "Dining Room"
+ },
+ {
+  "id": 18157,
+  "name": "Dining Room",
+  "slug": "dining-room-4",
+  "cats": [
+   "dining-room"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Discover the perfect harmony between modern design and functionality with our set of table and 6 chairs. (7 Pieces) /Available/",
+  "img": "assets/catalog/dining-room-4.jpg",
+  "gallery": [],
+  "short": "Dining Room"
+ },
+ {
+  "id": 18153,
+  "name": "Dining Room",
+  "slug": "dining-room-3",
+  "cats": [
+   "dining-room"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Discover the perfect harmony between modern design and functionality with our set of table and 6 chairs. (7 Pieces) /Available/",
+  "img": "assets/catalog/dining-room-3.jpg",
+  "gallery": [],
+  "short": "Dining Room"
+ },
+ {
+  "id": 18148,
+  "name": "DINING ROOM",
+  "slug": "dining-room-2",
+  "cats": [
+   "dining-room"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Discover the perfect harmony between modern design and functionality with our set of table and 6 chairs. (7 Pieces) /Available/",
+  "img": "assets/catalog/dining-room-2.jpg",
+  "gallery": [],
+  "short": "Dining Room"
+ },
+ {
+  "id": 18142,
+  "name": "Dining Room",
+  "slug": "dining-room",
+  "cats": [
+   "dining-room"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Discover the perfect harmony between modern design and functionality with our set of table and 6 chairs. (7 Pieces). /Available/",
+  "img": "assets/catalog/dining-room.jpg",
+  "gallery": [],
+  "short": "Dining Room"
+ },
+ {
+  "id": 18137,
+  "name": "Dining Room",
+  "slug": "dining-room-available",
+  "cats": [
+   "dining-room"
+  ],
+  "price": "0",
+  "regular": "0",
+  "sale": false,
+  "currency": "USD",
+  "minor": 2,
+  "desc": "Discover the perfect harmony between modern design and functionality with our set of table and 6 chairs – 7 Pieces. /Available/",
+  "img": "assets/catalog/dining-room-available.jpg",
+  "gallery": [],
+  "short": "Dining Room"
+ }
+]

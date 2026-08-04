@@ -1,0 +1,21 @@
+{
+  "name": "Galerie Oasis",
+  "address": "1877 Bd du Curé-Labelle, Laval, QC H7T 1K2",
+  "phone": "+1 (450) 973-0000",
+  "phoneHref": "tel:+14509730000",
+  "email": "galerieoasis@bellnet.ca",
+  "hours": [
+    {"en": "Monday", "fr": "Lundi", "h": "10:00–18:00"},
+    {"en": "Tuesday", "fr": "Mardi", "h": "10:00–18:00"},
+    {"en": "Wednesday", "fr": "Mercredi", "h": "10:00–18:00"},
+    {"en": "Thursday", "fr": "Jeudi", "h": "10:00–20:00"},
+    {"en": "Friday", "fr": "Vendredi", "h": "10:00–20:00"},
+    {"en": "Saturday", "fr": "Samedi", "h": "10:00–17:00"},
+    {"en": "Sunday", "fr": "Dimanche", "h": "11:00–17:00"}
+  ],
+  "hoursShort": {"en": "Mon–Wed 10–6 · Thu–Fri 10–8 · Sat 10–5 · Sun 11–5", "fr": "Lun–Mer 10–18 · Jeu–Ven 10–20 · Sam 10–17 · Dim 11–17"},
+  "about": {
+    "journey": "Gallery Oasis was founded with a vision to redefine interior aesthetics by offering top-quality furniture and decor that resonate with comfort, elegance, and individuality.",
+    "values": ["Quality Excellence", "Affordability", "Reliable Delivery", "Financial Accessibility"]
+  }
+}

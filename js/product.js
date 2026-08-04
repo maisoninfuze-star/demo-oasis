@@ -5,6 +5,7 @@
    gallery, add-to-cart, 360 flourish.
    =========================================================== */
 (() => {
+  const V = '?v=' + ((window.OASIS_CONFIG||{}).dataVersion || '1');
   const $ = (s, c = document) => c.querySelector(s);
   const $$ = (s, c = document) => [...c.querySelectorAll(s)];
   const lang = () => document.body.dataset.lang || 'en';
@@ -183,14 +184,14 @@
       row.innerHTML = rel.map(r => {
         const rtl = TYPE_LABEL[typeOf(r)] || tl;
         return `<a class="prod reveal in" href="product.html?id=${r.id}">
-          <div class="prod__media"><img src="${r.img}" alt="${r.short || r.name}" loading="lazy"></div>
+          <div class="prod__media"><img src="${r.thumb || r.img}" alt="${r.short || r.name}" loading="lazy"></div>
           <div class="prod__foot"><h3>${r.short || r.name}</h3><span>${rtl[L]}</span></div></a>`;
       }).join('');
     }
   }
 
   if (pid) {
-    fetch('data/catalog.json').then(r => r.json()).then(catalog => {
+    fetch('data/catalog.json' + V).then(r => r.json()).then(catalog => {
       const p = catalog.find(x => x.id === pid);
       if (p) hydrate(p, catalog);
       else if (pmain) { if (pmain.complete && pmain.naturalWidth) processMain(); else pmain.addEventListener('load', processMain, { once: true }); }

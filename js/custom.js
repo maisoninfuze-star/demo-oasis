@@ -4,6 +4,7 @@
    the live fabric preview with a real swatch texture.
    =========================================================== */
 (() => {
+  const V = '?v=' + ((window.OASIS_CONFIG||{}).dataVersion || '1');
   const $ = (s, c = document) => c.querySelector(s);
   const $$ = (s, c = document) => [...c.querySelectorAll(s)];
   const L = () => (document.body.dataset.lang === 'fr' ? 'fr' : 'en');
@@ -12,7 +13,7 @@
   const pid = new URLSearchParams(location.search).get('id');
   if (!pid) return;
 
-  fetch('data/custom.json').then(r => r.json()).then(data => {
+  fetch('data/custom.json' + V).then(r => r.json()).then(data => {
     const entry = data.products[pid];
     if (!entry) return;
     const prog = data.programs[entry.program];

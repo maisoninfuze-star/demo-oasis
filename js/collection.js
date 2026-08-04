@@ -4,6 +4,7 @@
         bed-room | carpets | ... or omit for everything)
    =========================================================== */
 (() => {
+  const V = '?v=' + ((window.OASIS_CONFIG||{}).dataVersion || '1');
   const $ = (s, c = document) => c.querySelector(s);
   const lang = () => document.body.dataset.lang || 'en';
 
@@ -130,7 +131,7 @@
 
   function cardHTML(p) {
     const tl = TYPE_LABEL[typeOf(p)] || TYPE_LABEL['living-room'];
-    const img = p.img ? `<img src="${p.img}" alt="${p.short || p.name}" loading="lazy" />` : '';
+    const img = p.img ? `<img src="${p.thumb || p.img}" alt="${p.short || p.name}" loading="lazy" decoding="async" width="480" height="480" />` : '';
     const isCustom = (window.__customIds || new Set()).has(p.id);
     const sale = isCustom
       ? `<span class="pcard__tag pcard__tag--custom">${lang() === 'fr' ? 'Sur mesure' : 'Custom made'}</span>`
@@ -156,8 +157,8 @@
 
   let customIds = new Set();
   Promise.all([
-    fetch('data/catalog.json').then(r => r.json()),
-    fetch('data/custom.json').then(r => r.json()).catch(() => null)
+    fetch('data/catalog.json' + V).then(r => r.json()),
+    fetch('data/custom.json' + V).then(r => r.json()).catch(() => null)
   ]).then(([data, custom]) => {
     catalog = data;
     if (custom) customIds = new Set(Object.keys(custom.products).map(Number));

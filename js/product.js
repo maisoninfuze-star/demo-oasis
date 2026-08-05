@@ -146,10 +146,10 @@
     const pr = document.querySelector('.pay-row');
     pr.innerHTML = `
       <p class="pay-row__title">${L2 === 'fr' ? 'Financement et paiements faciles' : 'Financing & easy payments'}</p>
-      <div class="pay-row__badges"><span class="pay-badge">Flexiti</span><span class="pay-badge">Klarna</span><span class="pay-badge">Afterpay</span><span class="pay-badge">Visa · Mastercard · Interac</span></div>
+      <div class="pay-row__badges"><span class="pay-badge">Flexiti</span><span class="pay-badge">Klarna</span><span class="pay-badge">Afterpay</span><span class="pay-badge">Stripe</span><span class="pay-badge">Visa · Mastercard · Interac</span></div>
       <p class="pay-row__fine">${L2 === 'fr'
-        ? 'Financement Flexiti disponible en salle d\'exposition. Klarna et Afterpay pour payer en plusieurs versements. Prix sur demande · disponibilité variable selon la pièce.'
-        : 'Flexiti financing available in the showroom. Klarna and Afterpay for easy instalments. Prices on request · availability varies by piece.'}</p>`;
+        ? 'Financement Flexiti en salle d\'exposition. Paiement sécurisé par Stripe — Klarna et Afterpay offerts au paiement pour payer en plusieurs versements. Prix sur demande · disponibilité variable selon la pièce.'
+        : 'Flexiti financing available in the showroom. Secure payment by Stripe — Klarna and Afterpay offered at checkout for easy instalments. Prices on request · availability varies by piece.'}</p>`;
   }
   renderAssurance();
   $('#langToggle')?.addEventListener('click', () => setTimeout(renderAssurance, 10));

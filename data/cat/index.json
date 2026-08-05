@@ -2,21 +2,21 @@
  "tops": [
   {
    "slug": "living-room",
-   "count": 1694,
+   "count": 1692,
    "subs": {
     "accent-tables": 535,
     "chairs": 313,
-    "sofas": 270,
+    "sofas": 227,
     "coffee-tables": 159,
+    "sectionals": 94,
     "tv-media": 81,
-    "sectionals": 74,
     "living-sets": 62,
     "loveseats": 62,
+    "ottomans": 51,
     "end-tables": 43,
-    "ottomans": 41,
+    "sofa-beds": 21,
+    "recliners": 19,
     "console-tables": 19,
-    "sofa-beds": 15,
-    "recliners": 14,
     "chaises": 6
    },
    "brands": {
@@ -28,7 +28,7 @@
     "sofabyfancy": 85,
     "mazin": 36,
     "creative": 6,
-    "titus": 3
+    "titus": 1
    }
   },
   {
@@ -52,21 +52,21 @@
   },
   {
    "slug": "bed-room",
-   "count": 1201,
+   "count": 1203,
    "subs": {
     "beds": 421,
     "nightstands": 307,
-    "bedroom-sets": 249,
+    "bedroom-sets": 244,
     "dressers": 87,
     "chests": 83,
     "youth": 33,
     "headboards": 20,
-    "mattresses": 1
+    "mattresses": 8
    },
    "brands": {
     "matrix": 520,
     "monarch": 411,
-    "titus": 160,
+    "titus": 162,
     "mazin": 58,
     "glory": 31,
     "oasis": 21
@@ -110,8 +110,8 @@
    "slug": "carpets",
    "count": 1551,
    "subs": {
-    "hand-knotted": 1011,
-    "machine-made": 540
+    "hand-knotted": 1070,
+    "machine-made": 481
    },
    "brands": {
     "rugsnetwork": 1462,

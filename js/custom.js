@@ -119,6 +119,12 @@
           <li><span class="custom-steps__n">0${i + 1}</span><h3>${t}</h3><p>${d}</p></li>`).join('')}</ol>
         <div class="custom-books">${prog.books.map(b => `
           <div class="custom-book"><b>${b.name}</b><span>${tr(b.kind)}</span></div>`).join('')}</div>
+        <div class="custom-gallery">
+          <figure><img src="assets/gen/custom/fabric-sofas.jpg" alt="" loading="lazy"><figcaption>${L() === 'fr' ? 'Même modèle, quatre tissus' : 'Same model, four fabrics'}</figcaption></figure>
+          <figure><img src="assets/gen/custom/wood-finishes.jpg" alt="" loading="lazy"><figcaption>${L() === 'fr' ? 'Plusieurs couleurs de bois' : 'Multiple wood colours'}</figcaption></figure>
+          <figure><img src="assets/gen/custom/swatch-fan.jpg" alt="" loading="lazy"><figcaption>${L() === 'fr' ? 'Des centaines d’échantillons en salle' : 'Hundreds of swatches in store'}</figcaption></figure>
+        </div>
+        <p class="custom-gallery__fine">${L() === 'fr' ? 'Images concept — votre pièce est fabriquée selon vos choix réels de tissu et de bois.' : 'Concept renderings — your piece is built from your actual fabric and wood choices.'}</p>
         <a class="btn btn--gold magnetic" href="index.html#visit">${L() === 'fr' ? 'Réserver une consultation tissu' : 'Book a fabric consultation'}</a>`;
       const details = $('.pdp-details');
       details ? details.before(band) : $('main').append(band);

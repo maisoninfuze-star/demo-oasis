@@ -77,7 +77,8 @@
   /* ---------- state ---------- */
   let index = null, items = [], view = [], shown = 0;
   const BATCH = 48;
-  const state = { sub: 'all', brand: 'all', price: 'all', sort: 'featured', q: '' };
+  const state = { sub: params.get('sub') || 'all', brand: params.get('brand') || 'all',
+                  price: 'all', sort: 'featured', q: '' };
   let customIds = new Set();
 
   /* ---------- filter bar (built once) ---------- */
@@ -119,6 +120,17 @@
   }
 
   function buildChips() {
+    if (top === 'all') {
+      /* the flat 43-chip wall was overwhelming — the all view now offers
+         the departments; subcategories live on each department page */
+      const DEPT = { 'living-room': {en:'Living Room',fr:'Salon'}, 'dining-room': {en:'Dining',fr:'Salle à manger'},
+        'bed-room': {en:'Bedroom',fr:'Chambre'}, 'carpets': {en:'Rugs',fr:'Tapis'}, 'decor': {en:'Décor',fr:'Décor'},
+        'office': {en:'Office',fr:'Bureau'}, 'custom-studio': {en:'Custom Studio',fr:'Atelier'} };
+      chipsWrap.innerHTML = `<span class="chip is-active">${T('Everything','Tout')}</span>` +
+        index.tops.filter(ti => ti.slug !== 'all').map(ti =>
+          `<a class="chip" href="collection.html?cat=${ti.slug}">${(DEPT[ti.slug]||{})[L()] || ti.slug} · ${ti.count.toLocaleString()}</a>`).join('');
+      return;
+    }
     const topInfo = index.tops.find(x => x.slug === top);
     const subs = topInfo ? topInfo.subs : {};
     chipsWrap.innerHTML =

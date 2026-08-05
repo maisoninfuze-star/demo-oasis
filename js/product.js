@@ -137,6 +137,19 @@
     ul.innerHTML = `
       <li><b>$${D.local.fee} · ${D.local[L2]}</b><span>${D.included[L2]}</span></li>
       <li><b>$${D.shores.fee} · ${D.shores[L2]}</b><span>${D.note[L2]}</span></li>`;
+    /* financing & easy payments */
+    if (!document.querySelector('.pay-row')) {
+      const pr = document.createElement('div');
+      pr.className = 'pay-row';
+      ul.after(pr);
+    }
+    const pr = document.querySelector('.pay-row');
+    pr.innerHTML = `
+      <p class="pay-row__title">${L2 === 'fr' ? 'Financement et paiements faciles' : 'Financing & easy payments'}</p>
+      <div class="pay-row__badges"><span class="pay-badge">Flexiti</span><span class="pay-badge">Klarna</span><span class="pay-badge">Afterpay</span><span class="pay-badge">Visa · Mastercard · Interac</span></div>
+      <p class="pay-row__fine">${L2 === 'fr'
+        ? 'Financement Flexiti disponible en salle d\'exposition. Klarna et Afterpay pour payer en plusieurs versements. Prix sur demande · disponibilité variable selon la pièce.'
+        : 'Flexiti financing available in the showroom. Klarna and Afterpay for easy instalments. Prices on request · availability varies by piece.'}</p>`;
   }
   renderAssurance();
   $('#langToggle')?.addEventListener('click', () => setTimeout(renderAssurance, 10));

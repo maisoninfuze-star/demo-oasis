@@ -81,6 +81,7 @@ M = {
 KEYWORDS = [
     (r'\brug\b|\bcarpet\b|\btapis\b', ('carpets', 'machine-made')),
     (r'\bsectional', ('living-room', 'sectionals')),
+    (r'\bmattress', ('bed-room', 'mattresses')),
     (r'\bsofa bed|\bsleeper\b|\bfuton\b', ('living-room', 'sofa-beds')),
     (r'\bloveseat', ('living-room', 'loveseats')),
     (r'\bsofa\b|\bcouch\b', ('living-room', 'sofas')),
@@ -152,7 +153,11 @@ for p in cur:
     if not p.get('img'):
         continue
     top = sub = None
-    for c in p['cats']:
+    PARENTS = {'living-room', 'bed-room', 'dining-room', 'carpets'}
+    # specific subcategory slugs win over parent slugs (a mattress is tagged
+    # ['bed-room','mattresses'] — picking the parent filed it under bedroom sets)
+    ordered = [c for c in p['cats'] if c not in PARENTS] + [c for c in p['cats'] if c in PARENTS]
+    for c in ordered:
         if c in CUR_MAP:
             top, sub = CUR_MAP[c]
             break

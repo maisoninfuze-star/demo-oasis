@@ -1,0 +1,4409 @@
+{
+ "supplier": "glory",
+ "source": "https://gloryhomefurniture.ca",
+ "count": 350,
+ "items": [
+  {
+   "id": "glory-4144",
+   "name": "Crown Silver",
+   "cats": [
+    "dining-chairs",
+    "living"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2026/07/newsilvercrown-53-005.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/crown-silver/"
+  },
+  {
+   "id": "glory-4142",
+   "name": "Marcus",
+   "cats": [
+    "bench"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2026/07/Marcus.png",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/marcus/"
+  },
+  {
+   "id": "glory-4140",
+   "name": "Concord",
+   "cats": [
+    "accent",
+    "bench"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2026/07/Concord.png",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/concord/"
+  },
+  {
+   "id": "glory-4138",
+   "name": "Sword",
+   "cats": [
+    "dining-tables"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2026/06/silverswordnew-900x598-1.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/sword/"
+  },
+  {
+   "id": "glory-4136",
+   "name": "Orchard",
+   "cats": [
+    "coffee-tables",
+    "occasional-tables"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2026/06/orchardsolo-900x598-1.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/orchard/"
+  },
+  {
+   "id": "glory-4133",
+   "name": "Narnia Silver",
+   "cats": [
+    "coffee-tables",
+    "console-tables",
+    "end-tables",
+    "occasional-tables"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2026/06/narniaseries-900x598-1.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/narnia-silver/"
+  },
+  {
+   "id": "glory-4131",
+   "name": "Brighton",
+   "cats": [
+    "end-tables",
+    "occasional-tables"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2026/06/34-088-Brighton-Side-900x598-1.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/brighton-2/"
+  },
+  {
+   "id": "glory-4129",
+   "name": "Brighton",
+   "cats": [
+    "coffee-tables",
+    "occasional-tables"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2026/06/34-087-Brighton-Coffee-900x598-1.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/brighton/"
+  },
+  {
+   "id": "glory-4120",
+   "name": "Diamond",
+   "cats": [
+    "coffee-tables",
+    "occasional-tables"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2026/06/diamondset-900x598-1.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/diamond/"
+  },
+  {
+   "id": "glory-4118",
+   "name": "Grand",
+   "cats": [
+    "console-tables",
+    "occasional-tables"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2026/06/Untitled-design-2-scaled.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/grand/"
+  },
+  {
+   "id": "glory-4116",
+   "name": "Narnia",
+   "cats": [
+    "coffee-tables",
+    "occasional-tables"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2026/06/goldnarniacoffee-900x598-1.png",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/narnia/"
+  },
+  {
+   "id": "glory-4114",
+   "name": "Orenda",
+   "cats": [
+    "coffee-tables",
+    "end-tables",
+    "occasional-tables"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2026/06/orenda-900x598-1.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/orenda/"
+  },
+  {
+   "id": "glory-4112",
+   "name": "Barcelona",
+   "cats": [
+    "bench"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2026/06/barcelonabenchnew-900x598-1.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/barcelona/"
+  },
+  {
+   "id": "glory-4110",
+   "name": "Terry Sofa",
+   "cats": [
+    "living"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2026/06/terrysofa-900x598-1.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/terry-sofa/"
+  },
+  {
+   "id": "glory-4108",
+   "name": "Christine",
+   "cats": [
+    "bedroom"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2026/06/christine-headboard-900x598-1.png",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/christine/"
+  },
+  {
+   "id": "glory-4106",
+   "name": "Marie",
+   "cats": [
+    "bedroom"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2026/06/marie-headboard-490x326-1.png",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/marie/"
+  },
+  {
+   "id": "glory-4104",
+   "name": "Coastal",
+   "cats": [
+    "bedroom"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2026/06/coastal-headboard-900x598-1.png",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/coastal/"
+  },
+  {
+   "id": "glory-4102",
+   "name": "Liberty",
+   "cats": [
+    "end-tables",
+    "occasional-tables"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2026/06/34-094-Liberty-Pedastal-900x598-1.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/liberty/"
+  },
+  {
+   "id": "glory-4098",
+   "name": "Mini Bar Table",
+   "cats": [
+    "accent",
+    "bar-table"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2026/06/mini-bar-table-900x598-1.png",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/mini-bar-table/"
+  },
+  {
+   "id": "glory-4096",
+   "name": "Square",
+   "cats": [
+    "coffee-tables",
+    "occasional-tables"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2026/06/squarenestingtable-900x598-1.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/square/"
+  },
+  {
+   "id": "glory-4089",
+   "name": "Derby Silver",
+   "cats": [
+    "accent"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2026/06/silverderbygrey-900x598-1.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/derby-silver/"
+  },
+  {
+   "id": "glory-4086",
+   "name": "Derby",
+   "cats": [
+    "accent"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2026/06/12452.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/derby/"
+  },
+  {
+   "id": "glory-4084",
+   "name": "Sandra White",
+   "cats": [
+    "bedroom"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2026/06/sandrabed-900x598-1.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/sandra-white/"
+  },
+  {
+   "id": "glory-4082",
+   "name": "Sandra Grey",
+   "cats": [
+    "bedroom"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2026/06/sandra-queen-bed-900x598-1.png",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/sandra-grey/"
+  },
+  {
+   "id": "glory-4080",
+   "name": "Panama White",
+   "cats": [
+    "bedroom"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2026/06/panama-queen-bed-900x598-1.png",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/panama-white/"
+  },
+  {
+   "id": "glory-4078",
+   "name": "Panama Grey",
+   "cats": [
+    "bedroom"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2026/06/panamabed-900x598-1.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/panama/"
+  },
+  {
+   "id": "glory-4076",
+   "name": "Martini",
+   "cats": [
+    "dining",
+    "dining-chairs"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2026/06/martinidiningchair3-900x598-1.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/martini/"
+  },
+  {
+   "id": "glory-4074",
+   "name": "Amber",
+   "cats": [
+    "dining",
+    "dining-chairs"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2026/06/ambernew2-900x598-1.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/amber/"
+  },
+  {
+   "id": "glory-4072",
+   "name": "Camio",
+   "cats": [
+    "dining",
+    "dining-chairs"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2026/06/camionew-900x598-1.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/camio/"
+  },
+  {
+   "id": "glory-4070",
+   "name": "Victoria",
+   "cats": [
+    "dining",
+    "dining-chairs"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2026/06/victoriadiningnew-900x598-1.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/victoria-5/"
+  },
+  {
+   "id": "glory-4068",
+   "name": "Sonia",
+   "cats": [
+    "dining",
+    "dining-chairs"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2026/06/sonianew-900x598-1.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/sonia/"
+  },
+  {
+   "id": "glory-4066",
+   "name": "Galaxy",
+   "cats": [
+    "dining",
+    "dining-chairs"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2026/06/galaxy-900x598-1.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/galaxy/"
+  },
+  {
+   "id": "glory-4064",
+   "name": "Melanie",
+   "cats": [
+    "dining",
+    "dining-chairs"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2026/06/melanie-front-900x598-1.png",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/melanie/"
+  },
+  {
+   "id": "glory-4062",
+   "name": "Melody",
+   "cats": [
+    "dining",
+    "dining-chairs"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2026/06/melody-900x598-1.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/melody/"
+  },
+  {
+   "id": "glory-4060",
+   "name": "Walter",
+   "cats": [
+    "dining",
+    "dining-chairs"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2026/06/walter3-900x598-1.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/walter/"
+  },
+  {
+   "id": "glory-4058",
+   "name": "Ruby",
+   "cats": [
+    "dining",
+    "dining-chairs"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2026/06/rubydiningchair-900x598-1.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/ruby/"
+  },
+  {
+   "id": "glory-4055",
+   "name": "Mesh",
+   "cats": [
+    "dining",
+    "dining-chairs"
+   ],
+   "desc": "Available in Red, Green & Orange",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2026/06/mesh-900x598-1.png",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2026/06/mesh-green-900x598-1.png"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/mesh/"
+  },
+  {
+   "id": "glory-4053",
+   "name": "Morgan",
+   "cats": [
+    "dining",
+    "dining-chairs"
+   ],
+   "desc": "Available in White & Grey",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2026/06/morgandiningchair-900x598-1.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/morgan/"
+  },
+  {
+   "id": "glory-4050",
+   "name": "Venice",
+   "cats": [
+    "dining",
+    "dining-chairs"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2026/06/venice-black-490x326-1.png",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2026/06/venice-white-black-900x598-1.png"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/venice/"
+  },
+  {
+   "id": "glory-4048",
+   "name": "Citizen",
+   "cats": [
+    "dining",
+    "dining-chairs"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2026/06/citizendiningchair-900x598-1.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/citizen/"
+  },
+  {
+   "id": "glory-4046",
+   "name": "Larry",
+   "cats": [
+    "dining",
+    "dining-chairs"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2026/06/larrychairsnew-900x598-1.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/larry/"
+  },
+  {
+   "id": "glory-4044",
+   "name": "Addison",
+   "cats": [
+    "dining",
+    "dining-tables"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2026/06/addisondiningnew-900x598-1.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/addison/"
+  },
+  {
+   "id": "glory-4042",
+   "name": "Albion",
+   "cats": [
+    "dining",
+    "dining-tables"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2026/06/newalbiondining-900x598-1.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/albion/"
+  },
+  {
+   "id": "glory-4040",
+   "name": "Brighten Silver",
+   "cats": [
+    "dining",
+    "dining-tables"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2026/06/silverbrighten-900x598-1.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/brighten-silver/"
+  },
+  {
+   "id": "glory-4038",
+   "name": "Brighten Gold",
+   "cats": [
+    "dining",
+    "dining-tables"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2026/06/goldbrighten-900x598-1.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/brighten-gold/"
+  },
+  {
+   "id": "glory-4036",
+   "name": "Olympic",
+   "cats": [
+    "dining",
+    "dining-tables"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2026/06/olympic-diningtable-900x598-1.png",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/olympic/"
+  },
+  {
+   "id": "glory-4034",
+   "name": "Scissor",
+   "cats": [
+    "dining",
+    "dining-tables"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2026/06/silverscissornew-900x598-1.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/scissor/"
+  },
+  {
+   "id": "glory-4031",
+   "name": "Landmark Black",
+   "cats": [
+    "dining",
+    "dining-tables"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2026/06/landmarkblack-900x598-1.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/landmark-black/"
+  },
+  {
+   "id": "glory-4029",
+   "name": "Landmark Gold",
+   "cats": [
+    "dining",
+    "dining-tables"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2026/06/landmarkgold-900x598-1.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/landmark-gold/"
+  },
+  {
+   "id": "glory-4027",
+   "name": "Landmark Silver",
+   "cats": [
+    "dining",
+    "dining-tables"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2026/06/landmarksilver-900x598-1.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/landmark-silver/"
+  },
+  {
+   "id": "glory-4025",
+   "name": "Sultana",
+   "cats": [
+    "dining",
+    "dining-tables"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2026/06/roundsultana-900x598-1.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/sultana/"
+  },
+  {
+   "id": "glory-4023",
+   "name": "Soho",
+   "cats": [
+    "dining",
+    "dining-tables"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2026/06/sohodiningnew-900x598-1.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/soho/"
+  },
+  {
+   "id": "glory-4021",
+   "name": "Prestige Gold",
+   "cats": [
+    "dining",
+    "dining-tables"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2026/06/goldprestigedining-900x598-1.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/prestige-gold/"
+  },
+  {
+   "id": "glory-4018",
+   "name": "Oasis",
+   "cats": [
+    "dining",
+    "dining-tables"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2026/06/oasisdining-900x598-1.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/oasis-2/"
+  },
+  {
+   "id": "glory-4016",
+   "name": "Franklin",
+   "cats": [
+    "dining",
+    "dining-tables"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2026/06/franklingdining-900x598-1.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/franklin/"
+  },
+  {
+   "id": "glory-4014",
+   "name": "Watson",
+   "cats": [
+    "dining",
+    "dining-tables"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2026/06/watsondiningnew-900x598-1.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/watson/"
+  },
+  {
+   "id": "glory-4012",
+   "name": "Smith",
+   "cats": [
+    "dining",
+    "dining-tables"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2026/06/smithdining-900x598-1.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/smith-2/"
+  },
+  {
+   "id": "glory-4010",
+   "name": "Bridge",
+   "cats": [
+    "console-tables",
+    "occasional-tables"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2026/06/bridgeseries-900x598-2.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/bridge/"
+  },
+  {
+   "id": "glory-4008",
+   "name": "Sunny",
+   "cats": [
+    "console-tables",
+    "occasional-tables"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2026/06/sunnyconsole-900x598-1.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/sunny/"
+  },
+  {
+   "id": "glory-4006",
+   "name": "Hive Black",
+   "cats": [
+    "end-tables",
+    "occasional-tables"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2026/06/blackhiveside-900x598-1.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/hive-black-2/"
+  },
+  {
+   "id": "glory-4004",
+   "name": "Hive",
+   "cats": [
+    "end-tables",
+    "occasional-tables"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2026/06/hiveside-490x326-1.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/hive/"
+  },
+  {
+   "id": "glory-4002",
+   "name": "James",
+   "cats": [
+    "end-tables",
+    "occasional-tables"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2026/06/jamesside-900x598-1.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/james-2/"
+  },
+  {
+   "id": "glory-4000",
+   "name": "Waterfall",
+   "cats": [
+    "coffee-tables",
+    "occasional-tables"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2026/06/waterfallseries-900x598-1.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/waterfall/"
+  },
+  {
+   "id": "glory-3998",
+   "name": "Alberta",
+   "cats": [
+    "coffee-tables",
+    "console-tables",
+    "end-tables",
+    "occasional-tables"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2026/06/albertaset-900x598-1.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/alberta/"
+  },
+  {
+   "id": "glory-3996",
+   "name": "River Silver",
+   "cats": [
+    "coffee-tables",
+    "console-tables",
+    "end-tables",
+    "occasional-tables"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2026/06/riversilver-900x598-1.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/river-silver/"
+  },
+  {
+   "id": "glory-3994",
+   "name": "River Gold",
+   "cats": [
+    "coffee-tables",
+    "console-tables",
+    "end-tables",
+    "occasional-tables"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2026/06/goldrivertableseries-900x598-1.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/gold-river/"
+  },
+  {
+   "id": "glory-3991",
+   "name": "River Black",
+   "cats": [
+    "coffee-tables",
+    "console-tables",
+    "end-tables",
+    "occasional-tables"
+   ],
+   "desc": "Black Powder Coated Base Top Shelf: Glass Top with White Marble Look Bottom Shelf: Clear Glass Top Black River Coffee Table 47” x 23.5” x 17.5” H 34-091 Black Black River Side Table 23.5” x 23.5” x 24” H 34-092 Black Black River Console Table 55” x 14” x 30.5” H 34-093 Black",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2026/06/riverblack-900x598-1.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/river-black/"
+  },
+  {
+   "id": "glory-3989",
+   "name": "Masco",
+   "cats": [
+    "coffee-tables",
+    "console-tables",
+    "end-tables",
+    "occasional-tables"
+   ],
+   "desc": "Silver Stainless Steel Base 10mm Clear Tempered Glass Top Masco Coffee Table 47” x 23.5” x 18” H 34-085 Masco Side Table 22” x 22” x 22” H 34-084 Masco Console Table 47” x 16” x 31” H 34-086",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2026/06/mascoseries-900x598-1.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/masco/"
+  },
+  {
+   "id": "glory-3987",
+   "name": "Jackson",
+   "cats": [
+    "coffee-tables",
+    "end-tables",
+    "occasional-tables"
+   ],
+   "desc": "Silver Stainless Steel Base Tempered Clear Glass Top Large Jackson Coffee Table 47” x 23.5” x 17” H 34-081 Small Jackson Coffee Table 35.5” x 20” x 17” H 34-082 Jackson Side Table 20” x 20” x 17” H 34-083",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2026/06/jacksonset-900x598-1.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/jackson/"
+  },
+  {
+   "id": "glory-3985",
+   "name": "Ferrari",
+   "cats": [
+    "coffee-tables",
+    "end-tables",
+    "occasional-tables"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2026/06/ferrariset-900x598-1.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/ferrari/"
+  },
+  {
+   "id": "glory-3975",
+   "name": "Hive Silver",
+   "cats": [
+    "coffee-tables",
+    "occasional-tables"
+   ],
+   "desc": "Silver or Gold Stainless Steel Base Black Metal Powder Coated Base Set of Four Tables Two Tempered Clear Glass Tops Tables can be placed against each other for different configurations 19” x 22” x 17.5” H Each Table",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2026/06/hive-silver.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/hive-silver/"
+  },
+  {
+   "id": "glory-3973",
+   "name": "Hive Gold",
+   "cats": [
+    "coffee-tables",
+    "occasional-tables"
+   ],
+   "desc": "Silver or Gold Stainless Steel Base Black Metal Powder Coated Base Set of Four Tables Two Tempered Clear Glass Tops Tables can be placed against each other for different configurations 19” x 22” x 17.5” H Each Table",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2026/06/hive-gold.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/hive-gold/"
+  },
+  {
+   "id": "glory-3971",
+   "name": "Hive Black",
+   "cats": [
+    "coffee-tables",
+    "occasional-tables"
+   ],
+   "desc": "Silver or Gold Stainless Steel Base Black Metal Powder Coated Base Set of Four Tables Two Tempered Clear Glass Tops Tables can be placed against each other for different configurations 19” x 22” x 17.5” H Each Table",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2026/06/blackhivecoffee-900x598-1.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/hive-black/"
+  },
+  {
+   "id": "glory-3969",
+   "name": "Smith",
+   "cats": [
+    "coffee-tables",
+    "end-tables",
+    "occasional-tables"
+   ],
+   "desc": "Gold Stainless Steel Base White & Grey Faux Marble Top Smith Coffee Table 51.5” x 28” x 18” H 31-133 Smith Side Table 31-134",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2026/06/smithset-900x598-1.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/smith/"
+  },
+  {
+   "id": "glory-3967",
+   "name": "Remote",
+   "cats": [
+    "coffee-tables",
+    "occasional-tables"
+   ],
+   "desc": "Gold Stainless Steel Base Clear Tempered Glass Top Remote Coffee Table: 39” Dia x 17.5” H Remote Side Table: 17.5” Dia x 21.5” H *Sold as a set of 3 (1 Coffee Table & 2 Side Tables) 31-124/125",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2026/06/remoteseries-900x598-1.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/remote/"
+  },
+  {
+   "id": "glory-3965",
+   "name": "Agate",
+   "cats": [
+    "coffee-tables",
+    "occasional-tables"
+   ],
+   "desc": "Foldable Black Powder Coated Legs Blue Natural Agate Stone Top Folding Agate Coffee Table 32.5″ Dia. x 18″ H 13-1025 Folding Agate Side Table 17.5″ Dia. x 24″ H 13-1024 *Natural Agate stone colour and size may vary",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2026/06/foldingagateset-900x598-1.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/agate/"
+  },
+  {
+   "id": "glory-3963",
+   "name": "Signature",
+   "cats": [
+    "coffee-tables",
+    "occasional-tables"
+   ],
+   "desc": "Silver Stainless Steel Base Top Shelf: Tempered Glass Tops Bottom Shelf: Mirror Large: 31.5″ Dia. x 16.5″ H Small: 27.5″ Dia. x 14.5″ H 34-100",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2026/06/newsignaturecoffee-34-100.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/signature/"
+  },
+  {
+   "id": "glory-3961",
+   "name": "Hove",
+   "cats": [
+    "coffee-tables",
+    "occasional-tables"
+   ],
+   "desc": "Silver Stainless Steel Base Glass Top with White Marble Look Hove Coffee Table 31.5” x 31.5” x 18” H 34-090 Hove Side Table 22” x 22” x 22” H 34-089",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2026/06/hovecoffeeset-900x598-1.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/hove/"
+  },
+  {
+   "id": "glory-3959",
+   "name": "Encore Silver",
+   "cats": [
+    "coffee-tables",
+    "end-tables",
+    "occasional-tables"
+   ],
+   "desc": "Silver Stainless Steel Base Clear Tempered Glass on Top & Bottom Shelf Silver Encore Coffee Table 35″ x 35″ x 15.5″ H 34-079 Gold Silver Encore Side Table 20″ x 20″ x 21.5″ H 34-080 Gold",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2026/06/encoresilverset-900x598-1.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/encore-silver/"
+  },
+  {
+   "id": "glory-3957",
+   "name": "Encore Gold",
+   "cats": [
+    "coffee-tables",
+    "end-tables",
+    "occasional-tables"
+   ],
+   "desc": "Gold Stainless Steel Base Clear Tempered Glass on Top & Bottom Shelf Gold Encore Coffee Table 35″ x 35″ x 15.5″ H 34-079 Gold Gold Encore Side Table 20″ x 20″ x 21.5″ H 34-080 Gold Secondary Items Gold Derby Accent Chair: 34-060 Carpet | 5′ x 8′ | 30-301",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2026/06/encoregoldset-900x598-1.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/encore-gold/"
+  },
+  {
+   "id": "glory-3955",
+   "name": "United",
+   "cats": [
+    "coffee-tables",
+    "occasional-tables"
+   ],
+   "desc": "Tempered Clear Glass Top Large Table is Silver Stainless Steel 4 Smaller Tables are Gold Stainless Steel 39.5” Dia x 18” H 34-073",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2026/06/unitednew-900x598-2.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/united/"
+  },
+  {
+   "id": "glory-3953",
+   "name": "Oasis",
+   "cats": [
+    "coffee-tables",
+    "console-tables",
+    "end-tables",
+    "occasional-tables"
+   ],
+   "desc": "Gold & Silver Stainless Steel Base with One Ceramic Slab Ceramic Table Top Oasis Coffee Table 47.5” x 27.5” x 17” H 31-2301CJ Oasis Side Table 20” x 20” x 21” H 31-2301JJ Oasis Console Table 51” x 16” x 31” H 31-2301XG *Ceramic colour may vary",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2026/06/oasis-900x598-1.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/oasis/"
+  },
+  {
+   "id": "glory-3951",
+   "name": "Alaska",
+   "cats": [
+    "coffee-tables",
+    "console-tables",
+    "end-tables",
+    "occasional-tables"
+   ],
+   "desc": "Gold Stainless Steel Base White & Grey Faux Marble Top Alaska Coffee Table 35.5” dia. x 17” H 31-2237C Alaska Side Table 20” dia. x 21” H 31-2237 S Alaska Console Table 52” x 16” x 32” H 31-2237 CON",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2026/06/alaskaseries-900x598-1.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/alaska/"
+  },
+  {
+   "id": "glory-3949",
+   "name": "Henry",
+   "cats": [
+    "coffee-tables",
+    "occasional-tables"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2026/06/henrycoffee-13-1075.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/henry/"
+  },
+  {
+   "id": "glory-3947",
+   "name": "James",
+   "cats": [
+    "coffee-tables",
+    "occasional-tables"
+   ],
+   "desc": "Marble Top Coffee Table",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2026/06/jamescoffee-13-1049.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/james/"
+  },
+  {
+   "id": "glory-3945",
+   "name": "Checkers",
+   "cats": [
+    "coffee-tables",
+    "occasional-tables"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2026/06/checkers-900x598-1.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/checkers/"
+  },
+  {
+   "id": "glory-3937",
+   "name": "Niagara",
+   "cats": [
+    "end-tables",
+    "occasional-tables"
+   ],
+   "desc": "Size – 19.5″ x 19.5″ x 23.5″",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2026/05/NIAGARA-end-2-scaled.jpg",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2026/05/NIAGARA-endQJ-548-ETMF-1-scaled.jpg"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/niagara-4/"
+  },
+  {
+   "id": "glory-3934",
+   "name": "Whistler",
+   "cats": [
+    "coffee-tables",
+    "occasional-tables"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2026/05/WHISTLER-COFFEEQJ-560-CTMF-2-scaled.jpg",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2026/05/WHISTLER-COFFEEQJ-560-CTMF-1-scaled.jpg"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/whistler/"
+  },
+  {
+   "id": "glory-3930",
+   "name": "Vulcan",
+   "cats": [
+    "coffee-tables",
+    "occasional-tables"
+   ],
+   "desc": "Size – 47″ x 23.5″ x 17.5″",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2026/05/VULCAN-COFFEEQJ-568-CT4-scaled.jpg",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2026/05/VULCAN-COFFEEQJ-568-CT5-scaled.jpg",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2026/05/VULCAN-COFFEEQJ-568-CT3-scaled.jpg"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/vulcan/"
+  },
+  {
+   "id": "glory-3929",
+   "name": "Regina",
+   "cats": [
+    "coffee-tables"
+   ],
+   "desc": "Size- 47″ x 23″ x 17.5″",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2026/05/REGINA-coffee-2-scaled.jpg",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2026/05/REGINA-coffee-1-scaled.jpg"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/regina/"
+  },
+  {
+   "id": "glory-3926",
+   "name": "Niagara",
+   "cats": [
+    "coffee-tables",
+    "occasional-tables"
+   ],
+   "desc": "Size- 50″ x 27″ x 17″",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2026/05/NIAGARA-coffeeQJ-548-CTMF2-scaled.jpg",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2026/05/NIAGARA-coffeeQJ-548-CTMF1-scaled.jpg",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2026/05/NIAGARA-coffee-3-scaled.jpg",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2026/05/NIAGARA-coffee-4-scaled.jpg",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2026/05/NIAGARA-coffee-5-scaled.jpg"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/niagara-3/"
+  },
+  {
+   "id": "glory-3920",
+   "name": "Jasper",
+   "cats": [
+    "coffee-tables",
+    "occasional-tables"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2026/05/JASPER-COFFEEQJ-229R1-CT-5-scaled.jpg",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2026/05/JASPER-COFFEEQJ-229R1-CT1-scaled.jpg",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2026/05/JASPER-COFFEEQJ-229R1-CT8-scaled.jpg",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2026/05/JASPER-COFFEEQJ-229R1-CT-3-scaled.jpg",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2026/05/JASPER-COFFEEQJ-229R1-CT-4-scaled.jpg"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/jasper/"
+  },
+  {
+   "id": "glory-3916",
+   "name": "Banff",
+   "cats": [
+    "coffee-tables",
+    "occasional-tables"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2026/05/BANFF-COFFEEQJ-540T2-CTM-1-2-scaled.jpg",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2026/05/BANFF-COFFEEQJ-540T2-CTM-1-scaled.jpg",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2026/05/BANFF-COFFEEQJ-540T2-CTM-1-3-scaled.jpg"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/banff/"
+  },
+  {
+   "id": "glory-3913",
+   "name": "Florence",
+   "cats": [
+    "console-tables",
+    "occasional-tables"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-12-at-3.34.32-PM-1.jpeg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/florence-3/"
+  },
+  {
+   "id": "glory-3910",
+   "name": "Florence",
+   "cats": [
+    "coffee-tables",
+    "occasional-tables"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-12-at-3.34.32-PM.jpeg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/florence-2/"
+  },
+  {
+   "id": "glory-3908",
+   "name": "Niagara",
+   "cats": [
+    "console-tables",
+    "occasional-tables"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2026/05/NIAGARA-console-2-scaled.jpg",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2026/05/NIAGARA-console-1-scaled.jpg",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2026/05/NIAGARA-coffee-5-scaled.jpg",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2026/05/NIAGARA-console-4-scaled.jpg",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2026/05/NIAGARA-console3-scaled.jpg"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/niagara-2/"
+  },
+  {
+   "id": "glory-3880",
+   "name": "Tokyo Blue Silver",
+   "cats": [
+    "dining-chairs"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2026/04/358c9f12-8e22-4077-bf48-9782cd8cd19d.jpeg",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2026/04/b3d1901a-8421-4d62-bd97-219d37de1cd5.jpeg"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/tokyo-blue-silver/"
+  },
+  {
+   "id": "glory-3866",
+   "name": "CARRI",
+   "cats": [
+    "coffee-tables"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2026/03/Carri.png",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2026/03/Screenshot-2026-03-09-at-1.43.22-PM.png"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/carri/"
+  },
+  {
+   "id": "glory-3862",
+   "name": "Nova Lift-top Bedroom Set",
+   "cats": [
+    "bedroom"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2026/03/Screenshot-2026-03-09-at-2.24.00-PM.png",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2026/03/d61c8f827ff3844e5123db6a4fe710d2-2.jpg",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2026/03/5aa660edab01761a3b7c2e2aef2c8924.jpg"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/nova/"
+  },
+  {
+   "id": "glory-3762",
+   "name": "9219 – Dark Grey Sofa with Pull-out Bed",
+   "cats": [
+    "living"
+   ],
+   "desc": "Dimensions: 108″ L x 96″ W x 31″H",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2026/01/Untitled-design.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/9219-dark-grey/"
+  },
+  {
+   "id": "glory-3754",
+   "name": "9219 – Light Grey Sofa with Pull-out Bed",
+   "cats": [
+    "living"
+   ],
+   "desc": "Dimensions: 108″ L x 96″ W x 31″H",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2026/01/9219GY_seating__l.webp",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2026/01/9219GY_noBG_sid__l1_1.webp",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2026/01/9219GY_noBG_ope__l1_1.webp",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2026/01/Screenshot-2026-01-30-at-6.45.19-PM.png",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2026/01/9219GY_noBG_bac__l1.webp",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2026/01/9219GY_noBG_con__l1.webp"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/9219-light-grey/"
+  },
+  {
+   "id": "glory-3745",
+   "name": "Santana Bedroom Set",
+   "cats": [
+    "bedroom"
+   ],
+   "desc": "Available in Queen and King size. KING BED DRESSER MIRROR CHEST NIGHT STAND L – 87.5″ W – 129″ H – 58.5″ L – 62″ W – 19″ H – 35″ L – 55″ W – 3″ H – 30″ L – 31″ W – 19″ H – 48″ L – 24″ W – 17″ H – 22″",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2025/12/PHOTO-2025-12-10-13-57-33.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/santana/"
+  },
+  {
+   "id": "glory-3724",
+   "name": "Paris Grey Silver",
+   "cats": [
+    "dining-chairs"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2025/12/PHOTO-2025-12-02-17-34-56.jpg",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2025/12/PHOTO-2025-12-02-17-34-56-2.jpg"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/paris-grey-silver/"
+  },
+  {
+   "id": "glory-3718",
+   "name": "Wendy Bedroom Set",
+   "cats": [
+    "bedroom"
+   ],
+   "desc": "Available in Queen and King size.   QUEEN BED DRESSER MIRROR CHEST NIGHT STAND L – 87″  W – 79″ H – 55″ L – 62″  W – 18″ H – 35″ L – 55″  W – 3″ H – 30″ L – 33.5″  W – 18″ H – 48″ L – 25″  W – 18″ H – 23″",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2025/11/PHOTO-2025-12-30-13-26-36-3.jpg",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2025/11/PHOTO-2025-12-30-13-26-36.jpg",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2025/11/PHOTO-2025-12-30-13-26-36-2.jpg"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/wendy/"
+  },
+  {
+   "id": "glory-3713",
+   "name": "Antalya Grey & Silver",
+   "cats": [
+    "barstool"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2025/11/PHOTO-2025-11-30-13-07-51-5.jpg",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2025/11/PHOTO-2025-11-30-13-07-51-7.jpg",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2025/11/PHOTO-2025-11-30-13-07-51-6.jpg",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2025/11/PHOTO-2025-11-30-13-07-51.jpg"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/antalya-grey-silver/"
+  },
+  {
+   "id": "glory-3708",
+   "name": "Antalya Black & Silver",
+   "cats": [
+    "barstool"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2025/11/PHOTO-2025-11-30-13-07-51-3.jpg",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2025/11/PHOTO-2025-11-30-13-07-50.jpg",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2025/11/PHOTO-2025-11-30-13-07-51-4.jpg",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2025/11/PHOTO-2025-11-30-13-07-51-2.jpg"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/antalya-black-silver/"
+  },
+  {
+   "id": "glory-3706",
+   "name": "Jane Black & Silver PU",
+   "cats": [
+    "dining-chairs"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2025/11/PHOTO-2025-11-30-13-06-09.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/jane-black-silver-pu/"
+  },
+  {
+   "id": "glory-3704",
+   "name": "Jane Black & Gold PU",
+   "cats": [
+    "dining-chairs"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2025/11/PHOTO-2025-11-30-13-06-10.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/jane-black-gold/"
+  },
+  {
+   "id": "glory-3702",
+   "name": "Milan Beige & Gold",
+   "cats": [
+    "dining-chairs"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2025/11/PHOTO-2025-11-30-13-06-09-2.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/milan-beige-gold/"
+  },
+  {
+   "id": "glory-3700",
+   "name": "Milan Black & Gold",
+   "cats": [
+    "dining-chairs"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2025/11/PHOTO-2025-11-30-13-06-09-3.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/milan-black-gold/"
+  },
+  {
+   "id": "glory-3697",
+   "name": "Irian",
+   "cats": [
+    "dining-tables"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2025/11/IRIANCH333-GREY-2-scaled.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/irian/"
+  },
+  {
+   "id": "glory-3693",
+   "name": "CH333 Grey",
+   "cats": [
+    "dining-chairs"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2025/11/CH333-GREY-scaled.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/ch333-grey/"
+  },
+  {
+   "id": "glory-3691",
+   "name": "CH666_White",
+   "cats": [
+    "dining-chairs"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2025/11/CH666-WHITE-scaled.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/ch666_white/"
+  },
+  {
+   "id": "glory-3689",
+   "name": "CH666_Grey",
+   "cats": [
+    "dining-chairs"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2025/11/CH666-GREY-1-scaled.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/ch666_grey/"
+  },
+  {
+   "id": "glory-3686",
+   "name": "CH666_Black",
+   "cats": [
+    "dining-chairs"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2025/11/CH666-GREY-scaled.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/ch666/"
+  },
+  {
+   "id": "glory-3684",
+   "name": "Lana",
+   "cats": [
+    "dining-tables"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2025/11/LANACH666-WHITE-2-scaled.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/lana/"
+  },
+  {
+   "id": "glory-3680",
+   "name": "4873 – Grey Sofa Set with Gold Legs",
+   "cats": [
+    "living"
+   ],
+   "desc": "SOFA = L – 90″ D – 37″ H – 31″ LOVESEAT = L – 70″ D – 37″ H – 31″ CHAIR = L – 50″ D – 37″ H – 31″ Fabric Button-Tufted Velvet Upholstery Waterfall Pattern with gold Legs",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2025/11/9fd142d0-9dd4-4bb8-8c9f-6b4767abd950.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/4873_grey/"
+  },
+  {
+   "id": "glory-3675",
+   "name": "Osaka",
+   "cats": [
+    "barstool"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-11-at-12.25.00-PM.jpeg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/osaka-2/"
+  },
+  {
+   "id": "glory-3674",
+   "name": "Osaka",
+   "cats": [
+    "barstool"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-11-at-12.24.59-PM.jpeg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/osaka/"
+  },
+  {
+   "id": "glory-3673",
+   "name": "Halifax",
+   "cats": [
+    "barstool"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-11-at-12.25.00-PM-2.jpeg",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-11-at-12.25.00-PM-4.jpeg"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/halifax-2/"
+  },
+  {
+   "id": "glory-3665",
+   "name": "Halifax",
+   "cats": [
+    "barstool"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-11-at-12.25.00-PM-1.jpeg",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-11-at-12.25.00-PM-3.jpeg"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/halifax/"
+  },
+  {
+   "id": "glory-3663",
+   "name": "027 – Beige Cloud Modular Sectional Sofa",
+   "cats": [
+    "living"
+   ],
+   "desc": "Dimensions: 67″ D x 103″ W x 35″ H",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-11-at-12.34.42-PM.jpeg",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2025/11/604855202_1191371226472444_6010421874250018844_n.jpg",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2025/11/606577402_1191371169805783_4612331504733188408_n.jpg"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/027_beige/"
+  },
+  {
+   "id": "glory-3661",
+   "name": "LCL07 – Grey",
+   "cats": [
+    "living"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2025/11/Fendi-Living-Room-Set-Furniture-World-6108_1052x700.webp",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/lcl07_grey/"
+  },
+  {
+   "id": "glory-3659",
+   "name": "LCL07 – Black",
+   "cats": [
+    "living"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2025/11/Fendi-Living-Room-Set-Furniture-World-5952_1121x700.webp",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/lcl07_black/"
+  },
+  {
+   "id": "glory-3657",
+   "name": "LCL07 – Navy Blue",
+   "cats": [
+    "living"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2025/11/Fendi-Living-Room-Set-Furniture-World-1448_1200x730.webp",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/lcl07_navy/"
+  },
+  {
+   "id": "glory-3655",
+   "name": "Juliet Bedroom Set",
+   "cats": [
+    "bedroom"
+   ],
+   "desc": "Available in Queen and King size. Dimensions: King Bed: 78.3″ W x 50.2″ H x 83.8″ D Queen Bed: 62″ W x 50.2″ H x 83.6″ D Dresser: 58″ W x 33″ H x 15.7″ D Mirror: 39.5″ W x 39.5″ H x 1.18″ D Nightstand: 21.5″ W x 22″ H x 15.7″ D Chest: 31″ W x 49.03″ H x 15.7″ D",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2025/11/BR785C-scaled-1.jpg",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2025/11/3624-freya-chest_1200x_7b779ae7-b82b-4bc5-ab70-0b3bdee84f7d.webp",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2025/11/SB785C-Q-K_03.jpg",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2025/11/SB785C-Q-K_04.jpg",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2025/11/SB785C-Q-K_05.jpg"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/juliet/"
+  },
+  {
+   "id": "glory-3636",
+   "name": "2012 – Black Reversible Sectional Sofa",
+   "cats": [
+    "living"
+   ],
+   "desc": "Dimensions: 72″ L x 50″ W x 35″ H",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2025/11/f261f3d5-15ef-4004-ab16-3a992b825f61.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/2012_white/"
+  },
+  {
+   "id": "glory-3634",
+   "name": "2012 – Beige Reversible Sectional Sofa",
+   "cats": [
+    "living"
+   ],
+   "desc": "Dimensions: 72″ L x 50″ W x 35″ H",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2025/11/159bbcaa-55e2-4e05-9f1e-d7eae2e968c4.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/2021_white/"
+  },
+  {
+   "id": "glory-3614",
+   "name": "Tulsa",
+   "cats": [
+    "barstool"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2025/09/LivianoTuftedBackRed_GoldUpholsteredBarstool-1180890404-1.webp",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2025/09/LivianoTuftedBackRed_GoldUpholsteredBarstool-1180890404.webp",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2025/09/LivianoTuftedBackRed_GoldUpholsteredBarstool-1180890404-2.webp"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/tulsa/"
+  },
+  {
+   "id": "glory-3609",
+   "name": "Flora Silver",
+   "cats": [
+    "console-tables",
+    "occasional-tables"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2025/08/GLORY-CATALOGUE-Aug-152025-1056-x-816-px-scaled.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/flora-silver/"
+  },
+  {
+   "id": "glory-3600",
+   "name": "Luna",
+   "cats": [
+    "coffee-tables",
+    "occasional-tables"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2025/08/GLORY-CATALOGUE-June-252025-1056-x-816-px-6-scaled.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/luna-3/"
+  },
+  {
+   "id": "glory-3587",
+   "name": "CT640",
+   "cats": [
+    "coffee-tables",
+    "occasional-tables"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2025/08/080719408-scaled.jpg",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2025/08/080719409-scaled.jpg",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2025/08/080719410-scaled.jpg"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/ct640/"
+  },
+  {
+   "id": "glory-3583",
+   "name": "CT650",
+   "cats": [
+    "coffee-tables",
+    "occasional-tables"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2025/08/GLORY-CATALOGUE-June-252025-1056-x-816-px-1-1-scaled.jpg",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2025/08/080719412-scaled.jpg",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2025/08/080719414-scaled.jpg"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/ct650/"
+  },
+  {
+   "id": "glory-3563",
+   "name": "Selena_Lift-top Bedroom Set",
+   "cats": [
+    "bedroom"
+   ],
+   "desc": "Description KING BED QUEEN BED DRESSER MIRROR CHEST NIGHT STAND L – 80″ W – 76″ H – 58″ L – 80″ W – 60″ H – 58″ L – 62″ W – 19″ H – 35″ L – 55″ W – 3″ H – 30″ L – 31″ W – 19″ H – 48″ L – 24″ W – 17″ H – 22″",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2025/07/2505514--scaled.jpg",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2025/07/2505523-2-scaled.jpg",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2025/07/2505525--scaled.jpg",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2025/07/2505517-scaled.jpg",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2025/07/2505527--scaled.jpg",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2025/07/2505520--scaled.jpg"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/selena/"
+  },
+  {
+   "id": "glory-3521",
+   "name": "027 – Black Cloud Modular Sectional Sofa",
+   "cats": [
+    "living"
+   ],
+   "desc": "Dimensions: 67″ D x 103″ W x 35″ H",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2025/07/72f2878982ff7eb0ef60ed6fd3bbe87e.jpg",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2025/07/0f47f99209a86d8bfe7167cdbe7efea7.jpg",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2025/07/L-ShapedCorduroySectionalWithChaiseLoungeAndDeepBonelessSeatsForLivingRoom-1882529595.webp",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2025/07/dce33fd7-cb85-4731-b56b-b65af3d29613.ba6d8452704adb47ee3e280e810121c2.webp"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/ghf027_black/"
+  },
+  {
+   "id": "glory-3518",
+   "name": "027 – Grey Cloud Modular Sectional Sofa",
+   "cats": [
+    "living"
+   ],
+   "desc": "Dimensions: 67″ D x 103″ W x 35″ H",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2025/07/ef1602f2fac486ad42cec87c77e53ff5.jpg",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2025/07/589e30a4d1eaf573b69dd0a96e614db8.jpg",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2025/07/91PlsvoCdyL._AC_SL1500_.jpg"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/ghf027_grey/"
+  },
+  {
+   "id": "glory-3512",
+   "name": "CH999 Grey",
+   "cats": [
+    "dining-chairs"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2025/06/Editing-1-scaled.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/ch888-grey/"
+  },
+  {
+   "id": "glory-3509",
+   "name": "Sydney Leather",
+   "cats": [
+    "dining-chairs"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2025/06/Editing-scaled.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/sydney_leather-2/"
+  },
+  {
+   "id": "glory-3507",
+   "name": "Vienna Beige & Gold",
+   "cats": [
+    "dining-chairs"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2025/06/Vienna_BeigeGold-scaled.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/vienna_beigegold-2/"
+  },
+  {
+   "id": "glory-3494",
+   "name": "Luxor",
+   "cats": [
+    "dining-chairs"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2025/06/EXCLUSIVE-GLORY-CATALOGUE-June-192025-6-scaled.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/luxor-2/"
+  },
+  {
+   "id": "glory-3488",
+   "name": "DT111",
+   "cats": [
+    "dining",
+    "dining-tables"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2025/06/GLORY-CATALOGUE-June-252025-1056-x-816-px-7-scaled.jpg",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2025/06/f94688f0da7d985aef113f0e485ade4e.jpg",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2025/06/225c36ac67e3b74e40d1154ff95e9fbd.jpg"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/dt111/"
+  },
+  {
+   "id": "glory-3486",
+   "name": "ET777",
+   "cats": [
+    "end-tables",
+    "occasional-tables"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2025/06/EXCLUSIVE-GLORY-CATALOGUE-June-192025-5-scaled.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/et777/"
+  },
+  {
+   "id": "glory-3484",
+   "name": "ST555",
+   "cats": [
+    "console-tables",
+    "occasional-tables"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2025/06/EXCLUSIVE-GLORY-CATALOGUE-June-192025-4-scaled.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/st555/"
+  },
+  {
+   "id": "glory-3481",
+   "name": "ST333",
+   "cats": [
+    "console-tables",
+    "occasional-tables"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2025/06/EXCLUSIVE-GLORY-CATALOGUE-June-192025-3-scaled.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/st333/"
+  },
+  {
+   "id": "glory-3479",
+   "name": "ST777",
+   "cats": [
+    "console-tables",
+    "occasional-tables"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2025/06/EXCLUSIVE-GLORY-CATALOGUE-June-192025-2-scaled.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/st777/"
+  },
+  {
+   "id": "glory-3471",
+   "name": "Lotus Lift-top Bedroom Set",
+   "cats": [
+    "bedroom"
+   ],
+   "desc": "Available in Queen and King size. QUEEN BED DRESSER MIRROR CHEST NIGHT STAND L – 87.5″ W – 82.5″ H – 59″ L – 62″ W – 18″ H – 35″ L – 55″ W – 3″ H – 30″ L – 33.5″ W – 18″ H – 48″ L – 25″ W – 18″ H – 23″",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2025/06/1-scaled.jpg",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2025/06/2ff60a2838336a85239036652772b31f.jpg",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2025/06/56423e8901db97a65d65440681695127.jpg",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2025/06/a0b34c2c78a4c71e2052104944a8435d.jpg",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2025/06/e1dd4e36c0fab3e9c817de119f510491.jpg",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2025/06/115c44bb4515baad525543ed10cdb751.jpg"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/lotus/"
+  },
+  {
+   "id": "glory-3468",
+   "name": "CT777",
+   "cats": [
+    "coffee-tables",
+    "occasional-tables"
+   ],
+   "desc": "L- 49″ W- 24″ H- 18″",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2025/06/4-9-scaled.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/ct777/"
+  },
+  {
+   "id": "glory-3429",
+   "name": "Venus Lift-Top Bedroom Set",
+   "cats": [
+    "bedroom"
+   ],
+   "desc": "Available in Queen and King size. KING BED QUEEN BED DRESSER MIRROR CHEST NIGHT STAND L – 80″ W – 76″ H – 58″ L – 80″ W – 60″ H – 58″ L – 62″ W – 19″ H – 35″ L – 55″ W – 3″ H – 30″ L – 31″ W – 19″ H – 48″ L – 24″ W – 17″ H – 22″",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2025/06/5-9-scaled.jpg",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2025/06/3-7-scaled.jpg",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2025/06/4-7-scaled.jpg",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2025/06/16093--scaled.jpg",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2025/06/16083--scaled.jpg",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2025/06/16085--scaled.jpg"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/venus_lift-top/"
+  },
+  {
+   "id": "glory-3424",
+   "name": "Joey Lift-Top Bedroom Set",
+   "cats": [
+    "bedroom"
+   ],
+   "desc": "Available in Queen and King size.   KING BED QUEEN BED DRESSER MIRROR CHEST NIGHT STAND L – 80″ W – 76″ H – 58″ L – 80″ W – 60″ H – 58″ L – 62″ W – 19″ H – 35″ L – 55″ W – 3″ H – 30″ L – 31″ W – 19″ H – 48″ L – 24″ W – 17″ H – 22″",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2025/06/5-8-scaled.jpg",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2025/06/3-8-scaled.jpg",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2025/06/4-8-scaled.jpg"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/joey_lift-top/"
+  },
+  {
+   "id": "glory-3420",
+   "name": "Rosa Lift-Top Bedroom Set",
+   "cats": [
+    "bedroom"
+   ],
+   "desc": "Available in Queen and King size.   KING BED QUEEN BED DRESSER MIRROR CHEST NIGHT STAND L – 80″ W – 76″ H – 58″ L – 80″ W – 60″ H – 58″ L – 62″ W – 19″ H – 35″ L – 55″ W – 3″ H – 30″ L – 31″ W – 19″ H – 48″ L – 24″ W – 17″ H – 22″",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2025/06/3-5-scaled.jpg",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2025/06/4-5-scaled.jpg",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2025/06/5-5-scaled.jpg"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/rosa_lift-top/"
+  },
+  {
+   "id": "glory-3416",
+   "name": "Moxie Lift-Top Bedroom Set",
+   "cats": [
+    "bedroom"
+   ],
+   "desc": "Available in Queen and King size.   KING BED QUEEN BED DRESSER MIRROR CHEST NIGHT STAND L – 77″ W – 81″ H – 58″ L – 61″ W – 60″ H – 58″ L – 63″ W – 20″ H – 33″ L – 39″ W – 1″ H – 39″ L – 30″ W – 19″ H – 47″ L – 27″ W – 20″ H – 20″",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2025/06/5-6-scaled.jpg",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2025/06/3-6-scaled.jpg",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2025/06/4-6-scaled.jpg",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2025/06/810100100706-sp-24-25.jpg",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2025/06/810100100706-sp-24-216.jpg"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/moxie/"
+  },
+  {
+   "id": "glory-3330",
+   "name": "ET555",
+   "cats": [
+    "end-tables"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2025/04/ET555-scaled.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/et555/"
+  },
+  {
+   "id": "glory-3328",
+   "name": "CT555",
+   "cats": [
+    "coffee-tables",
+    "occasional-tables"
+   ],
+   "desc": "L- 49″ W- 24″ H- 18″",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2025/04/3-scaled.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/ct555/"
+  },
+  {
+   "id": "glory-3326",
+   "name": "ET333",
+   "cats": [
+    "end-tables"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2025/04/ET333-scaled.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/et333/"
+  },
+  {
+   "id": "glory-3324",
+   "name": "CT333",
+   "cats": [
+    "coffee-tables",
+    "occasional-tables"
+   ],
+   "desc": "L- 49″ W- 24″ H- 18″",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2025/04/2-scaled.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/ct333/"
+  },
+  {
+   "id": "glory-3322",
+   "name": "CH555 Grey",
+   "cats": [
+    "dining-chairs"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2025/04/CH555-GREY-scaled.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/ch555-grey/"
+  },
+  {
+   "id": "glory-3320",
+   "name": "CH555 Black",
+   "cats": [
+    "dining-chairs"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2025/04/CH555-BLACK-scaled.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/ch555-black/"
+  },
+  {
+   "id": "glory-3318",
+   "name": "CH333 Black",
+   "cats": [
+    "dining-chairs"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2025/04/CH333-BLACK-scaled.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/ch333-black/"
+  },
+  {
+   "id": "glory-3316",
+   "name": "CH333",
+   "cats": [
+    "dining-chairs"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2025/04/CH333-WHITE-scaled.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/ch333/"
+  },
+  {
+   "id": "glory-3313",
+   "name": "DT333",
+   "cats": [
+    "dining",
+    "dining-tables"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2025/04/DT333-CH333-WHITE--scaled.jpg",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2025/04/DT333-CH333-WHITE-scaled.jpg"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/dt333/"
+  },
+  {
+   "id": "glory-3310",
+   "name": "DT555",
+   "cats": [
+    "dining",
+    "dining-tables"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2025/04/DT555-CH555-BLACK--scaled.jpg",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2025/04/DT555-CH555-GREY--scaled.jpg"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/dt555/"
+  },
+  {
+   "id": "glory-3296",
+   "name": "Vienna Black & Gold",
+   "cats": [
+    "dining-chairs"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2025/03/IMG_0643.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/vienna_blackgold/"
+  },
+  {
+   "id": "glory-3278",
+   "name": "Tokyo Grey & Silver",
+   "cats": [
+    "dining-chairs"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2025/03/IMG_0446.jpg",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2025/03/IMG_0447.jpg"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/tokyo_d-greysilver/"
+  },
+  {
+   "id": "glory-3274",
+   "name": "DT140 – Glass",
+   "cats": [
+    "dining-tables"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2025/03/26-scaled.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/dt160/"
+  },
+  {
+   "id": "glory-3271",
+   "name": "ET580",
+   "cats": [
+    "end-tables"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2025/03/GLORY-CATALOGUE-JAN82025-5-3-scaled.jpg",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2025/03/GLORY-CATALOGUE-JAN82025-5-2-scaled.jpg"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/et580/"
+  },
+  {
+   "id": "glory-3269",
+   "name": "ET440",
+   "cats": [
+    "end-tables"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2025/03/GLORY-CATALOGUE-JAN82025-6-2-scaled.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/et440/"
+  },
+  {
+   "id": "glory-3267",
+   "name": "DT160 – Glass",
+   "cats": [
+    "dining-tables"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2025/03/26-1-scaled.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/dt140/"
+  },
+  {
+   "id": "glory-3261",
+   "name": "Luna – Beige Sectional with Cup Holder",
+   "cats": [
+    "living"
+   ],
+   "desc": "Dimensions: 106″ L x 80″ W x 36″H",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2025/03/Untitled-design-scaled.png",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/luna-beige/"
+  },
+  {
+   "id": "glory-3244",
+   "name": "CH888 Black",
+   "cats": [
+    "dining-chairs"
+   ],
+   "desc": "Chair Size – 18″ X 18″ X 38″",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2025/03/CH888-BLACK-scaled.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/ch888_black/"
+  },
+  {
+   "id": "glory-3242",
+   "name": "CH888 Grey",
+   "cats": [
+    "dining-chairs"
+   ],
+   "desc": "Chair Size – 18″ X 18″ X 38″",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2025/03/CH888-GREY-scaled.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/ch888_grey/"
+  },
+  {
+   "id": "glory-3224",
+   "name": "DT888",
+   "cats": [
+    "dining",
+    "dining-tables"
+   ],
+   "desc": "Table Size- 68″ X 38″ X 30″ Chair – CH999",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2025/03/DT888CH888-GREY-2-scaled.jpg",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2025/03/DT888-scaled.jpg",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2025/03/DT888CH999-2-scaled.jpg",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2025/03/DT888CH888-BLACK-2-scaled.jpg",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2025/03/DT888CH888-BLACK-1-scaled.jpg",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2025/03/DT888CH999-1-scaled.jpg"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/dt888/"
+  },
+  {
+   "id": "glory-3221",
+   "name": "Milan Grey Silver",
+   "cats": [
+    "dining-chairs"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2025/03/20c3864b-5176-4b6f-8781-4ed03a7b2efc.jpg",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2025/03/a1293807-bace-40a8-974b-0575f50ea5bf.jpg"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/milan_greysilver/"
+  },
+  {
+   "id": "glory-3218",
+   "name": "Milan Black & Silver",
+   "cats": [
+    "dining-chairs"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2025/03/2026e1ed-d681-4fc5-a1a5-f2b8d668c857.jpg",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2025/03/2598a620-b7ef-4fc8-aa2d-d37414e96849.jpg"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/milan_blacksilver/"
+  },
+  {
+   "id": "glory-3214",
+   "name": "CT560",
+   "cats": [
+    "coffee-tables",
+    "occasional-tables"
+   ],
+   "desc": "L : 48″ W : 24″ H : 16″",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2025/02/8L2A7451-scaled.jpg",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2025/02/8L2A7450-scaled.jpg"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/ct560/"
+  },
+  {
+   "id": "glory-3210",
+   "name": "Navy Grey & Gold",
+   "cats": [
+    "dining",
+    "dining-chairs"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2025/02/GLORY-CATALOGUE-JAN82025-3-scaled.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/navy_greygold/"
+  },
+  {
+   "id": "glory-3207",
+   "name": "Navy Beige & Silver",
+   "cats": [
+    "dining",
+    "dining-chairs"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2025/02/GLORY-CATALOGUE-JAN82025-4-scaled.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/navy_beigesilver/"
+  },
+  {
+   "id": "glory-3201",
+   "name": "C095 Grey & Silver",
+   "cats": [
+    "dining",
+    "dining-chairs"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2025/02/LS_C095-Grey-Fabric-scaled.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/c095_greysilver/"
+  },
+  {
+   "id": "glory-3199",
+   "name": "Jane Grey & Gold",
+   "cats": [
+    "dining",
+    "dining-chairs"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2025/02/Jane_Grey-Gold.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/jane_greygold/"
+  },
+  {
+   "id": "glory-3174",
+   "name": "Jane Grey & Silver PU",
+   "cats": [
+    "dining",
+    "dining-chairs"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2025/01/Colorful-Gradient-Smart-Tv-Sale-Instagram-Post-2-scaled.jpg",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2025/01/Jane-2-scaled.jpg",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2025/01/Jane-1-scaled.jpg",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2025/01/Jane-3-scaled.jpg"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/jane_greysilver_pu/"
+  },
+  {
+   "id": "glory-3169",
+   "name": "Sydney Black",
+   "cats": [
+    "dining",
+    "dining-chairs"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2025/01/Colorful-Gradient-Smart-Tv-Sale-Instagram-Post-1-scaled.jpg",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2025/01/Sydney-1.jpg",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2025/01/Sydney-9.jpg",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2025/01/Sydney-8.jpg"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/sydney_black/"
+  },
+  {
+   "id": "glory-3163",
+   "name": "Sydney Leather",
+   "cats": [
+    "dining",
+    "dining-chairs"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2025/01/Colorful-Gradient-Smart-Tv-Sale-Instagram-Post-scaled.jpg",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2025/01/Sydney-7.jpg",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2025/01/Sydney-5.jpg",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2025/01/Sydney-6.jpg"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/sydney_leather/"
+  },
+  {
+   "id": "glory-3155",
+   "name": "9008 – Blue Upholstered Platform Bed with Storage",
+   "cats": [
+    "bedroom"
+   ],
+   "desc": "Available in Queen and King size. Dimensions: QUEEN BED 100″ L x 82″ W x 59″H KING BED 100″ L x 96″ W x 59″H",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2025/01/GLORY-CATALOGUE-JAN82025-13-2-scaled.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/9008_blue/"
+  },
+  {
+   "id": "glory-3152",
+   "name": "9008 – Grey Upholstered Platform Bed with Storage",
+   "cats": [
+    "bedroom"
+   ],
+   "desc": "Available in Queen and King size. Dimensions: QUEEN BED 100″ L x 82″ W x 59″H KING BED 100″ L x 96″ W x 59″H",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2025/01/c1a65e_dc4965d67051435fad5bb36042b3e656mv2.webp",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/9008_grey/"
+  },
+  {
+   "id": "glory-3145",
+   "name": "Richmond – Black Lift-top Bedroom Set",
+   "cats": [
+    "bedroom"
+   ],
+   "desc": "Available in Queen and King size. King Bed: 81″W 87″ D 58″H Dresser: 62″W 19″ D 30″H Mirror: 45″W 3.5″D 30″H Chest: 31″ W 49″H 19″D Night Stand 23.5″ W 23.5″H 16.5″D",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2025/01/Glory-Home-Furniture-1-scaled.jpg",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2025/01/044021003139-8-║┌-1-scaled.jpg",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2025/01/044021003139-10-2-scaled.jpg",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2025/01/P9A5932-scaled.jpg",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2025/01/P9A5939-scaled.jpg",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2025/01/P9A5932-1-scaled.jpg"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/richmond_black/"
+  },
+  {
+   "id": "glory-3142",
+   "name": "Richmond – Grey Lift-top Bedroom Set",
+   "cats": [
+    "bedroom"
+   ],
+   "desc": "Available in Queen and King size. Dimensions: King Bed: 81″W 87″ D 58″H Dresser: 62″W 19″ D 30″H Mirror: 45″W 3.5″D 30″H Chest: 31″ W 49″H 19″D Night Stand 23.5″ W 23.5″H 16.5″D",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2025/01/Glory-Home-Furniture-5-scaled.jpg",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2025/01/Glory-Home-Furniture-4-scaled.jpg"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/richmond_grey/"
+  },
+  {
+   "id": "glory-3119",
+   "name": "ST540",
+   "cats": [
+    "console-tables",
+    "occasional-tables"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2025/01/8L2A0325-scaled.jpg",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2025/01/8L2A0326-scaled.jpg",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2025/01/8L2A0327-scaled.jpg"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/st580/"
+  },
+  {
+   "id": "glory-3116",
+   "name": "CT580",
+   "cats": [
+    "coffee-tables",
+    "occasional-tables"
+   ],
+   "desc": "L : 39.5″ W : 39.5″ H : 15.75″",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2025/01/8L2A0306-scaled.jpg",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2025/01/8L2A0309-scaled.jpg",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2025/01/8L2A0308-scaled.jpg"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/ct580/"
+  },
+  {
+   "id": "glory-3113",
+   "name": "CT530",
+   "cats": [
+    "coffee-tables",
+    "occasional-tables"
+   ],
+   "desc": "L : 39.5″ W : 39.5″ H : 15.75″",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2025/01/8L2A0305-scaled.jpg",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2025/01/8L2A0302-scaled.jpg",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2025/01/8L2A0304-scaled.jpg"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/ct530/"
+  },
+  {
+   "id": "glory-3110",
+   "name": "CT520",
+   "cats": [
+    "coffee-tables",
+    "occasional-tables"
+   ],
+   "desc": "L : 38″ W : 38″ H : 18″",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2025/01/8L2A0313-scaled.jpg",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2025/01/8L2A0310-scaled.jpg",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2025/01/8L2A0312-scaled.jpg"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/ct520/"
+  },
+  {
+   "id": "glory-3108",
+   "name": "ET520",
+   "cats": [
+    "end-tables",
+    "occasional-tables"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2025/01/8L2A0323-scaled.jpg",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2025/01/8L2A0321-scaled.jpg",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2025/01/8L2A0322-scaled.jpg"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/et520/"
+  },
+  {
+   "id": "glory-3088",
+   "name": "Stacy",
+   "cats": [
+    "end-tables",
+    "occasional-tables"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/11/Floor-Model-Sale-22-scaled.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/stacy-3/"
+  },
+  {
+   "id": "glory-3093",
+   "name": "Stacy",
+   "cats": [
+    "coffee-tables",
+    "occasional-tables"
+   ],
+   "desc": "L- 51″ W- 28″ H- 17.5″",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/11/Floor-Model-Sale-21-scaled.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/stacy-2/"
+  },
+  {
+   "id": "glory-3086",
+   "name": "Honeycomb Beige & Gold",
+   "cats": [
+    "accent"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/11/IMG_4298.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/honeycomb_beigegold/"
+  },
+  {
+   "id": "glory-3082",
+   "name": "Honeycomb Black & Gold",
+   "cats": [
+    "accent"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/11/IMG_4297.webp",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/honeycomb_blackgold/"
+  },
+  {
+   "id": "glory-3077",
+   "name": "Flora Gold",
+   "cats": [
+    "console-tables",
+    "occasional-tables"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/11/46a2fc560debc41825d166b0422c0ef8.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/flora_gold/"
+  },
+  {
+   "id": "glory-3075",
+   "name": "Elina",
+   "cats": [
+    "coffee-tables",
+    "occasional-tables"
+   ],
+   "desc": "L- 51″ W- 28″ H- 17″",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/11/51dea3e5-480d-46a2-801d-08ab75995e70-e1765845066704.jpg",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2024/11/64735d58-f3fe-4649-950d-1cb1407f3c57.jpg"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/elina/"
+  },
+  {
+   "id": "glory-3073",
+   "name": "Disney_Grey+Silver",
+   "cats": [
+    "dining",
+    "dining-chairs"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/11/FINAL-GLORY-CATALOGUE-11.25-x-8.75-in-scaled.jpg",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2024/11/Disney-5.jpg",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2024/11/Disney-6.jpg",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2024/11/Disney-4.jpg"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/disney_greysilver/"
+  },
+  {
+   "id": "glory-3071",
+   "name": "Disney Beige & Gold",
+   "cats": [
+    "dining",
+    "dining-chairs"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/11/19987f370be9de9f7f7800b8d6878685-scaled.jpg",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2024/11/Disney-2.jpg",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2024/11/Disney-3.jpg",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2024/11/Disney-1.jpg"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/disney_beigegold/"
+  },
+  {
+   "id": "glory-3068",
+   "name": "Stacy",
+   "cats": [
+    "dining",
+    "dining-tables"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/11/GLORY-CATALOGUE-JAN82025-9-scaled.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/stacy/"
+  },
+  {
+   "id": "glory-3066",
+   "name": "Florence",
+   "cats": [
+    "dining",
+    "dining-tables"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/11/24-scaled.jpg",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2024/11/Florence-2.jpg"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/florence/"
+  },
+  {
+   "id": "glory-3063",
+   "name": "Leslie White",
+   "cats": [
+    "dining",
+    "dining-tables"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/11/Leslie-4.jpg",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2024/11/44000bccd5a700dbd68474fd88f48141.jpg",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2024/11/Leslie-3.jpg",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2024/11/Leslie-1.jpg"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/leslie_white/"
+  },
+  {
+   "id": "glory-3060",
+   "name": "CT820_Nesting",
+   "cats": [
+    "coffee-tables",
+    "occasional-tables"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/10/Copy-of-Glory-CATALOGUE-scaled.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/ct820_nesting/"
+  },
+  {
+   "id": "glory-3048",
+   "name": "Jane Grey & Silver",
+   "cats": [
+    "dining",
+    "dining-chairs"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/10/Jane_Grey-Leather.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/jane_grey_silver/"
+  },
+  {
+   "id": "glory-3046",
+   "name": "Jane Black & Gold",
+   "cats": [
+    "dining",
+    "dining-chairs"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/10/Jane-1-1.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/jane_black_gold/"
+  },
+  {
+   "id": "glory-3041",
+   "name": "Tusk Silver (63″)",
+   "cats": [
+    "dining",
+    "dining-tables"
+   ],
+   "desc": "L : 63″ W : 36″ H : 29.5″",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/10/GLORY-CATALOGUE-JAN82025-16-scaled.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/tusk_silver/"
+  },
+  {
+   "id": "glory-3039",
+   "name": "Tusk Gold (63″)",
+   "cats": [
+    "dining",
+    "dining-tables"
+   ],
+   "desc": "L : 63″ W : 36″ H : 29.5″",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/10/GLORY-CATALOGUE-JAN82025-15-scaled.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/tusk_gold/"
+  },
+  {
+   "id": "glory-3024",
+   "name": "Ottawa",
+   "cats": [
+    "end-tables"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/09/Sofa-8-scaled.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/ottawa-7/"
+  },
+  {
+   "id": "glory-3021",
+   "name": "Ottawa",
+   "cats": [
+    "end-tables"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/09/Sofa-7-scaled.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/ottawa-6/"
+  },
+  {
+   "id": "glory-2986",
+   "name": "Solana Black Glass",
+   "cats": [
+    "dining",
+    "dining-tables"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/08/21e9b9a0-d6da-4220-9ccb-9d0c9d735c75.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/solana_black_glass/"
+  },
+  {
+   "id": "glory-2943",
+   "name": "Ottawa Silver",
+   "cats": [
+    "console-tables"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/08/WhatsApp-Image-2024-07-15-at-6.30.20-PM-2.jpeg",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2024/08/WhatsApp-Image-2024-07-15-at-6.30.20-PM.jpeg",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2024/08/WhatsApp-Image-2024-07-15-at-6.30.20-PM-1.jpeg"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/ottawa_silver-2/"
+  },
+  {
+   "id": "glory-2941",
+   "name": "Ottawa",
+   "cats": [
+    "console-tables"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/07/8L2A5156-scaled.jpg",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2024/07/8L2A5157-scaled.jpg",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2024/07/8L2A5158-scaled.jpg"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/ottawa-4/"
+  },
+  {
+   "id": "glory-2934",
+   "name": "ST440",
+   "cats": [
+    "console-tables"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/07/8L2A5162-scaled.jpg",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2024/07/8L2A5164-scaled.jpg",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2024/07/8L2A5160-scaled.jpg"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/st440/"
+  },
+  {
+   "id": "glory-2930",
+   "name": "Gloria White & Silver",
+   "cats": [
+    "dining-chairs"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/07/IMG_7294.webp",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2024/07/IMG_7295.jpg"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/gloria_white_silver/"
+  },
+  {
+   "id": "glory-2918",
+   "name": "Eva Black & Silver",
+   "cats": [
+    "dining-chairs"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/07/WhatsApp-Image-2024-07-12-at-1.06.40-PM.jpeg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/eva_black_silver/"
+  },
+  {
+   "id": "glory-2915",
+   "name": "Lucy – Beige & Gold",
+   "cats": [
+    "dining-chairs"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/07/WhatsApp-Image-2024-07-12-at-1.04.41-PM.jpeg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/lucy_beige_gold/"
+  },
+  {
+   "id": "glory-2888",
+   "name": "Madrid Beige & Gold",
+   "cats": [
+    "accent"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/07/f47f09f3-1ec1-4aa9-8c06-a53c8527bd0b.jpg",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2024/07/c54550e6-ed71-4484-b991-26006913c448.jpg"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/madrid_beigegold/"
+  },
+  {
+   "id": "glory-2885",
+   "name": "Chicago Grey & Silver",
+   "cats": [
+    "dining-chairs"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/07/9ec61a29-c13f-40b8-bc58-0c3fae2f05d4.jpg",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2024/07/bd89fd4d-9e4d-4700-b81c-7c8e903ca3f7.jpg"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/chicago_greysilver/"
+  },
+  {
+   "id": "glory-2884",
+   "name": "Chicago Black & Gold",
+   "cats": [
+    "dining-chairs"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/07/48ad72b6-0756-4a0a-a75e-3ad3a0385e42.jpg",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2024/07/e3a403c3-b28d-439e-921b-6a37c20242c3.jpg"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/chicago_blackgold/"
+  },
+  {
+   "id": "glory-2883",
+   "name": "Chicago_Grey+Gold",
+   "cats": [
+    "dining-chairs"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/07/15a104df-78b6-4b49-87ad-360249fa353b.jpg",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2024/07/5e861c5a-82ce-449c-a1e9-4277cdf461dc.jpg"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/chicago_greygold/"
+  },
+  {
+   "id": "glory-2882",
+   "name": "Chicago Beige & Gold",
+   "cats": [
+    "dining-chairs"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/07/b764583d-0d8e-4965-8fd8-1ebd889aa863.jpg",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2024/07/feea771c-d3cd-4d15-91d9-005dbff3c9f6.jpg"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/chicago_beigegold/"
+  },
+  {
+   "id": "glory-2881",
+   "name": "Chicago_Black+Silver",
+   "cats": [
+    "dining-chairs"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/07/84082fd6-7ab8-4746-bbbe-4b58b227dcba.jpg",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2024/07/84082fd6-7ab8-4746-bbbe-4b58b227dcba.jpg",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2024/07/170ba136-4f70-46d7-ad01-f3085b257688.jpg"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/chicago_blacksilver/"
+  },
+  {
+   "id": "glory-2880",
+   "name": "Chicago Beige & Silver",
+   "cats": [
+    "dining-chairs"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/07/97824ee6-9603-4650-b8df-550cef01de46.jpg",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2024/07/ea295903-a338-4a16-b059-e6f48bf517be.jpg"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/chicago_beigesilver/"
+  },
+  {
+   "id": "glory-2879",
+   "name": "Paris Black & Gold",
+   "cats": [
+    "dining-chairs"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/07/477df7cc-b0d7-46a6-b9ab-dd744090aa00.jpg",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2024/07/63488f6e-c0c8-40d9-abd8-4f386b60dc69.jpg"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/paris_blackgold/"
+  },
+  {
+   "id": "glory-2878",
+   "name": "Paris Black & Silver",
+   "cats": [
+    "dining-chairs"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/07/d3412d20-3d74-44ab-8152-250c293e76e0.jpg",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2024/07/cdd6cfd6-fb9f-4dc3-a0e8-49b30aad2b8a.jpg"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/paris_blacksilver/"
+  },
+  {
+   "id": "glory-2873",
+   "name": "Paris Beige & Gold",
+   "cats": [
+    "dining-chairs"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/07/dfa02348-8500-4e59-8178-8b3e7bb69263.jpg",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2024/07/9c61bbfd-f10b-46f8-b137-1f31ae14a4c9.jpg"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/paris_beigegold/"
+  },
+  {
+   "id": "glory-2871",
+   "name": "Tokyo Black & Silver PU",
+   "cats": [
+    "dining-chairs"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/07/f55bc9c8-f667-4b83-97d1-828f4f7f65c3.jpg",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2024/07/5ac4df6f-a1cc-40a4-a436-598c903b5408.jpg"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/tokyo_blacksilverpu/"
+  },
+  {
+   "id": "glory-2842",
+   "name": "Zara – Black Gold Sofa Set",
+   "cats": [
+    "living"
+   ],
+   "desc": "SOFA = L – 90″ W – 37″ H – 34″ LOVESEAT = L – 70″ W – 36″ H – 33″ CHAIR = L – 30″ W – 35″ H – 33″",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/07/WhatsApp-Image-2024-07-04-at-4.11.52-PM.jpeg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/zara_blackgold/"
+  },
+  {
+   "id": "glory-2837",
+   "name": "Rome Beige & Gold",
+   "cats": [
+    "accent"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/07/WhatsApp-Image-2024-07-03-at-4.38.15-PM.jpeg",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2024/07/WhatsApp-Image-2024-07-03-at-4.38.15-PM-1.jpeg"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/rome_beigegold/"
+  },
+  {
+   "id": "glory-2785",
+   "name": "Madrid Blue & Silver",
+   "cats": [
+    "accent"
+   ],
+   "desc": "Blue+Silver",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/06/Honeycomb-B-2.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/zig-zag-3/"
+  },
+  {
+   "id": "glory-2774",
+   "name": "Madrid Black & Silver",
+   "cats": [
+    "accent"
+   ],
+   "desc": "Black + Silver",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/06/Honeycomb-Bk-2.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/zig-zag/"
+  },
+  {
+   "id": "glory-2730",
+   "name": "Richmond – White Lift-top Bedroom Set",
+   "cats": [
+    "bedroom"
+   ],
+   "desc": "Available in Queen and King size. Dimensions: King Bed: 81″W 87″ D 58″H Dresser: 62″W 19″ D 30″H Mirror: 45″W 3.5″D 30″H Chest: 31″ W 49″H 19″D Night Stand 23.5″ W 23.5″H 16.5″D",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/1.场景-打开-scaled.jpg",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/1.场景-scaled.jpg",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/2.床-正面打开-scaled.jpg",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/6.斗柜-scaled.jpg",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/8.妆台-scaled.jpg",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/5.床头柜-scaled.jpg"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/richmond_lift-top/"
+  },
+  {
+   "id": "glory-2721",
+   "name": "Jane Beige & Gold Fabric",
+   "cats": [
+    "dining-chairs"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/Jane.jpeg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/jane_beigegold_fabric/"
+  },
+  {
+   "id": "glory-2719",
+   "name": "Lucy – Grey & Gold Fabric",
+   "cats": [
+    "dining-chairs"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/Lucy_Grey.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/lucy_greygold_fabric/"
+  },
+  {
+   "id": "glory-2718",
+   "name": "Hazel – Silver",
+   "cats": [
+    "dining",
+    "dining-tables"
+   ],
+   "desc": "L : 86″ W : 40″ H : 29.5″",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/13-scaled.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/hazel_glass-2/"
+  },
+  {
+   "id": "glory-2717",
+   "name": "Glory – White Lift-top Bedroom Set",
+   "cats": [
+    "bedroom"
+   ],
+   "desc": "Available in Queen and King size.   KING BED QUEEN BED DRESSER MIRROR CHEST NIGHT STAND L – 80″ W – 79″ H – 46.5″ L – 80″ W – 62″ H – 46.5″ L – 54″ W – 19″ H – 30″ L – 35″ W – 1″ H – 43″ L – 27″ W – 17″ H – 45″ L – 24″ W – 16.5″ H – 22″",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/CATALOGUE-25.jpg",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/CATALOGUE-26-1.jpg"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/glory_white/"
+  },
+  {
+   "id": "glory-2698",
+   "name": "Hazel – Gold",
+   "cats": [
+    "dining",
+    "dining-tables"
+   ],
+   "desc": "L : 86″ W : 40″ H : 29.5″ Also available in White Marble",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/05/1767-black-scaled.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/hazel/"
+  },
+  {
+   "id": "glory-2677",
+   "name": "Zara – Beige Gold Sofa Set",
+   "cats": [
+    "living"
+   ],
+   "desc": "SOFA = L – 90″ W – 37″ H – 34″ LOVESEAT = L – 70″ W – 36″ H – 33″ CHAIR = L – 30″ W – 35″ H – 33″",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/05/Screenshot-2026-02-20-at-1.05.44-PM.png",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/zara-2/"
+  },
+  {
+   "id": "glory-2632",
+   "name": "Madrid Grey & Silver",
+   "cats": [
+    "accent"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/03/c77daacd-0695-456f-8c88-ec54a67a775f.jpg",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2024/03/1de7ff51-5a1e-45a7-bcbb-384340795b72.jpg"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/zigzag/"
+  },
+  {
+   "id": "glory-2559",
+   "name": "DT444 – Glass",
+   "cats": [
+    "dining",
+    "dining-tables"
+   ],
+   "desc": "D : 47″ H : 29″",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/GLORY-CATALOGUE-JAN82025-20-scaled.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/2559/"
+  },
+  {
+   "id": "glory-2558",
+   "name": "DT222 – Glass",
+   "cats": [
+    "dining",
+    "dining-tables"
+   ],
+   "desc": "D : 43.5″ H : 29″",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/GLORY-CATALOGUE-JAN82025-19-scaled.jpg",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/L2A7553-scaled.jpg",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/L2A7554-scaled.jpg"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/dt222/"
+  },
+  {
+   "id": "glory-2557",
+   "name": "CT620W_Nesting",
+   "cats": [
+    "coffee-tables",
+    "occasional-tables"
+   ],
+   "desc": "32″ X 28″X 18″ 24″ X 20″X 18″",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/CATALOGUE-87-scaled.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/ct620w_nesting/"
+  },
+  {
+   "id": "glory-2555",
+   "name": "Ottawa Silver",
+   "cats": [
+    "coffee-tables",
+    "occasional-tables"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/CATALOGUE-81-2-scaled.jpg",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/CATALOGUE-6-scaled.jpg"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/ottawa_silver/"
+  },
+  {
+   "id": "glory-2553",
+   "name": "CT190 Gold",
+   "cats": [
+    "coffee-tables",
+    "occasional-tables"
+   ],
+   "desc": "L : 39.5″ W : 39.5″ H : 15.75″L : 39.5″ W : 39.5″ H : 15.75″",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/CATALOGUE-2024-02-28T151745.390-scaled.jpg",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/CATALOGUE-8-scaled.jpg"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/ct190_gold/"
+  },
+  {
+   "id": "glory-2548",
+   "name": "CT360 Silver W",
+   "cats": [
+    "coffee-tables",
+    "occasional-tables"
+   ],
+   "desc": "D: 32 H : 18″ D: 24″ H : 16″ Also available in black marble",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/CATALOGUE-2024-02-28T145921.363-scaled.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/ct340_silver-w/"
+  },
+  {
+   "id": "glory-2541",
+   "name": "Angel – White",
+   "cats": [
+    "dining",
+    "dining-tables"
+   ],
+   "desc": "Dimensions L : 83″ W : 40″ H : 29.5″",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/6-2-scaled.jpg",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/5-3-scaled.jpg"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/sterling_white/"
+  },
+  {
+   "id": "glory-2538",
+   "name": "Solana – Silver",
+   "cats": [
+    "dining",
+    "dining-tables"
+   ],
+   "desc": "L : 71″ W : 40″ H : 29.5″",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/GLORY-CATALOGUE-JAN82025-16-scaled.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/solana-silver/"
+  },
+  {
+   "id": "glory-2536",
+   "name": "Kim – Gold",
+   "cats": [
+    "dining",
+    "dining-tables"
+   ],
+   "desc": "D : 51″ H : 29″",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/Kim-3.jpg",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/Kim-2.jpg",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/Kim-1.jpg"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/kim-3/"
+  },
+  {
+   "id": "glory-2533",
+   "name": "Kim – Silver",
+   "cats": [
+    "dining",
+    "dining-tables"
+   ],
+   "desc": "D : 51″ H : 29″",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/Kim-5.jpg",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/Kim-8.jpg",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/Kim-7.jpg"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/kim-2/"
+  },
+  {
+   "id": "glory-2532",
+   "name": "Navy Grey & Silver",
+   "cats": [
+    "dining-chairs"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/In-Stock-8-scaled.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/navy_greysilver/"
+  },
+  {
+   "id": "glory-2529",
+   "name": "Navy Black & Gold",
+   "cats": [
+    "dining-chairs"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/In-Stock-10-scaled.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/navy_blackgold/"
+  },
+  {
+   "id": "glory-2527",
+   "name": "Navy Black & Silver",
+   "cats": [
+    "dining-chairs"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/In-Stock-9-scaled.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/navy_blacksilver/"
+  },
+  {
+   "id": "glory-2526",
+   "name": "Navy Beige & Gold",
+   "cats": [
+    "dining-chairs"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/In-Stock-11-scaled.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/navy_beigegold/"
+  },
+  {
+   "id": "glory-2525",
+   "name": "Lucy – Beige & Gold PU",
+   "cats": [
+    "dining-chairs"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/Untitled-design-scaled.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/lucy_greygold/"
+  },
+  {
+   "id": "glory-2524",
+   "name": "Lucy – Black & Gold",
+   "cats": [
+    "dining-chairs"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/Lucy_Black.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/lucy_blackgold/"
+  },
+  {
+   "id": "glory-2523",
+   "name": "C095 White & Silver",
+   "cats": [
+    "dining-chairs"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/LS_C095-White-PU-scaled.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/c095_whitesilver/"
+  },
+  {
+   "id": "glory-2521",
+   "name": "C095 Black & Silver",
+   "cats": [
+    "dining-chairs"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/LS_C095-Black-Fabric-scaled.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/c095_blacksilver/"
+  },
+  {
+   "id": "glory-2520",
+   "name": "Julia White & Silver",
+   "cats": [
+    "dining-chairs"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/IMG_0742-scaled.jpg",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/IMG_0743-scaled.jpg"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/julia_whitesilver/"
+  },
+  {
+   "id": "glory-2519",
+   "name": "Julia Beige & Gold",
+   "cats": [
+    "dining-chairs"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/IMG_0738-scaled.jpg",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/IMG_0739-scaled.jpg"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/julia_beigegold/"
+  },
+  {
+   "id": "glory-2518",
+   "name": "Eva Grey & Silver",
+   "cats": [
+    "dining-chairs"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/EVA_Grey-Silver.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/eva_greysilver/"
+  },
+  {
+   "id": "glory-2516",
+   "name": "Eva Black & Gold",
+   "cats": [
+    "dining-chairs"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/Eva_Black-G.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/jane_blackgold-2/"
+  },
+  {
+   "id": "glory-2515",
+   "name": "Eva Beige & Gold",
+   "cats": [
+    "dining-chairs"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/Eva_Beige-G.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/eva_beigegold/"
+  },
+  {
+   "id": "glory-2511",
+   "name": "Jane Beige & Gold Leatherette",
+   "cats": [
+    "dining-chairs"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/05/Jane_G-Leatherette.jpeg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/jane_beigegold/"
+  },
+  {
+   "id": "glory-2508",
+   "name": "Jane Black & Silver",
+   "cats": [
+    "dining-chairs"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/C234-5-Black-scaled.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/jane_blacksilver/"
+  },
+  {
+   "id": "glory-2507",
+   "name": "Jane Beige & Silver",
+   "cats": [
+    "dining-chairs"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/C234-5-Beige-scaled.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/jane_beigesilver/"
+  },
+  {
+   "id": "glory-2506",
+   "name": "Ella Grey & Silver",
+   "cats": [
+    "dining-chairs"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/C194-Grey-S2-scaled.jpg",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/C194-Grey-S1-scaled.jpg"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/ella_greysilver/"
+  },
+  {
+   "id": "glory-2505",
+   "name": "Ella Black & Gold",
+   "cats": [
+    "dining-chairs"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/C194-Black-1-scaled.jpg",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/C194-Black-2-scaled.jpg"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/ella_blackgold/"
+  },
+  {
+   "id": "glory-2504",
+   "name": "Ella_Black+Silver",
+   "cats": [
+    "dining-chairs"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/C194-Black-S1-scaled.jpg",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/C194-Black-S2-scaled.jpg"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/ella_blacksilver/"
+  },
+  {
+   "id": "glory-2453",
+   "name": "Ella_Beige+Gold",
+   "cats": [
+    "dining-chairs"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/C194-Beige-1-scaled.jpg",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/C194-Beige-2-scaled.jpg"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/ella_beigegold/"
+  },
+  {
+   "id": "glory-2424",
+   "name": "ET06 Gold",
+   "cats": [
+    "end-tables"
+   ],
+   "desc": "L : 22″ W : 22″ H : 22″",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/CS_06.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/et06-g/"
+  },
+  {
+   "id": "glory-2421",
+   "name": "ET220",
+   "cats": [
+    "end-tables"
+   ],
+   "desc": "L : 17.5″ W : 17.5″ H : 22″",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/ET220.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/et320/"
+  },
+  {
+   "id": "glory-2420",
+   "name": "ET220",
+   "cats": [
+    "end-tables"
+   ],
+   "desc": "L : 17.5″ W : 17.5″ H : 22″",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/ET220_G.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/et220/"
+  },
+  {
+   "id": "glory-2419",
+   "name": "ET310",
+   "cats": [
+    "end-tables"
+   ],
+   "desc": "L : 17.5″ W : 17.5″ H : 22″",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/CS_12_4_ET_S-scaled.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/et310/"
+  },
+  {
+   "id": "glory-2416",
+   "name": "ET410",
+   "cats": [
+    "end-tables"
+   ],
+   "desc": "L : 22″ W : 22″ H : 22″",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/ET410-scaled.jpg",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/ET410_1-scaled.jpg",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/CT410-1-scaled.jpg"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/et410/"
+  },
+  {
+   "id": "glory-2415",
+   "name": "ET140",
+   "cats": [
+    "end-tables"
+   ],
+   "desc": "L : 22″ W : 22″ H : 22″",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/CATALOGUE-9-scaled.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/et140/"
+  },
+  {
+   "id": "glory-2412",
+   "name": "ET160",
+   "cats": [
+    "end-tables"
+   ],
+   "desc": "L : 22″ W : 22″ H : 22″",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/CATALOGUE-8-scaled.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/et160/"
+  },
+  {
+   "id": "glory-2411",
+   "name": "ET720",
+   "cats": [
+    "end-tables"
+   ],
+   "desc": "D : 19″ H : 21″",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/ET_720.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/et720/"
+  },
+  {
+   "id": "glory-2409",
+   "name": "ET420",
+   "cats": [
+    "end-tables"
+   ],
+   "desc": "D : 19″ H : 21″",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/End-Table.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/et420/"
+  },
+  {
+   "id": "glory-2408",
+   "name": "ET260",
+   "cats": [
+    "end-tables"
+   ],
+   "desc": "L : 24″ W : 24″ H : 20″",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/Solana-ET-2-scaled.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/et260/"
+  },
+  {
+   "id": "glory-2403",
+   "name": "ET280",
+   "cats": [
+    "end-tables"
+   ],
+   "desc": "L : 24″ W : 24″ H : 20″",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/Solana-ET-1-scaled.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/et280/"
+  },
+  {
+   "id": "glory-2401",
+   "name": "ET Sophia",
+   "cats": [
+    "end-tables"
+   ],
+   "desc": "L : 24″ W : 24″ H : 20″",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/CATALOGUE-7-1-scaled.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/et-sophia/"
+  },
+  {
+   "id": "glory-2400",
+   "name": "ET Luna",
+   "cats": [
+    "end-tables"
+   ],
+   "desc": "L : 24″ W : 24″ H : 20″",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/ET_Luna1-scaled.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/2400/"
+  },
+  {
+   "id": "glory-2397",
+   "name": "ET Victoria Gold",
+   "cats": [
+    "end-tables"
+   ],
+   "desc": "L : 24″ W : 24″ H : 20″",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/CATALOGUE-5-1-scaled.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/et-victoria-2/"
+  },
+  {
+   "id": "glory-2394",
+   "name": "ET Victoria",
+   "cats": [
+    "end-tables"
+   ],
+   "desc": "L : 24″ W : 24″ H : 20″",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/CATALOGUE-6-scaled.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/et-victoria/"
+  },
+  {
+   "id": "glory-2378",
+   "name": "ST410",
+   "cats": [
+    "console-tables"
+   ],
+   "desc": "SIZE : 51″ X 16″ X 31″",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/ST410_S1-scaled.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/st410/"
+  },
+  {
+   "id": "glory-2377",
+   "name": "ST160",
+   "cats": [
+    "console-tables"
+   ],
+   "desc": "SIZE : 48″ X 16″ X 31″",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/BS_12G.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/st160/"
+  },
+  {
+   "id": "glory-2376",
+   "name": "ST140",
+   "cats": [
+    "console-tables"
+   ],
+   "desc": "SIZE : 48″ X 16″ X 31″",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/ST140.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/st140/"
+  },
+  {
+   "id": "glory-2347",
+   "name": "CT06 Gold",
+   "cats": [
+    "coffee-tables"
+   ],
+   "desc": "L : 48″ W : 24″ H : 16″",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/CS-06G.jpg",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/CS_06.jpg"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/ct06-g/"
+  },
+  {
+   "id": "glory-2346",
+   "name": "CT260",
+   "cats": [
+    "coffee-tables"
+   ],
+   "desc": "L : 51″ W : 27″ H : 19″",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/Solana-CT-3-scaled.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/ct260-3/"
+  },
+  {
+   "id": "glory-2345",
+   "name": "CT280",
+   "cats": [
+    "coffee-tables"
+   ],
+   "desc": "L : 51″ W : 27″ H : 19″",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/Solana-CT-4-1-scaled.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/ct260-2/"
+  },
+  {
+   "id": "glory-2343",
+   "name": "CT410-S",
+   "cats": [
+    "coffee-tables"
+   ],
+   "desc": "L : 48″ W : 24″ H : 16″",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/GLORY-CATALOGUE-June-252025-1056-x-816-px-3-scaled.jpg",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/CS-1561.jpg",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/CS-1561-1.jpg"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/ct410-s/"
+  },
+  {
+   "id": "glory-2342",
+   "name": "CT410",
+   "cats": [
+    "coffee-tables"
+   ],
+   "desc": "L : 48″ W : 24″ H : 16″",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/CT410-scaled.jpg",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/L2A7549-scaled.jpg"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/ct410/"
+  },
+  {
+   "id": "glory-2341",
+   "name": "CT160",
+   "cats": [
+    "coffee-tables"
+   ],
+   "desc": "L : 48″ W : 24″ H : 16″",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/CT160.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/ct160/"
+  },
+  {
+   "id": "glory-2340",
+   "name": "CT140",
+   "cats": [
+    "coffee-tables"
+   ],
+   "desc": "L : 48″ W : 24″ H : 16″",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/CT140.jpg",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/CT190-2-scaled.jpg"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/ct140/"
+  },
+  {
+   "id": "glory-2339",
+   "name": "CT440",
+   "cats": [
+    "coffee-tables"
+   ],
+   "desc": "L : 48″ W : 24″ H : 16″",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/CT180_1-scaled.jpg",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/CT240_2-scaled.jpg"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/ct180-2/"
+  },
+  {
+   "id": "glory-2338",
+   "name": "CT180",
+   "cats": [
+    "coffee-tables"
+   ],
+   "desc": "L : 39.5″ W : 39.5″ H : 15.75″",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/CT190-scaled.jpg",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/CT190-1-scaled.jpg",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/CT190-2-scaled.jpg"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/ct180/"
+  },
+  {
+   "id": "glory-2337",
+   "name": "CT150",
+   "cats": [
+    "coffee-tables"
+   ],
+   "desc": "L : 39.5″ W : 39.5″ H : 15.75″",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/CT150.jpeg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/ct150/"
+  },
+  {
+   "id": "glory-2336",
+   "name": "CT130",
+   "cats": [
+    "coffee-tables"
+   ],
+   "desc": "L : 39.5″ W : 39.5″ H : 15.75″",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/CT130-scaled.jpg",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/CT130-2-scaled.jpg",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/CT130-3-scaled.jpg"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/ct130/"
+  },
+  {
+   "id": "glory-2335",
+   "name": "CT150-S",
+   "cats": [
+    "coffee-tables"
+   ],
+   "desc": "L : 39.5″ W : 39.5″ H : 15.75″",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/CT150_S2-scaled.jpg",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/CT150_S2-scaled.jpg",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/CT150_S3-scaled.jpg"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/ct150-s/"
+  },
+  {
+   "id": "glory-2334",
+   "name": "CT112",
+   "cats": [
+    "coffee-tables"
+   ],
+   "desc": "CLOSED : 31.5″ OPENED : 51″",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/CT112.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/ct112/"
+  },
+  {
+   "id": "glory-2333",
+   "name": "CT720",
+   "cats": [
+    "coffee-tables"
+   ],
+   "desc": "D : 39.5″ H : 18″",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/CT720_1.jpg",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/CT720_2.jpg"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/ct720/"
+  },
+  {
+   "id": "glory-2332",
+   "name": "CT340B",
+   "cats": [
+    "coffee-tables",
+    "occasional-tables"
+   ],
+   "desc": "D: 32 H : 18″ D: 24″ H : 16″",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/CT320-2.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/ct340b/"
+  },
+  {
+   "id": "glory-2327",
+   "name": "CT340W",
+   "cats": [
+    "coffee-tables"
+   ],
+   "desc": "D: 32 H : 18″ D: 24″ H : 16″",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/CT320-1.jpg",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/CATALOGUE-3-1-scaled.jpg"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/ct340w/"
+  },
+  {
+   "id": "glory-2326",
+   "name": "CT220",
+   "cats": [
+    "coffee-tables"
+   ],
+   "desc": "L : 38″ W : 38″ H : 18″",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/CT220_G.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/ct220/"
+  },
+  {
+   "id": "glory-2325",
+   "name": "CT280",
+   "cats": [
+    "coffee-tables"
+   ],
+   "desc": "L : 51″ W : 27″ H : 19″",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/CATALOGUE-97-1-scaled.jpg",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/Solana-ET-1-scaled.jpg"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/ct280/"
+  },
+  {
+   "id": "glory-2324",
+   "name": "CT260",
+   "cats": [
+    "coffee-tables"
+   ],
+   "desc": "L : 51″ W : 27″ H : 19″",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/Solana-CT-2-scaled.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/ct260/"
+  },
+  {
+   "id": "glory-2303",
+   "name": "CT240",
+   "cats": [
+    "coffee-tables"
+   ],
+   "desc": "L : 39.5″ W : 39.5″ H : 15.75″",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/CT240-scaled.jpg",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/CT240_1-scaled.jpg",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/CT240_2-scaled.jpg"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/ct240/"
+  },
+  {
+   "id": "glory-2302",
+   "name": "CT420",
+   "cats": [
+    "coffee-tables"
+   ],
+   "desc": "D : 39.5″ H : 18″",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/CATALOGUE-89-scaled.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/ct420/"
+  },
+  {
+   "id": "glory-2271",
+   "name": "Sophia",
+   "cats": [
+    "coffee-tables",
+    "occasional-tables"
+   ],
+   "desc": "L : 46″ W : 28″ H : 19″",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/CATALOGUE-83-scaled.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/sophia-2/"
+  },
+  {
+   "id": "glory-2269",
+   "name": "ST410",
+   "cats": [
+    "console-tables"
+   ],
+   "desc": "SIZE : 51″ X 16″ X 31″",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/ST610_G-scaled.jpg",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/ST610-scaled.jpg",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/St610_G2-scaled.jpg"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/st410-2/"
+  },
+  {
+   "id": "glory-2267",
+   "name": "ET210",
+   "cats": [
+    "end-tables",
+    "occasional-tables"
+   ],
+   "desc": "L : 17.5″ W : 17.5″ H : 22″",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/ET210.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/et210/"
+  },
+  {
+   "id": "glory-2266",
+   "name": "CT120",
+   "cats": [
+    "coffee-tables",
+    "occasional-tables"
+   ],
+   "desc": "CLOSED : 31.5″ OPENED : 51″",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/LS_334G-scaled.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/ct120/"
+  },
+  {
+   "id": "glory-2265",
+   "name": "CT110",
+   "cats": [
+    "coffee-tables",
+    "occasional-tables"
+   ],
+   "desc": "CLOSED : 31.5″ OPENED : 51″",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/LS_334S-scaled.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/ct110/"
+  },
+  {
+   "id": "glory-2262",
+   "name": "CT310",
+   "cats": [
+    "coffee-tables"
+   ],
+   "desc": "L : 38″ W : 38″ H : 18″",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/CS_12_4G_CT_BL-1-scaled.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/ct310/"
+  },
+  {
+   "id": "glory-2261",
+   "name": "CT210",
+   "cats": [
+    "coffee-tables"
+   ],
+   "desc": "L : 38″ W : 38″ H : 18″",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/CT210.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/ct210/"
+  },
+  {
+   "id": "glory-2258",
+   "name": "CT220",
+   "cats": [
+    "coffee-tables",
+    "occasional-tables"
+   ],
+   "desc": "L : 38″ W : 38″ H : 18″",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/GLORY-CATALOGUE-June-252025-1056-x-816-px-4-scaled.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/ct320/"
+  },
+  {
+   "id": "glory-2255",
+   "name": "CT620 Nesting",
+   "cats": [
+    "coffee-tables",
+    "occasional-tables"
+   ],
+   "desc": "32″ X 28″X 18″ 24″ X 20″X 18″",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/CATALOGUE-88-scaled.jpg",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/CATALOGUE-87-scaled.jpg"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/ct620-nesting/"
+  },
+  {
+   "id": "glory-2254",
+   "name": "Victoria",
+   "cats": [
+    "coffee-tables"
+   ],
+   "desc": "L : 51″ W : 27″ H : 19″",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/CATALOGUE-94-scaled.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/victoria-4/"
+  },
+  {
+   "id": "glory-2253",
+   "name": "Victoria",
+   "cats": [
+    "coffee-tables"
+   ],
+   "desc": "L : 51″ W : 27″ H : 19″",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/CATALOGUE-93-scaled.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/victoria-3/"
+  },
+  {
+   "id": "glory-2252",
+   "name": "Luna",
+   "cats": [
+    "coffee-tables"
+   ],
+   "desc": "L : 46″ W : 28″ H : 19″",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/CATALOGUE-96-scaled.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/luna-5/"
+  },
+  {
+   "id": "glory-2224",
+   "name": "Luna",
+   "cats": [
+    "coffee-tables"
+   ],
+   "desc": "L : 46″ W : 28″ H : 19″",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/GLORY-CATALOGUE-June-252025-1056-x-816-px-5-scaled.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/luna-4/"
+  },
+  {
+   "id": "glory-2220",
+   "name": "Ottawa",
+   "cats": [
+    "coffee-tables",
+    "occasional-tables"
+   ],
+   "desc": "L : 51″ W : 27″ H : 19″",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/09/CATALOGUE-80-scaled-1.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/ottawa-3/"
+  },
+  {
+   "id": "glory-2132",
+   "name": "Luna – Black Glass",
+   "cats": [
+    "dining",
+    "dining-tables"
+   ],
+   "desc": "L : 71″ W : 35″ H : 29.5″",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/CATALOGUE-73-scaled.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/luna_glass-2/"
+  },
+  {
+   "id": "glory-2131",
+   "name": "Solana – Gold",
+   "cats": [
+    "dining",
+    "dining-tables"
+   ],
+   "desc": "L : 71″ W : 40″ H : 29.5″",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/GLORY-CATALOGUE-JAN82025-15-scaled.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/solana/"
+  },
+  {
+   "id": "glory-2127",
+   "name": "Luna Glass",
+   "cats": [
+    "dining",
+    "dining-tables"
+   ],
+   "desc": "L : 71″ W : 35″ H : 29.5″",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/CATALOGUE-72-scaled.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/luna_glass/"
+  },
+  {
+   "id": "glory-2124",
+   "name": "Luna – Gold",
+   "cats": [
+    "dining",
+    "dining-tables"
+   ],
+   "desc": "L : 71″ W : 35″ H : 29.5″",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/5-4-scaled.jpg",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/4-3-scaled.jpg"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/luna-2/"
+  },
+  {
+   "id": "glory-2117",
+   "name": "Victoria – Silver",
+   "cats": [
+    "dining",
+    "dining-tables"
+   ],
+   "desc": "L : 80″ W : 40″ H : 29.5″",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/8-scaled.jpg",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/7-2-scaled.jpg"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/victoria-2/"
+  },
+  {
+   "id": "glory-2116",
+   "name": "Victoria – Gold",
+   "cats": [
+    "dining",
+    "dining-tables"
+   ],
+   "desc": "L : 80″ W : 40″ H : 29.5″",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/7-1-scaled.jpg",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/6-3-scaled.jpg"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/victoria/"
+  },
+  {
+   "id": "glory-2115",
+   "name": "Luna – Silver",
+   "cats": [
+    "dining",
+    "dining-tables"
+   ],
+   "desc": "L : 71″ W : 36″ H : 29.5″",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/9-scaled.jpg",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/8-1-scaled.jpg"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/luna/"
+  },
+  {
+   "id": "glory-2114",
+   "name": "Sophia Dining Set",
+   "cats": [
+    "dining",
+    "dining-tables"
+   ],
+   "desc": "Table Dimensions L : 71″ W : 36″ H : 29.5″",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/6-4-scaled.jpg",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/5-5-scaled.jpg"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/sophia/"
+  },
+  {
+   "id": "glory-2111",
+   "name": "Rose – Silver",
+   "cats": [
+    "dining",
+    "dining-tables"
+   ],
+   "desc": "D : 51″ H : 29″",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/GLORY-CATALOGUE-JAN82025-17-scaled.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/rose-2/"
+  },
+  {
+   "id": "glory-2110",
+   "name": "Rose – Gold",
+   "cats": [
+    "dining",
+    "dining-tables"
+   ],
+   "desc": "D : 51″ H : 29″",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/GLORY-CATALOGUE-JAN82025-18-scaled.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/rose/"
+  },
+  {
+   "id": "glory-2109",
+   "name": "DT344 – Glass",
+   "cats": [
+    "dining",
+    "dining-tables"
+   ],
+   "desc": "D : 51″ H : 29″",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/25-scaled.jpg",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/24-2-scaled.jpg"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/dt344-2/"
+  },
+  {
+   "id": "glory-2108",
+   "name": "DT344 – Glass",
+   "cats": [
+    "dining",
+    "dining-tables"
+   ],
+   "desc": "D : 51″ H : 29″",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/24-1-scaled.jpg",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/23-2-scaled.jpg"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/dt344/"
+  },
+  {
+   "id": "glory-2107",
+   "name": "DT420 – Glass",
+   "cats": [
+    "dining",
+    "dining-tables"
+   ],
+   "desc": "D : 51″ H : 29″",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/23-scaled.jpg",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/22-scaled.jpg"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/dt420/"
+  },
+  {
+   "id": "glory-2088",
+   "name": "Angel – Black",
+   "cats": [
+    "dining",
+    "dining-tables"
+   ],
+   "desc": "Dimensions L : 83″ W : 40″ H : 29.5″",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/5-2-scaled.jpg",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/4-2-scaled.jpg"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/angle/"
+  },
+  {
+   "id": "glory-2084",
+   "name": "Lucas – Gold",
+   "cats": [
+    "dining",
+    "dining-tables"
+   ],
+   "desc": "L : 80″ W : 40″ H : 29.5″",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/CATALOGUE-42.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/lucas/"
+  },
+  {
+   "id": "glory-2079",
+   "name": "Ottawa – Silver Dining Set",
+   "cats": [
+    "dining",
+    "dining-tables"
+   ],
+   "desc": "Table Dimensions = L : 80″ W : 40″ H : 29.5″",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/7-scaled.jpg",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/6-1-scaled.jpg"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/ottawa-2/"
+  },
+  {
+   "id": "glory-2078",
+   "name": "Ottawa – Gold",
+   "cats": [
+    "dining",
+    "dining-tables"
+   ],
+   "desc": "L : 80″ W : 40″ H : 29.5″",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/GLORY-CATALOGUE-JAN82025-12-scaled.jpg",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/GLORY-CATALOGUE-JAN82025-11-scaled.jpg"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/ottawa/"
+  },
+  {
+   "id": "glory-2077",
+   "name": "Empire – Silver",
+   "cats": [
+    "dining",
+    "dining-tables"
+   ],
+   "desc": "Table Dimensions L : 86″ W : 40″ H : 29.5″",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/5-scaled.jpg",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/4-scaled.jpg"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/empire-2/"
+  },
+  {
+   "id": "glory-2063",
+   "name": "Empire – Gold Dining Set",
+   "cats": [
+    "dining",
+    "dining-tables"
+   ],
+   "desc": "Table Dimensions L : 86″ W : 40″ H : 29.5″",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/6-scaled.jpg",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/3-scaled.jpg"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/empire/"
+  },
+  {
+   "id": "glory-2055",
+   "name": "Westshore Bedroom Set",
+   "cats": [
+    "bedroom"
+   ],
+   "desc": "Available in Queen and King size.   KING BED QUEEN BED DRESSER MIRROR CHEST NIGHT STAND L – 80″ W – 76″ H – 60″ L – 80″ W – 60″ H – 60″ L – 64″ W – 19″ H – 37″ L – 55″ W – 3″ H – 30″ L – 31″ W – 21″ H – 48″ L – 24″ W – 18″ H – 24″",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/B465.webp",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/Weststore_1.webp",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/Weststore_2.webp"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/westshore/"
+  },
+  {
+   "id": "glory-2048",
+   "name": "Austin – White Bedroom Set",
+   "cats": [
+    "bedroom"
+   ],
+   "desc": "Available in Queen and King size.   KING BED QUEEN BED DRESSER MIRROR CHEST NIGHT STAND L – 89″ W – 84″ H – 69″ L – 89″ W – 68″ H – 69″ L – 68″ W – 20″ H – 41″ L – 54″ W – 4″ H – 48″ L – 44″ W – 20″ H – 56″ L – 32″ W – 19″ H – 30″ Step into classic luxury with this beautiful bedroom collection. Feat",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/245ef49a-3865-4c80-b1b5-1a61aab83654-1.jpg",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/Furniture-of-America-Wrea-Traditional-6-Piece-White-Faux-Leather-Button-Tufted-Panel-Bedroom-Set-2.webp",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/Furniture-of-America-Wrea-Traditional-6-Piece-White-Faux-Leather-Button-Tufted-Panel-Bedroom-Set.webp",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/Furniture-of-America-Wrea-Traditional-6-Piece-White-Faux-Leather-Button-Tufted-Panel-Bedroom-Set-3.webp",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/Furniture-of-America-Wrea-Traditional-6-Piece-White-Faux-Leather-Button-Tufted-Panel-Bedroom-Set-1.webp"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/gl2287/"
+  },
+  {
+   "id": "glory-2042",
+   "name": "Zara – Grey Silver Sofa Set",
+   "cats": [
+    "living"
+   ],
+   "desc": "SOFA = L – 90″ W – 37″ H – 34″ LOVESEAT = L – 70″ W – 36″ H – 33″ CHAIR = L – 30″ W – 35″ H – 33″",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/05/thumbnail_275fff4115cb805b630fb0b48d9d308c.jpeg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/zara/"
+  },
+  {
+   "id": "glory-2025",
+   "name": "Glory – Grey Lift-top Bedroom Set",
+   "cats": [
+    "bedroom"
+   ],
+   "desc": "Available in Queen and King size.   KING BED QUEEN BED DRESSER MIRROR CHEST NIGHT STAND L – 80″ W – 79″ H – 46.5″ L – 80″ W – 62″ H – 46.5″ L – 54″ W – 19″ H – 30″ L – 35″ W – 1″ H – 43″ L – 27″ W – 17″ H – 45″ L – 24″ W – 16.5″ H – 22″",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/05/thumbnail_c815690a75aa5e20e370f973a2e75b23.jpeg",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2024/05/thumbnail_880e31599b3c7dfdd12721aa984a986c.jpeg",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2024/05/d51c67b02b6f0979c7a5783f30c66207-scaled.jpeg",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2024/05/thumbnail_e80853a762911d9cd2bb444ebbeb119b.jpeg",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2024/05/thumbnail_8660d355a8ff317e6bb9be81c637b975.jpeg",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2024/05/thumbnail_c815690a75aa5e20e370f973a2e75b23.jpeg"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/glory/"
+  },
+  {
+   "id": "glory-2010",
+   "name": "Cameron Lift-top Bedroom Set",
+   "cats": [
+    "bedroom"
+   ],
+   "desc": "Available in Queen and King size.   KING BED QUEEN BED DRESSER MIRROR CHEST NIGHT STAND L – 80″ W – 79″ H – 46.5″ L – 80″ W – 62″ H – 46.5″ L – 54″ W – 19″ H – 30″ L – 35″ W – 1″ H – 43″ L – 27″ W – 17″ H – 45″ L – 24″ W – 16.5″ H – 22″",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/Final-Glory-CATALOGUE-scaled.jpg",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/CATALOGUE-21.jpg",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/CATALOGUE-19.jpg",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/CATALOGUE-20.jpg"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/cameron/"
+  },
+  {
+   "id": "glory-1942",
+   "name": "DT777",
+   "cats": [
+    "dining",
+    "dining-tables"
+   ],
+   "desc": "L: 84″ (64″) W: 36″ H : 30″",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/DT777-CH333-BLACK-1-1-scaled.jpg",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/DT777-CH333-BLACK-1-2-scaled.jpg"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/luxor/"
+  },
+  {
+   "id": "glory-1929",
+   "name": "Florida – Cherry Bedroom Set",
+   "cats": [
+    "bedroom"
+   ],
+   "desc": "Available in Queen and King size.   KING BED QUEEN BED DRESSER MIRROR CHEST NIGHT STAND L – 89″ W – 84″ H – 71″ L – 89″ W – 68″ H – 71″ L – 66″ W – 18″ H – 40″ L – 45″ W – 4″ H – 42″ L – 42″ W – 18″ H – 54″ L – 32″ W – 18″ H – 30″",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/0aceb1f5-dd39-42dc-a5ea-047ff6e9a113.jpg",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/811xQDpWpML._AC_SL1500_.jpg",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/Crixus5-PieceBedroomSet-754501374-1.webp",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/Crixus5-PieceBedroomSet-754501374.webp",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/Marya-Cherry-Bedroom-Set.webp"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/style-antique-2/"
+  },
+  {
+   "id": "glory-1909",
+   "name": "Florida – Antique White Bedroom Set",
+   "cats": [
+    "bedroom"
+   ],
+   "desc": "Available in Queen and King size.   KING BED QUEEN BED DRESSER MIRROR CHEST NIGHT STAND L – 89″ W – 84″ H – 71″ L – 89″ W – 68″ H – 71″ L – 66″ W – 18″ H – 40″ L – 45″ W – 4″ H – 42″ L – 42″ W – 18″ H – 54″ L – 32″ W – 18″ H- 30″",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/CATALOGUE-10.jpg",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/71tz6L-Gf5L._AC_SL1500_.jpg",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/Screenshot-2023-08-12-133331.jpg",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/Screenshot-2023-08-12-133253.jpg",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/Screenshot-2023-08-12-133315.jpg",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/Screenshot-2023-08-12-133350.jpg"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/style-antique/"
+  },
+  {
+   "id": "glory-1891",
+   "name": "Austin – Cherry Bedroom Set",
+   "cats": [
+    "bedroom"
+   ],
+   "desc": "Available in Queen and King size.   KING BED QUEEN BED DRESSER MIRROR CHEST NIGHT STAND L – 89″ W – 84″ H – 69″ L – 89″ W – 68″ H – 69″ L – 68″ W – 20″ H – 41″ L – 54″ W – 4″ H – 48″ L – 44″ W – 20″ H – 56″ L – 32″ W – 19″ H – 30″ Step into classic luxury with this beautiful bedroom collection. Feat",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/CATALOGUE-7.jpg",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/1234_a9acd5cc-9372-435a-a437-128541f00dfb.webp",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/Screenshot-2026-02-20-at-3.01.50-PM.png",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/Screenshot-2026-02-20-at-3.02.07-PM.png",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/1075CHSMC-1.webp"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/1891/"
+  },
+  {
+   "id": "glory-49",
+   "name": "Maharaja Bedroom Set",
+   "cats": [
+    "bedroom"
+   ],
+   "desc": "Available in Queen and King size.   KING BED QUEEN BED DRESSER MIRROR CHEST NIGHT STAND L – 80″ W – 79″ H – 46.5″ L – 80″ W – 62″ H – 46.5″ L – 54″ W – 19″ H – 30″ L – 35″ W – 1″ H – 43″ L – 27″ W – 17″ H – 45″ L – 24″ W – 16.5″ H – 22″",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/CATALOGUE-2-2.jpg",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/98805.jpg",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/816soRUOTDL._AC_SL1500_.jpg",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/old-european-antique-vanity-with-mirror.webp",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2024/02/376124_2_600x.webp"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/style-maharaja/"
+  }
+ ]
+}

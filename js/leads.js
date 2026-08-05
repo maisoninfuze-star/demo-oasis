@@ -70,6 +70,9 @@
         <label><span>${T('Email', 'Courriel')}</span><input name="email" type="email" required autocomplete="email"></label>
         <label><span>${T('Phone (optional)', 'Téléphone (optionnel)')}</span><input name="phone" type="tel" autocomplete="tel"></label>
         ${isQuote ? '' : `<label><span>${T('Preferred day', 'Jour souhaité')}</span><input name="day" type="date"></label>`}
+        <label class="lead__consent lead__full"><input type="checkbox" name="smsConsent" value="yes">
+          <span>${T('Text me updates about my request (reply STOP anytime). See our <a href="privacy.html" target="_blank">Privacy Policy</a>.',
+                    'Textez-moi le suivi de ma demande (répondez STOP en tout temps). Voir la <a href="privacy.html" target="_blank">Politique de confidentialité</a>.')}</span></label>
         <label class="lead__full"><span>${T('Message', 'Message')}</span><textarea name="message" rows="3" placeholder="${
           isQuote ? T('Sizes, fabrics, delivery timing…', 'Dimensions, tissus, délais…')
                   : T('Anything you would like to see?', 'Ce que vous aimeriez voir ?')}"></textarea></label>

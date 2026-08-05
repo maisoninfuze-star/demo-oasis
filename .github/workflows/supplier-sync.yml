@@ -1,0 +1,66 @@
+name: Supplier catalogue sync
+
+# Re-scrapes every supplier's PUBLIC endpoints (no API keys) and commits any
+# changes. Vercel redeploys automatically on push, so the site tracks the
+# suppliers' sites with zero manual work.
+
+on:
+  schedule:
+    - cron: '0 9 * * 1'   # every Monday 09:00 UTC (~4am Montréal)
+  workflow_dispatch: {}     # manual run button in GitHub
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 50
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install Pillow (rug thumbnails)
+        run: pip install --quiet Pillow
+
+      - name: Scrape WooCommerce suppliers
+        working-directory: data/suppliers
+        run: |
+          python3 scrape_woo.py titus https://www.titusfurniture.ca
+          python3 scrape_woo.py creative https://creative-homedecor.com
+          python3 scrape_woo.py sofabyfancy https://sofabyfancy.com
+          python3 scrape_woo.py glory https://gloryhomefurniture.ca
+
+      - name: Scrape Rugs Network (own store, with prices)
+        working-directory: data/suppliers
+        run: python3 scrape_rugsnetwork.py
+
+      - name: Refresh rug thumbnails (new items only)
+        working-directory: data/suppliers
+        run: python3 fetch_rug_thumbs.py
+
+      # Monarch is heavier (2,800 SKUs) — monthly is plenty for a spec catalog.
+      - name: Scrape Monarch (first Monday of month)
+        working-directory: data/suppliers
+        run: |
+          if [ "$(date +%d)" -le 07 ]; then
+            python3 scrape_monarch.py || echo "monarch scrape failed — keeping previous data"
+          else
+            echo "skipped (not first Monday)"
+          fi
+
+      - name: Commit if anything changed
+        run: |
+          git config user.name  "supplier-sync-bot"
+          git config user.email "bot@galerieoasis.ca"
+          git add data/suppliers assets/rugs
+          if git diff --cached --quiet; then
+            echo "No catalogue changes this week."
+          else
+            SUMMARY=$(git diff --cached --stat | tail -1)
+            git commit -m "chore: weekly supplier catalogue sync — ${SUMMARY}"
+            git push
+          fi

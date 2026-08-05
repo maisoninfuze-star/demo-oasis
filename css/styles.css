@@ -696,6 +696,53 @@ html.lb-open, html.lb-open body{overflow:hidden}
 .related .section-title{color:var(--ink)}
 .related__row{display:grid;grid-template-columns:repeat(4,1fr);gap:1.4rem;max-width:var(--maxw);margin:0 auto;padding:0 var(--pad)}
 
+/* ===========================================================
+   BRANDS CATALOGUE
+   =========================================================== */
+.col-hero--brands{min-height:52svh}
+.toolbar--brands{position:sticky;top:0;z-index:500}
+.bsearch{background:transparent;border:1px solid var(--line-gold);border-radius:2rem;color:var(--cream);
+  font-family:var(--font-sans);font-size:.85rem;font-weight:300;padding:.6rem 1.1rem;min-width:210px}
+.bsearch:focus{outline:none;border-color:var(--gold)}
+.bsearch::placeholder{color:rgba(246,241,232,.45)}
+.bgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:1.2rem;
+  max-width:var(--maxw);margin:0 auto;padding:clamp(2rem,4vw,3.5rem) var(--pad);background:var(--black)}
+.bcard{background:var(--black-2);border:1px solid var(--line-dark);border-radius:4px;overflow:hidden;
+  display:flex;flex-direction:column;transition:transform .35s var(--ease),border-color .35s}
+.bcard:hover{transform:translateY(-3px);border-color:var(--line-gold)}
+.bcard__media{aspect-ratio:1;background:#fff;position:relative;display:grid;place-items:center;overflow:hidden}
+.bcard__media img{width:100%;height:100%;object-fit:contain;mix-blend-mode:multiply}
+.bcard__info{padding:1rem 1.1rem 1.2rem;display:flex;flex-direction:column;gap:.3rem;flex:1}
+.bcard__info h3{font-size:1.12rem;line-height:1.25;font-weight:400}
+.bcard__info>span{font-family:var(--font-sans);font-size:.64rem;letter-spacing:.14em;text-transform:uppercase;color:var(--gold-2)}
+.bcard__price{font-family:var(--font-sans);font-size:.95rem;color:var(--cream);margin-top:.35rem}
+.bcard__price s{color:rgba(246,241,232,.4);font-size:.78rem;margin-left:.45rem}
+.bcard__price--req{color:rgba(246,241,232,.55);font-size:.78rem;letter-spacing:.06em}
+.bcard__ask{margin-top:auto;align-self:flex-start;background:none;border:none;cursor:pointer;padding:.45rem 0 0;
+  font-family:var(--font-sans);font-size:.7rem;letter-spacing:.18em;text-transform:uppercase;color:var(--gold);
+  border-bottom:1px solid var(--line-gold);transition:.3s}
+.bcard__ask:hover{color:var(--cream);border-color:var(--cream)}
+.bmore-wrap{text-align:center;background:var(--black);padding:0 var(--pad) clamp(3rem,6vw,5rem)}
+#bmore i{font-style:normal;opacity:.6;font-size:.72rem}
+
+/* ---------- home promo band: liquidation + custom fabric ---------- */
+.promo2{display:grid;grid-template-columns:1fr 1fr;gap:1.5rem;max-width:var(--maxw);
+  margin:0 auto;padding:clamp(3rem,7vw,6rem) var(--pad);background:var(--black)}
+.promo2__card{position:relative;border:1px solid var(--line-gold);border-radius:4px;overflow:hidden;
+  padding:clamp(1.8rem,3.5vw,3rem);display:flex;flex-direction:column;gap:.9rem;min-height:280px;
+  background:radial-gradient(120% 120% at 20% 0%,rgba(198,166,98,.10),transparent 60%),var(--black-2)}
+.promo2__card--fabric{background:radial-gradient(120% 120% at 80% 0%,rgba(51,83,70,.25),transparent 60%),var(--black-2)}
+.promo2__tag{font-family:var(--font-sans);font-size:.64rem;letter-spacing:.3em;text-transform:uppercase;color:var(--gold)}
+.promo2__card h3{font-size:clamp(1.7rem,3vw,2.5rem);line-height:1.05;color:var(--cream);max-width:16ch}
+.promo2__card p{color:rgba(246,241,232,.72);max-width:38ch;font-size:.95rem;line-height:1.65}
+.promo2__card .btn{align-self:flex-start;margin-top:auto}
+.promo2__swatches{position:absolute;right:1.6rem;bottom:1.4rem;display:flex;gap:.45rem}
+.promo2__swatches img{width:44px;height:44px;border-radius:4px;object-fit:cover;border:1px solid var(--line-gold)}
+@media (max-width:900px){
+  .promo2{grid-template-columns:1fr}
+  .promo2__swatches{position:static;margin-top:.5rem}
+}
+
 /* ===================== responsive ===================== */
 @media (max-width:1100px){
   .feature{grid-template-columns:1fr;gap:3rem}
@@ -750,3 +797,10 @@ html.lb-open, html.lb-open body{overflow:hidden}
   .reveal,.reveal-line{opacity:1;transform:none}
   .iw{clip-path:none !important}
 }
+
+/* SMS consent row in lead modal */
+.lead__consent{flex-direction:row !important;align-items:flex-start;gap:.6rem !important}
+.lead__consent input{margin-top:.2rem;accent-color:#C6A662;width:16px;height:16px;flex:none}
+.lead__consent span{font-size:.74rem !important;letter-spacing:0 !important;text-transform:none !important;
+  color:rgba(42,36,32,.65) !important;line-height:1.5}
+.lead__consent a{color:#B08E45;text-decoration:underline}

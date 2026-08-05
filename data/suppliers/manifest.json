@@ -1,0 +1,64 @@
+{
+ "suppliers": [
+  {
+   "slug": "monarch",
+   "name": "Monarch Specialties",
+   "file": "data/suppliers/monarch.json",
+   "pricing": "request",
+   "note": {
+    "en": "Accents, tables, desks & décor",
+    "fr": "Accents, tables, bureaux et décor"
+   }
+  },
+  {
+   "slug": "creative",
+   "name": "Creative Home Décor",
+   "file": "data/suppliers/creative.json",
+   "pricing": "request",
+   "note": {
+    "en": "Décor, lighting & accents",
+    "fr": "Décor, luminaires et accents"
+   }
+  },
+  {
+   "slug": "titus",
+   "name": "Titus Furniture",
+   "file": "data/suppliers/titus.json",
+   "pricing": "request",
+   "note": {
+    "en": "Canadian upholstery & bedrooms",
+    "fr": "Rembourrage et chambres — Canada"
+   }
+  },
+  {
+   "slug": "glory",
+   "name": "Glory Home Furniture",
+   "file": "data/suppliers/glory.json",
+   "pricing": "request",
+   "note": {
+    "en": "Living, dining & bedroom",
+    "fr": "Salon, salle à manger et chambre"
+   }
+  },
+  {
+   "slug": "sofabyfancy",
+   "name": "Sofa by Fancy",
+   "file": "data/suppliers/sofabyfancy.json",
+   "pricing": "request",
+   "note": {
+    "en": "Custom Canadian-made sofas",
+    "fr": "Canapés canadiens sur mesure"
+   }
+  },
+  {
+   "slug": "rugsnetwork",
+   "name": "Rugs Network",
+   "file": "data/suppliers/rugsnetwork.json",
+   "pricing": "price",
+   "note": {
+    "en": "Our own rug warehouse — live prices",
+    "fr": "Notre entrepôt de tapis — prix affichés"
+   }
+  }
+ ]
+}

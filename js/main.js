@@ -194,12 +194,18 @@
 
   /* ---------- parallax ---------- */
   if (hasGSAP && window.ScrollTrigger && !reduced) {
-    gsap.to('#heroPiece', { yPercent: 14, ease: 'none',
-      scrollTrigger: { trigger: '#hero', start: 'top top', end: 'bottom top', scrub: true } });
-    gsap.to('.hero__content', { yPercent: -18, opacity: .3, ease: 'none',
-      scrollTrigger: { trigger: '#hero', start: 'top top', end: 'bottom top', scrub: true } });
-    gsap.fromTo('.feature__piece', { yPercent: 8 }, { yPercent: -8, ease: 'none',
-      scrollTrigger: { trigger: '.feature', start: 'top bottom', end: 'bottom top', scrub: true } });
+    /* Homepage-only targets — guarded because collection/product pages
+       don't have them and GSAP warned on every load there. */
+    if ($('#hero') && $('#heroPiece')) {
+      gsap.to('#heroPiece', { yPercent: 14, ease: 'none',
+        scrollTrigger: { trigger: '#hero', start: 'top top', end: 'bottom top', scrub: true } });
+      gsap.to('.hero__content', { yPercent: -18, opacity: .3, ease: 'none',
+        scrollTrigger: { trigger: '#hero', start: 'top top', end: 'bottom top', scrub: true } });
+    }
+    if ($('.feature') && $('.feature__piece')) {
+      gsap.fromTo('.feature__piece', { yPercent: 8 }, { yPercent: -8, ease: 'none',
+        scrollTrigger: { trigger: '.feature', start: 'top bottom', end: 'bottom top', scrub: true } });
+    }
 
     /* in-image parallax: media drifts inside its frame while you scroll */
     $$('.col-card__media img, .rugs__media img, .ed-band__media img').forEach(img => {

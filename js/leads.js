@@ -170,10 +170,12 @@
 
   /* ---------- wire triggers ---------- */
   function wire() {
-    $$('a[href="index.html#visit"], a[href="#visit"]').forEach(a => {
+    /* Only real call-to-action buttons open the modal. Plain nav links
+       (header "Visit", mobile menu) must still scroll to the section —
+       matching on text alone hijacked them. */
+    $$('a.btn[href="index.html#visit"], a.btn[href="#visit"]').forEach(a => {
       if (a.dataset.leadWired) return;
-      const txt = (a.textContent || '').toLowerCase();
-      if (!/book|réserv|consult|visit/.test(txt)) return;
+      if (a.closest('.nav, .mobile-menu, .site-foot')) return;
       a.dataset.leadWired = '1';
       a.addEventListener('click', e => { e.preventDefault(); open('visit'); });
     });

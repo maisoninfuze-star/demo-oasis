@@ -19,11 +19,21 @@
     const prog = data.programs[entry.program];
     if (!prog) return;
     build(prog);
+    /* Rebuild on language switch. Registered ONCE here — registering it
+       inside build() made every toggle add another listener, which then
+       called build() again: .fab-meta doubled 1→2→4→8→16 on the page. */
+    $('#langToggle')?.addEventListener('click', () => setTimeout(() => build(prog), 10));
   }).catch(() => {});
 
   function build(prog) {
     const optBlock = $('#swatches')?.closest('.opt');
     if (!optBlock) return;
+
+    /* Idempotent: clear anything a previous build left behind so repeated
+       language switches replace the blocks instead of stacking them up. */
+    $$('.fab-meta').forEach(el => el.remove());
+    $('.custom-band')?.remove();
+    $('.custom-badge')?.remove();
 
     /* ---------- badge under the title ---------- */
     const sub = $('.pdp-sub');
@@ -113,20 +123,5 @@
       details ? details.before(band) : $('main').append(band);
     }
 
-    /* language switch → rebuild labels */
-    $('#langToggle')?.addEventListener('click', () => setTimeout(() => {
-      const active = $('.fsw.is-active');
-      head.querySelector('.opt__label').textContent = L() === 'fr' ? 'Tissu sur mesure' : 'Your fabric';
-      if (active && nameEl) nameEl.textContent = active.dataset['name' + (L() === 'fr' ? 'Fr' : 'En')];
-      const badge = $('[data-cm="badge"]');
-      if (badge) badge.textContent = L() === 'fr'
-        ? `Sur mesure · ${prog.fabrics.length}+ tissus au choix`
-        : `Made to order · ${prog.fabrics.length}+ fabrics to choose from`;
-      const sup = $('[data-cm="supplier"]');
-      if (sup) sup.textContent = `${prog.supplier} · ${tr(prog.supplierNote)}`;
-      meta.querySelector('.fab-meta__feats').innerHTML = prog.features.map(f => `<li>${tr(f)}</li>`).join('');
-      $('.custom-band')?.remove();
-      build(prog);
-    }, 10));
   }
 })();

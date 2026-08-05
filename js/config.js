@@ -18,5 +18,5 @@ window.OASIS_CONFIG = {
 
   /* Bump when catalogue data changes so returning visitors don't get a
      cached copy of catalog.json / custom.json. */
-  dataVersion: '2026-08-04'
+  dataVersion: '2026-08-05'
 };

@@ -6,8 +6,6 @@
 <title>Custom Furniture — Galerie Oasis, Laval</title>
 <meta name="description" content="Made-to-order furniture in your choice of performance fabric. Real swatches from our Laval showroom." />
 <link rel="canonical" href="https://galerieoasis.ca/product.html" />
-<link rel="alternate" hreflang="en-CA" href="https://galerieoasis.ca/product.html" />
-<link rel="alternate" hreflang="fr-CA" href="https://galerieoasis.ca/product.html" />
 <link rel="alternate" hreflang="x-default" href="https://galerieoasis.ca/product.html" />
 <meta property="og:type" content="website" />
 <meta property="og:site_name" content="Galerie Oasis" />
@@ -30,7 +28,7 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;1,300;1,400;1,500&family=Jost:wght@300;400;500&display=swap" rel="stylesheet">
 <script>(function(){var replay=location.hash==='#intro'||location.hash==='#introhold';if(!replay){try{if(sessionStorage.getItem('go_intro')||matchMedia('(prefers-reduced-motion: reduce)').matches){document.documentElement.classList.add('intro-skip');}}catch(e){}}})();</script>
-<link rel="stylesheet" href="css/styles.css?v=20260804" />
+<link rel="stylesheet" href="css/styles.css?v=20260805" />
 </head>
 <body class="is-loading pdp" data-lang="en">
 
@@ -56,8 +54,6 @@
     <button class="lang" id="langToggle" aria-label="Switch language">
       <span class="lang__opt is-active" data-set="en">EN</span><span class="lang__sep">/</span><span class="lang__opt" data-set="fr">FR</span>
     </button>
-    <a class="head-icon" href="#" aria-label="Search"><svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.3"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4.3-4.3"/></svg></a>
-    <a class="head-icon head-cart" href="#" aria-label="Cart"><svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.3"><path d="M6 7h12l-1 13H7L6 7z"/><path d="M9 7a3 3 0 0 1 6 0"/></svg><i class="head-cart__count">0</i></a>
     <button class="burger" id="burger" aria-label="Menu"><span></span><span></span></button>
   </div>
 </header>
@@ -127,11 +123,17 @@
         <p class="opt__dim"><span data-en="Dimensions" data-fr="Dimensions">Dimensions</span> <b id="dimVal">W 208 · D 102 · H 76 cm</b></p>
       </div>
 
+      <!-- Price-on-request showroom: the quote IS the conversion. There is no
+           cart or checkout, so "Add to cart" led nowhere and buried this.
+           The AR button promised a feature that was never built. -->
       <div class="pdp-actions">
-        <button class="btn btn--gold magnetic" id="addBtn"><span data-en="Add to cart" data-fr="Ajouter au panier">Add to cart</span></button>
-        <a class="btn btn--ghost btn--ghost-dark magnetic" href="index.html#visit"><span data-en="Request a quote" data-fr="Demander un devis">Request a quote</span></a>
+        <a class="btn btn--gold magnetic" href="mailto:galerieoasis@bellnet.ca?subject=Quote%20request"><span data-en="Request a quote" data-fr="Demander un devis">Request a quote</span></a>
+        <a class="btn btn--ghost btn--ghost-dark magnetic" href="index.html#visit"><span data-en="Book a showroom visit" data-fr="Réserver une visite">Book a showroom visit</span></a>
       </div>
-      <button class="pdp-ar magnetic"><svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="1.3"><path d="M12 3l8 4.5v9L12 21l-8-4.5v-9L12 3z"/><path d="M12 12l8-4.5M12 12v9M12 12L4 7.5"/></svg><span data-en="View in your room" data-fr="Voir dans votre pièce">View in your room</span></button>
+      <a class="pdp-call" href="tel:+14509730000">
+        <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="1.3"><path d="M22 16.9v3a2 2 0 0 1-2.2 2 19.8 19.8 0 0 1-8.6-3.1 19.5 19.5 0 0 1-6-6A19.8 19.8 0 0 1 2.1 4.2 2 2 0 0 1 4.1 2h3a2 2 0 0 1 2 1.7c.1 1 .3 1.9.6 2.8a2 2 0 0 1-.5 2.1L8.1 9.8a16 16 0 0 0 6 6l1.2-1.1a2 2 0 0 1 2.1-.5c.9.3 1.8.5 2.8.6a2 2 0 0 1 1.8 2Z"/></svg>
+        <span data-en="Or call the showroom · (450) 973-0000" data-fr="Ou appelez la salle · (450) 973-0000">Or call the showroom · (450) 973-0000</span>
+      </a>
 
       <ul class="pdp-assure">
         <li><b data-en="White-glove delivery" data-fr="Livraison prestige">White-glove delivery</b><span data-en="Across Greater Montréal" data-fr="Grand Montréal">Across Greater Montréal</span></li>
@@ -190,23 +192,23 @@
       <p data-en="A Laval atelier of timeless furniture and hand-knotted rugs." data-fr="Un atelier lavallois de mobilier intemporel et de tapis noués main.">A Laval atelier of timeless furniture and hand-knotted rugs.</p></div>
     <div class="foot__cols">
       <div><h4 data-en="Collections" data-fr="Collections">Collections</h4><a href="collection.html?cat=living-room" data-en="Living Room" data-fr="Salon">Living Room</a><a href="collection.html?cat=dining-room" data-en="Dining" data-fr="Salle à manger">Dining</a><a href="collection.html?cat=bed-room" data-en="Bedroom" data-fr="Chambre">Bedroom</a><a href="collection.html?cat=carpets" data-en="Rugs" data-fr="Tapis">Rugs</a></div>
-      <div><h4 data-en="Maison" data-fr="Maison">Maison</h4><a href="#" data-en="About" data-fr="À propos">About</a><a href="#" data-en="Craftsmanship" data-fr="Savoir-faire">Craftsmanship</a><a href="index.html#visit" data-en="Visit" data-fr="Visiter">Visit</a></div>
-      <div><h4 data-en="Visit" data-fr="Visite">Visit</h4><a href="https://maps.google.com/?q=1877+Bd+du+Curé-Labelle,+Laval,+QC+H7T+1K2" target="_blank" rel="noopener">1877 Bd du Curé-Labelle, Laval</a><a href="#" data-en="Mon–Wed 10–6 · Thu–Fri 10–8 · Sat 10–5 · Sun 11–5" data-fr="Lun–Mer 10–18 · Jeu–Ven 10–20 · Sam 10–17 · Dim 11–17">Mon–Wed 10–6 · Thu–Fri 10–8 · Sat 10–5 · Sun 11–5</a><a href="tel:+14509730000">+1 (450) 973-0000</a><a href="mailto:galerieoasis@bellnet.ca">galerieoasis@bellnet.ca</a></div>
+      <div><h4 data-en="Maison" data-fr="Maison">Maison</h4><a href="index.html#visit" data-en="Visit" data-fr="Visiter">Visit</a></div>
+      <div><h4 data-en="Visit" data-fr="Visite">Visit</h4><a href="https://maps.google.com/?q=1877+Bd+du+Curé-Labelle,+Laval,+QC+H7T+1K2" target="_blank" rel="noopener">1877 Bd du Curé-Labelle, Laval</a><span data-en="Mon–Wed 10–6 · Thu–Fri 10–8 · Sat 10–5 · Sun 11–5" data-fr="Lun–Mer 10–18 · Jeu–Ven 10–20 · Sam 10–17 · Dim 11–17">Mon–Wed 10–6 · Thu–Fri 10–8 · Sat 10–5 · Sun 11–5</span><a href="tel:+14509730000">+1 (450) 973-0000</a><a href="mailto:galerieoasis@bellnet.ca">galerieoasis@bellnet.ca</a></div>
     </div>
   </div>
   <div class="foot__bottom"><span>© Galerie Oasis</span><span class="foot__made" data-en="Concept demo · crafted with care" data-fr="Démo conceptuelle · faite avec soin">Concept demo · crafted with care</span>
-    <div class="foot__social"><a href="#">Instagram</a><a href="#">Facebook</a><a href="#">Pinterest</a></div>
+    <div class="foot__social"><a href="https://www.instagram.com/galerieoasislaval/" target="_blank" rel="noopener">Instagram</a><a href="https://www.facebook.com/galerieoasis" target="_blank" rel="noopener">Facebook</a></div>
   </div>
 </footer>
 
-<script src="js/config.js?v=20260804"></script>
+<script src="js/config.js?v=20260805"></script>
 <script src="https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/gsap.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/ScrollTrigger.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/@studio-freight/lenis@1.0.42/dist/lenis.min.js"></script>
-<script src="js/main.js?v=20260804"></script>
-<script src="js/product.js?v=20260804"></script>
-<script src="js/custom.js?v=20260804"></script>
-<script src="js/lightbox.js?v=20260804"></script>
-<script src="js/leads.js?v=20260804"></script>
+<script src="js/main.js?v=20260805"></script>
+<script src="js/product.js?v=20260805"></script>
+<script src="js/custom.js?v=20260805"></script>
+<script src="js/lightbox.js?v=20260805"></script>
+<script src="js/leads.js?v=20260805"></script>
 </body>
 </html>

@@ -131,11 +131,55 @@
   const params = new URLSearchParams(location.search);
   const pid = parseInt(params.get('id'), 10);
 
+  /* Every product shared product.html's static canonical, so all 240 looked
+     like duplicates of one page to search engines. Point the canonical, OG
+     tags and Product schema at the actual product instead. */
+  function setSeo(p, tl) {
+    const CFG = window.OASIS_CONFIG || {};
+    const base = (CFG.siteUrl || location.origin).replace(/\/$/, '');
+    const url = `${base}/product.html?id=${p.id}`;
+    const img = p.img ? `${base}/${p.img}` : null;
+    const name = p.short || p.name;
+    const desc = (p.desc && p.desc.length > 30 ? p.desc
+      : `${name} — ${tl.en} available at Galerie Oasis, Laval.`).slice(0, 300);
+
+    const set = (sel, attr, val) => { const el = document.querySelector(sel); if (el && val) el.setAttribute(attr, val); };
+    set('link[rel="canonical"]', 'href', url);
+    set('meta[property="og:url"]', 'content', url);
+    set('meta[property="og:title"]', 'content', `${name} — Galerie Oasis`);
+    set('meta[property="og:description"]', 'content', desc);
+    set('meta[name="twitter:title"]', 'content', `${name} — Galerie Oasis`);
+    set('meta[name="twitter:description"]', 'content', desc);
+    if (img) { set('meta[property="og:image"]', 'content', img); set('meta[name="twitter:image"]', 'content', img); }
+    const md = document.querySelector('meta[name="description"]');
+    if (md) md.setAttribute('content', desc);
+    document.querySelectorAll('link[hreflang]').forEach(l => l.setAttribute('href', url));
+
+    const old = document.getElementById('productSchema');
+    if (old) old.remove();
+    const s = document.createElement('script');
+    s.type = 'application/ld+json';
+    s.id = 'productSchema';
+    s.textContent = JSON.stringify({
+      '@context': 'https://schema.org', '@type': 'Product',
+      name, description: desc, image: img || undefined, sku: String(p.id),
+      category: tl.en, url,
+      brand: { '@type': 'Brand', name: 'Galerie Oasis' },
+      offers: {
+        '@type': 'Offer', url, priceCurrency: 'CAD',
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'FurnitureStore', name: 'Galerie Oasis' }
+      }
+    });
+    document.head.appendChild(s);
+  }
+
   function hydrate(p, catalog) {
     const L = lang();
     const type = typeOf(p);
     const tl = TYPE_LABEL[type] || TYPE_LABEL['living-room'];
     document.title = `${p.short || p.name} — Galerie Oasis`;
+    setSeo(p, tl);
     $('.pdp-title').textContent = p.short || p.name;
     $('.pdp-sub').textContent = tl[L];
     const eyebrow = $('.pdp-eyebrow');
@@ -167,13 +211,30 @@
       loadMain(imgs[0]);
     }
 
-    /* rugs: relabel fabric → colourway, hide sofa config */
+    /* Rugs are one-of-a-kind woven pieces, not upholstered furniture.
+       Offering six "colourways" implied you could order this rug in other
+       colours, which isn't true — hide the fabric and size selectors and
+       show the weave facts instead. */
     if (isRug(p)) {
-      const optLabel = $('.opt__label');
-      if (optLabel) optLabel.textContent = L === 'fr' ? 'Coloris (aperçu)' : 'Colourway (preview)';
-      const cfg = $('#cfg')?.closest('.opt');
-      if (cfg) cfg.style.display = 'none';
+      $('#swatches')?.closest('.opt')?.remove();
+      $('#cfg')?.closest('.opt')?.remove();
       const ar = $('.pdp-ar'); if (ar) ar.style.display = 'none';
+      const badge = $('.viewer__badge');
+      if (badge) badge.textContent = L === 'fr' ? 'Pièce unique' : 'One-of-a-kind piece';
+      const info = $('.pdp-desc');
+      if (info && !$('.rug-facts')) {
+        const hand = p.cats.includes('hand-made-carpets');
+        const ul = document.createElement('ul');
+        ul.className = 'rug-facts';
+        const facts = hand
+          ? [[L === 'fr' ? 'Fabrication' : 'Construction', L === 'fr' ? 'Noué main' : 'Hand-knotted'],
+             [L === 'fr' ? 'Pièce' : 'Piece', L === 'fr' ? 'Unique — un seul exemplaire' : 'Unique — one only'],
+             [L === 'fr' ? 'Voir en salle' : 'See in store', L === 'fr' ? 'Laval' : 'Laval']]
+          : [[L === 'fr' ? 'Fabrication' : 'Construction', L === 'fr' ? 'Tissé mécaniquement' : 'Machine-made'],
+             [L === 'fr' ? 'Voir en salle' : 'See in store', L === 'fr' ? 'Laval' : 'Laval']];
+        ul.innerHTML = facts.map(([k, v]) => `<li><span>${k}</span><b>${v}</b></li>`).join('');
+        info.after(ul);
+      }
     }
 
     /* related: same parent category */

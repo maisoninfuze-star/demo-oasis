@@ -1,177 +1,240 @@
 /* ===========================================================
-   Collection page — driven by data/catalog.json (real store data)
-   URL: collection.html?cat=<slug>  (living-room | dining-room |
-        bed-room | carpets | ... or omit for everything)
+   Collection pages — ONE unified, categorized catalogue.
+   Curated showroom pieces + all supplier items merged into real
+   departments (data/cat/<top>.json, built by categorize.py).
+   Filters: subcategory chips, brand, price, sort, search.
    =========================================================== */
 (() => {
-  const V = '?v=' + ((window.OASIS_CONFIG||{}).dataVersion || '1');
+  const V = '?v=' + ((window.OASIS_CONFIG || {}).dataVersion || '1');
   const $ = (s, c = document) => c.querySelector(s);
-  const lang = () => document.body.dataset.lang || 'en';
+  const L = () => (document.body.dataset.lang === 'fr' ? 'fr' : 'en');
+  const T = (en, fr) => (L() === 'fr' ? fr : en);
 
-  const SECTIONS = {
-    'living-room': {
-      en: ['Living', 'Room'], fr: ['Le', 'Salon'],
-      subEn: 'Sofas, sectionals and armchairs built on solid hardwood — upholstered in velvet, leather and performance fabric.',
-      subFr: 'Canapés, sectionnels et fauteuils sur bois massif — velours, cuir et tissus performants.',
-      kids: ['stationary', 'sectional', 'chair-chaise', 'sofa-bed', 'motion-seating', 'ottomans']
-    },
-    'dining-room': {
-      en: ['Dining', 'Room'], fr: ['Salle à', 'manger'],
-      subEn: 'Tables and seating made to host — solid woods, marble and brass, built for years of long dinners.',
-      subFr: 'Tables et chaises faites pour recevoir — bois massifs, marbre et laiton.',
-      kids: []
-    },
-    'bed-room': {
-      en: ['Bed', 'Room'], fr: ['La', 'Chambre'],
-      subEn: 'Bedroom sets and mattresses composed for rest — upholstered headboards, solid frames, quiet luxury.',
-      subFr: 'Ensembles de chambre et matelas pensés pour le repos.',
-      kids: ['bed-room-sets', 'mattresses']
-    },
-    'carpets': {
-      en: ['The', 'Rugs'], fr: ['Les', 'Tapis'],
-      subEn: 'Hand-knotted and machine-made carpets — wool, silk and natural dyes, chosen to ground a room.',
-      subFr: 'Tapis noués main et mécaniques — laine, soie et teintures naturelles.',
-      kids: ['hand-made-carpets', 'machine-made']
-    },
-    'all': {
-      en: ['The', 'Collection'], fr: ['La', 'Collection'],
-      subEn: 'Every piece on the floor at Galerie Oasis — furniture, rugs and décor, chosen piece by piece.',
-      subFr: 'Toutes les pièces en salle chez Galerie Oasis — mobilier, tapis et décor.',
-      kids: ['living-room', 'dining-room', 'bed-room', 'carpets']
-    }
+  const TOP_LABEL = {
+    'living-room': { en: ['Living', 'Room'], fr: ['Le', 'Salon'] },
+    'dining-room': { en: ['Dining', 'Room'], fr: ['Salle à', 'manger'] },
+    'bed-room':    { en: ['Bed', 'Room'], fr: ['La', 'Chambre'] },
+    'office':      { en: ['The', 'Office'], fr: ['Le', 'Bureau'] },
+    'decor':       { en: ['Décor &', 'Accents'], fr: ['Décor et', 'accents'] },
+    'carpets':     { en: ['The', 'Rugs'], fr: ['Les', 'Tapis'] },
+    'custom-studio': { en: ['Custom', 'Studio'], fr: ['Atelier', 'sur mesure'] },
+    'all':         { en: ['The', 'Collection'], fr: ['La', 'Collection'] },
   };
-  const CHIP_LABELS = {
-    'all': { en: 'All', fr: 'Tout' },
-    'stationary': { en: 'Sofas', fr: 'Canapés' },
-    'sectional': { en: 'Sectionals', fr: 'Sectionnels' },
-    'chair-chaise': { en: 'Chairs & chaises', fr: 'Fauteuils' },
-    'sofa-bed': { en: 'Sofa beds', fr: 'Canapés-lits' },
-    'motion-seating': { en: 'Motion', fr: 'Inclinables' },
-    'ottomans': { en: 'Ottomans', fr: 'Poufs' },
-    'bed-room-sets': { en: 'Bedroom sets', fr: 'Ensembles' },
-    'mattresses': { en: 'Mattresses', fr: 'Matelas' },
-    'hand-made-carpets': { en: 'Hand-made', fr: 'Noués main' },
-    'machine-made': { en: 'Machine-made', fr: 'Mécaniques' },
-    'living-room': { en: 'Living room', fr: 'Salon' },
-    'dining-room': { en: 'Dining', fr: 'Salle à manger' },
-    'bed-room': { en: 'Bedroom', fr: 'Chambre' },
-    'carpets': { en: 'Rugs', fr: 'Tapis' }
+  const TOP_SUB = {
+    'living-room': { en: 'Sofas, sectionals, chairs and tables — from our showroom floor and every partner catalogue.', fr: 'Canapés, sectionnels, fauteuils et tables — de notre salle et de tous nos catalogues partenaires.' },
+    'dining-room': { en: 'Dining sets, tables, chairs and buffets to host every long dinner.', fr: 'Ensembles, tables, chaises et buffets pour recevoir.' },
+    'bed-room':    { en: 'Beds, bedroom sets, dressers and mattresses composed for rest.', fr: 'Lits, ensembles, commodes et matelas pensés pour le repos.' },
+    'office':      { en: 'Desks, office chairs and bookcases that work as hard as you.', fr: 'Bureaux, chaises et bibliothèques qui travaillent autant que vous.' },
+    'decor':       { en: 'Lighting, mirrors, art and accents — the finishing layer.', fr: 'Luminaires, miroirs, art et accents — la touche finale.' },
+    'carpets':     { en: 'Hand-knotted and machine-made rugs — including 1,400+ from our own warehouse with live prices.', fr: 'Tapis noués main et mécaniques — dont 1 400+ de notre entrepôt à prix affichés.' },
+    'custom-studio': { en: 'Banquettes, tables and storage, designed and made to order.', fr: 'Banquettes, tables et rangements, faits sur mesure.' },
+    'all':         { en: 'Everything — our showroom floor plus every partner catalogue, in one place.', fr: 'Tout — notre salle d’exposition et tous les catalogues partenaires.' },
   };
-  const TYPE_LABEL = {
-    'stationary': { en: 'Sofa', fr: 'Canapé' },
-    'sectional': { en: 'Sectional', fr: 'Sectionnel' },
-    'chair-chaise': { en: 'Armchair', fr: 'Fauteuil' },
-    'sofa-bed': { en: 'Sofa bed', fr: 'Canapé-lit' },
-    'motion-seating': { en: 'Motion seating', fr: 'Inclinable' },
-    'ottomans': { en: 'Ottoman', fr: 'Pouf' },
-    'bed-room-sets': { en: 'Bedroom set', fr: 'Ensemble chambre' },
-    'bed-room': { en: 'Bedroom', fr: 'Chambre' },
-    'mattresses': { en: 'Mattress', fr: 'Matelas' },
-    'hand-made-carpets': { en: 'Hand-made rug', fr: 'Tapis noué main' },
-    'machine-made': { en: 'Machine-made rug', fr: 'Tapis mécanique' },
-    'carpets': { en: 'Rug', fr: 'Tapis' },
-    'dining-room': { en: 'Dining', fr: 'Salle à manger' },
-    'living-room': { en: 'Living room', fr: 'Salon' }
+  const SUB_LABEL = {
+    'sofas': {en:'Sofas',fr:'Canapés'}, 'sectionals': {en:'Sectionals',fr:'Sectionnels'},
+    'sofa-beds': {en:'Sofa beds',fr:'Canapés-lits'}, 'loveseats': {en:'Loveseats',fr:'Causeuses'},
+    'chairs': {en:'Chairs',fr:'Fauteuils'}, 'chaises': {en:'Chaises',fr:'Chaises longues'},
+    'ottomans': {en:'Ottomans',fr:'Poufs'}, 'recliners': {en:'Recliners',fr:'Inclinables'},
+    'living-sets': {en:'Living sets',fr:'Ensembles'}, 'coffee-tables': {en:'Coffee tables',fr:'Tables à café'},
+    'end-tables': {en:'End tables',fr:'Tables d’appoint'}, 'accent-tables': {en:'Accent tables',fr:'Tables accent'},
+    'console-tables': {en:'Consoles',fr:'Consoles'}, 'tv-media': {en:'TV & media',fr:'Télé et média'},
+    'dining-sets': {en:'Dining sets',fr:'Ensembles'}, 'dining-tables': {en:'Tables',fr:'Tables'},
+    'dining-chairs': {en:'Chairs',fr:'Chaises'}, 'buffets': {en:'Buffets',fr:'Buffets'},
+    'bar': {en:'Bar',fr:'Bar'}, 'beds': {en:'Beds',fr:'Lits'},
+    'bedroom-sets': {en:'Bedroom sets',fr:'Ensembles'}, 'headboards': {en:'Headboards',fr:'Têtes de lit'},
+    'nightstands': {en:'Nightstands',fr:'Tables de nuit'}, 'dressers': {en:'Dressers',fr:'Commodes'},
+    'chests': {en:'Chests',fr:'Coffres'}, 'mattresses': {en:'Mattresses',fr:'Matelas'},
+    'youth': {en:'Youth',fr:'Jeunesse'}, 'desks': {en:'Desks',fr:'Bureaux'},
+    'office-chairs': {en:'Chairs',fr:'Chaises'}, 'bookcases': {en:'Bookcases',fr:'Bibliothèques'},
+    'lighting': {en:'Lighting',fr:'Luminaires'}, 'mirrors': {en:'Mirrors',fr:'Miroirs'},
+    'wall-decor': {en:'Wall décor',fr:'Décor mural'}, 'vases': {en:'Vases',fr:'Vases'},
+    'plants': {en:'Plants',fr:'Plantes'}, 'figurines': {en:'Figurines',fr:'Figurines'},
+    'decor-objects': {en:'Objects',fr:'Objets'}, 'accent-furniture': {en:'Accent furniture',fr:'Meubles accent'},
+    'fireplaces': {en:'Fireplaces',fr:'Foyers'}, 'hand-knotted': {en:'Hand-knotted',fr:'Noués main'},
+    'machine-made': {en:'Machine-made',fr:'Mécaniques'}, 'banquettes': {en:'Banquettes',fr:'Banquettes'},
+    'tables': {en:'Tables',fr:'Tables'}, 'storage': {en:'Storage',fr:'Rangement'},
+    'showcase': {en:'Showcase',fr:'Vitrine'},
   };
-  const typeOf = p => {
-    const pref = ['stationary','sectional','chair-chaise','sofa-bed','motion-seating','ottomans',
-                  'bed-room-sets','mattresses','hand-made-carpets','machine-made',
-                  'dining-room','bed-room','carpets','living-room'];
-    for (const k of pref) if (p.cats.includes(k)) return k;
-    return p.cats[0] || 'living-room';
-  };
+  const subLabel = s => (SUB_LABEL[s] ? SUB_LABEL[s][L()] : s);
+
+  const grid = $('#pgrid');
+  const chipsWrap = $('.toolbar__chips');
+  const count = $('#pcount');
+  if (!grid) return;
 
   const params = new URLSearchParams(location.search);
-  const cat = SECTIONS[params.get('cat')] ? params.get('cat') : 'all';
-  const conf = SECTIONS[cat];
+  const top = TOP_LABEL[params.get('cat')] ? params.get('cat') : 'all';
 
   /* hero text */
   const t = $('.col-hero__title');
-  if (t) {
-    const pair = conf[lang()] || conf.en;
-    t.innerHTML = `<span>${pair[0]}</span> <em>${pair[1]}</em>`;
-  }
+  const heroPair = () => { const p = TOP_LABEL[top][L()]; if (t) t.innerHTML = `<span>${p[0]}</span> <em>${p[1]}</em>`; };
   const sub = $('.col-hero__sub');
-  if (sub) sub.textContent = lang() === 'fr' ? conf.subFr : conf.subEn;
+  const heroSub = () => { if (sub) sub.textContent = TOP_SUB[top][L()]; };
   const crumbLast = $('.crumb span');
-  if (crumbLast) crumbLast.textContent = (CHIP_LABELS[cat] || CHIP_LABELS.all)[lang()];
+  const heroCrumb = () => { if (crumbLast) crumbLast.textContent = TOP_LABEL[top][L()].join(' '); };
+  heroPair(); heroSub(); heroCrumb();
 
-  /* chips */
-  const chipsWrap = $('.toolbar__chips');
-  const grid = $('#pgrid');
-  const count = $('#pcount');
-  let catalog = [];
-  let active = 'all';
+  /* ---------- state ---------- */
+  let index = null, items = [], view = [], shown = 0;
+  const BATCH = 48;
+  const state = { sub: 'all', brand: 'all', price: 'all', sort: 'featured', q: '' };
+  let customIds = new Set();
 
-  function chipHTML(slug) {
-    const l = CHIP_LABELS[slug] || { en: slug, fr: slug };
-    return `<button class="chip${slug === 'all' ? ' is-active' : ''}" data-filter="${slug}">${l[lang()]}</button>`;
+  /* ---------- filter bar (built once) ---------- */
+  const meta = $('.toolbar__meta');
+  function buildControls() {
+    if ($('#fltBrand')) { syncControlLabels(); return; }
+    meta.innerHTML = `
+      <input type="search" id="fltSearch" class="bsearch" />
+      <select id="fltBrand" class="fsel"></select>
+      <select id="fltPrice" class="fsel"></select>
+      <select id="fltSort" class="fsel"></select>
+      <span class="toolbar__count"><i id="pcount">…</i>&nbsp;<span id="pcountLbl"></span></span>`;
+    $('#fltSearch').addEventListener('input', e => { clearTimeout(window.__fd);
+      window.__fd = setTimeout(() => { state.q = e.target.value; apply(); }, 200); });
+    $('#fltBrand').addEventListener('change', e => { state.brand = e.target.value; apply(); });
+    $('#fltPrice').addEventListener('change', e => { state.price = e.target.value; apply(); });
+    $('#fltSort').addEventListener('change', e => { state.sort = e.target.value; apply(); });
+    syncControlLabels();
   }
+  function syncControlLabels() {
+    $('#fltSearch').placeholder = T('Search…', 'Chercher…');
+    $('#pcountLbl').textContent = T('pieces', 'pièces');
+    const topInfo = index.tops.find(x => x.slug === top);
+    const brands = topInfo ? topInfo.brands : {};
+    const bOpts = [`<option value="all">${T('All brands', 'Toutes les marques')}</option>`]
+      .concat(Object.entries(brands).map(([b, n]) =>
+        `<option value="${b}"${state.brand === b ? ' selected' : ''}>${index.brands[b] || b} (${n})</option>`));
+    $('#fltBrand').innerHTML = bOpts.join('');
+    $('#fltPrice').innerHTML = `
+      <option value="all"${state.price==='all'?' selected':''}>${T('Any price', 'Tout prix')}</option>
+      <option value="priced"${state.price==='priced'?' selected':''}>${T('Displayed prices', 'Prix affichés')}</option>
+      <option value="clearance"${state.price==='clearance'?' selected':''}>${T('Clearance', 'Liquidation')}</option>
+      <option value="request"${state.price==='request'?' selected':''}>${T('On request', 'Sur demande')}</option>`;
+    $('#fltSort').innerHTML = `
+      <option value="featured"${state.sort==='featured'?' selected':''}>${T('Featured', 'En vedette')}</option>
+      <option value="name"${state.sort==='name'?' selected':''}>${T('Name A–Z', 'Nom A–Z')}</option>
+      <option value="price-asc"${state.sort==='price-asc'?' selected':''}>${T('Price ↑', 'Prix ↑')}</option>
+      <option value="price-desc"${state.sort==='price-desc'?' selected':''}>${T('Price ↓', 'Prix ↓')}</option>`;
+  }
+
   function buildChips() {
-    if (!chipsWrap) return;
-    chipsWrap.innerHTML = chipHTML('all') + conf.kids.map(chipHTML).join('');
+    const topInfo = index.tops.find(x => x.slug === top);
+    const subs = topInfo ? topInfo.subs : {};
+    chipsWrap.innerHTML =
+      `<button class="chip${state.sub==='all' ? ' is-active' : ''}" data-f="all">${T('All','Tout')}</button>` +
+      Object.entries(subs).map(([s, n]) =>
+        `<button class="chip${state.sub===s ? ' is-active' : ''}" data-f="${s}">${subLabel(s)} · ${n}</button>`).join('');
     chipsWrap.querySelectorAll('.chip').forEach(ch => ch.addEventListener('click', () => {
       chipsWrap.querySelectorAll('.chip').forEach(c => c.classList.remove('is-active'));
       ch.classList.add('is-active');
-      active = ch.dataset.filter;
-      render();
+      state.sub = ch.dataset.f;
+      apply();
     }));
   }
 
-  function inCat(p, slug) {
-    /* Parent views must include children: the old store left some pieces
-       tagged only with a subcategory (e.g. "stationary" but not "living-room"),
-       which hid 10 sofas — the newest ones — from the Living Room listing. */
-    if (slug === 'all') {
-      if (cat === 'all') return true;
-      return p.cats.includes(cat) || conf.kids.some(k => p.cats.includes(k));
-    }
-    return p.cats.includes(slug);
+  /* ---------- filtering ---------- */
+  function apply() {
+    const q = state.q.trim().toLowerCase();
+    view = items.filter(it =>
+      (state.sub === 'all' || it.sub === state.sub) &&
+      (state.brand === 'all' || it.brand === state.brand) &&
+      (state.price === 'all' ||
+        (state.price === 'priced' && it.price) ||
+        (state.price === 'clearance' && it.clearance) ||
+        (state.price === 'request' && !it.price)) &&
+      (!q || (it.name + ' ' + (it.sku || '')).toLowerCase().includes(q)));
+    if (state.sort === 'name') view.sort((a, b) => a.name.localeCompare(b.name));
+    if (state.sort === 'price-asc') view.sort((a, b) => (a.price ?? 1e9) - (b.price ?? 1e9));
+    if (state.sort === 'price-desc') view.sort((a, b) => (b.price ?? -1) - (a.price ?? -1));
+    /* featured = curated first, then priced rugs, then the rest (build order) */
+    grid.innerHTML = '';
+    shown = 0;
+    $('#pcount').textContent = view.length.toLocaleString();
+    renderMore();
   }
 
-  function cardHTML(p) {
-    const tl = TYPE_LABEL[typeOf(p)] || TYPE_LABEL['living-room'];
-    const img = p.img ? `<img src="${p.thumb || p.img}" alt="${p.short || p.name}" loading="lazy" decoding="async" width="480" height="480" />` : '';
-    const isCustom = (window.__customIds || new Set()).has(p.id);
-    const sale = isCustom
-      ? `<span class="pcard__tag pcard__tag--custom">${lang() === 'fr' ? 'Sur mesure' : 'Custom made'}</span>`
-      : (p.sale ? `<span class="pcard__tag">${lang() === 'fr' ? 'Promotion' : 'On promotion'}</span>` : '');
-    return `<a class="pcard" href="product.html?id=${p.id}">
-      <div class="pcard__media">${img}${sale}</div>
-      <div class="pcard__info"><div><h3>${p.short || p.name}</h3><span>${tl[lang()]}</span></div>
-      <p>${lang() === 'fr' ? 'Sur demande' : 'On request'}</p></div></a>`;
+  const money = n => '$' + n.toFixed(2).replace(/\.00$/, '');
+  function cardHTML(it) {
+    const isCustom = customIds.has(parseInt(it.id, 10));
+    const brandName = index.brands[it.brand] || '';
+    const tag = isCustom
+      ? `<span class="pcard__tag pcard__tag--custom">${T('Custom made','Sur mesure')}</span>`
+      : it.clearance ? `<span class="pcard__tag">${T('Clearance','Liquidation')}</span>`
+      : it.sale ? `<span class="pcard__tag">${T('On promotion','Promotion')}</span>` : '';
+    const price = it.price
+      ? `${money(it.price)}${it.retail && it.retail > it.price ? ` <s>${money(it.retail)}</s>` : ''}`
+      : T('On request', 'Sur demande');
+    const srcset = it.hi ? ` srcset="${it.img} 1x, ${it.hi} 2x"` : '';
+    const inner = `
+      <div class="pcard__media"><img src="${it.img}"${srcset} alt="${it.name}" loading="lazy" decoding="async" width="480" height="480">${tag}</div>
+      <div class="pcard__info"><div><h3>${it.name}</h3><span>${it.brand === 'oasis' ? subLabel(it.sub) : brandName}</span></div>
+      <p>${price}</p></div>`;
+    return it.link
+      ? `<a class="pcard" href="${it.link}">${inner}</a>`
+      : `<a class="pcard pcard--ask" href="#" data-name="${it.name.replace(/"/g,'&quot;')}" data-brand="${brandName}">${inner}</a>`;
   }
 
-  function render() {
-    if (!grid) return;
-    const items = catalog.filter(p => inCat(p, active) && p.img);
-    grid.innerHTML = items.map(cardHTML).join('');
-    if (count) count.textContent = items.length;
-    /* stagger-in without depending on the scroll observer */
-    [...grid.children].forEach((el, i) => {
+  function renderMore() {
+    const next = view.slice(shown, shown + BATCH);
+    grid.insertAdjacentHTML('beforeend', next.map(cardHTML).join(''));
+    shown += next.length;
+    [...grid.children].slice(-next.length).forEach((el, i) => {
       el.classList.add('reveal');
-      setTimeout(() => el.classList.add('in'), 40 + (i % 12) * 55);
+      setTimeout(() => el.classList.add('in'), 30 + (i % 12) * 45);
     });
-    if (window.ScrollTrigger) ScrollTrigger.refresh();
+    sentinel.style.display = shown < view.length ? '' : 'none';
   }
 
-  let customIds = new Set();
-  Promise.all([
-    fetch('data/catalog.json' + V).then(r => r.json()),
-    fetch('data/custom.json' + V).then(r => r.json()).catch(() => null)
-  ]).then(([data, custom]) => {
-    catalog = data;
-    if (custom) customIds = new Set(Object.keys(custom.products).map(Number));
-    window.__customIds = customIds;
-    buildChips(); render();
-  }).catch(() => { /* leave static fallback grid */ });
+  /* sentinel for auto-load */
+  const sentinel = document.createElement('div');
+  sentinel.className = 'grid-sentinel';
+  grid.after(sentinel);
+  new IntersectionObserver(es => { if (es[0].isIntersecting && shown < view.length) renderMore(); },
+    { rootMargin: '1000px' }).observe(sentinel);
 
-  /* re-render labels on language switch */
+  /* supplier cards → enquiry modal with context */
+  grid.addEventListener('click', e => {
+    const a = e.target.closest('.pcard--ask');
+    if (!a) return;
+    e.preventDefault();
+    let ghost = $('#catGhostTitle');
+    if (!ghost) {
+      ghost = document.createElement('span');
+      ghost.id = 'catGhostTitle'; ghost.className = 'pdp-title'; ghost.style.display = 'none';
+      document.body.appendChild(ghost);
+    }
+    ghost.textContent = `${a.dataset.name} (${a.dataset.brand})`;
+    window.OasisLead?.open('quote');
+  });
+
+  /* ---------- load ---------- */
+  const files = top === 'all'
+    ? ['living-room','dining-room','bed-room','office','decor','carpets','custom-studio']
+    : [top];
+  Promise.all([
+    fetch('data/cat/index.json' + V).then(r => r.json()),
+    fetch('data/custom.json' + V).then(r => r.json()).catch(() => null),
+    ...files.map(f => fetch(`data/cat/${f}.json` + V).then(r => r.json()).catch(() => ({items:[]}))),
+  ]).then(([idx, custom, ...cats]) => {
+    index = idx;
+    if (top === 'all') {
+      /* synthesize an aggregate index entry for chips/brands */
+      const subs = {}, brands = {};
+      idx.tops.forEach(ti => {
+        Object.entries(ti.subs).forEach(([k, v]) => subs[k] = (subs[k] || 0) + v);
+        Object.entries(ti.brands).forEach(([k, v]) => brands[k] = (brands[k] || 0) + v);
+      });
+      index.tops.push({ slug: 'all', subs, brands });
+    }
+    if (custom) customIds = new Set(Object.keys(custom.products).map(Number));
+    items = cats.flatMap(c => c.items || []);
+    buildChips();
+    buildControls();
+    apply();
+  });
+
   $('#langToggle')?.addEventListener('click', () => setTimeout(() => {
-    const pair = conf[lang()] || conf.en;
-    if (t) t.innerHTML = `<span>${pair[0]}</span> <em>${pair[1]}</em>`;
-    if (sub) sub.textContent = lang() === 'fr' ? conf.subFr : conf.subEn;
-    if (crumbLast) crumbLast.textContent = (CHIP_LABELS[cat] || CHIP_LABELS.all)[lang()];
-    buildChips(); render();
-  }, 0));
+    heroPair(); heroSub(); heroCrumb(); buildChips(); syncControlLabels(); apply();
+  }, 10));
 })();

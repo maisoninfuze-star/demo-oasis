@@ -1,0 +1,148 @@
+{
+ "tops": [
+  {
+   "slug": "living-room",
+   "count": 1694,
+   "subs": {
+    "accent-tables": 535,
+    "chairs": 313,
+    "sofas": 270,
+    "coffee-tables": 159,
+    "tv-media": 81,
+    "sectionals": 74,
+    "living-sets": 62,
+    "loveseats": 62,
+    "end-tables": 43,
+    "ottomans": 41,
+    "console-tables": 19,
+    "sofa-beds": 15,
+    "recliners": 14,
+    "chaises": 6
+   },
+   "brands": {
+    "monarch": 870,
+    "matrix": 273,
+    "aclass": 155,
+    "glory": 154,
+    "oasis": 112,
+    "sofabyfancy": 85,
+    "mazin": 36,
+    "creative": 6,
+    "titus": 3
+   }
+  },
+  {
+   "slug": "dining-room",
+   "count": 923,
+   "subs": {
+    "dining-sets": 485,
+    "dining-chairs": 257,
+    "dining-tables": 180,
+    "buffets": 1
+   },
+   "brands": {
+    "creative": 257,
+    "monarch": 248,
+    "glory": 145,
+    "titus": 118,
+    "matrix": 115,
+    "mazin": 23,
+    "oasis": 17
+   }
+  },
+  {
+   "slug": "bed-room",
+   "count": 1201,
+   "subs": {
+    "beds": 421,
+    "nightstands": 307,
+    "bedroom-sets": 249,
+    "dressers": 87,
+    "chests": 83,
+    "youth": 33,
+    "headboards": 20,
+    "mattresses": 1
+   },
+   "brands": {
+    "matrix": 520,
+    "monarch": 411,
+    "titus": 160,
+    "mazin": 58,
+    "glory": 31,
+    "oasis": 21
+   }
+  },
+  {
+   "slug": "office",
+   "count": 451,
+   "subs": {
+    "desks": 295,
+    "bookcases": 119,
+    "office-chairs": 37
+   },
+   "brands": {
+    "monarch": 434,
+    "mazin": 17
+   }
+  },
+  {
+   "slug": "decor",
+   "count": 1426,
+   "subs": {
+    "decor-objects": 690,
+    "lighting": 415,
+    "accent-furniture": 150,
+    "plants": 91,
+    "figurines": 77,
+    "mirrors": 2,
+    "wall-decor": 1
+   },
+   "brands": {
+    "monarch": 836,
+    "creative": 279,
+    "titus": 188,
+    "sofabyfancy": 89,
+    "glory": 20,
+    "matrix": 14
+   }
+  },
+  {
+   "slug": "carpets",
+   "count": 1551,
+   "subs": {
+    "hand-knotted": 1011,
+    "machine-made": 540
+   },
+   "brands": {
+    "rugsnetwork": 1462,
+    "oasis": 89
+   }
+  },
+  {
+   "slug": "custom-studio",
+   "count": 120,
+   "subs": {
+    "banquettes": 94,
+    "tables": 15,
+    "storage": 7,
+    "showcase": 4
+   },
+   "brands": {
+    "wt": 120
+   }
+  }
+ ],
+ "brands": {
+  "oasis": "Galerie Oasis",
+  "rugsnetwork": "Rugs Network",
+  "monarch": "Monarch Specialties",
+  "matrix": "Matrix Furniture",
+  "creative": "Creative Home Décor",
+  "titus": "Titus Furniture",
+  "glory": "Glory Home Furniture",
+  "sofabyfancy": "Sofa by Fancy",
+  "aclass": "A Class Upholstery",
+  "mazin": "Mazin / Homelegance",
+  "wt": "WT Studio"
+ }
+}

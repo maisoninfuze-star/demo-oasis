@@ -804,3 +804,17 @@ html.lb-open, html.lb-open body{overflow:hidden}
 .lead__consent span{font-size:.74rem !important;letter-spacing:0 !important;text-transform:none !important;
   color:rgba(42,36,32,.65) !important;line-height:1.5}
 .lead__consent a{color:#B08E45;text-decoration:underline}
+
+/* filter controls on collection toolbar */
+.fsel{background:transparent;border:1px solid var(--line-gold);border-radius:2rem;color:var(--cream);
+  font-family:var(--font-sans);font-size:.76rem;font-weight:300;padding:.55rem .9rem;cursor:pointer;max-width:180px}
+.fsel option{background:#1A1613;color:#F6F1E8}
+.fsel:focus{outline:none;border-color:var(--gold)}
+.toolbar__meta{flex-wrap:wrap;align-items:center;gap:.7rem}
+.grid-sentinel{height:2px;background:var(--black)}
+.pcard--ask{cursor:pointer}
+@media (max-width:700px){
+  .toolbar__meta{width:100%}
+  .toolbar__meta .bsearch{flex:1;min-width:150px}
+  .fsel{max-width:44vw}
+}

@@ -61,6 +61,7 @@
       </button>`).join('');
 
     /* supplier line under the swatches */
+    document.querySelectorAll('.fab-meta').forEach(el => el.remove());
     const meta = document.createElement('div');
     meta.className = 'fab-meta';
     meta.innerHTML = `

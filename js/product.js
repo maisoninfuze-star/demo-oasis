@@ -128,6 +128,19 @@
   };
   const isRug = p => p.cats.includes('carpets');
 
+  /* ---- delivery promise (real zones from config) ---- */
+  function renderAssurance() {
+    const ul = $('#pdpAssure');
+    const D = (window.OASIS_CONFIG || {}).delivery;
+    if (!ul || !D) return;
+    const L2 = lang();
+    ul.innerHTML = `
+      <li><b>$${D.local.fee} · ${D.local[L2]}</b><span>${D.included[L2]}</span></li>
+      <li><b>$${D.shores.fee} · ${D.shores[L2]}</b><span>${D.note[L2]}</span></li>`;
+  }
+  renderAssurance();
+  $('#langToggle')?.addEventListener('click', () => setTimeout(renderAssurance, 10));
+
   const params = new URLSearchParams(location.search);
   const pid = parseInt(params.get('id'), 10);
 

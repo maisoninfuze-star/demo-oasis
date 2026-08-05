@@ -18,5 +18,15 @@ window.OASIS_CONFIG = {
 
   /* Bump when catalogue data changes so returning visitors don't get a
      cached copy of catalog.json / custom.json. */
-  dataVersion: '2026-08-06'
+  /* Delivery — flat zones, white-glove included. */
+  delivery: {
+    local:  { fee: 99,  en: 'Within 20 km of the showroom', fr: 'Dans un rayon de 20 km de la salle' },
+    shores: { fee: 199, en: 'North Shore & South Shore',    fr: 'Rive-Nord et Rive-Sud' },
+    included: { en: 'Carried in, placed in your room, assembled, packaging taken away',
+                fr: 'Monté chez vous, placé dans la pièce, assemblé, emballage retiré' },
+    note: { en: 'Stairs, elevators and hoisting are quoted after we confirm access.',
+            fr: 'Escaliers, ascenseurs et levage sont estimés après confirmation des accès.' }
+  },
+
+  dataVersion: '2026-08-06b'
 };

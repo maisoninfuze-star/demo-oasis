@@ -684,6 +684,12 @@ html.lb-open, html.lb-open body{overflow:hidden}
 .det li{display:flex;justify-content:space-between;gap:1rem;padding:.75rem 0;border-bottom:1px solid var(--line-light);font-size:.9rem}
 .det span{color:rgba(42,36,32,.55)}
 .det b{font-weight:400;text-align:right}
+.det b a{color:inherit;border-bottom:1px solid var(--line-gold)}
+.det__note{font-size:.88rem;color:rgba(42,36,32,.66);line-height:1.6;margin-bottom:1rem}
+.det__cta{display:inline-block;font-family:var(--font-sans);font-size:.72rem;letter-spacing:.16em;
+  text-transform:uppercase;color:var(--gold-2);border-bottom:1px solid var(--line-gold);padding-bottom:.25rem;transition:.3s}
+.det__cta:hover{color:var(--ink);border-color:var(--ink)}
+.pdp-assure b{font-family:var(--font-display);font-size:1.15rem}
 
 .related{background:var(--paper);padding:clamp(3rem,6vw,5rem) 0 clamp(5rem,9vw,8rem)}
 .related .section-head{margin-bottom:2.5rem}

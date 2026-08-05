@@ -34,6 +34,14 @@ jobs:
           python3 scrape_woo.py sofabyfancy https://sofabyfancy.com
           python3 scrape_woo.py glory https://gloryhomefurniture.ca
 
+      - name: Scrape custom-platform suppliers
+        working-directory: data/suppliers
+        run: |
+          python3 scrape_matrix.py
+          python3 scrape_aclass.py
+          python3 scrape_mazin.py
+          python3 scrape_wt.py
+
       - name: Scrape Rugs Network (own store, with prices)
         working-directory: data/suppliers
         run: python3 scrape_rugsnetwork.py

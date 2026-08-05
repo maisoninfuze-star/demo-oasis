@@ -51,6 +51,46 @@
    }
   },
   {
+   "slug": "matrix",
+   "name": "Matrix Furniture",
+   "file": "data/suppliers/matrix.json",
+   "pricing": "request",
+   "note": {
+    "en": "Bedroom, dining & living sets",
+    "fr": "Chambre, salle à manger et salon"
+   }
+  },
+  {
+   "slug": "aclass",
+   "name": "A Class Upholstery",
+   "file": "data/suppliers/aclass.json",
+   "pricing": "request",
+   "note": {
+    "en": "Made-to-order sofas — Mississauga",
+    "fr": "Canapés sur commande — Mississauga"
+   }
+  },
+  {
+   "slug": "mazin",
+   "name": "Mazin / Homelegance",
+   "file": "data/suppliers/mazin.json",
+   "pricing": "request",
+   "note": {
+    "en": "Homelegance collections in Canada",
+    "fr": "Collections Homelegance au Canada"
+   }
+  },
+  {
+   "slug": "wt",
+   "name": "WT Studio",
+   "file": "data/suppliers/wt.json",
+   "pricing": "request",
+   "note": {
+    "en": "Custom banquettes & tables",
+    "fr": "Banquettes et tables sur mesure"
+   }
+  },
+  {
    "slug": "rugsnetwork",
    "name": "Rugs Network",
    "file": "data/suppliers/rugsnetwork.json",

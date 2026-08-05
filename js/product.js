@@ -174,6 +174,47 @@
     document.head.appendChild(s);
   }
 
+  /* Replace the flagship sofa's hardcoded spec tables with what is actually
+     known about this piece, plus a clear route to the real numbers. */
+  function applyHonestSpecs(p, tl, L) {
+    $('#swatches')?.closest('.opt')?.remove();
+    $('#cfg')?.closest('.opt')?.remove();
+
+    const details = $('.pdp-details');
+    if (!details) return;
+    const isRugPiece = p.cats.includes('carpets');
+    if (isRugPiece) { details.remove(); return; }
+
+    const custom = p.cats.some(c => ['stationary', 'sectional', 'chair-chaise', 'sofa-bed', 'ottomans'].includes(c));
+    details.innerHTML = `
+      <div class="det">
+        <h3>${L === 'fr' ? 'Cette pièce' : 'This piece'}</h3>
+        <ul>
+          <li><span>${L === 'fr' ? 'Catégorie' : 'Category'}</span><b>${tl[L]}</b></li>
+          <li><span>${L === 'fr' ? 'Référence' : 'Reference'}</span><b>${p.id}</b></li>
+          <li><span>${L === 'fr' ? 'Prix' : 'Price'}</span><b>${L === 'fr' ? 'Sur demande' : 'On request'}</b></li>
+          ${custom ? `<li><span>${L === 'fr' ? 'Sur mesure' : 'Made to order'}</span><b>${L === 'fr' ? 'Tissus au choix' : 'Fabric options available'}</b></li>` : ''}
+        </ul>
+      </div>
+      <div class="det">
+        <h3>${L === 'fr' ? 'Dimensions et matériaux' : 'Dimensions & materials'}</h3>
+        <p class="det__note">${L === 'fr'
+          ? 'Les dimensions exactes, les matériaux et les délais varient selon le fabricant. Nous vous les confirmons par écrit avant toute commande — demandez la fiche technique.'
+          : 'Exact dimensions, materials and lead time vary by maker. We confirm them in writing before any order — ask us for the spec sheet.'}</p>
+        <a class="det__cta" href="mailto:${(window.OASIS_CONFIG||{}).storeEmail || ''}?subject=${encodeURIComponent((L==='fr'?'Fiche technique — ':'Spec sheet — ') + (p.short||p.name))}">${L === 'fr' ? 'Demander la fiche technique' : 'Request the spec sheet'}</a>
+      </div>
+      <div class="det">
+        <h3>${L === 'fr' ? 'Voir en personne' : 'See it in person'}</h3>
+        <p class="det__note">${L === 'fr'
+          ? 'Cette pièce est en salle d’exposition à Laval. Venez la voir, la toucher et l’essayer.'
+          : 'This piece is on the floor in our Laval showroom. Come see it, feel it and try it.'}</p>
+        <ul>
+          <li><span>${L === 'fr' ? 'Adresse' : 'Address'}</span><b>1877 Bd du Curé-Labelle</b></li>
+          <li><span>${L === 'fr' ? 'Téléphone' : 'Phone'}</span><b><a href="tel:+14509730000">(450) 973-0000</a></b></li>
+        </ul>
+      </div>`;
+  }
+
   function hydrate(p, catalog) {
     const L = lang();
     const type = typeOf(p);
@@ -210,6 +251,17 @@
       bindThumbs();
       loadMain(imgs[0]);
     }
+
+    /* product.html ships the flagship sofa's demo specs. Left in place they
+       claimed 8-way hand-tied springs, "3-Seater W 208 · D 102 · H 76" and
+       performance velvet on beds, mattresses, ottomans and rugs alike.
+       Only keep them where they are true: the custom programme (which
+       supplies real fabrics + configurations from data/custom.json).
+       Everything else gets what we actually know, and an invitation to ask. */
+    fetch('data/custom.json' + V).then(r => r.json()).then(cj => {
+      if (cj.products && cj.products[String(p.id)]) return;   // real specs — leave alone
+      applyHonestSpecs(p, tl, L);
+    }).catch(() => applyHonestSpecs(p, tl, L));
 
     /* Rugs are one-of-a-kind woven pieces, not upholstered furniture.
        Offering six "colourways" implied you could order this rug in other

@@ -862,7 +862,8 @@ html.lb-open, html.lb-open body{overflow:hidden}
 /* home promo custom card visual */
 .promo2__card--fabric{padding-top:0;overflow:hidden}
 .promo2__img{margin:0 calc(-1 * clamp(1.8rem,3.5vw,3rem));margin-bottom:.4rem;width:calc(100% + 2 * clamp(1.8rem,3.5vw,3rem));
-  max-width:none;height:210px;object-fit:cover;border-bottom:1px solid var(--line-gold)}
+  max-width:none;aspect-ratio:4/3;height:auto;max-height:480px;object-fit:cover;object-position:center;
+  border-bottom:1px solid var(--line-gold)}
 /* custom band concept gallery */
 .custom-gallery{display:grid;grid-template-columns:repeat(3,1fr);gap:1rem;margin:0 0 1rem}
 .custom-gallery figure{margin:0;border-radius:4px;overflow:hidden;border:1px solid var(--line-light);position:relative}

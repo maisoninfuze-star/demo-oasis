@@ -18,6 +18,7 @@
     if (!entry) return;
     const prog = data.programs[entry.program];
     if (!prog) return;
+    window.__customVariants = entry.variants || null;
     build(prog);
     /* Rebuild on language switch. Registered ONCE here — registering it
        inside build() made every toggle add another listener, which then
@@ -54,7 +55,7 @@
     const wrap = $('#swatches');
     wrap.classList.add('swatches--fabric');
     wrap.innerHTML = prog.fabrics.map((f, i) => `
-      <button class="fsw${i === 0 ? ' is-active' : ''}" data-tint="${f.tint}" data-img="${f.img}"
+      <button class="fsw${i === 0 ? ' is-active' : ''}" data-fid="${f.id}" data-tint="${f.tint}" data-img="${f.img}"
               data-name-en="${f.name.en}" data-name-fr="${f.name.fr}" data-book="${f.book}"
               title="${tr(f.name)} — ${f.book}" aria-label="${tr(f.name)}">
         <img src="${f.img}" alt="" decoding="async">
@@ -92,6 +93,26 @@
       /* always show the choice on the big swatch preview */
       const big = $('.fab-preview__img');
       if (big) { big.src = btn.dataset.img; big.alt = btn.dataset['name' + (L() === 'fr' ? 'Fr' : 'En')]; }
+
+      /* THE payoff: show the actual sofa re-upholstered in this fabric.
+         Variants are the same photograph with only the upholstery changed,
+         so the shopper sees their piece, not a stand-in. */
+      const variants = window.__customVariants;
+      const vsrc = variants && variants[btn.dataset.fid];
+      const main = $('#pmain');
+      if (vsrc && main) {
+        if (!main.dataset.origSrc) main.dataset.origSrc = main.getAttribute('src');
+        main.classList.remove('is-cut');
+        main.src = vsrc;
+        /* keep the zoom viewer in sync with what is on screen */
+        const activeThumb = $('.thumb.is-active');
+        if (activeThumb) {
+          if (!activeThumb.dataset.origFull) activeThumb.dataset.origFull = activeThumb.dataset.full;
+          activeThumb.dataset.full = vsrc;
+          const timg = activeThumb.querySelector('img');
+          if (timg) timg.src = vsrc;
+        }
+      }
     };
     $$('.fsw').forEach(b => b.addEventListener('click', () => setFabric(b)));
     if (nameEl) nameEl.textContent = tr(prog.fabrics[0].name);
@@ -120,7 +141,7 @@
         <div class="custom-books">${prog.books.map(b => `
           <div class="custom-book"><b>${b.name}</b><span>${tr(b.kind)}</span></div>`).join('')}</div>
         <div class="custom-gallery">
-          <figure><img src="assets/gen/custom/fabric-sofas.jpg" alt="" loading="lazy"><figcaption>${L() === 'fr' ? 'Même modèle, quatre tissus' : 'Same model, four fabrics'}</figcaption></figure>
+          <figure><img src="assets/gen/custom/same-sofa-fabrics.jpg" alt="" loading="lazy"><figcaption>${L() === 'fr' ? 'Le même canapé, quatre tissus' : 'The same sofa, four fabrics'}</figcaption></figure>
           <figure><img src="assets/gen/custom/wood-finishes.jpg" alt="" loading="lazy"><figcaption>${L() === 'fr' ? 'Plusieurs couleurs de bois' : 'Multiple wood colours'}</figcaption></figure>
           <figure><img src="assets/gen/custom/swatch-fan.jpg" alt="" loading="lazy"><figcaption>${L() === 'fr' ? 'Des centaines d’échantillons en salle' : 'Hundreds of swatches in store'}</figcaption></figure>
         </div>

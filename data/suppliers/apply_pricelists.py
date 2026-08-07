@@ -25,17 +25,26 @@ def money(s):
     except ValueError: return None
 
 # ---------------- Mazin: 'Price_List_GTA 2026.pdf' ----------------
+COLOUR_WORDS = r'beige|black|brown|blue|grey|gray|white|red|green|gold|silver|walnut|espresso|cherry|oak|natural|mustard|yellow|teal|navy|cream|ivory|charcoal|dark|light'
 def parse_mazin():
     prices = {}   # 4-5 digit base -> min net price
-    pat = re.compile(r'\b(\d{3,5})[A-Z0-9-]*\b.*?\$\s*([\d ,]+\.?\d{0,2})')
+    detail = {}   # base -> {clean-description: net}
+    pat = re.compile(r'\b(\d{3,5})[A-Z0-9-]*\b\s+(.*?)\$\s*([\d ,]+\.?\d{0,2})')
     with pdfplumber.open(os.path.join(ROOT, 'Price_List_GTA 2026.pdf')) as pdf:
         for pg in pdf.pages:
             for line in (pg.extract_text() or '').split('\n'):
                 m = pat.search(line)
                 if not m: continue
-                base, val = m.group(1), money(m.group(2))
+                base, desc, val = m.group(1), m.group(2), money(m.group(3))
                 if val and 20 <= val <= 20000:
                     prices[base] = min(prices.get(base, 1e9), val)
+                    clean = re.sub(COLOUR_WORDS, '', desc, flags=re.I)
+                    clean = re.sub(r'\b\d+/ctn\b|\(#\)|[^A-Za-z /&-]', ' ', clean)
+                    clean = re.sub(r'\s+', ' ', clean).strip(' -/').strip()
+                    if len(clean) >= 4:
+                        detail.setdefault(base, {})
+                        detail[base][clean] = min(detail[base].get(clean, 1e9), val)
+    parse_mazin.detail = detail
     return prices
 
 # ---------------- A-Class: per-piece rows under an item code ----------------
@@ -55,8 +64,11 @@ def parse_aclass():
                     net = money(dollars[0])          # first column = Fabrics tier
                     if net and 50 <= net <= 20000:
                         piece = None
-                        pm = re.search(r'\b(Sofa|Loveseat|Chair|Ottoman|Sectional|Chaise)\b', line, re.I)
-                        if pm: piece = pm.group(1).lower()
+                        if re.search(r'total price', line, re.I):
+                            piece = 'set'
+                        else:
+                            pm = re.search(r'\b(Sofa|Loveseat|Chair|Ottoman|Sectional|Chaise)\b', line, re.I)
+                            if pm: piece = pm.group(1).lower()
                         if piece:
                             prices[(code, piece)] = min(prices.get((code, piece), 1e9), net)
                             prices.setdefault((code, None), net)
@@ -64,8 +76,9 @@ def parse_aclass():
 
 # ---------------- Matrix: two-column pages, collection blocks ----------------
 def parse_matrix():
-    prices = {}   # collection code -> min net in its block
-    name_prices = {}  # normalized collection NAME -> min net
+    prices = {}   # collection code -> {label: net}
+    name_prices = {}  # normalized collection NAME -> {label: net}
+    codenames = {}    # code -> display name
     fname = os.path.join(ROOT, '2026 Matrix Furniture Group - Toronto Pricelist - Alpha JULY 2026.pdf')
     head_pat = re.compile(r'^(\d{3,4})\s+([A-Z][A-Z ]{2,24})')
     with pdfplumber.open(fname) as pdf:
@@ -86,6 +99,7 @@ def parse_matrix():
                     if h:
                         cur = h.group(1)
                         curname = re.sub(r'[^A-Z]', '', h.group(2))
+                        codenames.setdefault(cur, h.group(2).strip().title())
                     if cur:
                         for d in re.findall(r'\$\s*([\d ,]+)', line):
                             v = money(d)
@@ -96,7 +110,7 @@ def parse_matrix():
                                 if curname and len(curname) >= 4:
                                     name_prices.setdefault(curname, {})
                                     name_prices[curname][label] = min(name_prices[curname].get(label, 1e9), v)
-    return {'codes': prices, 'names': name_prices}
+    return {'codes': prices, 'names': name_prices, 'codenames': codenames}
 
 # ---------------- apply to a supplier feed ----------------
 def apply(slug, pricemap, key_fn):
@@ -104,6 +118,8 @@ def apply(slug, pricemap, key_fn):
     d = json.load(open(path))
     priced = delisted = 0
     for it in d['items']:
+        if it.get('synth'):
+            continue          # synthesized configs carry their own pdf price
         it.pop('delisted', None)
         net = key_fn(it, pricemap)
         if net:

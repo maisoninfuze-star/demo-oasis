@@ -1,7 +1,7 @@
 {
  "supplier": "matrix",
  "source": "https://matrixfurnituregroup.ca",
- "count": 1112,
+ "count": 1214,
  "items": [
   {
    "id": "matrix-1714-sterling",
@@ -16296,6 +16296,1410 @@
     "https://matrixfurnituregroup.ca/uploads/categories/1742918044_5196d9893c1101e21534.png"
    ],
    "delisted": true
+  },
+  {
+   "id": "matrix-synth-391-nightstand-each",
+   "name": "Roma — Nightstand (Each)",
+   "sku": "391",
+   "cats": [
+    "bedroom-sets"
+   ],
+   "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1744396825_12979893f3a186fecfaf.jpg",
+   "gallery": [],
+   "url": "https://matrixfurnituregroup.ca/product-detail/b391-roma",
+   "net": 299.0,
+   "price": "942",
+   "synth": true
+  },
+  {
+   "id": "matrix-synth-852-chest",
+   "name": "Austin — Chest",
+   "sku": "852",
+   "cats": [
+    "bedroom-sets"
+   ],
+   "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1744386049_e3127f4f43e108217f4f.jpg",
+   "gallery": [],
+   "url": "https://matrixfurnituregroup.ca/product-detail/b852-austin",
+   "net": 319.0,
+   "price": "1005",
+   "synth": true
+  },
+  {
+   "id": "matrix-synth-852-nightstand-each",
+   "name": "Austin — Nightstand (Each)",
+   "sku": "852",
+   "cats": [
+    "bedroom-sets"
+   ],
+   "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1744386049_e3127f4f43e108217f4f.jpg",
+   "gallery": [],
+   "url": "https://matrixfurnituregroup.ca/product-detail/b852-austin",
+   "net": 159.0,
+   "price": "501",
+   "synth": true
+  },
+  {
+   "id": "matrix-synth-1061-nightstand-each",
+   "name": "Rylee — Nightstand (Each)",
+   "sku": "1061",
+   "cats": [
+    "bedroom-sets"
+   ],
+   "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1744382357_55d204a5cf4024ff7e66.jpg",
+   "gallery": [],
+   "url": "https://matrixfurnituregroup.ca/product-detail/b1061-rylee",
+   "net": 129.0,
+   "price": "406",
+   "synth": true
+  },
+  {
+   "id": "matrix-synth-851-nightstand-each",
+   "name": "Baltimore — Nightstand (Each)",
+   "sku": "851",
+   "cats": [
+    "bedroom-sets"
+   ],
+   "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1744386437_a55eeb7a7460cc4b0c00.jpg",
+   "gallery": [],
+   "url": "https://matrixfurnituregroup.ca/product-detail/b851-baltimore",
+   "net": 159.0,
+   "price": "501",
+   "synth": true
+  },
+  {
+   "id": "matrix-synth-1051-nightstand-each",
+   "name": "Skylar — Nightstand (Each)",
+   "sku": "1051",
+   "cats": [
+    "bedroom-sets"
+   ],
+   "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1744653481_072ef1de88c421393fde.jpg",
+   "gallery": [],
+   "url": "https://matrixfurnituregroup.ca/product-detail/b1051-skylar",
+   "net": 169.0,
+   "price": "532",
+   "synth": true
+  },
+  {
+   "id": "matrix-synth-1071-nightstand-each",
+   "name": "Cypress — Nightstand (Each)",
+   "sku": "1071",
+   "cats": [
+    "bedroom-sets"
+   ],
+   "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1744384245_41746fce346c45efa318.jpg",
+   "gallery": [],
+   "url": "https://matrixfurnituregroup.ca/product-detail/b1071-cypress",
+   "net": 209.0,
+   "price": "658",
+   "synth": true
+  },
+  {
+   "id": "matrix-synth-1171-nightstand-each",
+   "name": "Destiny — Nightstand (Each)",
+   "sku": "1171",
+   "cats": [
+    "bedroom-sets"
+   ],
+   "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1744387615_6eb4c28e893962878a45.jpg",
+   "gallery": [],
+   "url": "https://matrixfurnituregroup.ca/product-detail/b1171-destiny",
+   "net": 169.0,
+   "price": "532",
+   "synth": true
+  },
+  {
+   "id": "matrix-synth-1161-nightstand-each",
+   "name": "Brooklyn — Nightstand (Each)",
+   "sku": "1161",
+   "cats": [
+    "bedroom-sets"
+   ],
+   "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1744386847_1cb39c0e9910261f5155.jpg",
+   "gallery": [],
+   "url": "https://matrixfurnituregroup.ca/product-detail/b1161-brooklyn",
+   "net": 109.0,
+   "price": "343",
+   "synth": true
+  },
+  {
+   "id": "matrix-synth-1181-nightstand-each",
+   "name": "Sophia — Nightstand (Each)",
+   "sku": "1181",
+   "cats": [
+    "bedroom-sets"
+   ],
+   "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1776281114_4337571e550ebfc85548.jpg",
+   "gallery": [],
+   "url": "https://matrixfurnituregroup.ca/product-detail/b1181-sophia",
+   "net": 149.0,
+   "price": "469",
+   "synth": true
+  },
+  {
+   "id": "matrix-synth-1291-nightstand-each",
+   "name": "Jasmine — Nightstand (Each)",
+   "sku": "1291",
+   "cats": [
+    "bedroom-sets"
+   ],
+   "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1744393781_96d465d7d8ead0e55516.jpg",
+   "gallery": [],
+   "url": "https://matrixfurnituregroup.ca/product-detail/b1291-jasmine",
+   "net": 219.0,
+   "price": "690",
+   "synth": true
+  },
+  {
+   "id": "matrix-synth-1341-nightstand-each",
+   "name": "Lorenzo — Nightstand (Each)",
+   "sku": "1341",
+   "cats": [
+    "bedroom-sets"
+   ],
+   "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1744396014_15ec1a27bc40bd728931.jpg",
+   "gallery": [],
+   "url": "https://matrixfurnituregroup.ca/product-detail/b1341-lorenzo",
+   "net": 289.0,
+   "price": "910",
+   "synth": true
+  },
+  {
+   "id": "matrix-synth-1331-king-complete-set",
+   "name": "Passion — King Complete Set",
+   "sku": "1331",
+   "cats": [
+    "beds"
+   ],
+   "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1780337667_daaa6b2612f3f7de2018.jpg",
+   "gallery": [],
+   "url": "https://matrixfurnituregroup.ca/product-detail/b1331-passion-king-bed-milky-white",
+   "net": 1999.0,
+   "price": "6297",
+   "synth": true
+  },
+  {
+   "id": "matrix-synth-1331-dresser-mirror",
+   "name": "Passion — Dresser & Mirror",
+   "sku": "1331",
+   "cats": [
+    "beds"
+   ],
+   "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1780337667_daaa6b2612f3f7de2018.jpg",
+   "gallery": [],
+   "url": "https://matrixfurnituregroup.ca/product-detail/b1331-passion-king-bed-milky-white",
+   "net": 499.0,
+   "price": "1572",
+   "synth": true
+  },
+  {
+   "id": "matrix-synth-1331-chest",
+   "name": "Passion — Chest",
+   "sku": "1331",
+   "cats": [
+    "beds"
+   ],
+   "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1780337667_daaa6b2612f3f7de2018.jpg",
+   "gallery": [],
+   "url": "https://matrixfurnituregroup.ca/product-detail/b1331-passion-king-bed-milky-white",
+   "net": 399.0,
+   "price": "1257",
+   "synth": true
+  },
+  {
+   "id": "matrix-synth-1331-nightstand-each",
+   "name": "Passion — Nightstand (Each)",
+   "sku": "1331",
+   "cats": [
+    "beds"
+   ],
+   "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1780337667_daaa6b2612f3f7de2018.jpg",
+   "gallery": [],
+   "url": "https://matrixfurnituregroup.ca/product-detail/b1331-passion-king-bed-milky-white",
+   "net": 199.0,
+   "price": "627",
+   "synth": true
+  },
+  {
+   "id": "matrix-synth-1371-price",
+   "name": "Elliot — Price",
+   "sku": "1371",
+   "cats": [
+    "bedroom-sets"
+   ],
+   "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1744384466_11d05d20af31957eda85.jpg",
+   "gallery": [],
+   "url": "https://matrixfurnituregroup.ca/product-detail/b1371-elliot",
+   "net": 199.0,
+   "price": "627",
+   "synth": true
+  },
+  {
+   "id": "matrix-synth-1391-nightstand-each",
+   "name": "Crystal — Nightstand (Each)",
+   "sku": "1391",
+   "cats": [
+    "bedroom-sets"
+   ],
+   "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1744387103_cd6559e5943a095bcc40.jpg",
+   "gallery": [],
+   "url": "https://matrixfurnituregroup.ca/product-detail/b1391-crystal",
+   "net": 209.0,
+   "price": "658",
+   "synth": true
+  },
+  {
+   "id": "matrix-synth-1441-nightstand-each",
+   "name": "Kenzo — Nightstand (Each)",
+   "sku": "1441",
+   "cats": [
+    "bedroom-sets"
+   ],
+   "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1744394010_6467451e39e2ba23d8b8.jpg",
+   "gallery": [],
+   "url": "https://matrixfurnituregroup.ca/product-detail/b1441-kenzo",
+   "net": 169.0,
+   "price": "532",
+   "synth": true
+  },
+  {
+   "id": "matrix-synth-1401-nightstand-each",
+   "name": "Laura — Nightstand (Each)",
+   "sku": "1401",
+   "cats": [
+    "bedroom-sets"
+   ],
+   "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1743518074_c8bb271cbfa83f42bfb0.jpg",
+   "gallery": [],
+   "url": "https://matrixfurnituregroup.ca/product-detail/b1401-laura",
+   "net": 239.0,
+   "price": "753",
+   "synth": true
+  },
+  {
+   "id": "matrix-synth-1471-nightstand-each",
+   "name": "Ember — Nightstand (Each)",
+   "sku": "1471",
+   "cats": [
+    "bedroom-sets"
+   ],
+   "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1743526551_efea824d902caa691236.jpg",
+   "gallery": [],
+   "url": "https://matrixfurnituregroup.ca/product-detail/b1471-ember",
+   "net": 249.0,
+   "price": "784",
+   "synth": true
+  },
+  {
+   "id": "matrix-synth-1491-nightstand-each",
+   "name": "Sienna — Nightstand (Each)",
+   "sku": "1491",
+   "cats": [
+    "bedroom-sets"
+   ],
+   "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1744396941_5dcc32f08ff560ed0b18.jpg",
+   "gallery": [],
+   "url": "https://matrixfurnituregroup.ca/product-detail/b1491-sienna",
+   "net": 219.0,
+   "price": "690",
+   "synth": true
+  },
+  {
+   "id": "matrix-synth-1541-price",
+   "name": "Kylie — Price -",
+   "sku": "1541",
+   "cats": [
+    "beds"
+   ],
+   "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1745420084_37233014de9d0c4cc4ea.jpg",
+   "gallery": [],
+   "url": "https://matrixfurnituregroup.ca/product-detail/b1541-kylie-king-bed-grey",
+   "net": 299.0,
+   "price": "942",
+   "synth": true
+  },
+  {
+   "id": "matrix-synth-1551-queen-complete-set",
+   "name": "Daisy — Queen Complete Set",
+   "sku": "1551",
+   "cats": [],
+   "img": "https://matrixfurnituregroup.ca/uploads/categories/1744987784_e39edd160cf887e544be.png",
+   "gallery": [],
+   "url": "https://matrixfurnituregroup.ca/product-detail/b1551-daisy-dresser-taupe",
+   "net": 1899.0,
+   "price": "5982",
+   "synth": true
+  },
+  {
+   "id": "matrix-synth-1551-king-complete-set",
+   "name": "Daisy — King Complete Set",
+   "sku": "1551",
+   "cats": [],
+   "img": "https://matrixfurnituregroup.ca/uploads/categories/1744987784_e39edd160cf887e544be.png",
+   "gallery": [],
+   "url": "https://matrixfurnituregroup.ca/product-detail/b1551-daisy-dresser-taupe",
+   "net": 1999.0,
+   "price": "6297",
+   "synth": true
+  },
+  {
+   "id": "matrix-synth-1551-queen-bed",
+   "name": "Daisy — Queen Bed",
+   "sku": "1551",
+   "cats": [],
+   "img": "https://matrixfurnituregroup.ca/uploads/categories/1744987784_e39edd160cf887e544be.png",
+   "gallery": [],
+   "url": "https://matrixfurnituregroup.ca/product-detail/b1551-daisy-dresser-taupe",
+   "net": 759.0,
+   "price": "2391",
+   "synth": true
+  },
+  {
+   "id": "matrix-synth-1551-king-bed",
+   "name": "Daisy — King Bed",
+   "sku": "1551",
+   "cats": [],
+   "img": "https://matrixfurnituregroup.ca/uploads/categories/1744987784_e39edd160cf887e544be.png",
+   "gallery": [],
+   "url": "https://matrixfurnituregroup.ca/product-detail/b1551-daisy-dresser-taupe",
+   "net": 859.0,
+   "price": "2706",
+   "synth": true
+  },
+  {
+   "id": "matrix-synth-1551-dresser-mirror",
+   "name": "Daisy — Dresser & Mirror",
+   "sku": "1551",
+   "cats": [],
+   "img": "https://matrixfurnituregroup.ca/uploads/categories/1744987784_e39edd160cf887e544be.png",
+   "gallery": [],
+   "url": "https://matrixfurnituregroup.ca/product-detail/b1551-daisy-dresser-taupe",
+   "net": 479.0,
+   "price": "1509",
+   "synth": true
+  },
+  {
+   "id": "matrix-synth-1551-chest",
+   "name": "Daisy — Chest",
+   "sku": "1551",
+   "cats": [],
+   "img": "https://matrixfurnituregroup.ca/uploads/categories/1744987784_e39edd160cf887e544be.png",
+   "gallery": [],
+   "url": "https://matrixfurnituregroup.ca/product-detail/b1551-daisy-dresser-taupe",
+   "net": 379.0,
+   "price": "1194",
+   "synth": true
+  },
+  {
+   "id": "matrix-synth-1551-nightstand-each",
+   "name": "Daisy — Nightstand (Each)",
+   "sku": "1551",
+   "cats": [],
+   "img": "https://matrixfurnituregroup.ca/uploads/categories/1744987784_e39edd160cf887e544be.png",
+   "gallery": [],
+   "url": "https://matrixfurnituregroup.ca/product-detail/b1551-daisy-dresser-taupe",
+   "net": 189.0,
+   "price": "595",
+   "synth": true
+  },
+  {
+   "id": "matrix-synth-1581-nightstand-each",
+   "name": "Obsession — Nightstand (Each)",
+   "sku": "1581",
+   "cats": [
+    "bedroom-sets"
+   ],
+   "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1743542397_941c7cf916e943360436.jpg",
+   "gallery": [],
+   "url": "https://matrixfurnituregroup.ca/product-detail/b1581-obsession",
+   "net": 189.0,
+   "price": "595",
+   "synth": true
+  },
+  {
+   "id": "matrix-synth-1561-queen-bed",
+   "name": "Grace — Queen Bed",
+   "sku": "1561",
+   "cats": [
+    "dressers-and-mirrors"
+   ],
+   "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1745420592_c2db189426a2c4304ba7.jpg",
+   "gallery": [],
+   "url": "https://matrixfurnituregroup.ca/product-detail/b1561-grace-dresser-mirror-set-grey",
+   "net": 559.0,
+   "price": "1761",
+   "synth": true
+  },
+  {
+   "id": "matrix-synth-1561-chest",
+   "name": "Grace — Chest",
+   "sku": "1561",
+   "cats": [
+    "dressers-and-mirrors"
+   ],
+   "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1745420592_c2db189426a2c4304ba7.jpg",
+   "gallery": [],
+   "url": "https://matrixfurnituregroup.ca/product-detail/b1561-grace-dresser-mirror-set-grey",
+   "net": 319.0,
+   "price": "1005",
+   "synth": true
+  },
+  {
+   "id": "matrix-synth-1561-nightstand-each",
+   "name": "Grace — Nightstand (Each)",
+   "sku": "1561",
+   "cats": [
+    "dressers-and-mirrors"
+   ],
+   "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1745420592_c2db189426a2c4304ba7.jpg",
+   "gallery": [],
+   "url": "https://matrixfurnituregroup.ca/product-detail/b1561-grace-dresser-mirror-set-grey",
+   "net": 159.0,
+   "price": "501",
+   "synth": true
+  },
+  {
+   "id": "matrix-synth-1571-nightstand-each",
+   "name": "Denver — Nightstand (Each)",
+   "sku": "1571",
+   "cats": [
+    "bedroom-sets"
+   ],
+   "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1744387404_e5b6e88bdecbb65da07d.jpg",
+   "gallery": [],
+   "url": "https://matrixfurnituregroup.ca/product-detail/b1571-denver",
+   "net": 109.0,
+   "price": "343",
+   "synth": true
+  },
+  {
+   "id": "matrix-synth-1591-nightstand-each",
+   "name": "Samantha — Nightstand (Each)",
+   "sku": "1591",
+   "cats": [
+    "bedroom-sets"
+   ],
+   "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1744385905_6452d7e65c346f0b3e5d.jpg",
+   "gallery": [],
+   "url": "https://matrixfurnituregroup.ca/product-detail/b1591-samantha",
+   "net": 229.0,
+   "price": "721",
+   "synth": true
+  },
+  {
+   "id": "matrix-synth-1621-nightstand-each",
+   "name": "Rachel — Nightstand (Each)",
+   "sku": "1621",
+   "cats": [
+    "bedroom-sets"
+   ],
+   "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1744396666_ae200b483ac344a5385c.jpg",
+   "gallery": [],
+   "url": "https://matrixfurnituregroup.ca/product-detail/b1621-rachel",
+   "net": 229.0,
+   "price": "721",
+   "synth": true
+  },
+  {
+   "id": "matrix-synth-1681-nightstand-each",
+   "name": "Chole — Nightstand (Each)",
+   "sku": "1681",
+   "cats": [
+    "bedroom-sets"
+   ],
+   "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1759430409_534104cf3ad3d564e3c2.jpg",
+   "gallery": [],
+   "url": "https://matrixfurnituregroup.ca/product-detail/b1681-chole",
+   "net": 239.0,
+   "price": "753",
+   "synth": true
+  },
+  {
+   "id": "matrix-synth-1681-wings-additional",
+   "name": "Chole — Wings : Additional",
+   "sku": "1681",
+   "cats": [
+    "bedroom-sets"
+   ],
+   "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1759430409_534104cf3ad3d564e3c2.jpg",
+   "gallery": [],
+   "url": "https://matrixfurnituregroup.ca/product-detail/b1681-chole",
+   "net": 299.0,
+   "price": "942",
+   "synth": true
+  },
+  {
+   "id": "matrix-synth-1681-price",
+   "name": "Chole — Price -",
+   "sku": "1681",
+   "cats": [
+    "bedroom-sets"
+   ],
+   "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1759430409_534104cf3ad3d564e3c2.jpg",
+   "gallery": [],
+   "url": "https://matrixfurnituregroup.ca/product-detail/b1681-chole",
+   "net": 1259.0,
+   "price": "3966",
+   "synth": true
+  },
+  {
+   "id": "matrix-synth-1631-nightstand-each",
+   "name": "Madrid — Nightstand (Each)",
+   "sku": "1631",
+   "cats": [
+    "bedroom-sets"
+   ],
+   "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1743607392_ce831e4e8628e33e7836.jpg",
+   "gallery": [],
+   "url": "https://matrixfurnituregroup.ca/product-detail/b1631-madrid",
+   "net": 259.0,
+   "price": "816",
+   "synth": true
+  },
+  {
+   "id": "matrix-synth-1711-nightstand-each",
+   "name": "Munich — Nightstand (Each)",
+   "sku": "1711",
+   "cats": [
+    "bedroom-sets"
+   ],
+   "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1744384674_87aec1403e8cb89e8b21.jpg",
+   "gallery": [],
+   "url": "https://matrixfurnituregroup.ca/product-detail/b1711-munich",
+   "net": 209.0,
+   "price": "658",
+   "synth": true
+  },
+  {
+   "id": "matrix-synth-2231-nightstand-each",
+   "name": "Sterling — Nightstand (Each)",
+   "sku": "2231",
+   "cats": [
+    "bedroom-sets"
+   ],
+   "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1785783390_4d29f5472321f2d93731.png",
+   "gallery": [],
+   "url": "https://matrixfurnituregroup.ca/product-detail/b2231-sterling",
+   "net": 149.0,
+   "price": "469",
+   "synth": true
+  },
+  {
+   "id": "matrix-synth-1741-nightstand-each",
+   "name": "Lavita — Nightstand (Each)",
+   "sku": "1741",
+   "cats": [
+    "bedroom-sets"
+   ],
+   "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1781905817_13321fb7a5a2ba17923f.png",
+   "gallery": [],
+   "url": "https://matrixfurnituregroup.ca/product-detail/b1741-lavita",
+   "net": 249.0,
+   "price": "784",
+   "synth": true
+  },
+  {
+   "id": "matrix-synth-1781-nightstand-each",
+   "name": "Bristal — Nightstand (Each)",
+   "sku": "1781",
+   "cats": [
+    "bedroom-sets"
+   ],
+   "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1744384814_1fbb78e3142482367886.jpg",
+   "gallery": [],
+   "url": "https://matrixfurnituregroup.ca/product-detail/b1781-bristal",
+   "net": 199.0,
+   "price": "627",
+   "synth": true
+  },
+  {
+   "id": "matrix-synth-1831-nightstand-each",
+   "name": "Laguna — Nightstand (Each)",
+   "sku": "1831",
+   "cats": [
+    "bedroom-sets"
+   ],
+   "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1744388837_8940e4e8e539eedaa998.jpg",
+   "gallery": [],
+   "url": "https://matrixfurnituregroup.ca/product-detail/b1831-laguna",
+   "net": 199.0,
+   "price": "627",
+   "synth": true
+  },
+  {
+   "id": "matrix-synth-1801-nightstand-each",
+   "name": "Germani — Nightstand (Each)",
+   "sku": "1801",
+   "cats": [
+    "bedroom-sets"
+   ],
+   "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1744324588_03a298151f7343edcabe.jpg",
+   "gallery": [],
+   "url": "https://matrixfurnituregroup.ca/product-detail/b1801-germani",
+   "net": 229.0,
+   "price": "721",
+   "synth": true
+  },
+  {
+   "id": "matrix-synth-1861-nightstand-each",
+   "name": "Landmark — Nightstand (Each)",
+   "sku": "1861",
+   "cats": [
+    "bedroom-sets"
+   ],
+   "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1775679605_4144e2568846580bc19a.jpg",
+   "gallery": [],
+   "url": "https://matrixfurnituregroup.ca/product-detail/b1861-landmark",
+   "net": 219.0,
+   "price": "690",
+   "synth": true
+  },
+  {
+   "id": "matrix-synth-1891-nightstand-each",
+   "name": "Zain — Nightstand (Each)",
+   "sku": "1891",
+   "cats": [
+    "bedroom-sets"
+   ],
+   "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1744398051_3fc06889ffd99b46ae1e.jpg",
+   "gallery": [],
+   "url": "https://matrixfurnituregroup.ca/product-detail/b1891-zain",
+   "net": 199.0,
+   "price": "627",
+   "synth": true
+  },
+  {
+   "id": "matrix-synth-1911-nightstand-each",
+   "name": "Manchester — Nightstand (Each)",
+   "sku": "1911",
+   "cats": [
+    "bedroom-sets"
+   ],
+   "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1744327491_6caf4434b72dd352fe2b.jpg",
+   "gallery": [],
+   "url": "https://matrixfurnituregroup.ca/product-detail/b1911-manchester",
+   "net": 229.0,
+   "price": "721",
+   "synth": true
+  },
+  {
+   "id": "matrix-synth-1901-chest",
+   "name": "Blayne — Chest",
+   "sku": "1901",
+   "cats": [
+    "bedroom-sets"
+   ],
+   "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1744326993_52070c3fede7bea549f2.jpg",
+   "gallery": [],
+   "url": "https://matrixfurnituregroup.ca/product-detail/b1901-blayne",
+   "net": 499.0,
+   "price": "1572",
+   "synth": true
+  },
+  {
+   "id": "matrix-synth-1901-nightstand-each",
+   "name": "Blayne — Nightstand (Each)",
+   "sku": "1901",
+   "cats": [
+    "bedroom-sets"
+   ],
+   "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1744326993_52070c3fede7bea549f2.jpg",
+   "gallery": [],
+   "url": "https://matrixfurnituregroup.ca/product-detail/b1901-blayne",
+   "net": 249.0,
+   "price": "784",
+   "synth": true
+  },
+  {
+   "id": "matrix-synth-1921-nightstand-each",
+   "name": "Venice — Nightstand (Each)",
+   "sku": "1921",
+   "cats": [
+    "bedroom-sets"
+   ],
+   "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1743536602_38cb1bf3f73f3a568456.jpg",
+   "gallery": [],
+   "url": "https://matrixfurnituregroup.ca/product-detail/b1921-venice",
+   "net": 239.0,
+   "price": "753",
+   "synth": true
+  },
+  {
+   "id": "matrix-synth-1941-nightstand-each",
+   "name": "Elara — Nightstand (Each)",
+   "sku": "1941",
+   "cats": [
+    "bedroom-sets"
+   ],
+   "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1776701326_1d8c2cea4ea414a03a75.jpg",
+   "gallery": [],
+   "url": "https://matrixfurnituregroup.ca/product-detail/b1941-elara",
+   "net": 149.0,
+   "price": "469",
+   "synth": true
+  },
+  {
+   "id": "matrix-synth-1961-dresser-mirror",
+   "name": "Disco — Dresser & Mirror",
+   "sku": "1961",
+   "cats": [
+    "bedroom-sets"
+   ],
+   "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1754337004_41b8e4257a4130ee2829.jpg",
+   "gallery": [],
+   "url": "https://matrixfurnituregroup.ca/product-detail/b1961-disco",
+   "net": 569.0,
+   "price": "1792",
+   "synth": true
+  },
+  {
+   "id": "matrix-synth-1961-nightstand-each",
+   "name": "Disco — Nightstand (Each)",
+   "sku": "1961",
+   "cats": [
+    "bedroom-sets"
+   ],
+   "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1754337004_41b8e4257a4130ee2829.jpg",
+   "gallery": [],
+   "url": "https://matrixfurnituregroup.ca/product-detail/b1961-disco",
+   "net": 229.0,
+   "price": "721",
+   "synth": true
+  },
+  {
+   "id": "matrix-synth-1951-nightstand-each",
+   "name": "Treasure — Nightstand (Each)",
+   "sku": "1951",
+   "cats": [
+    "bedroom-sets"
+   ],
+   "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1780336336_2d0c04beb701a8083672.png",
+   "gallery": [],
+   "url": "https://matrixfurnituregroup.ca/product-detail/b1951-treasure",
+   "net": 209.0,
+   "price": "658",
+   "synth": true
+  },
+  {
+   "id": "matrix-synth-1971-nightstand-each",
+   "name": "Monaco — Nightstand (Each)",
+   "sku": "1971",
+   "cats": [
+    "bedroom-sets"
+   ],
+   "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1758136052_41cee98090783570efaa.jpg",
+   "gallery": [],
+   "url": "https://matrixfurnituregroup.ca/product-detail/b1971-monaco",
+   "net": 259.0,
+   "price": "816",
+   "synth": true
+  },
+  {
+   "id": "matrix-synth-1981-dresser-mirror",
+   "name": "Leonor — Dresser & Mirror",
+   "sku": "1981",
+   "cats": [
+    "bedroom-sets"
+   ],
+   "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1767028766_7d816b509b0798ebb4bc.jpg",
+   "gallery": [],
+   "url": "https://matrixfurnituregroup.ca/product-detail/b1981-leonor",
+   "net": 579.0,
+   "price": "1824",
+   "synth": true
+  },
+  {
+   "id": "matrix-synth-1981-nightstand-each",
+   "name": "Leonor — Nightstand (Each)",
+   "sku": "1981",
+   "cats": [
+    "bedroom-sets"
+   ],
+   "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1767028766_7d816b509b0798ebb4bc.jpg",
+   "gallery": [],
+   "url": "https://matrixfurnituregroup.ca/product-detail/b1981-leonor",
+   "net": 229.0,
+   "price": "721",
+   "synth": true
+  },
+  {
+   "id": "matrix-synth-2011-nightstand-each",
+   "name": "Aria — Nightstand (Each)",
+   "sku": "2011",
+   "cats": [
+    "bedroom-sets"
+   ],
+   "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1761678954_c0c2fcc37e8371c515cb.jpg",
+   "gallery": [],
+   "url": "https://matrixfurnituregroup.ca/product-detail/b2011-aria",
+   "net": 149.0,
+   "price": "469",
+   "synth": true
+  },
+  {
+   "id": "matrix-synth-2031-nightstand-each",
+   "name": "Bronco — Nightstand (Each)",
+   "sku": "2031",
+   "cats": [
+    "bedroom-sets"
+   ],
+   "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1759931909_4518e8799b38efdca94b.jpg",
+   "gallery": [],
+   "url": "https://matrixfurnituregroup.ca/product-detail/b2031-bronco",
+   "net": 169.0,
+   "price": "532",
+   "synth": true
+  },
+  {
+   "id": "matrix-synth-1991-nightstand-each",
+   "name": "Houston — Nightstand (Each)",
+   "sku": "1991",
+   "cats": [
+    "bedroom-sets"
+   ],
+   "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1758817199_109314947dc4c61dd7e0.jpg",
+   "gallery": [],
+   "url": "https://matrixfurnituregroup.ca/product-detail/b1991-houston",
+   "net": 139.0,
+   "price": "438",
+   "synth": true
+  },
+  {
+   "id": "matrix-synth-2021-nightstand-each",
+   "name": "Sydney — Nightstand (Each)",
+   "sku": "2021",
+   "cats": [
+    "bedroom-sets"
+   ],
+   "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1758818381_9a5ad0015bb4317e9490.jpg",
+   "gallery": [],
+   "url": "https://matrixfurnituregroup.ca/product-detail/b2021-sydney",
+   "net": 179.0,
+   "price": "564",
+   "synth": true
+  },
+  {
+   "id": "matrix-synth-2041-nightstand-each",
+   "name": "Highland — Nightstand (Each)",
+   "sku": "2041",
+   "cats": [
+    "bedroom-sets"
+   ],
+   "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1778600667_4106cc483ee74713b7d9.png",
+   "gallery": [],
+   "url": "https://matrixfurnituregroup.ca/product-detail/b2041-highland",
+   "net": 169.0,
+   "price": "532",
+   "synth": true
+  },
+  {
+   "id": "matrix-synth-2071-nightstand-each",
+   "name": "Talia — Nightstand (Each)",
+   "sku": "2071",
+   "cats": [
+    "bedroom-sets"
+   ],
+   "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1744328862_caaeac19440bb48ab572.jpg",
+   "gallery": [],
+   "url": "https://matrixfurnituregroup.ca/product-detail/b2071-talia",
+   "net": 209.0,
+   "price": "658",
+   "synth": true
+  },
+  {
+   "id": "matrix-synth-2201-nightstand-each",
+   "name": "Olympia — Nightstand (Each)",
+   "sku": "2201",
+   "cats": [
+    "bedroom-sets"
+   ],
+   "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1777397987_d30d28fd0ef718704677.png",
+   "gallery": [],
+   "url": "https://matrixfurnituregroup.ca/product-detail/b2201-olympia",
+   "net": 219.0,
+   "price": "690",
+   "synth": true
+  },
+  {
+   "id": "matrix-synth-2221-nightstand-each",
+   "name": "Seville — Nightstand (Each)",
+   "sku": "2221",
+   "cats": [
+    "bedroom-sets"
+   ],
+   "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1776717109_e9eeba08fb6691e350be.jpg",
+   "gallery": [],
+   "url": "https://matrixfurnituregroup.ca/product-detail/b2221-seville",
+   "net": 239.0,
+   "price": "753",
+   "synth": true
+  },
+  {
+   "id": "matrix-synth-2191-nightstand-each",
+   "name": "Geneva — Nightstand (Each)",
+   "sku": "2191",
+   "cats": [
+    "bedroom-sets"
+   ],
+   "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1766178859_a05638806be212921871.jpg",
+   "gallery": [],
+   "url": "https://matrixfurnituregroup.ca/product-detail/b2191-geneva",
+   "net": 279.0,
+   "price": "879",
+   "synth": true
+  },
+  {
+   "id": "matrix-synth-2211-nightstand-each",
+   "name": "Versaills — Nightstand (Each)",
+   "sku": "2211",
+   "cats": [
+    "bedroom-sets"
+   ],
+   "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1777398156_bc7aa66e466d66273ada.png",
+   "gallery": [],
+   "url": "https://matrixfurnituregroup.ca/product-detail/b2211-versailles",
+   "net": 219.0,
+   "price": "690",
+   "synth": true
+  },
+  {
+   "id": "matrix-synth-2241-dresser-mirror",
+   "name": "Lexington — Dresser & Mirror",
+   "sku": "2241",
+   "cats": [
+    "bedroom-sets"
+   ],
+   "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1776369125_57bb4035b56df7739077.jpg",
+   "gallery": [],
+   "url": "https://matrixfurnituregroup.ca/product-detail/b2241-lexington",
+   "net": 559.0,
+   "price": "1761",
+   "synth": true
+  },
+  {
+   "id": "matrix-synth-2241-nightstand-each",
+   "name": "Lexington — Nightstand (Each)",
+   "sku": "2241",
+   "cats": [
+    "bedroom-sets"
+   ],
+   "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1776369125_57bb4035b56df7739077.jpg",
+   "gallery": [],
+   "url": "https://matrixfurnituregroup.ca/product-detail/b2241-lexington",
+   "net": 229.0,
+   "price": "721",
+   "synth": true
+  },
+  {
+   "id": "matrix-synth-2251-nightstand-each",
+   "name": "Berlin — Nightstand (Each)",
+   "sku": "2251",
+   "cats": [
+    "bedroom-sets"
+   ],
+   "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1779724282_8c94e525c1f8365e02c4.jpg",
+   "gallery": [],
+   "url": "https://matrixfurnituregroup.ca/product-detail/b2251-berlin",
+   "net": 249.0,
+   "price": "784",
+   "synth": true
+  },
+  {
+   "id": "matrix-synth-2261-nightstand-each",
+   "name": "Lisbon — Nightstand (Each)",
+   "sku": "2261",
+   "cats": [
+    "bedroom-sets"
+   ],
+   "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1785787104_acc0b0f63aedfd18f48f.png",
+   "gallery": [],
+   "url": "https://matrixfurnituregroup.ca/product-detail/b2261-lisbon",
+   "net": 269.0,
+   "price": "847",
+   "synth": true
+  },
+  {
+   "id": "matrix-synth-2411-dresser-mirror",
+   "name": "Hugo — Dresser & Mirror",
+   "sku": "2411",
+   "cats": [],
+   "img": "https://matrixfurnituregroup.ca/uploads/categories/1744987784_e39edd160cf887e544be.png",
+   "gallery": [],
+   "url": "https://matrixfurnituregroup.ca/product-detail/b2411-hugo-dresser-light-grey",
+   "net": 439.0,
+   "price": "1383",
+   "synth": true
+  },
+  {
+   "id": "matrix-synth-2411-nightstand-each",
+   "name": "Hugo — Nightstand (Each)",
+   "sku": "2411",
+   "cats": [],
+   "img": "https://matrixfurnituregroup.ca/uploads/categories/1744987784_e39edd160cf887e544be.png",
+   "gallery": [],
+   "url": "https://matrixfurnituregroup.ca/product-detail/b2411-hugo-dresser-light-grey",
+   "net": 179.0,
+   "price": "564",
+   "synth": true
+  },
+  {
+   "id": "matrix-synth-2411-full",
+   "name": "Hugo — Full",
+   "sku": "2411",
+   "cats": [],
+   "img": "https://matrixfurnituregroup.ca/uploads/categories/1744987784_e39edd160cf887e544be.png",
+   "gallery": [],
+   "url": "https://matrixfurnituregroup.ca/product-detail/b2411-hugo-dresser-light-grey",
+   "net": 269.0,
+   "price": "847",
+   "synth": true
+  },
+  {
+   "id": "matrix-synth-2411-queen",
+   "name": "Hugo — Queen",
+   "sku": "2411",
+   "cats": [],
+   "img": "https://matrixfurnituregroup.ca/uploads/categories/1744987784_e39edd160cf887e544be.png",
+   "gallery": [],
+   "url": "https://matrixfurnituregroup.ca/product-detail/b2411-hugo-dresser-light-grey",
+   "net": 299.0,
+   "price": "942",
+   "synth": true
+  },
+  {
+   "id": "matrix-synth-2411-king",
+   "name": "Hugo — King",
+   "sku": "2411",
+   "cats": [],
+   "img": "https://matrixfurnituregroup.ca/uploads/categories/1744987784_e39edd160cf887e544be.png",
+   "gallery": [],
+   "url": "https://matrixfurnituregroup.ca/product-detail/b2411-hugo-dresser-light-grey",
+   "net": 319.0,
+   "price": "1005",
+   "synth": true
+  },
+  {
+   "id": "matrix-synth-1865-3-pc-set",
+   "name": "Amiyah — 3 Pc Set",
+   "sku": "1865",
+   "cats": [
+    "loveseat"
+   ],
+   "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1744322777_b2b6aafbd48971df00dd.jpg",
+   "gallery": [],
+   "url": "https://matrixfurnituregroup.ca/product-detail/l1865-amiyah-loveseat-beige",
+   "net": 3099.0,
+   "price": "9762",
+   "synth": true
+  },
+  {
+   "id": "matrix-synth-1865-sofa",
+   "name": "Amiyah — Sofa",
+   "sku": "1865",
+   "cats": [
+    "loveseat"
+   ],
+   "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1744322777_b2b6aafbd48971df00dd.jpg",
+   "gallery": [],
+   "url": "https://matrixfurnituregroup.ca/product-detail/l1865-amiyah-loveseat-beige",
+   "net": 1299.0,
+   "price": "4092",
+   "synth": true
+  },
+  {
+   "id": "matrix-synth-2475-3-pc-set",
+   "name": "Duke — 3 Pc Set",
+   "sku": "2475",
+   "cats": [
+    "sofa"
+   ],
+   "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1744136488_8102aa72dedbe43fe8ae.jpg",
+   "gallery": [],
+   "url": "https://matrixfurnituregroup.ca/product-detail/l2475-duke-sofa-brown",
+   "net": 1699.0,
+   "price": "5352",
+   "synth": true
+  },
+  {
+   "id": "matrix-synth-2575-3-pc-set",
+   "name": "Polar — 3 Pc Set",
+   "sku": "2575",
+   "cats": [
+    "sofa"
+   ],
+   "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1757620073_5dd4cac4b1620fbbfcf4.jpg",
+   "gallery": [],
+   "url": "https://matrixfurnituregroup.ca/product-detail/l2575-polar-sofa-chocolate",
+   "net": 2899.0,
+   "price": "9132",
+   "synth": true
+  },
+  {
+   "id": "matrix-synth-2775-3-pc-set",
+   "name": "Inox — 3 Pc Set",
+   "sku": "2775",
+   "cats": [
+    "loveseat"
+   ],
+   "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1761250127_504682b9bbd85a7acf7a.png",
+   "gallery": [],
+   "url": "https://matrixfurnituregroup.ca/product-detail/l2775-inox-loveseat-black",
+   "net": 2399.0,
+   "price": "7557",
+   "synth": true
+  },
+  {
+   "id": "matrix-synth-2775-sofa",
+   "name": "Inox — Sofa",
+   "sku": "2775",
+   "cats": [
+    "loveseat"
+   ],
+   "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1761250127_504682b9bbd85a7acf7a.png",
+   "gallery": [],
+   "url": "https://matrixfurnituregroup.ca/product-detail/l2775-inox-loveseat-black",
+   "net": 1009.0,
+   "price": "3178",
+   "synth": true
+  },
+  {
+   "id": "matrix-synth-2875-3-pc-set",
+   "name": "Cooper — 3 Pc Set",
+   "sku": "2875",
+   "cats": [
+    "sofa"
+   ],
+   "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1776195343_1f4c46673d3501208e30.jpg",
+   "gallery": [],
+   "url": "https://matrixfurnituregroup.ca/product-detail/l2875-cooper-sofa-grey",
+   "net": 2099.0,
+   "price": "6612",
+   "synth": true
+  },
+  {
+   "id": "matrix-synth-2975-3-pc-set",
+   "name": "Boomer — 3 Pc Set",
+   "sku": "2975",
+   "cats": [
+    "sofa"
+   ],
+   "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1776196276_22efe8a08dd4f7ce5528.jpg",
+   "gallery": [],
+   "url": "https://matrixfurnituregroup.ca/product-detail/l2975-boomer-sofa-chocolate",
+   "net": 2099.0,
+   "price": "6612",
+   "synth": true
+  },
+  {
+   "id": "matrix-synth-3175-3-pc-set",
+   "name": "Paloma — 3 Pc Set",
+   "sku": "3175",
+   "cats": [
+    "sofa"
+   ],
+   "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1771450068_3f2cec1f1a79501332ad.jpg",
+   "gallery": [],
+   "url": "https://matrixfurnituregroup.ca/product-detail/l3175-paloma-sofa-wpr-recliner-brown",
+   "net": 2599.0,
+   "price": "8187",
+   "synth": true
+  },
+  {
+   "id": "matrix-synth-2925-sofa",
+   "name": "Percy — Sofa",
+   "sku": "2925",
+   "cats": [
+    "living-room-set"
+   ],
+   "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1785335468_2ca2b937afdcbdd88326.jpg",
+   "gallery": [],
+   "url": "https://matrixfurnituregroup.ca/product-detail/l2925-percy",
+   "net": 759.0,
+   "price": "2391",
+   "synth": true
+  },
+  {
+   "id": "matrix-synth-2925-loveseat",
+   "name": "Percy — Loveseat",
+   "sku": "2925",
+   "cats": [
+    "living-room-set"
+   ],
+   "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1785335468_2ca2b937afdcbdd88326.jpg",
+   "gallery": [],
+   "url": "https://matrixfurnituregroup.ca/product-detail/l2925-percy",
+   "net": 629.0,
+   "price": "1981",
+   "synth": true
+  },
+  {
+   "id": "matrix-synth-2925-chair",
+   "name": "Percy — Chair",
+   "sku": "2925",
+   "cats": [
+    "living-room-set"
+   ],
+   "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1785335468_2ca2b937afdcbdd88326.jpg",
+   "gallery": [],
+   "url": "https://matrixfurnituregroup.ca/product-detail/l2925-percy",
+   "net": 419.0,
+   "price": "1320",
+   "synth": true
+  },
+  {
+   "id": "matrix-synth-3075-3-pc-set",
+   "name": "Fortuner — 3 Pc Set",
+   "sku": "3075",
+   "cats": [
+    "sofa"
+   ],
+   "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1779982005_335553141fef59f12b33.jpg",
+   "gallery": [],
+   "url": "https://matrixfurnituregroup.ca/product-detail/l3075-fortuner-sofa-black",
+   "net": 2649.0,
+   "price": "8344",
+   "synth": true
+  },
+  {
+   "id": "matrix-synth-3325-sofa",
+   "name": "Otis — Sofa",
+   "sku": "3325",
+   "cats": [
+    "living-room-set"
+   ],
+   "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1785271655_04d4c373175b009ba949.jpg",
+   "gallery": [],
+   "url": "https://matrixfurnituregroup.ca/product-detail/l3325-otis",
+   "net": 889.0,
+   "price": "2800",
+   "synth": true
+  },
+  {
+   "id": "matrix-synth-3325-loveseat",
+   "name": "Otis — Loveseat",
+   "sku": "3325",
+   "cats": [
+    "living-room-set"
+   ],
+   "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1785271655_04d4c373175b009ba949.jpg",
+   "gallery": [],
+   "url": "https://matrixfurnituregroup.ca/product-detail/l3325-otis",
+   "net": 739.0,
+   "price": "2328",
+   "synth": true
+  },
+  {
+   "id": "matrix-synth-3965-3-pc-set",
+   "name": "Supra — 3 Pc Set",
+   "sku": "3965",
+   "cats": [
+    "sofa"
+   ],
+   "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1779822261_6dc204472adf7878266c.jpg",
+   "gallery": [],
+   "url": "https://matrixfurnituregroup.ca/product-detail/l3965-supra-sofa-brown",
+   "net": 1599.0,
+   "price": "5037",
+   "synth": true
+  },
+  {
+   "id": "matrix-synth-3665-3-pc-set",
+   "name": "Comfort — 3 Pc Set",
+   "sku": "3665",
+   "cats": [
+    "sofa"
+   ],
+   "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1744141319_39f8dc5d0edc7da67849.jpg",
+   "gallery": [],
+   "url": "https://matrixfurnituregroup.ca/product-detail/l3665-comfort-sofa-cream",
+   "net": 1429.0,
+   "price": "4501",
+   "synth": true
+  },
+  {
+   "id": "matrix-synth-3765-3-pc-set",
+   "name": "Rogue — 3 Pc Set",
+   "sku": "3765",
+   "cats": [
+    "sofa"
+   ],
+   "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1756320955_d7fc97f2bb7f21c674c6.jpg",
+   "gallery": [],
+   "url": "https://matrixfurnituregroup.ca/product-detail/l3765-rogue-sofa-wdd-traypower-brown",
+   "net": 2299.0,
+   "price": "7242",
+   "synth": true
+  },
+  {
+   "id": "matrix-synth-4025-price",
+   "name": "Eros — Price",
+   "sku": "4025",
+   "cats": [
+    "living-room-set"
+   ],
+   "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1744750021_ec98a81dab2948a4119d.jpg",
+   "gallery": [],
+   "url": "https://matrixfurnituregroup.ca/product-detail/l4025-eros",
+   "net": 1499.0,
+   "price": "4722",
+   "synth": true
+  },
+  {
+   "id": "matrix-synth-4025-extra-chair",
+   "name": "Eros — Extra Chair",
+   "sku": "4025",
+   "cats": [
+    "living-room-set"
+   ],
+   "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1744750021_ec98a81dab2948a4119d.jpg",
+   "gallery": [],
+   "url": "https://matrixfurnituregroup.ca/product-detail/l4025-eros",
+   "net": 199.0,
+   "price": "627",
+   "synth": true
+  },
+  {
+   "id": "matrix-synth-4165-3-pc-set",
+   "name": "Hennessey — 3 Pc Set",
+   "sku": "4165",
+   "cats": [
+    "sofa"
+   ],
+   "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1779819520_6024d248ebf3f7c701fe.png",
+   "gallery": [],
+   "url": "https://matrixfurnituregroup.ca/product-detail/l4165-hennessy-sofa-wpr-recliner-bone",
+   "net": 2699.0,
+   "price": "8502",
+   "synth": true
+  },
+  {
+   "id": "matrix-synth-8565-3-pc-set",
+   "name": "Verona — 3 Pc Set",
+   "sku": "8565",
+   "cats": [
+    "sofa"
+   ],
+   "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1744318700_1b2a72e3dfbd47e01ccf.jpg",
+   "gallery": [],
+   "url": "https://matrixfurnituregroup.ca/product-detail/l8565-verona-sofa-beige",
+   "net": 2699.0,
+   "price": "8502",
+   "synth": true
+  },
+  {
+   "id": "matrix-synth-1470-hutch-buffet",
+   "name": "Molly — Hutch/Buffet",
+   "sku": "1470",
+   "cats": [
+    "dining-set"
+   ],
+   "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1760026549_6a835c0263fbbc9da5d0.jpg",
+   "gallery": [],
+   "url": "https://matrixfurnituregroup.ca/product-detail/d1470-molly",
+   "net": 999.0,
+   "price": "3147",
+   "synth": true
   }
  ]
 }

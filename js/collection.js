@@ -210,7 +210,7 @@
     const inner = `
       <div class="pcard__media"><img src="${it.img}"${srcset} alt="${it.name}" loading="lazy" decoding="async" width="480" height="480">${tag}</div>
       <div class="pcard__info"><div><h3>${it.name}</h3><span class="pcard__sku">${it.sku ? 'SKU ' + it.sku : (it.ref ? (L()==='fr'?'Réf ':'Ref ') + it.ref : '')}</span><span>${it.brand === 'oasis' ? subLabel(it.sub) : brandName}</span></div>
-      <p>${price}</p></div>`;
+      <p>${price}</p>${it.price ? `<button class="pcard__add" data-id="${it.id}" data-name="${it.name.replace(/"/g,'&quot;')}" data-sku="${it.sku || ''}" data-brand="${index.brands[it.brand] || it.brand}" data-price="${it.price}" data-from="${it.from ? 1 : 0}" data-img="${it.img}">${L() === 'fr' ? 'Ajouter' : 'Add to order'}</button>` : ''}</div>`;
     return it.link
       ? `<a class="pcard" href="${it.link}">${inner}</a>`
       : `<a class="pcard pcard--ask" href="#" data-name="${it.name.replace(/"/g,'&quot;')}" data-brand="${brandName}">${inner}</a>`;

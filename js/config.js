@@ -44,5 +44,5 @@ window.OASIS_CONFIG = {
     ctaEn: 'Shop the event', ctaFr: 'Profiter de l’offre'
   },
 
-  dataVersion: '20260807g'
+  dataVersion: '20260807h'
 };

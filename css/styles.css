@@ -914,3 +914,49 @@ html.has-promo .hero{padding-top:44px}
   font-family:var(--font-sans);font-size:.7rem;letter-spacing:.14em;text-transform:uppercase;
   padding:.55rem 1.1rem;cursor:pointer;transition:.3s}
 .grid-sec__jump:hover{background:var(--gold);color:var(--black)}
+
+/* ---------- cart & purchase ---------- */
+.head-cartlink{position:relative;color:var(--cream);display:grid;place-items:center;opacity:.85;transition:.3s}
+.head-cartlink:hover{opacity:1;color:var(--gold)}
+.site-head.on-light .head-cartlink{color:var(--ink)}
+.head-cartlink__n{position:absolute;top:-7px;right:-9px;font-family:var(--font-sans);font-style:normal;font-size:.56rem;
+  background:var(--gold);color:var(--black);min-width:15px;height:15px;border-radius:8px;display:grid;place-items:center;padding:0 3px}
+.head-cartlink.bump{animation:cartbump .5s var(--ease)}
+@keyframes cartbump{30%{transform:scale(1.25)}}
+.pcard__add{margin-top:.5rem;background:transparent;border:1px solid var(--line-gold);border-radius:2rem;color:var(--gold);
+  font-family:var(--font-sans);font-size:.66rem;letter-spacing:.14em;text-transform:uppercase;padding:.5rem 1rem;cursor:pointer;transition:.3s}
+.pcard__add:hover{background:var(--gold);color:var(--black)}
+.pcard__add.done{background:var(--gold);color:var(--black)}
+.purch{max-width:var(--maxw);margin:0 auto;padding:9rem var(--pad) 5rem;color:var(--cream)}
+html.has-promo .purch{padding-top:calc(9rem + 44px)}
+.purch__head h1{font-family:var(--font-display);font-size:clamp(2.4rem,5vw,4rem);margin-top:.6rem}
+.purch__empty{text-align:center;padding:4rem 0;color:rgba(246,241,232,.7)}
+.purch__empty .btn{margin-top:1.4rem}
+.purch__grid{display:grid;grid-template-columns:1.5fr 1fr;gap:clamp(1.5rem,4vw,4rem);margin-top:2.5rem}
+.pline{display:flex;gap:1.1rem;align-items:flex-start;padding:1.1rem 0;border-bottom:1px solid var(--line-dark)}
+.pline img{width:86px;height:86px;object-fit:cover;border-radius:4px;background:var(--cream)}
+.pline__info{flex:1}
+.pline__info b{font-family:var(--font-display);font-size:1.15rem;font-weight:400;display:block}
+.pline__info span{font-family:var(--font-sans);font-size:.7rem;letter-spacing:.08em;color:rgba(246,241,232,.55)}
+.pline__qty{display:flex;align-items:center;gap:.6rem;margin-top:.6rem}
+.pline__qty button{width:26px;height:26px;border-radius:50%;border:1px solid var(--line-gold);background:none;color:var(--cream);cursor:pointer}
+.pline__qty i{font-style:normal;font-family:var(--font-sans);min-width:1.2em;text-align:center}
+.pline__rm{border:none!important;width:auto!important;height:auto!important;font-family:var(--font-sans);font-size:.66rem;letter-spacing:.1em;
+  text-transform:uppercase;color:rgba(246,241,232,.45)!important;margin-left:.6rem}
+.pline__rm:hover{color:#d66}
+.pline__price{font-family:var(--font-display);font-size:1.2rem;white-space:nowrap}
+.purch__sum{background:rgba(255,255,255,.03);border:1px solid var(--line-dark);border-radius:5px;padding:1.6rem;height:fit-content}
+.purch__sum h3{font-family:var(--font-display);font-size:1.5rem;margin-bottom:1rem}
+.purch__sum dl div{display:flex;justify-content:space-between;padding:.45rem 0;font-size:.92rem;color:rgba(246,241,232,.8)}
+.purch__sum .tot{border-top:1px solid var(--line-gold);margin-top:.5rem;padding-top:.9rem;font-size:1.05rem;color:var(--cream)}
+.purch__sum .free{color:var(--gold)}
+.purch__area,.purch__note{font-family:var(--font-sans);font-size:.7rem;color:rgba(246,241,232,.5);margin-top:.7rem;line-height:1.5}
+.purch__form{display:grid;gap:.7rem;margin-top:1.2rem}
+.purch__form input{background:transparent;border:1px solid rgba(246,241,232,.2);border-radius:3px;padding:.75rem .9rem;
+  color:var(--cream);font-family:var(--font-sans);font-size:.9rem}
+.purch__form input:focus{outline:none;border-color:var(--gold)}
+.purch__form .btn{justify-content:center;border:none;cursor:pointer;margin-top:.3rem}
+.purch__fine{font-family:var(--font-sans);font-size:.68rem;color:rgba(246,241,232,.5);line-height:1.55}
+.purch__done{text-align:center;padding:4rem 0}
+.purch__done p{color:rgba(246,241,232,.7);margin:1rem auto 1.8rem;max-width:34ch}
+@media (max-width:900px){ .purch__grid{grid-template-columns:1fr} }

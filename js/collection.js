@@ -156,9 +156,11 @@
         (state.price === 'clearance' && it.clearance) ||
         (state.price === 'request' && !it.price)) &&
       (!q || (it.name + ' ' + (it.sku || '')).toLowerCase().includes(q)));
+    if (state.sort === 'featured') view.sort((a, b) =>
+      ((b.brand === 'oasis') - (a.brand === 'oasis')) || ((!!b.price) - (!!a.price)));
     if (state.sort === 'name') view.sort((a, b) => a.name.localeCompare(b.name));
-    if (state.sort === 'price-asc') view.sort((a, b) => (a.price ?? 1e9) - (b.price ?? 1e9));
-    if (state.sort === 'price-desc') view.sort((a, b) => (b.price ?? -1) - (a.price ?? -1));
+    if (state.sort === 'price-asc') view.sort((a, b) => (parseFloat(a.price ?? 1e9)) - (parseFloat(b.price ?? 1e9)));
+    if (state.sort === 'price-desc') view.sort((a, b) => (parseFloat(b.price ?? -1)) - (parseFloat(a.price ?? -1)));
     /* featured = curated first, then priced rugs, then the rest (build order) */
     grid.innerHTML = '';
     shown = 0;
@@ -166,7 +168,7 @@
     renderMore();
   }
 
-  const money = n => '$' + n.toFixed(2).replace(/\.00$/, '');
+  const money = n => { n = parseFloat(n); return isNaN(n) ? '' : '$' + (n % 1 ? n.toFixed(2) : n.toLocaleString('en-CA')); };
   function cardHTML(it) {
     const isCustom = customIds.has(parseInt(it.id, 10));
     const brandName = index.brands[it.brand] || '';
@@ -175,7 +177,7 @@
       : it.clearance ? `<span class="pcard__tag">${T('Clearance','Liquidation')}</span>`
       : it.sale ? `<span class="pcard__tag">${T('On promotion','Promotion')}</span>` : '';
     const price = it.price
-      ? `${it.from ? (L() === 'fr' ? 'Dès ' : 'From ') : ''}${money(it.price)}${it.retail && it.retail > it.price ? ` <s>${money(it.retail)}</s>` : ''}`
+      ? `${it.from ? (L() === 'fr' ? 'Dès ' : 'From ') : ''}${money(it.price)}${it.retail && parseFloat(it.retail) > parseFloat(it.price) ? ` <s>${money(it.retail)}</s>` : ''}`
       : T('On request', 'Sur demande');
     const srcset = it.hi ? ` srcset="${it.img} 1x, ${it.hi} 2x"` : '';
     const inner = `

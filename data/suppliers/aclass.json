@@ -2692,7 +2692,7 @@
     "chaise"
    ],
    "desc": "Made-to-order in Mississauga, Ontario. Available in the ACU performance fabric programme.",
-   "img": "https://www.aclassfurniture.ca/assets/uploads/product_images/2360_a.jpg",
+   "img": "assets/cutouts/fbd1b39a58e4db5b.webp",
    "gallery": [
     "https://www.aclassfurniture.ca/assets/uploads/product_images/2380.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/2390.jpg",
@@ -2700,7 +2700,8 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/SOFA_12B.jpg"
    ],
    "url": "https://www.aclassfurniture.ca/product/2930",
-   "delisted": true
+   "delisted": true,
+   "img_src": "https://www.aclassfurniture.ca/assets/uploads/product_images/2360_a.jpg"
   },
   {
    "id": "aclass-2380",
@@ -2710,7 +2711,7 @@
     "chaise"
    ],
    "desc": "Made-to-order in Mississauga, Ontario. Available in the ACU performance fabric programme.",
-   "img": "https://www.aclassfurniture.ca/assets/uploads/product_images/2360_a.jpg",
+   "img": "assets/cutouts/fbd1b39a58e4db5b.webp",
    "gallery": [
     "https://www.aclassfurniture.ca/assets/uploads/product_images/2390.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/23911.jpg",
@@ -2720,7 +2721,8 @@
    "url": "https://www.aclassfurniture.ca/product/2380",
    "net": 500.0,
    "price": "1575",
-   "from": true
+   "from": true,
+   "img_src": "https://www.aclassfurniture.ca/assets/uploads/product_images/2360_a.jpg"
   },
   {
    "id": "aclass-2390",
@@ -2730,7 +2732,7 @@
     "chaise"
    ],
    "desc": "Made-to-order in Mississauga, Ontario. Available in the ACU performance fabric programme.",
-   "img": "https://www.aclassfurniture.ca/assets/uploads/product_images/2360_a.jpg",
+   "img": "assets/cutouts/fbd1b39a58e4db5b.webp",
    "gallery": [
     "https://www.aclassfurniture.ca/assets/uploads/product_images/2380.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/23911.jpg",
@@ -2740,7 +2742,8 @@
    "url": "https://www.aclassfurniture.ca/product/2390",
    "net": 525.0,
    "price": "1654",
-   "from": true
+   "from": true,
+   "img_src": "https://www.aclassfurniture.ca/assets/uploads/product_images/2360_a.jpg"
   },
   {
    "id": "aclass-2391",
@@ -2750,7 +2753,7 @@
     "chaise"
    ],
    "desc": "Made-to-order in Mississauga, Ontario. Available in the ACU performance fabric programme.",
-   "img": "https://www.aclassfurniture.ca/assets/uploads/product_images/2360_a.jpg",
+   "img": "assets/cutouts/fbd1b39a58e4db5b.webp",
    "gallery": [
     "https://www.aclassfurniture.ca/assets/uploads/product_images/2380.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/2390.jpg",
@@ -2758,7 +2761,8 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/SOFA_12B.jpg"
    ],
    "url": "https://www.aclassfurniture.ca/product/2391",
-   "delisted": true
+   "delisted": true,
+   "img_src": "https://www.aclassfurniture.ca/assets/uploads/product_images/2360_a.jpg"
   },
   {
    "id": "aclass-2395",
@@ -2768,7 +2772,7 @@
     "chaise"
    ],
    "desc": "Made-to-order in Mississauga, Ontario. Available in the ACU performance fabric programme.",
-   "img": "https://www.aclassfurniture.ca/assets/uploads/product_images/2360_a.jpg",
+   "img": "assets/cutouts/fbd1b39a58e4db5b.webp",
    "gallery": [
     "https://www.aclassfurniture.ca/assets/uploads/product_images/2380.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/2390.jpg",
@@ -2776,7 +2780,8 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/2930.jpg"
    ],
    "url": "https://www.aclassfurniture.ca/product/2395",
-   "delisted": true
+   "delisted": true,
+   "img_src": "https://www.aclassfurniture.ca/assets/uploads/product_images/2360_a.jpg"
   },
   {
    "id": "aclass-501a",
@@ -6852,12 +6857,13 @@
    "cats": [
     "sofa"
    ],
-   "img": "https://www.aclassfurniture.ca/assets/uploads/product_images/1111a.jpg",
+   "img": "assets/cutouts/5a0f61a611f6796c.webp",
    "gallery": [],
    "url": "https://www.aclassfurniture.ca",
    "net": 475.0,
    "price": "1496",
-   "synth": true
+   "synth": true,
+   "img_src": "https://www.aclassfurniture.ca/assets/uploads/product_images/1111a.jpg"
   },
   {
    "id": "aclass-synth-1111-chaise",
@@ -6866,12 +6872,13 @@
    "cats": [
     "chaise"
    ],
-   "img": "https://www.aclassfurniture.ca/assets/uploads/product_images/1111a.jpg",
+   "img": "assets/cutouts/5a0f61a611f6796c.webp",
    "gallery": [],
    "url": "https://www.aclassfurniture.ca",
    "net": 455.0,
    "price": "1433",
-   "synth": true
+   "synth": true,
+   "img_src": "https://www.aclassfurniture.ca/assets/uploads/product_images/1111a.jpg"
   },
   {
    "id": "aclass-synth-1111-loveseat",
@@ -6880,12 +6887,13 @@
    "cats": [
     "loveseat"
    ],
-   "img": "https://www.aclassfurniture.ca/assets/uploads/product_images/1111a.jpg",
+   "img": "assets/cutouts/5a0f61a611f6796c.webp",
    "gallery": [],
    "url": "https://www.aclassfurniture.ca",
    "net": 455.0,
    "price": "1433",
-   "synth": true
+   "synth": true,
+   "img_src": "https://www.aclassfurniture.ca/assets/uploads/product_images/1111a.jpg"
   },
   {
    "id": "aclass-synth-1111-chair",
@@ -6894,12 +6902,13 @@
    "cats": [
     "chair"
    ],
-   "img": "https://www.aclassfurniture.ca/assets/uploads/product_images/1111a.jpg",
+   "img": "assets/cutouts/5a0f61a611f6796c.webp",
    "gallery": [],
    "url": "https://www.aclassfurniture.ca",
    "net": 305.0,
    "price": "961",
-   "synth": true
+   "synth": true,
+   "img_src": "https://www.aclassfurniture.ca/assets/uploads/product_images/1111a.jpg"
   },
   {
    "id": "aclass-synth-1212-sofa",
@@ -8168,12 +8177,13 @@
    "cats": [
     "chair"
    ],
-   "img": "https://www.aclassfurniture.ca/assets/uploads/product_images/458.jpg",
+   "img": "assets/cutouts/2a6dc5d3618e7905.webp",
    "gallery": [],
    "url": "https://www.aclassfurniture.ca",
    "net": 400.0,
    "price": "1260",
-   "synth": true
+   "synth": true,
+   "img_src": "https://www.aclassfurniture.ca/assets/uploads/product_images/458.jpg"
   },
   {
    "id": "aclass-synth-459-chair",
@@ -8224,12 +8234,13 @@
    "cats": [
     "chair"
    ],
-   "img": "https://www.aclassfurniture.ca/assets/uploads/product_images/495a.jpg",
+   "img": "assets/cutouts/3155765b7297afd8.webp",
    "gallery": [],
    "url": "https://www.aclassfurniture.ca",
    "net": 400.0,
    "price": "1260",
-   "synth": true
+   "synth": true,
+   "img_src": "https://www.aclassfurniture.ca/assets/uploads/product_images/495a.jpg"
   },
   {
    "id": "aclass-synth-2192-chair",
@@ -8252,12 +8263,13 @@
    "cats": [
     "chaise"
    ],
-   "img": "https://www.aclassfurniture.ca/assets/uploads/product_images/2360_a.jpg",
+   "img": "assets/cutouts/fbd1b39a58e4db5b.webp",
    "gallery": [],
    "url": "https://www.aclassfurniture.ca/product/2380",
    "net": 500.0,
    "price": "1575",
-   "synth": true
+   "synth": true,
+   "img_src": "https://www.aclassfurniture.ca/assets/uploads/product_images/2360_a.jpg"
   },
   {
    "id": "aclass-synth-2390-chaise",
@@ -8266,12 +8278,13 @@
    "cats": [
     "chaise"
    ],
-   "img": "https://www.aclassfurniture.ca/assets/uploads/product_images/2360_a.jpg",
+   "img": "assets/cutouts/fbd1b39a58e4db5b.webp",
    "gallery": [],
    "url": "https://www.aclassfurniture.ca/product/2390",
    "net": 525.0,
    "price": "1654",
-   "synth": true
+   "synth": true,
+   "img_src": "https://www.aclassfurniture.ca/assets/uploads/product_images/2360_a.jpg"
   },
   {
    "id": "aclass-synth-501-ottoman",

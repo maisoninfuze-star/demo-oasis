@@ -111,6 +111,7 @@
       type: kind,
       language: L(),
       product: ctx?.product || null,
+      sku: window.__pdpSku || null,
       fabric: ctx?.fabric || null,
       configuration: ctx?.config || null,
       page: location.href,

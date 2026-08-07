@@ -28,5 +28,5 @@ window.OASIS_CONFIG = {
             fr: 'Escaliers, ascenseurs et levage sont estimés après confirmation des accès.' }
   },
 
-  dataVersion: '20260806c'
+  dataVersion: '20260806d'
 };

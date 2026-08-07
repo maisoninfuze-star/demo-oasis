@@ -217,7 +217,7 @@
         <h3>${L === 'fr' ? 'Cette pièce' : 'This piece'}</h3>
         <ul>
           <li><span>${L === 'fr' ? 'Catégorie' : 'Category'}</span><b>${tl[L]}</b></li>
-          <li><span>${L === 'fr' ? 'Référence' : 'Reference'}</span><b>${p.id}</b></li>
+          <li><span>${p.sku ? 'SKU' : (L === 'fr' ? 'Référence' : 'Reference')}</span><b>${p.sku || 'GO-' + p.id}</b></li>
           <li><span>${L === 'fr' ? 'Prix' : 'Price'}</span><b>${L === 'fr' ? 'Sur demande' : 'On request'}</b></li>
           ${custom ? `<li><span>${L === 'fr' ? 'Sur mesure' : 'Made to order'}</span><b>${L === 'fr' ? 'Tissus au choix' : 'Fabric options available'}</b></li>` : ''}
         </ul>
@@ -246,6 +246,7 @@
     const type = typeOf(p);
     const tl = TYPE_LABEL[type] || TYPE_LABEL['living-room'];
     document.title = `${p.short || p.name} — Galerie Oasis`;
+    window.__pdpSku = p.sku || ('GO-' + p.id);
     setSeo(p, tl);
     $('.pdp-title').textContent = p.short || p.name;
     $('.pdp-sub').textContent = tl[L];

@@ -163,7 +163,11 @@ for p in cur:
             break
     if not top:
         top, sub = classify(p['cats'], p.get('short') or p['name'])
+    row_extra = {}
+    if p.get('sku'): row_extra['sku'] = p['sku']
+    else: row_extra['ref'] = f"GO-{p['id']}"
     buckets[top].append({
+        **row_extra,
         'id': p['id'], 'name': p.get('short') or p['name'], 'sub': sub,
         'brand': 'oasis', 'img': p.get('thumb') or p['img'], 'link': f'product.html?id={p["id"]}',
         'sale': p.get('sale', False),
@@ -189,6 +193,10 @@ for slug in FILES:
         }
         if it.get('hi'): row['hi'] = it['hi']
         if it.get('sku'): row['sku'] = it['sku']
+        else:
+            _pfx = {'titus':'T','creative':'CH','glory':'GL','mazin':'MZ','monarch':'M','matrix':'MX','sofabyfancy':'SF','aclass':'AC','rugsnetwork':'RN','wt':'WT'}.get(slug, slug[:2].upper())
+            _tail = str(it.get('id') or it.get('pid') or '').rsplit('-', 1)[-1][:12]
+            if _tail: row['ref'] = f"{_pfx}-{_tail}"
         if slug == 'rugsnetwork':
             row['price'] = it.get('price')
             row['retail'] = it.get('retail')

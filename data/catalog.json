@@ -15,7 +15,8 @@
   "img": "assets/catalog/annabelle.jpg",
   "gallery": [],
   "short": "Annabelle",
-  "thumb": "assets/thumbs/annabelle.webp"
+  "thumb": "assets/thumbs/annabelle.webp",
+  "sku": ""
  },
  {
   "id": 20315,
@@ -33,7 +34,8 @@
   "img": "assets/catalog/sophia.jpg",
   "gallery": [],
   "short": "Sophia",
-  "thumb": "assets/thumbs/sophia.webp"
+  "thumb": "assets/thumbs/sophia.webp",
+  "sku": ""
  },
  {
   "id": 20313,
@@ -52,7 +54,8 @@
   "img": "assets/catalog/santana.jpg",
   "gallery": [],
   "short": "Santana",
-  "thumb": "assets/thumbs/santana.webp"
+  "thumb": "assets/thumbs/santana.webp",
+  "sku": ""
  },
  {
   "id": 20311,
@@ -70,7 +73,8 @@
   "img": "assets/catalog/rosalie.jpg",
   "gallery": [],
   "short": "Rosalie",
-  "thumb": "assets/thumbs/rosalie.webp"
+  "thumb": "assets/thumbs/rosalie.webp",
+  "sku": ""
  },
  {
   "id": 20288,
@@ -88,7 +92,8 @@
   "img": "assets/catalog/mona-lisa.jpg",
   "gallery": [],
   "short": "Mona Lisa",
-  "thumb": "assets/thumbs/mona-lisa.webp"
+  "thumb": "assets/thumbs/mona-lisa.webp",
+  "sku": "WA905"
  },
  {
   "id": 20286,
@@ -106,7 +111,8 @@
   "img": "assets/catalog/marie-antoinette.jpg",
   "gallery": [],
   "short": "Marie Antoinette",
-  "thumb": "assets/thumbs/marie-antoinette.webp"
+  "thumb": "assets/thumbs/marie-antoinette.webp",
+  "sku": "WH007"
  },
  {
   "id": 20284,
@@ -124,7 +130,8 @@
   "img": "assets/catalog/aurora.jpg",
   "gallery": [],
   "short": "Aurora",
-  "thumb": "assets/thumbs/aurora.webp"
+  "thumb": "assets/thumbs/aurora.webp",
+  "sku": "WA886"
  },
  {
   "id": 20282,
@@ -142,7 +149,8 @@
   "img": "assets/catalog/queen-anne.jpg",
   "gallery": [],
   "short": "Queen Anne",
-  "thumb": "assets/thumbs/queen-anne.webp"
+  "thumb": "assets/thumbs/queen-anne.webp",
+  "sku": "WA547"
  },
  {
   "id": 20279,
@@ -160,7 +168,8 @@
   "img": "assets/catalog/ophelia-wh005.jpg",
   "gallery": [],
   "short": "Ophelia",
-  "thumb": "assets/thumbs/ophelia-wh005.webp"
+  "thumb": "assets/thumbs/ophelia-wh005.webp",
+  "sku": "WH005"
  },
  {
   "id": 20277,
@@ -178,7 +187,8 @@
   "img": "assets/catalog/eleanor-wa552.jpg",
   "gallery": [],
   "short": "Eleanor",
-  "thumb": "assets/thumbs/eleanor-wa552.webp"
+  "thumb": "assets/thumbs/eleanor-wa552.webp",
+  "sku": "WA552"
  },
  {
   "id": 20071,
@@ -197,7 +207,8 @@
   "img": "assets/catalog/samuel.jpg",
   "gallery": [],
   "short": "Samuel",
-  "thumb": "assets/thumbs/samuel.webp"
+  "thumb": "assets/thumbs/samuel.webp",
+  "sku": "WA190"
  },
  {
   "id": 20022,
@@ -216,7 +227,8 @@
   "img": "assets/catalog/persian-khoramabad-hand-knotted-wool-rectangle-rug-in-laval.jpg",
   "gallery": [],
   "short": "Persian Khoramabad",
-  "thumb": "assets/thumbs/persian-khoramabad-hand-knotted-wool-rectangle-rug-in-laval.webp"
+  "thumb": "assets/thumbs/persian-khoramabad-hand-knotted-wool-rectangle-rug-in-laval.webp",
+  "sku": ""
  },
  {
   "id": 20020,
@@ -235,7 +247,8 @@
   "img": "assets/catalog/persian-hamadan-hand-knotted-wool-rectangle-rug-in-laval-3.jpg",
   "gallery": [],
   "short": "Persian Hamadan",
-  "thumb": "assets/thumbs/persian-hamadan-hand-knotted-wool-rectangle-rug-in-laval-3.webp"
+  "thumb": "assets/thumbs/persian-hamadan-hand-knotted-wool-rectangle-rug-in-laval-3.webp",
+  "sku": ""
  },
  {
   "id": 20018,
@@ -254,7 +267,8 @@
   "img": "assets/catalog/persian-goltoch-hand-knotted-wool-rectangle-rug-in-laval.jpg",
   "gallery": [],
   "short": "Persian Goltoch",
-  "thumb": "assets/thumbs/persian-goltoch-hand-knotted-wool-rectangle-rug-in-laval.webp"
+  "thumb": "assets/thumbs/persian-goltoch-hand-knotted-wool-rectangle-rug-in-laval.webp",
+  "sku": ""
  },
  {
   "id": 20016,
@@ -273,7 +287,8 @@
   "img": "assets/catalog/persian-hamadan-hand-knotted-wool-rectangle-rug-in-laval-2.jpg",
   "gallery": [],
   "short": "Persian Hamadan",
-  "thumb": "assets/thumbs/persian-hamadan-hand-knotted-wool-rectangle-rug-in-laval-2.webp"
+  "thumb": "assets/thumbs/persian-hamadan-hand-knotted-wool-rectangle-rug-in-laval-2.webp",
+  "sku": ""
  },
  {
   "id": 20014,
@@ -292,7 +307,8 @@
   "img": "assets/catalog/persian-hamadan-hand-knotted-wool-rectangle-rug-in-laval.jpg",
   "gallery": [],
   "short": "Persian Hamadan",
-  "thumb": "assets/thumbs/persian-hamadan-hand-knotted-wool-rectangle-rug-in-laval.webp"
+  "thumb": "assets/thumbs/persian-hamadan-hand-knotted-wool-rectangle-rug-in-laval.webp",
+  "sku": ""
  },
  {
   "id": 20012,
@@ -311,7 +327,8 @@
   "img": "assets/catalog/jaipur-hand-tufted-wool-rectangle-rug-in-laval-3.jpg",
   "gallery": [],
   "short": "JAIPUR Hand-Tufted",
-  "thumb": "assets/thumbs/jaipur-hand-tufted-wool-rectangle-rug-in-laval-3.webp"
+  "thumb": "assets/thumbs/jaipur-hand-tufted-wool-rectangle-rug-in-laval-3.webp",
+  "sku": ""
  },
  {
   "id": 20010,
@@ -330,7 +347,8 @@
   "img": "assets/catalog/jaipur-hand-tufted-wool-rectangle-rug-in-laval-2.jpg",
   "gallery": [],
   "short": "JAIPUR Hand-Tufted",
-  "thumb": "assets/thumbs/jaipur-hand-tufted-wool-rectangle-rug-in-laval-2.webp"
+  "thumb": "assets/thumbs/jaipur-hand-tufted-wool-rectangle-rug-in-laval-2.webp",
+  "sku": ""
  },
  {
   "id": 20007,
@@ -349,7 +367,8 @@
   "img": "assets/catalog/jaipur-hand-tufted-wool-rectangle-rug-in-laval.jpg",
   "gallery": [],
   "short": "JAIPUR Hand-Tufted",
-  "thumb": "assets/thumbs/jaipur-hand-tufted-wool-rectangle-rug-in-laval.webp"
+  "thumb": "assets/thumbs/jaipur-hand-tufted-wool-rectangle-rug-in-laval.webp",
+  "sku": ""
  },
  {
   "id": 20005,
@@ -368,7 +387,8 @@
   "img": "assets/catalog/tabriz-design-hand-tufted-wool-and-silk-runner-in-laval.jpg",
   "gallery": [],
   "short": "TABRIZ DESIGN Hand-Tufted Wool and Silk Runner",
-  "thumb": "assets/thumbs/tabriz-design-hand-tufted-wool-and-silk-runner-in-laval.webp"
+  "thumb": "assets/thumbs/tabriz-design-hand-tufted-wool-and-silk-runner-in-laval.webp",
+  "sku": ""
  },
  {
   "id": 20002,
@@ -387,7 +407,8 @@
   "img": "assets/catalog/persian-hamadan-hand-knotted-wool-rug-in-laval-6.jpg",
   "gallery": [],
   "short": "Persian Hamadan",
-  "thumb": "assets/thumbs/persian-hamadan-hand-knotted-wool-rug-in-laval-6.webp"
+  "thumb": "assets/thumbs/persian-hamadan-hand-knotted-wool-rug-in-laval-6.webp",
+  "sku": ""
  },
  {
   "id": 20000,
@@ -406,7 +427,8 @@
   "img": "assets/catalog/persian-hamadan-hand-knotted-wool-rug-in-laval-5.jpg",
   "gallery": [],
   "short": "Persian Hamadan",
-  "thumb": "assets/thumbs/persian-hamadan-hand-knotted-wool-rug-in-laval-5.webp"
+  "thumb": "assets/thumbs/persian-hamadan-hand-knotted-wool-rug-in-laval-5.webp",
+  "sku": ""
  },
  {
   "id": 19998,
@@ -425,7 +447,8 @@
   "img": "assets/catalog/persian-hamadan-hand-knotted-wool-rug-in-laval-4.jpg",
   "gallery": [],
   "short": "Persian Hamadan",
-  "thumb": "assets/thumbs/persian-hamadan-hand-knotted-wool-rug-in-laval-4.webp"
+  "thumb": "assets/thumbs/persian-hamadan-hand-knotted-wool-rug-in-laval-4.webp",
+  "sku": ""
  },
  {
   "id": 19995,
@@ -444,7 +467,8 @@
   "img": "assets/catalog/persian-hamadan-hand-knotted-wool-rug-in-laval-3.jpg",
   "gallery": [],
   "short": "Persian Hamadan",
-  "thumb": "assets/thumbs/persian-hamadan-hand-knotted-wool-rug-in-laval-3.webp"
+  "thumb": "assets/thumbs/persian-hamadan-hand-knotted-wool-rug-in-laval-3.webp",
+  "sku": ""
  },
  {
   "id": 19993,
@@ -463,7 +487,8 @@
   "img": "assets/catalog/persian-hamadan-hand-knotted-wool-rug-in-laval-2.jpg",
   "gallery": [],
   "short": "Persian Hamadan",
-  "thumb": "assets/thumbs/persian-hamadan-hand-knotted-wool-rug-in-laval-2.webp"
+  "thumb": "assets/thumbs/persian-hamadan-hand-knotted-wool-rug-in-laval-2.webp",
+  "sku": ""
  },
  {
   "id": 19991,
@@ -482,7 +507,8 @@
   "img": "assets/catalog/persian-hamadan-hand-knotted-wool-rug-in-laval.jpg",
   "gallery": [],
   "short": "Persian Hamadan",
-  "thumb": "assets/thumbs/persian-hamadan-hand-knotted-wool-rug-in-laval.webp"
+  "thumb": "assets/thumbs/persian-hamadan-hand-knotted-wool-rug-in-laval.webp",
+  "sku": ""
  },
  {
   "id": 19988,
@@ -501,7 +527,8 @@
   "img": "assets/catalog/jaipur-hand-tufted-wool-rug-in-laval.jpg",
   "gallery": [],
   "short": "JAIPUR Hand-Tufted",
-  "thumb": "assets/thumbs/jaipur-hand-tufted-wool-rug-in-laval.webp"
+  "thumb": "assets/thumbs/jaipur-hand-tufted-wool-rug-in-laval.webp",
+  "sku": ""
  },
  {
   "id": 19986,
@@ -520,7 +547,8 @@
   "img": "assets/catalog/boukhara-hand-knotted-wool-rug-in-laval-2.jpg",
   "gallery": [],
   "short": "Boukhara",
-  "thumb": "assets/thumbs/boukhara-hand-knotted-wool-rug-in-laval-2.webp"
+  "thumb": "assets/thumbs/boukhara-hand-knotted-wool-rug-in-laval-2.webp",
+  "sku": ""
  },
  {
   "id": 19984,
@@ -539,7 +567,8 @@
   "img": "assets/catalog/boukhara-hand-knotted-wool-rug-in-laval.jpg",
   "gallery": [],
   "short": "Boukhara",
-  "thumb": "assets/thumbs/boukhara-hand-knotted-wool-rug-in-laval.webp"
+  "thumb": "assets/thumbs/boukhara-hand-knotted-wool-rug-in-laval.webp",
+  "sku": ""
  },
  {
   "id": 19982,
@@ -558,7 +587,8 @@
   "img": "assets/catalog/persian-sarough-hand-knotted-wool-rug-in-laval-2.jpg",
   "gallery": [],
   "short": "Persian Sarough",
-  "thumb": "assets/thumbs/persian-sarough-hand-knotted-wool-rug-in-laval-2.webp"
+  "thumb": "assets/thumbs/persian-sarough-hand-knotted-wool-rug-in-laval-2.webp",
+  "sku": ""
  },
  {
   "id": 19980,
@@ -577,7 +607,8 @@
   "img": "assets/catalog/persian-sarough-hand-knotted-wool-rug-in-laval.jpg",
   "gallery": [],
   "short": "Persian Sarough",
-  "thumb": "assets/thumbs/persian-sarough-hand-knotted-wool-rug-in-laval.webp"
+  "thumb": "assets/thumbs/persian-sarough-hand-knotted-wool-rug-in-laval.webp",
+  "sku": ""
  },
  {
   "id": 19978,
@@ -596,7 +627,8 @@
   "img": "assets/catalog/hamadan-persian-hand-knotted-wool-rug-in-laval.jpg",
   "gallery": [],
   "short": "HAMADAN Persian",
-  "thumb": "assets/thumbs/hamadan-persian-hand-knotted-wool-rug-in-laval.webp"
+  "thumb": "assets/thumbs/hamadan-persian-hand-knotted-wool-rug-in-laval.webp",
+  "sku": ""
  },
  {
   "id": 19955,
@@ -615,7 +647,8 @@
   "img": "assets/catalog/royal-balouchi-rug-in-laval.jpg",
   "gallery": [],
   "short": "Royal Balouchi",
-  "thumb": "assets/thumbs/royal-balouchi-rug-in-laval.webp"
+  "thumb": "assets/thumbs/royal-balouchi-rug-in-laval.webp",
+  "sku": ""
  },
  {
   "id": 19952,
@@ -634,7 +667,8 @@
   "img": "assets/catalog/nepal-runner-in-laval.jpg",
   "gallery": [],
   "short": "NEPAL Runner",
-  "thumb": "assets/thumbs/nepal-runner-in-laval.webp"
+  "thumb": "assets/thumbs/nepal-runner-in-laval.webp",
+  "sku": ""
  },
  {
   "id": 19895,
@@ -653,7 +687,8 @@
   "img": "assets/catalog/bed-room-15.jpg",
   "gallery": [],
   "short": "ARIELLA – High Quality Hand Crafted Bedroom Furniture",
-  "thumb": "assets/thumbs/bed-room-15.webp"
+  "thumb": "assets/thumbs/bed-room-15.webp",
+  "sku": ""
  },
  {
   "id": 19891,
@@ -672,7 +707,8 @@
   "img": "assets/catalog/bed-room-14.jpg",
   "gallery": [],
   "short": "ANASTASIA – High Quality Hand Crafted Bedroom Furniture",
-  "thumb": "assets/thumbs/bed-room-14.webp"
+  "thumb": "assets/thumbs/bed-room-14.webp",
+  "sku": "WA230"
  },
  {
   "id": 19889,
@@ -691,7 +727,8 @@
   "img": "assets/catalog/bed-room-13.jpg",
   "gallery": [],
   "short": "JULIAN – High Quality Hand Crafted Bedroom Furniture",
-  "thumb": "assets/thumbs/bed-room-13.webp"
+  "thumb": "assets/thumbs/bed-room-13.webp",
+  "sku": ""
  },
  {
   "id": 19885,
@@ -709,7 +746,8 @@
   "img": "assets/catalog/dining-room-16.jpg",
   "gallery": [],
   "short": "THE TUXEDO – High Quality Hand Crafted Dining Room Furniture",
-  "thumb": "assets/thumbs/dining-room-16.webp"
+  "thumb": "assets/thumbs/dining-room-16.webp",
+  "sku": "WA 228"
  },
  {
   "id": 19881,
@@ -727,7 +765,8 @@
   "img": "assets/catalog/dining-room-15.jpg",
   "gallery": [],
   "short": "GABRIELA Dining Room",
-  "thumb": "assets/thumbs/dining-room-15.webp"
+  "thumb": "assets/thumbs/dining-room-15.webp",
+  "sku": ""
  },
  {
   "id": 19825,
@@ -749,7 +788,8 @@
    "assets/catalog/12-breeze-foam-encased-pocket-coil-plush-eurotop-mattress-3.jpg"
   ],
   "short": "12″ Breeze foam encased pocket coil plush Eurotop mattress",
-  "thumb": "assets/thumbs/12-breeze-foam-encased-pocket-coil-plush-eurotop-mattress.webp"
+  "thumb": "assets/thumbs/12-breeze-foam-encased-pocket-coil-plush-eurotop-mattress.webp",
+  "sku": ""
  },
  {
   "id": 19815,
@@ -772,7 +812,8 @@
    "assets/catalog/olivia-10-soft-gel-rolled-mattress-4.jpg"
   ],
   "short": "Olivia 10″ Soft gel Rolled mattress",
-  "thumb": "assets/thumbs/olivia-10-soft-gel-rolled-mattress.webp"
+  "thumb": "assets/thumbs/olivia-10-soft-gel-rolled-mattress.webp",
+  "sku": ""
  },
  {
   "id": 19805,
@@ -794,7 +835,8 @@
    "assets/catalog/10-brisk-foam-encased-pocket-coil-firm-mattress-3.jpg"
   ],
   "short": "10″ Brisk foam encased pocket coil firm mattress",
-  "thumb": "assets/thumbs/10-brisk-foam-encased-pocket-coil-firm-mattress.webp"
+  "thumb": "assets/thumbs/10-brisk-foam-encased-pocket-coil-firm-mattress.webp",
+  "sku": ""
  },
  {
   "id": 19799,
@@ -816,7 +858,8 @@
    "assets/catalog/11-dream-classic-pocket-coil-plush-eurotop-rolled-3.jpg"
   ],
   "short": "11″ Dream Classic pocket coil plush Eurotop Rolled",
-  "thumb": "assets/thumbs/11-dream-classic-pocket-coil-plush-eurotop-rolled.webp"
+  "thumb": "assets/thumbs/11-dream-classic-pocket-coil-plush-eurotop-rolled.webp",
+  "sku": ""
  },
  {
   "id": 19796,
@@ -838,7 +881,8 @@
    "assets/catalog/10-pocket-coil-firm-rolled-mattress-3.jpg"
   ],
   "short": "Easygo Mattress",
-  "thumb": "assets/thumbs/10-pocket-coil-firm-rolled-mattress.webp"
+  "thumb": "assets/thumbs/10-pocket-coil-firm-rolled-mattress.webp",
+  "sku": ""
  },
  {
   "id": 19759,
@@ -857,7 +901,8 @@
   "img": "assets/catalog/stella.jpg",
   "gallery": [],
   "short": "Stella",
-  "thumb": "assets/thumbs/stella.webp"
+  "thumb": "assets/thumbs/stella.webp",
+  "sku": ""
  },
  {
   "id": 19657,
@@ -876,7 +921,8 @@
   "img": "assets/catalog/thorley-lift.jpg",
   "gallery": [],
   "short": "Thorley Lift",
-  "thumb": "assets/thumbs/thorley-lift.webp"
+  "thumb": "assets/thumbs/thorley-lift.webp",
+  "sku": ""
  },
  {
   "id": 19650,
@@ -895,7 +941,8 @@
   "img": "assets/catalog/stetson-lift.jpg",
   "gallery": [],
   "short": "Stetson Lift",
-  "thumb": "assets/thumbs/stetson-lift.webp"
+  "thumb": "assets/thumbs/stetson-lift.webp",
+  "sku": ""
  },
  {
   "id": 19646,
@@ -914,7 +961,8 @@
   "img": "assets/catalog/nakita-detail-lift-chair.jpg",
   "gallery": [],
   "short": "Nakita detail LIFT CHAIR",
-  "thumb": "assets/thumbs/nakita-detail-lift-chair.webp"
+  "thumb": "assets/thumbs/nakita-detail-lift-chair.webp",
+  "sku": ""
  },
  {
   "id": 19639,
@@ -933,7 +981,8 @@
   "img": "assets/catalog/safiyah_detail.jpg",
   "gallery": [],
   "short": "Safiyah detail",
-  "thumb": "assets/thumbs/safiyah_detail.webp"
+  "thumb": "assets/thumbs/safiyah_detail.webp",
+  "sku": ""
  },
  {
   "id": 19638,
@@ -952,7 +1001,8 @@
   "img": "assets/catalog/milton.jpg",
   "gallery": [],
   "short": "Milton",
-  "thumb": "assets/thumbs/milton.webp"
+  "thumb": "assets/thumbs/milton.webp",
+  "sku": ""
  },
  {
   "id": 19569,
@@ -971,7 +1021,8 @@
   "img": "assets/catalog/vegas-beige.jpg",
   "gallery": [],
   "short": "Vegas Beige",
-  "thumb": "assets/thumbs/vegas-beige.webp"
+  "thumb": "assets/thumbs/vegas-beige.webp",
+  "sku": ""
  },
  {
   "id": 19554,
@@ -990,7 +1041,8 @@
   "img": "assets/catalog/phoenix-dark_lilac.jpg",
   "gallery": [],
   "short": "Phoenix Dark_Lilac",
-  "thumb": "assets/thumbs/phoenix-dark_lilac.webp"
+  "thumb": "assets/thumbs/phoenix-dark_lilac.webp",
+  "sku": ""
  },
  {
   "id": 19552,
@@ -1009,7 +1061,8 @@
   "img": "assets/catalog/verona-black-3.jpg",
   "gallery": [],
   "short": "Verona Black",
-  "thumb": "assets/thumbs/verona-black-3.webp"
+  "thumb": "assets/thumbs/verona-black-3.webp",
+  "sku": ""
  },
  {
   "id": 19546,
@@ -1028,7 +1081,8 @@
   "img": "assets/catalog/savannah-dark_grey.jpg",
   "gallery": [],
   "short": "Savannah Dark_Grey",
-  "thumb": "assets/thumbs/savannah-dark_grey.webp"
+  "thumb": "assets/thumbs/savannah-dark_grey.webp",
+  "sku": ""
  },
  {
   "id": 19541,
@@ -1047,7 +1101,8 @@
   "img": "assets/catalog/verona-white.jpg",
   "gallery": [],
   "short": "Verona White",
-  "thumb": "assets/thumbs/verona-white.webp"
+  "thumb": "assets/thumbs/verona-white.webp",
+  "sku": ""
  },
  {
   "id": 19533,
@@ -1066,7 +1121,8 @@
   "img": "assets/catalog/medusa-white.jpg",
   "gallery": [],
   "short": "Medusa White",
-  "thumb": "assets/thumbs/medusa-white.webp"
+  "thumb": "assets/thumbs/medusa-white.webp",
+  "sku": ""
  },
  {
   "id": 19531,
@@ -1085,7 +1141,8 @@
   "img": "assets/catalog/venus-dark_beige.jpg",
   "gallery": [],
   "short": "Venus Dark_Beige",
-  "thumb": "assets/thumbs/venus-dark_beige.webp"
+  "thumb": "assets/thumbs/venus-dark_beige.webp",
+  "sku": ""
  },
  {
   "id": 19522,
@@ -1104,7 +1161,8 @@
   "img": "assets/catalog/seville-beige.jpg",
   "gallery": [],
   "short": "Seville Beige",
-  "thumb": "assets/thumbs/seville-beige.webp"
+  "thumb": "assets/thumbs/seville-beige.webp",
+  "sku": ""
  },
  {
   "id": 19519,
@@ -1123,7 +1181,8 @@
   "img": "assets/catalog/savannah-light_grey.jpg",
   "gallery": [],
   "short": "Savannah Light_Grey",
-  "thumb": "assets/thumbs/savannah-light_grey.webp"
+  "thumb": "assets/thumbs/savannah-light_grey.webp",
+  "sku": ""
  },
  {
   "id": 19513,
@@ -1142,7 +1201,8 @@
   "img": "assets/catalog/soft_shaggy-white.jpg",
   "gallery": [],
   "short": "Soft_Shaggy White",
-  "thumb": "assets/thumbs/soft_shaggy-white.webp"
+  "thumb": "assets/thumbs/soft_shaggy-white.webp",
+  "sku": ""
  },
  {
   "id": 19508,
@@ -1161,7 +1221,8 @@
   "img": "assets/catalog/seville-light_grey_cream-2.jpg",
   "gallery": [],
   "short": "Seville Light_Grey_Cream",
-  "thumb": "assets/thumbs/seville-light_grey_cream-2.webp"
+  "thumb": "assets/thumbs/seville-light_grey_cream-2.webp",
+  "sku": ""
  },
  {
   "id": 19496,
@@ -1180,7 +1241,8 @@
   "img": "assets/catalog/seville-light_grey_cream.jpg",
   "gallery": [],
   "short": "Seville Light_Grey_Cream",
-  "thumb": "assets/thumbs/seville-light_grey_cream.webp"
+  "thumb": "assets/thumbs/seville-light_grey_cream.webp",
+  "sku": ""
  },
  {
   "id": 19495,
@@ -1199,7 +1261,8 @@
   "img": "assets/catalog/verona-dark_brown-2.jpg",
   "gallery": [],
   "short": "Verona Dark_Brown",
-  "thumb": "assets/thumbs/verona-dark_brown-2.webp"
+  "thumb": "assets/thumbs/verona-dark_brown-2.webp",
+  "sku": ""
  },
  {
   "id": 19491,
@@ -1218,7 +1281,8 @@
   "img": "assets/catalog/verona-dark_brown.jpg",
   "gallery": [],
   "short": "Verona Dark_Brown",
-  "thumb": "assets/thumbs/verona-dark_brown.webp"
+  "thumb": "assets/thumbs/verona-dark_brown.webp",
+  "sku": ""
  },
  {
   "id": 19487,
@@ -1237,7 +1301,8 @@
   "img": "assets/catalog/verona-anthracite-2.jpg",
   "gallery": [],
   "short": "Verona Anthracite",
-  "thumb": "assets/thumbs/verona-anthracite-2.webp"
+  "thumb": "assets/thumbs/verona-anthracite-2.webp",
+  "sku": ""
  },
  {
   "id": 19483,
@@ -1256,7 +1321,8 @@
   "img": "assets/catalog/verona-grey.jpg",
   "gallery": [],
   "short": "Verona Grey",
-  "thumb": "assets/thumbs/verona-grey.webp"
+  "thumb": "assets/thumbs/verona-grey.webp",
+  "sku": ""
  },
  {
   "id": 19479,
@@ -1275,7 +1341,8 @@
   "img": "assets/catalog/verona-anthracite.jpg",
   "gallery": [],
   "short": "Verona Anthracite",
-  "thumb": "assets/thumbs/verona-anthracite.webp"
+  "thumb": "assets/thumbs/verona-anthracite.webp",
+  "sku": ""
  },
  {
   "id": 19469,
@@ -1294,7 +1361,8 @@
   "img": "assets/catalog/verona-grey-red.jpg",
   "gallery": [],
   "short": "Verona Grey & Red",
-  "thumb": "assets/thumbs/verona-grey-red.webp"
+  "thumb": "assets/thumbs/verona-grey-red.webp",
+  "sku": ""
  },
  {
   "id": 19462,
@@ -1313,7 +1381,8 @@
   "img": "assets/catalog/verona-black-2.jpg",
   "gallery": [],
   "short": "Verona Black",
-  "thumb": "assets/thumbs/verona-black-2.webp"
+  "thumb": "assets/thumbs/verona-black-2.webp",
+  "sku": ""
  },
  {
   "id": 19461,
@@ -1332,7 +1401,8 @@
   "img": "assets/catalog/verona-black.jpg",
   "gallery": [],
   "short": "Verona Black",
-  "thumb": "assets/thumbs/verona-black.webp"
+  "thumb": "assets/thumbs/verona-black.webp",
+  "sku": ""
  },
  {
   "id": 19456,
@@ -1351,7 +1421,8 @@
   "img": "assets/catalog/tampa-black.jpg",
   "gallery": [],
   "short": "Tampa Black",
-  "thumb": "assets/thumbs/tampa-black.webp"
+  "thumb": "assets/thumbs/tampa-black.webp",
+  "sku": ""
  },
  {
   "id": 19444,
@@ -1376,7 +1447,8 @@
    "assets/catalog/micro_shaggy-6.jpg"
   ],
   "short": "Micro_Shaggy",
-  "thumb": "assets/thumbs/micro_shaggy.webp"
+  "thumb": "assets/thumbs/micro_shaggy.webp",
+  "sku": ""
  },
  {
   "id": 19431,
@@ -1403,7 +1475,8 @@
    "assets/catalog/plain_shaggy-8.jpg"
   ],
   "short": "Plain_Shaggy",
-  "thumb": "assets/thumbs/plain_shaggy.webp"
+  "thumb": "assets/thumbs/plain_shaggy.webp",
+  "sku": ""
  },
  {
   "id": 19424,
@@ -1422,7 +1495,8 @@
   "img": "assets/catalog/royal_shaggy-light_beige.jpg",
   "gallery": [],
   "short": "Royal_Shaggy Light_Beige",
-  "thumb": "assets/thumbs/royal_shaggy-light_beige.webp"
+  "thumb": "assets/thumbs/royal_shaggy-light_beige.webp",
+  "sku": ""
  },
  {
   "id": 19419,
@@ -1441,7 +1515,8 @@
   "img": "assets/catalog/royal_shaggy-light_blue.jpg",
   "gallery": [],
   "short": "Royal_Shaggy Light_Blue",
-  "thumb": "assets/thumbs/royal_shaggy-light_blue.webp"
+  "thumb": "assets/thumbs/royal_shaggy-light_blue.webp",
+  "sku": ""
  },
  {
   "id": 19413,
@@ -1460,7 +1535,8 @@
   "img": "assets/catalog/soft_shaggy-cream.jpg",
   "gallery": [],
   "short": "Soft_Shaggy Cream",
-  "thumb": "assets/thumbs/soft_shaggy-cream.webp"
+  "thumb": "assets/thumbs/soft_shaggy-cream.webp",
+  "sku": ""
  },
  {
   "id": 19411,
@@ -1479,7 +1555,8 @@
   "img": "assets/catalog/montana-cream.jpg",
   "gallery": [],
   "short": "Montana Cream",
-  "thumb": "assets/thumbs/montana-cream.webp"
+  "thumb": "assets/thumbs/montana-cream.webp",
+  "sku": ""
  },
  {
   "id": 19406,
@@ -1498,7 +1575,8 @@
   "img": "assets/catalog/florence-white.jpg",
   "gallery": [],
   "short": "Florence White",
-  "thumb": "assets/thumbs/florence-white.webp"
+  "thumb": "assets/thumbs/florence-white.webp",
+  "sku": ""
  },
  {
   "id": 19401,
@@ -1517,7 +1595,8 @@
   "img": "assets/catalog/bali-white.jpg",
   "gallery": [],
   "short": "Bali White",
-  "thumb": "assets/thumbs/bali-white.webp"
+  "thumb": "assets/thumbs/bali-white.webp",
+  "sku": ""
  },
  {
   "id": 19396,
@@ -1536,7 +1615,8 @@
   "img": "assets/catalog/bali-light_grey.jpg",
   "gallery": [],
   "short": "Bali Light_Grey",
-  "thumb": "assets/thumbs/bali-light_grey.webp"
+  "thumb": "assets/thumbs/bali-light_grey.webp",
+  "sku": ""
  },
  {
   "id": 19278,
@@ -1555,7 +1635,8 @@
   "img": "assets/catalog/hamadan-2.jpg",
   "gallery": [],
   "short": "HAMADAN Persian",
-  "thumb": "assets/thumbs/hamadan-2.webp"
+  "thumb": "assets/thumbs/hamadan-2.webp",
+  "sku": ""
  },
  {
   "id": 19273,
@@ -1574,7 +1655,8 @@
   "img": "assets/catalog/hamadan.jpg",
   "gallery": [],
   "short": "HAMADAN Persian",
-  "thumb": "assets/thumbs/hamadan.webp"
+  "thumb": "assets/thumbs/hamadan.webp",
+  "sku": ""
  },
  {
   "id": 19266,
@@ -1593,7 +1675,8 @@
   "img": "assets/catalog/mishkin.jpg",
   "gallery": [],
   "short": "MISHKIN Aged Persian",
-  "thumb": "assets/thumbs/mishkin.webp"
+  "thumb": "assets/thumbs/mishkin.webp",
+  "sku": ""
  },
  {
   "id": 19251,
@@ -1612,7 +1695,8 @@
   "img": "assets/catalog/persian-afshar.jpg",
   "gallery": [],
   "short": "Persian Afshar",
-  "thumb": "assets/thumbs/persian-afshar.webp"
+  "thumb": "assets/thumbs/persian-afshar.webp",
+  "sku": ""
  },
  {
   "id": 19249,
@@ -1631,7 +1715,8 @@
   "img": "assets/catalog/jaldar-boukhara-6.jpg",
   "gallery": [],
   "short": "JALDAR BOUKHARA Silk Blend",
-  "thumb": "assets/thumbs/jaldar-boukhara-6.webp"
+  "thumb": "assets/thumbs/jaldar-boukhara-6.webp",
+  "sku": ""
  },
  {
   "id": 19247,
@@ -1650,7 +1735,8 @@
   "img": "assets/catalog/jaldar-boukhara-5.jpg",
   "gallery": [],
   "short": "Jaldar Boukhara",
-  "thumb": "assets/thumbs/jaldar-boukhara-5.webp"
+  "thumb": "assets/thumbs/jaldar-boukhara-5.webp",
+  "sku": ""
  },
  {
   "id": 19239,
@@ -1669,7 +1755,8 @@
   "img": "assets/catalog/persian-sarough.jpg",
   "gallery": [],
   "short": "Persian Sarough",
-  "thumb": "assets/thumbs/persian-sarough.webp"
+  "thumb": "assets/thumbs/persian-sarough.webp",
+  "sku": ""
  },
  {
   "id": 19237,
@@ -1688,7 +1775,8 @@
   "img": "assets/catalog/kazak.jpg",
   "gallery": [],
   "short": "Kazak",
-  "thumb": "assets/thumbs/kazak.webp"
+  "thumb": "assets/thumbs/kazak.webp",
+  "sku": ""
  },
  {
   "id": 19232,
@@ -1707,7 +1795,8 @@
   "img": "assets/catalog/heriz-patina.jpg",
   "gallery": [],
   "short": "Heriz Patina",
-  "thumb": "assets/thumbs/heriz-patina.webp"
+  "thumb": "assets/thumbs/heriz-patina.webp",
+  "sku": ""
  },
  {
   "id": 19214,
@@ -1726,7 +1815,8 @@
   "img": "assets/catalog/tajik-caucasus.jpg",
   "gallery": [],
   "short": "Tajik Caucasus",
-  "thumb": "assets/thumbs/tajik-caucasus.webp"
+  "thumb": "assets/thumbs/tajik-caucasus.webp",
+  "sku": ""
  },
  {
   "id": 19209,
@@ -1745,7 +1835,8 @@
   "img": "assets/catalog/jaldar-boukhara-4.jpg",
   "gallery": [],
   "short": "Jaldar Boukhara",
-  "thumb": "assets/thumbs/jaldar-boukhara-4.webp"
+  "thumb": "assets/thumbs/jaldar-boukhara-4.webp",
+  "sku": ""
  },
  {
   "id": 19204,
@@ -1764,7 +1855,8 @@
   "img": "assets/catalog/jaldar-boukhara-3.jpg",
   "gallery": [],
   "short": "Jaldar Boukhara",
-  "thumb": "assets/thumbs/jaldar-boukhara-3.webp"
+  "thumb": "assets/thumbs/jaldar-boukhara-3.webp",
+  "sku": ""
  },
  {
   "id": 19202,
@@ -1783,7 +1875,8 @@
   "img": "assets/catalog/royal-baluchi.jpg",
   "gallery": [],
   "short": "Royal Baluchi",
-  "thumb": "assets/thumbs/royal-baluchi.webp"
+  "thumb": "assets/thumbs/royal-baluchi.webp",
+  "sku": ""
  },
  {
   "id": 19194,
@@ -1802,7 +1895,8 @@
   "img": "assets/catalog/royal-balouch-3.jpg",
   "gallery": [],
   "short": "Royal Balouch",
-  "thumb": "assets/thumbs/royal-balouch-3.webp"
+  "thumb": "assets/thumbs/royal-balouch-3.webp",
+  "sku": ""
  },
  {
   "id": 19192,
@@ -1821,7 +1915,8 @@
   "img": "assets/catalog/royal-balouchi-5.jpg",
   "gallery": [],
   "short": "Royal Balouchi",
-  "thumb": "assets/thumbs/royal-balouchi-5.webp"
+  "thumb": "assets/thumbs/royal-balouchi-5.webp",
+  "sku": ""
  },
  {
   "id": 19187,
@@ -1840,7 +1935,8 @@
   "img": "assets/catalog/royal-balouchi-4.jpg",
   "gallery": [],
   "short": "Royal Balouchi",
-  "thumb": "assets/thumbs/royal-balouchi-4.webp"
+  "thumb": "assets/thumbs/royal-balouchi-4.webp",
+  "sku": ""
  },
  {
   "id": 19181,
@@ -1859,7 +1955,8 @@
   "img": "assets/catalog/boukhara.jpg",
   "gallery": [],
   "short": "Boukhara",
-  "thumb": "assets/thumbs/boukhara.webp"
+  "thumb": "assets/thumbs/boukhara.webp",
+  "sku": ""
  },
  {
   "id": 19173,
@@ -1878,7 +1975,8 @@
   "img": "assets/catalog/jaldar-boukhara-2.jpg",
   "gallery": [],
   "short": "Jaldar Boukhara",
-  "thumb": "assets/thumbs/jaldar-boukhara-2.webp"
+  "thumb": "assets/thumbs/jaldar-boukhara-2.webp",
+  "sku": ""
  },
  {
   "id": 19168,
@@ -1897,7 +1995,8 @@
   "img": "assets/catalog/jaldar-boukhara.jpg",
   "gallery": [],
   "short": "Jaldar Boukhara",
-  "thumb": "assets/thumbs/jaldar-boukhara.webp"
+  "thumb": "assets/thumbs/jaldar-boukhara.webp",
+  "sku": ""
  },
  {
   "id": 19161,
@@ -1916,7 +2015,8 @@
   "img": "assets/catalog/indo-heriz-2.jpg",
   "gallery": [],
   "short": "Indo Heriz",
-  "thumb": "assets/thumbs/indo-heriz-2.webp"
+  "thumb": "assets/thumbs/indo-heriz-2.webp",
+  "sku": ""
  },
  {
   "id": 19154,
@@ -1935,7 +2035,8 @@
   "img": "assets/catalog/indo-heriz.jpg",
   "gallery": [],
   "short": "Indo Heriz",
-  "thumb": "assets/thumbs/indo-heriz.webp"
+  "thumb": "assets/thumbs/indo-heriz.webp",
+  "sku": ""
  },
  {
   "id": 19146,
@@ -1954,7 +2055,8 @@
   "img": "assets/catalog/royal-balouch-2.jpg",
   "gallery": [],
   "short": "Royal Balouch",
-  "thumb": "assets/thumbs/royal-balouch-2.webp"
+  "thumb": "assets/thumbs/royal-balouch-2.webp",
+  "sku": ""
  },
  {
   "id": 19141,
@@ -1973,7 +2075,8 @@
   "img": "assets/catalog/balouchi-5.jpg",
   "gallery": [],
   "short": "Balouchi",
-  "thumb": "assets/thumbs/balouchi-5.webp"
+  "thumb": "assets/thumbs/balouchi-5.webp",
+  "sku": ""
  },
  {
   "id": 19138,
@@ -1992,7 +2095,8 @@
   "img": "assets/catalog/yalameh-patina.jpg",
   "gallery": [],
   "short": "Yalameh Patina",
-  "thumb": "assets/thumbs/yalameh-patina.webp"
+  "thumb": "assets/thumbs/yalameh-patina.webp",
+  "sku": ""
  },
  {
   "id": 19130,
@@ -2011,7 +2115,8 @@
   "img": "assets/catalog/yalameh-design.jpg",
   "gallery": [],
   "short": "Yalameh Design",
-  "thumb": "assets/thumbs/yalameh-design.webp"
+  "thumb": "assets/thumbs/yalameh-design.webp",
+  "sku": ""
  },
  {
   "id": 19128,
@@ -2030,7 +2135,8 @@
   "img": "assets/catalog/royal-balouchi-3.jpg",
   "gallery": [],
   "short": "Royal Balouchi",
-  "thumb": "assets/thumbs/royal-balouchi-3.webp"
+  "thumb": "assets/thumbs/royal-balouchi-3.webp",
+  "sku": ""
  },
  {
   "id": 19117,
@@ -2049,7 +2155,8 @@
   "img": "assets/catalog/baluch-3.jpg",
   "gallery": [],
   "short": "Baluch",
-  "thumb": "assets/thumbs/baluch-3.webp"
+  "thumb": "assets/thumbs/baluch-3.webp",
+  "sku": ""
  },
  {
   "id": 19106,
@@ -2068,7 +2175,8 @@
   "img": "assets/catalog/baluch-2.jpg",
   "gallery": [],
   "short": "Baluch",
-  "thumb": "assets/thumbs/baluch-2.webp"
+  "thumb": "assets/thumbs/baluch-2.webp",
+  "sku": ""
  },
  {
   "id": 19098,
@@ -2087,7 +2195,8 @@
   "img": "assets/catalog/balouchi-4.jpg",
   "gallery": [],
   "short": "Balouchi",
-  "thumb": "assets/thumbs/balouchi-4.webp"
+  "thumb": "assets/thumbs/balouchi-4.webp",
+  "sku": ""
  },
  {
   "id": 19096,
@@ -2106,7 +2215,8 @@
   "img": "assets/catalog/balouchi-3.jpg",
   "gallery": [],
   "short": "Balouchi",
-  "thumb": "assets/thumbs/balouchi-3.webp"
+  "thumb": "assets/thumbs/balouchi-3.webp",
+  "sku": ""
  },
  {
   "id": 19086,
@@ -2125,7 +2235,8 @@
   "img": "assets/catalog/balouchi-2.jpg",
   "gallery": [],
   "short": "Balouchi",
-  "thumb": "assets/thumbs/balouchi-2.webp"
+  "thumb": "assets/thumbs/balouchi-2.webp",
+  "sku": ""
  },
  {
   "id": 19083,
@@ -2144,7 +2255,8 @@
   "img": "assets/catalog/baluch.jpg",
   "gallery": [],
   "short": "Baluch",
-  "thumb": "assets/thumbs/baluch.webp"
+  "thumb": "assets/thumbs/baluch.webp",
+  "sku": ""
  },
  {
   "id": 19073,
@@ -2163,7 +2275,8 @@
   "img": "assets/catalog/balouchi.jpg",
   "gallery": [],
   "short": "Balouchi",
-  "thumb": "assets/thumbs/balouchi.webp"
+  "thumb": "assets/thumbs/balouchi.webp",
+  "sku": ""
  },
  {
   "id": 19072,
@@ -2182,7 +2295,8 @@
   "img": "assets/catalog/royal-balouch.jpg",
   "gallery": [],
   "short": "Royal Balouch",
-  "thumb": "assets/thumbs/royal-balouch.webp"
+  "thumb": "assets/thumbs/royal-balouch.webp",
+  "sku": ""
  },
  {
   "id": 19060,
@@ -2201,7 +2315,8 @@
   "img": "assets/catalog/royal-balouchi.jpg",
   "gallery": [],
   "short": "Royal Balouchi",
-  "thumb": "assets/thumbs/royal-balouchi.webp"
+  "thumb": "assets/thumbs/royal-balouchi.webp",
+  "sku": ""
  },
  {
   "id": 19058,
@@ -2220,7 +2335,8 @@
   "img": "assets/catalog/balouch.jpg",
   "gallery": [],
   "short": "Balouch",
-  "thumb": "assets/thumbs/balouch.webp"
+  "thumb": "assets/thumbs/balouch.webp",
+  "sku": ""
  },
  {
   "id": 18741,
@@ -2238,7 +2354,8 @@
   "desc": "",
   "img": null,
   "gallery": [],
-  "short": "Sectional"
+  "short": "Sectional",
+  "sku": ""
  },
  {
   "id": 18760,
@@ -2257,7 +2374,8 @@
   "img": "assets/catalog/sectional-17.jpg",
   "gallery": [],
   "short": "Sectional",
-  "thumb": "assets/thumbs/sectional-17.webp"
+  "thumb": "assets/thumbs/sectional-17.webp",
+  "sku": ""
  },
  {
   "id": 18759,
@@ -2276,7 +2394,8 @@
   "img": "assets/catalog/18759.jpg",
   "gallery": [],
   "short": "Sectional",
-  "thumb": "assets/thumbs/18759.webp"
+  "thumb": "assets/thumbs/18759.webp",
+  "sku": ""
  },
  {
   "id": 18758,
@@ -2295,7 +2414,8 @@
   "img": "assets/catalog/sectional-16.jpg",
   "gallery": [],
   "short": "Sectional",
-  "thumb": "assets/thumbs/sectional-16.webp"
+  "thumb": "assets/thumbs/sectional-16.webp",
+  "sku": ""
  },
  {
   "id": 18757,
@@ -2314,7 +2434,8 @@
   "img": "assets/catalog/sectional-15.jpg",
   "gallery": [],
   "short": "Sectional",
-  "thumb": "assets/thumbs/sectional-15.webp"
+  "thumb": "assets/thumbs/sectional-15.webp",
+  "sku": ""
  },
  {
   "id": 18756,
@@ -2333,7 +2454,8 @@
   "img": "assets/catalog/18756.jpg",
   "gallery": [],
   "short": "Sectional",
-  "thumb": "assets/thumbs/18756.webp"
+  "thumb": "assets/thumbs/18756.webp",
+  "sku": ""
  },
  {
   "id": 18755,
@@ -2352,7 +2474,8 @@
   "img": "assets/catalog/18755.jpg",
   "gallery": [],
   "short": "Sectional",
-  "thumb": "assets/thumbs/18755.webp"
+  "thumb": "assets/thumbs/18755.webp",
+  "sku": ""
  },
  {
   "id": 18753,
@@ -2371,7 +2494,8 @@
   "img": "assets/catalog/sectional-14.jpg",
   "gallery": [],
   "short": "Sectional",
-  "thumb": "assets/thumbs/sectional-14.webp"
+  "thumb": "assets/thumbs/sectional-14.webp",
+  "sku": ""
  },
  {
   "id": 18752,
@@ -2390,7 +2514,8 @@
   "img": "assets/catalog/sectional-13.jpg",
   "gallery": [],
   "short": "Sectional",
-  "thumb": "assets/thumbs/sectional-13.webp"
+  "thumb": "assets/thumbs/sectional-13.webp",
+  "sku": ""
  },
  {
   "id": 18751,
@@ -2409,7 +2534,8 @@
   "img": "assets/catalog/sectional-12.jpg",
   "gallery": [],
   "short": "Sectional",
-  "thumb": "assets/thumbs/sectional-12.webp"
+  "thumb": "assets/thumbs/sectional-12.webp",
+  "sku": ""
  },
  {
   "id": 18750,
@@ -2428,7 +2554,8 @@
   "img": "assets/catalog/sectional-11.jpg",
   "gallery": [],
   "short": "Sectional",
-  "thumb": "assets/thumbs/sectional-11.webp"
+  "thumb": "assets/thumbs/sectional-11.webp",
+  "sku": ""
  },
  {
   "id": 18749,
@@ -2447,7 +2574,8 @@
   "img": "assets/catalog/sectional-10.jpg",
   "gallery": [],
   "short": "Sectional",
-  "thumb": "assets/thumbs/sectional-10.webp"
+  "thumb": "assets/thumbs/sectional-10.webp",
+  "sku": ""
  },
  {
   "id": 18748,
@@ -2466,7 +2594,8 @@
   "img": "assets/catalog/sectional-9.jpg",
   "gallery": [],
   "short": "Sectional",
-  "thumb": "assets/thumbs/sectional-9.webp"
+  "thumb": "assets/thumbs/sectional-9.webp",
+  "sku": ""
  },
  {
   "id": 18747,
@@ -2485,7 +2614,8 @@
   "img": "assets/catalog/sectional-8.jpg",
   "gallery": [],
   "short": "Sectional",
-  "thumb": "assets/thumbs/sectional-8.webp"
+  "thumb": "assets/thumbs/sectional-8.webp",
+  "sku": ""
  },
  {
   "id": 18746,
@@ -2504,7 +2634,8 @@
   "img": "assets/catalog/sectional-7.jpg",
   "gallery": [],
   "short": "Sectional",
-  "thumb": "assets/thumbs/sectional-7.webp"
+  "thumb": "assets/thumbs/sectional-7.webp",
+  "sku": ""
  },
  {
   "id": 18745,
@@ -2523,7 +2654,8 @@
   "img": "assets/catalog/sectional-6.jpg",
   "gallery": [],
   "short": "Sectional",
-  "thumb": "assets/thumbs/sectional-6.webp"
+  "thumb": "assets/thumbs/sectional-6.webp",
+  "sku": ""
  },
  {
   "id": 18743,
@@ -2542,7 +2674,8 @@
   "img": "assets/catalog/sectional-5.jpg",
   "gallery": [],
   "short": "Sectional",
-  "thumb": "assets/thumbs/sectional-5.webp"
+  "thumb": "assets/thumbs/sectional-5.webp",
+  "sku": ""
  },
  {
   "id": 18742,
@@ -2561,7 +2694,8 @@
   "img": "assets/catalog/sectional-4.jpg",
   "gallery": [],
   "short": "Sectional",
-  "thumb": "assets/thumbs/sectional-4.webp"
+  "thumb": "assets/thumbs/sectional-4.webp",
+  "sku": ""
  },
  {
   "id": 18739,
@@ -2580,7 +2714,8 @@
   "img": "assets/catalog/sectional-3.jpg",
   "gallery": [],
   "short": "Sectional",
-  "thumb": "assets/thumbs/sectional-3.webp"
+  "thumb": "assets/thumbs/sectional-3.webp",
+  "sku": ""
  },
  {
   "id": 18738,
@@ -2599,7 +2734,8 @@
   "img": "assets/catalog/sectional-2.jpg",
   "gallery": [],
   "short": "Sectional",
-  "thumb": "assets/thumbs/sectional-2.webp"
+  "thumb": "assets/thumbs/sectional-2.webp",
+  "sku": ""
  },
  {
   "id": 18630,
@@ -2618,7 +2754,8 @@
   "img": "assets/catalog/sectional.jpg",
   "gallery": [],
   "short": "Sectional",
-  "thumb": "assets/thumbs/sectional.webp"
+  "thumb": "assets/thumbs/sectional.webp",
+  "sku": ""
  },
  {
   "id": 18629,
@@ -2637,7 +2774,8 @@
   "img": "assets/catalog/chair-21.jpg",
   "gallery": [],
   "short": "Chair",
-  "thumb": "assets/thumbs/chair-21.webp"
+  "thumb": "assets/thumbs/chair-21.webp",
+  "sku": ""
  },
  {
   "id": 18628,
@@ -2656,7 +2794,8 @@
   "img": "assets/catalog/chair-20.jpg",
   "gallery": [],
   "short": "Chair",
-  "thumb": "assets/thumbs/chair-20.webp"
+  "thumb": "assets/thumbs/chair-20.webp",
+  "sku": ""
  },
  {
   "id": 18627,
@@ -2675,7 +2814,8 @@
   "img": "assets/catalog/chair-19.jpg",
   "gallery": [],
   "short": "Chair",
-  "thumb": "assets/thumbs/chair-19.webp"
+  "thumb": "assets/thumbs/chair-19.webp",
+  "sku": ""
  },
  {
   "id": 18626,
@@ -2694,7 +2834,8 @@
   "img": "assets/catalog/chair-18.jpg",
   "gallery": [],
   "short": "Chair",
-  "thumb": "assets/thumbs/chair-18.webp"
+  "thumb": "assets/thumbs/chair-18.webp",
+  "sku": ""
  },
  {
   "id": 18625,
@@ -2713,7 +2854,8 @@
   "img": "assets/catalog/chair-17.jpg",
   "gallery": [],
   "short": "Chair",
-  "thumb": "assets/thumbs/chair-17.webp"
+  "thumb": "assets/thumbs/chair-17.webp",
+  "sku": ""
  },
  {
   "id": 18623,
@@ -2732,7 +2874,8 @@
   "img": "assets/catalog/chair-16.jpg",
   "gallery": [],
   "short": "Chair",
-  "thumb": "assets/thumbs/chair-16.webp"
+  "thumb": "assets/thumbs/chair-16.webp",
+  "sku": ""
  },
  {
   "id": 18622,
@@ -2751,7 +2894,8 @@
   "img": "assets/catalog/chair-15.jpg",
   "gallery": [],
   "short": "Chair",
-  "thumb": "assets/thumbs/chair-15.webp"
+  "thumb": "assets/thumbs/chair-15.webp",
+  "sku": ""
  },
  {
   "id": 18621,
@@ -2770,7 +2914,8 @@
   "img": "assets/catalog/chair-14.jpg",
   "gallery": [],
   "short": "Chair",
-  "thumb": "assets/thumbs/chair-14.webp"
+  "thumb": "assets/thumbs/chair-14.webp",
+  "sku": ""
  },
  {
   "id": 18620,
@@ -2789,7 +2934,8 @@
   "img": "assets/catalog/chair-13.jpg",
   "gallery": [],
   "short": "Chair",
-  "thumb": "assets/thumbs/chair-13.webp"
+  "thumb": "assets/thumbs/chair-13.webp",
+  "sku": ""
  },
  {
   "id": 18618,
@@ -2808,7 +2954,8 @@
   "img": "assets/catalog/chair-12.jpg",
   "gallery": [],
   "short": "Chair",
-  "thumb": "assets/thumbs/chair-12.webp"
+  "thumb": "assets/thumbs/chair-12.webp",
+  "sku": ""
  },
  {
   "id": 18617,
@@ -2827,7 +2974,8 @@
   "img": "assets/catalog/chair-11.jpg",
   "gallery": [],
   "short": "Chair",
-  "thumb": "assets/thumbs/chair-11.webp"
+  "thumb": "assets/thumbs/chair-11.webp",
+  "sku": ""
  },
  {
   "id": 18616,
@@ -2846,7 +2994,8 @@
   "img": "assets/catalog/chair-10.jpg",
   "gallery": [],
   "short": "chair",
-  "thumb": "assets/thumbs/chair-10.webp"
+  "thumb": "assets/thumbs/chair-10.webp",
+  "sku": ""
  },
  {
   "id": 18615,
@@ -2865,7 +3014,8 @@
   "img": "assets/catalog/chair-9.jpg",
   "gallery": [],
   "short": "Chair",
-  "thumb": "assets/thumbs/chair-9.webp"
+  "thumb": "assets/thumbs/chair-9.webp",
+  "sku": ""
  },
  {
   "id": 18614,
@@ -2884,7 +3034,8 @@
   "img": "assets/catalog/chair-8.jpg",
   "gallery": [],
   "short": "Chair",
-  "thumb": "assets/thumbs/chair-8.webp"
+  "thumb": "assets/thumbs/chair-8.webp",
+  "sku": ""
  },
  {
   "id": 18613,
@@ -2903,7 +3054,8 @@
   "img": "assets/catalog/chair-7.jpg",
   "gallery": [],
   "short": "Chair",
-  "thumb": "assets/thumbs/chair-7.webp"
+  "thumb": "assets/thumbs/chair-7.webp",
+  "sku": ""
  },
  {
   "id": 18612,
@@ -2922,7 +3074,8 @@
   "img": "assets/catalog/chair-6.jpg",
   "gallery": [],
   "short": "Chair",
-  "thumb": "assets/thumbs/chair-6.webp"
+  "thumb": "assets/thumbs/chair-6.webp",
+  "sku": ""
  },
  {
   "id": 18611,
@@ -2941,7 +3094,8 @@
   "img": "assets/catalog/chair-5.jpg",
   "gallery": [],
   "short": "Chair",
-  "thumb": "assets/thumbs/chair-5.webp"
+  "thumb": "assets/thumbs/chair-5.webp",
+  "sku": ""
  },
  {
   "id": 18610,
@@ -2960,7 +3114,8 @@
   "img": "assets/catalog/chair-4.jpg",
   "gallery": [],
   "short": "Chair",
-  "thumb": "assets/thumbs/chair-4.webp"
+  "thumb": "assets/thumbs/chair-4.webp",
+  "sku": ""
  },
  {
   "id": 18608,
@@ -2979,7 +3134,8 @@
   "img": "assets/catalog/chair-3.jpg",
   "gallery": [],
   "short": "Chair",
-  "thumb": "assets/thumbs/chair-3.webp"
+  "thumb": "assets/thumbs/chair-3.webp",
+  "sku": ""
  },
  {
   "id": 18607,
@@ -2998,7 +3154,8 @@
   "img": "assets/catalog/chair-2.jpg",
   "gallery": [],
   "short": "Chair",
-  "thumb": "assets/thumbs/chair-2.webp"
+  "thumb": "assets/thumbs/chair-2.webp",
+  "sku": ""
  },
  {
   "id": 18606,
@@ -3017,7 +3174,8 @@
   "img": "assets/catalog/chair.jpg",
   "gallery": [],
   "short": "Chair",
-  "thumb": "assets/thumbs/chair.webp"
+  "thumb": "assets/thumbs/chair.webp",
+  "sku": ""
  },
  {
   "id": 18605,
@@ -3036,7 +3194,8 @@
   "img": "assets/catalog/chaise-5.jpg",
   "gallery": [],
   "short": "Chaise",
-  "thumb": "assets/thumbs/chaise-5.webp"
+  "thumb": "assets/thumbs/chaise-5.webp",
+  "sku": ""
  },
  {
   "id": 18603,
@@ -3055,7 +3214,8 @@
   "img": "assets/catalog/chaise-4.jpg",
   "gallery": [],
   "short": "Chaise",
-  "thumb": "assets/thumbs/chaise-4.webp"
+  "thumb": "assets/thumbs/chaise-4.webp",
+  "sku": ""
  },
  {
   "id": 18602,
@@ -3074,7 +3234,8 @@
   "img": "assets/catalog/chaise-3.jpg",
   "gallery": [],
   "short": "Chaise",
-  "thumb": "assets/thumbs/chaise-3.webp"
+  "thumb": "assets/thumbs/chaise-3.webp",
+  "sku": ""
  },
  {
   "id": 18601,
@@ -3093,7 +3254,8 @@
   "img": "assets/catalog/chaise-2.jpg",
   "gallery": [],
   "short": "Chaise",
-  "thumb": "assets/thumbs/chaise-2.webp"
+  "thumb": "assets/thumbs/chaise-2.webp",
+  "sku": ""
  },
  {
   "id": 18561,
@@ -3112,7 +3274,8 @@
   "img": "assets/catalog/chaise.jpg",
   "gallery": [],
   "short": "Chaise",
-  "thumb": "assets/thumbs/chaise.webp"
+  "thumb": "assets/thumbs/chaise.webp",
+  "sku": ""
  },
  {
   "id": 18546,
@@ -3131,7 +3294,8 @@
   "img": "assets/catalog/ottoman-10.jpg",
   "gallery": [],
   "short": "Ottoman",
-  "thumb": "assets/thumbs/ottoman-10.webp"
+  "thumb": "assets/thumbs/ottoman-10.webp",
+  "sku": ""
  },
  {
   "id": 18548,
@@ -3150,7 +3314,8 @@
   "img": "assets/catalog/ottoman-9.jpg",
   "gallery": [],
   "short": "Ottoman",
-  "thumb": "assets/thumbs/ottoman-9.webp"
+  "thumb": "assets/thumbs/ottoman-9.webp",
+  "sku": ""
  },
  {
   "id": 18547,
@@ -3169,7 +3334,8 @@
   "img": "assets/catalog/ottoman-8.jpg",
   "gallery": [],
   "short": "Ottoman",
-  "thumb": "assets/thumbs/ottoman-8.webp"
+  "thumb": "assets/thumbs/ottoman-8.webp",
+  "sku": ""
  },
  {
   "id": 18545,
@@ -3188,7 +3354,8 @@
   "img": "assets/catalog/ottoman-7.jpg",
   "gallery": [],
   "short": "Ottoman",
-  "thumb": "assets/thumbs/ottoman-7.webp"
+  "thumb": "assets/thumbs/ottoman-7.webp",
+  "sku": ""
  },
  {
   "id": 18544,
@@ -3207,7 +3374,8 @@
   "img": "assets/catalog/ottoman-6.jpg",
   "gallery": [],
   "short": "Ottoman",
-  "thumb": "assets/thumbs/ottoman-6.webp"
+  "thumb": "assets/thumbs/ottoman-6.webp",
+  "sku": ""
  },
  {
   "id": 18543,
@@ -3226,7 +3394,8 @@
   "img": "assets/catalog/ottoman-5.jpg",
   "gallery": [],
   "short": "Ottoman",
-  "thumb": "assets/thumbs/ottoman-5.webp"
+  "thumb": "assets/thumbs/ottoman-5.webp",
+  "sku": ""
  },
  {
   "id": 18542,
@@ -3245,7 +3414,8 @@
   "img": "assets/catalog/ottoman-4.jpg",
   "gallery": [],
   "short": "Ottoman",
-  "thumb": "assets/thumbs/ottoman-4.webp"
+  "thumb": "assets/thumbs/ottoman-4.webp",
+  "sku": ""
  },
  {
   "id": 18541,
@@ -3264,7 +3434,8 @@
   "img": "assets/catalog/ottoman-3.jpg",
   "gallery": [],
   "short": "Ottoman",
-  "thumb": "assets/thumbs/ottoman-3.webp"
+  "thumb": "assets/thumbs/ottoman-3.webp",
+  "sku": ""
  },
  {
   "id": 18540,
@@ -3283,7 +3454,8 @@
   "img": "assets/catalog/ottoman-2.jpg",
   "gallery": [],
   "short": "Ottoman",
-  "thumb": "assets/thumbs/ottoman-2.webp"
+  "thumb": "assets/thumbs/ottoman-2.webp",
+  "sku": ""
  },
  {
   "id": 18539,
@@ -3302,7 +3474,8 @@
   "img": "assets/catalog/ottoman.jpg",
   "gallery": [],
   "short": "Ottoman",
-  "thumb": "assets/thumbs/ottoman.webp"
+  "thumb": "assets/thumbs/ottoman.webp",
+  "sku": ""
  },
  {
   "id": 18516,
@@ -3321,7 +3494,8 @@
   "img": "assets/catalog/stationary-29.jpg",
   "gallery": [],
   "short": "Stationary",
-  "thumb": "assets/thumbs/stationary-29.webp"
+  "thumb": "assets/thumbs/stationary-29.webp",
+  "sku": ""
  },
  {
   "id": 18515,
@@ -3347,7 +3521,8 @@
    "assets/catalog/stationary-28-7.jpg"
   ],
   "short": "Stationary",
-  "thumb": "assets/thumbs/stationary-28.webp"
+  "thumb": "assets/thumbs/stationary-28.webp",
+  "sku": ""
  },
  {
   "id": 18508,
@@ -3373,7 +3548,8 @@
    "assets/catalog/stationary-27-7.jpg"
   ],
   "short": "Stationary",
-  "thumb": "assets/thumbs/stationary-27.webp"
+  "thumb": "assets/thumbs/stationary-27.webp",
+  "sku": ""
  },
  {
   "id": 18504,
@@ -3399,7 +3575,8 @@
    "assets/catalog/stationary-26-7.jpg"
   ],
   "short": "Stationary",
-  "thumb": "assets/thumbs/stationary-26.webp"
+  "thumb": "assets/thumbs/stationary-26.webp",
+  "sku": ""
  },
  {
   "id": 18500,
@@ -3425,7 +3602,8 @@
    "assets/catalog/stationary-25-7.jpg"
   ],
   "short": "Stationary",
-  "thumb": "assets/thumbs/stationary-25.webp"
+  "thumb": "assets/thumbs/stationary-25.webp",
+  "sku": ""
  },
  {
   "id": 18496,
@@ -3444,7 +3622,8 @@
   "img": "assets/catalog/stationary-24.jpg",
   "gallery": [],
   "short": "Stationary",
-  "thumb": "assets/thumbs/stationary-24.webp"
+  "thumb": "assets/thumbs/stationary-24.webp",
+  "sku": ""
  },
  {
   "id": 18492,
@@ -3468,7 +3647,8 @@
    "assets/catalog/stationary-23-5.jpg"
   ],
   "short": "Stationary",
-  "thumb": "assets/thumbs/stationary-23.webp"
+  "thumb": "assets/thumbs/stationary-23.webp",
+  "sku": ""
  },
  {
   "id": 18489,
@@ -3492,7 +3672,8 @@
    "assets/catalog/stationary-22-5.jpg"
   ],
   "short": "Stationary",
-  "thumb": "assets/thumbs/stationary-22.webp"
+  "thumb": "assets/thumbs/stationary-22.webp",
+  "sku": ""
  },
  {
   "id": 18482,
@@ -3514,7 +3695,8 @@
    "assets/catalog/stationary-21-3.jpg"
   ],
   "short": "Stationary",
-  "thumb": "assets/thumbs/stationary-21.webp"
+  "thumb": "assets/thumbs/stationary-21.webp",
+  "sku": ""
  },
  {
   "id": 18481,
@@ -3539,7 +3721,8 @@
    "assets/catalog/stationary-20-6.jpg"
   ],
   "short": "Stationary",
-  "thumb": "assets/thumbs/stationary-20.webp"
+  "thumb": "assets/thumbs/stationary-20.webp",
+  "sku": ""
  },
  {
   "id": 18477,
@@ -3567,7 +3750,8 @@
    "assets/catalog/stationary-19-9.jpg"
   ],
   "short": "Stationary",
-  "thumb": "assets/thumbs/stationary-19.webp"
+  "thumb": "assets/thumbs/stationary-19.webp",
+  "sku": ""
  },
  {
   "id": 18470,
@@ -3590,7 +3774,8 @@
    "assets/catalog/stationary-18-4.jpg"
   ],
   "short": "Stationary",
-  "thumb": "assets/thumbs/stationary-18.webp"
+  "thumb": "assets/thumbs/stationary-18.webp",
+  "sku": ""
  },
  {
   "id": 18468,
@@ -3609,7 +3794,8 @@
   "img": "assets/catalog/stationary-17.jpg",
   "gallery": [],
   "short": "Stationary",
-  "thumb": "assets/thumbs/stationary-17.webp"
+  "thumb": "assets/thumbs/stationary-17.webp",
+  "sku": ""
  },
  {
   "id": 18431,
@@ -3628,7 +3814,8 @@
   "img": "assets/catalog/stationary-16.jpg",
   "gallery": [],
   "short": "Stationary",
-  "thumb": "assets/thumbs/stationary-16.webp"
+  "thumb": "assets/thumbs/stationary-16.webp",
+  "sku": ""
  },
  {
   "id": 18424,
@@ -3647,7 +3834,8 @@
   "img": "assets/catalog/stationary-15.jpg",
   "gallery": [],
   "short": "Stationary",
-  "thumb": "assets/thumbs/stationary-15.webp"
+  "thumb": "assets/thumbs/stationary-15.webp",
+  "sku": ""
  },
  {
   "id": 18420,
@@ -3668,7 +3856,8 @@
    "assets/catalog/sofa-5-2.jpg"
   ],
   "short": "Sofa",
-  "thumb": "assets/thumbs/sofa-5.webp"
+  "thumb": "assets/thumbs/sofa-5.webp",
+  "sku": ""
  },
  {
   "id": 18416,
@@ -3690,7 +3879,8 @@
    "assets/catalog/stationary-14-3.jpg"
   ],
   "short": "Stationary",
-  "thumb": "assets/thumbs/stationary-14.webp"
+  "thumb": "assets/thumbs/stationary-14.webp",
+  "sku": ""
  },
  {
   "id": 18415,
@@ -3709,7 +3899,8 @@
   "img": "assets/catalog/stationary-13.jpg",
   "gallery": [],
   "short": "Stationary",
-  "thumb": "assets/thumbs/stationary-13.webp"
+  "thumb": "assets/thumbs/stationary-13.webp",
+  "sku": ""
  },
  {
   "id": 18408,
@@ -3730,7 +3921,8 @@
    "assets/catalog/stationary-12-2.jpg"
   ],
   "short": "Stationary",
-  "thumb": "assets/thumbs/stationary-12.webp"
+  "thumb": "assets/thumbs/stationary-12.webp",
+  "sku": ""
  },
  {
   "id": 18406,
@@ -3749,7 +3941,8 @@
   "img": "assets/catalog/stationary-11.jpg",
   "gallery": [],
   "short": "Stationary",
-  "thumb": "assets/thumbs/stationary-11.webp"
+  "thumb": "assets/thumbs/stationary-11.webp",
+  "sku": ""
  },
  {
   "id": 18399,
@@ -3768,7 +3961,8 @@
   "img": "assets/catalog/stationary-10.jpg",
   "gallery": [],
   "short": "Stationary",
-  "thumb": "assets/thumbs/stationary-10.webp"
+  "thumb": "assets/thumbs/stationary-10.webp",
+  "sku": ""
  },
  {
   "id": 18398,
@@ -3787,7 +3981,8 @@
   "img": "assets/catalog/stationary-9.jpg",
   "gallery": [],
   "short": "Stationary",
-  "thumb": "assets/thumbs/stationary-9.webp"
+  "thumb": "assets/thumbs/stationary-9.webp",
+  "sku": ""
  },
  {
   "id": 18394,
@@ -3808,7 +4003,8 @@
    "assets/catalog/stationary-8-2.jpg"
   ],
   "short": "Stationary",
-  "thumb": "assets/thumbs/stationary-8.webp"
+  "thumb": "assets/thumbs/stationary-8.webp",
+  "sku": ""
  },
  {
   "id": 18383,
@@ -3827,7 +4023,8 @@
   "img": "assets/catalog/stationary-7.jpg",
   "gallery": [],
   "short": "Stationary",
-  "thumb": "assets/thumbs/stationary-7.webp"
+  "thumb": "assets/thumbs/stationary-7.webp",
+  "sku": ""
  },
  {
   "id": 18382,
@@ -3848,7 +4045,8 @@
    "assets/catalog/stationary-6-2.jpg"
   ],
   "short": "Stationary",
-  "thumb": "assets/thumbs/stationary-6.webp"
+  "thumb": "assets/thumbs/stationary-6.webp",
+  "sku": ""
  },
  {
   "id": 18378,
@@ -3867,7 +4065,8 @@
   "img": "assets/catalog/stationary-5.jpg",
   "gallery": [],
   "short": "Stationary",
-  "thumb": "assets/thumbs/stationary-5.webp"
+  "thumb": "assets/thumbs/stationary-5.webp",
+  "sku": ""
  },
  {
   "id": 18371,
@@ -3889,7 +4088,8 @@
    "assets/catalog/stationary-4-3.jpg"
   ],
   "short": "Stationary",
-  "thumb": "assets/thumbs/stationary-4.webp"
+  "thumb": "assets/thumbs/stationary-4.webp",
+  "sku": ""
  },
  {
   "id": 18364,
@@ -3908,7 +4108,8 @@
   "img": "assets/catalog/stationary-3.jpg",
   "gallery": [],
   "short": "Stationary",
-  "thumb": "assets/thumbs/stationary-3.webp"
+  "thumb": "assets/thumbs/stationary-3.webp",
+  "sku": ""
  },
  {
   "id": 18359,
@@ -3927,7 +4128,8 @@
   "img": "assets/catalog/stationary-2.jpg",
   "gallery": [],
   "short": "Stationary",
-  "thumb": "assets/thumbs/stationary-2.webp"
+  "thumb": "assets/thumbs/stationary-2.webp",
+  "sku": ""
  },
  {
   "id": 18357,
@@ -3946,7 +4148,8 @@
   "img": "assets/catalog/stationary.jpg",
   "gallery": [],
   "short": "Stationary",
-  "thumb": "assets/thumbs/stationary.webp"
+  "thumb": "assets/thumbs/stationary.webp",
+  "sku": ""
  },
  {
   "id": 18350,
@@ -3965,7 +4168,8 @@
   "img": "assets/catalog/sofa-4.jpg",
   "gallery": [],
   "short": "Sofa",
-  "thumb": "assets/thumbs/sofa-4.webp"
+  "thumb": "assets/thumbs/sofa-4.webp",
+  "sku": ""
  },
  {
   "id": 18343,
@@ -3984,7 +4188,8 @@
   "img": "assets/catalog/sofa-3.jpg",
   "gallery": [],
   "short": "Sofa",
-  "thumb": "assets/thumbs/sofa-3.webp"
+  "thumb": "assets/thumbs/sofa-3.webp",
+  "sku": ""
  },
  {
   "id": 18341,
@@ -4005,7 +4210,8 @@
    "assets/catalog/sofa-2-2.jpg"
   ],
   "short": "Sofa",
-  "thumb": "assets/thumbs/sofa-2.webp"
+  "thumb": "assets/thumbs/sofa-2.webp",
+  "sku": ""
  },
  {
   "id": 18337,
@@ -4024,7 +4230,8 @@
   "img": "assets/catalog/sofa.jpg",
   "gallery": [],
   "short": "Sofa",
-  "thumb": "assets/thumbs/sofa.webp"
+  "thumb": "assets/thumbs/sofa.webp",
+  "sku": ""
  },
  {
   "id": 18314,
@@ -4043,7 +4250,8 @@
   "img": "assets/catalog/sofa-bed-6.jpg",
   "gallery": [],
   "short": "Sofa Bed",
-  "thumb": "assets/thumbs/sofa-bed-6.webp"
+  "thumb": "assets/thumbs/sofa-bed-6.webp",
+  "sku": ""
  },
  {
   "id": 18310,
@@ -4064,7 +4272,8 @@
    "assets/catalog/sofa-bed-5-2.jpg"
   ],
   "short": "Sofa Bed",
-  "thumb": "assets/thumbs/sofa-bed-5.webp"
+  "thumb": "assets/thumbs/sofa-bed-5.webp",
+  "sku": ""
  },
  {
   "id": 18309,
@@ -4085,7 +4294,8 @@
    "assets/catalog/sofa-bed-4-2.jpg"
   ],
   "short": "Sofa Bed",
-  "thumb": "assets/thumbs/sofa-bed-4.webp"
+  "thumb": "assets/thumbs/sofa-bed-4.webp",
+  "sku": ""
  },
  {
   "id": 18304,
@@ -4107,7 +4317,8 @@
    "assets/catalog/sofa-bed-3-3.jpg"
   ],
   "short": "Sofa Bed",
-  "thumb": "assets/thumbs/sofa-bed-3.webp"
+  "thumb": "assets/thumbs/sofa-bed-3.webp",
+  "sku": ""
  },
  {
   "id": 18300,
@@ -4126,7 +4337,8 @@
   "img": "assets/catalog/sofa-bed-2.jpg",
   "gallery": [],
   "short": "Sofa Bed",
-  "thumb": "assets/thumbs/sofa-bed-2.webp"
+  "thumb": "assets/thumbs/sofa-bed-2.webp",
+  "sku": ""
  },
  {
   "id": 18296,
@@ -4149,7 +4361,8 @@
    "assets/catalog/bed-room-12-4.jpg"
   ],
   "short": "Sofa Bed",
-  "thumb": "assets/thumbs/bed-room-12.webp"
+  "thumb": "assets/thumbs/bed-room-12.webp",
+  "sku": ""
  },
  {
   "id": 18292,
@@ -4170,7 +4383,8 @@
    "assets/catalog/sofa-bed-2.jpg"
   ],
   "short": "Sofa Bed",
-  "thumb": "assets/thumbs/sofa-bed.webp"
+  "thumb": "assets/thumbs/sofa-bed.webp",
+  "sku": ""
  },
  {
   "id": 18262,
@@ -4188,7 +4402,8 @@
   "img": "assets/catalog/bed.jpg",
   "gallery": [],
   "short": "Keldell Grey",
-  "thumb": "assets/thumbs/bed.webp"
+  "thumb": "assets/thumbs/bed.webp",
+  "sku": ""
  },
  {
   "id": 18260,
@@ -4207,7 +4422,8 @@
   "img": "assets/catalog/bed-room-11.jpg",
   "gallery": [],
   "short": "Rony",
-  "thumb": "assets/thumbs/bed-room-11.webp"
+  "thumb": "assets/thumbs/bed-room-11.webp",
+  "sku": ""
  },
  {
   "id": 18259,
@@ -4232,7 +4448,8 @@
    "assets/catalog/bed-room-10-6.jpg"
   ],
   "short": "Sonia",
-  "thumb": "assets/thumbs/bed-room-10.webp"
+  "thumb": "assets/thumbs/bed-room-10.webp",
+  "sku": ""
  },
  {
   "id": 18257,
@@ -4251,7 +4468,8 @@
   "img": "assets/catalog/bed-room-9.jpg",
   "gallery": [],
   "short": "Kyla White",
-  "thumb": "assets/thumbs/bed-room-9.webp"
+  "thumb": "assets/thumbs/bed-room-9.webp",
+  "sku": ""
  },
  {
   "id": 18256,
@@ -4270,7 +4488,8 @@
   "img": "assets/catalog/bed-room-8.jpg",
   "gallery": [],
   "short": "Louis Phillip",
-  "thumb": "assets/thumbs/bed-room-8.webp"
+  "thumb": "assets/thumbs/bed-room-8.webp",
+  "sku": ""
  },
  {
   "id": 18246,
@@ -4289,7 +4508,8 @@
   "img": "assets/catalog/bed-room-6.jpg",
   "gallery": [],
   "short": "Leather bedroom",
-  "thumb": "assets/thumbs/bed-room-6.webp"
+  "thumb": "assets/thumbs/bed-room-6.webp",
+  "sku": ""
  },
  {
   "id": 18239,
@@ -4308,7 +4528,8 @@
   "img": "assets/catalog/bed-room-5.jpg",
   "gallery": [],
   "short": "Colossus",
-  "thumb": "assets/thumbs/bed-room-5.webp"
+  "thumb": "assets/thumbs/bed-room-5.webp",
+  "sku": ""
  },
  {
   "id": 18238,
@@ -4327,7 +4548,8 @@
   "img": "assets/catalog/bed-room-4.jpg",
   "gallery": [],
   "short": "Baltimore Leather",
-  "thumb": "assets/thumbs/bed-room-4.webp"
+  "thumb": "assets/thumbs/bed-room-4.webp",
+  "sku": ""
  },
  {
   "id": 18234,
@@ -4346,7 +4568,8 @@
   "img": "assets/catalog/bed-room-3.jpg",
   "gallery": [],
   "short": "Allson",
-  "thumb": "assets/thumbs/bed-room-3.webp"
+  "thumb": "assets/thumbs/bed-room-3.webp",
+  "sku": ""
  },
  {
   "id": 18225,
@@ -4365,7 +4588,8 @@
   "img": "assets/catalog/bed-room-2.jpg",
   "gallery": [],
   "short": "Morelli",
-  "thumb": "assets/thumbs/bed-room-2.webp"
+  "thumb": "assets/thumbs/bed-room-2.webp",
+  "sku": "WA193"
  },
  {
   "id": 18216,
@@ -4384,7 +4608,8 @@
   "img": "assets/catalog/bed-room.jpg",
   "gallery": [],
   "short": "Andrea",
-  "thumb": "assets/thumbs/bed-room.webp"
+  "thumb": "assets/thumbs/bed-room.webp",
+  "sku": ""
  },
  {
   "id": 18199,
@@ -4402,7 +4627,8 @@
   "img": "assets/catalog/dining-room-14.jpg",
   "gallery": [],
   "short": "Dining Room",
-  "thumb": "assets/thumbs/dining-room-14.webp"
+  "thumb": "assets/thumbs/dining-room-14.webp",
+  "sku": ""
  },
  {
   "id": 18195,
@@ -4420,7 +4646,8 @@
   "img": "assets/catalog/dining-room-13.jpg",
   "gallery": [],
   "short": "Dining Room",
-  "thumb": "assets/thumbs/dining-room-13.webp"
+  "thumb": "assets/thumbs/dining-room-13.webp",
+  "sku": ""
  },
  {
   "id": 18191,
@@ -4438,7 +4665,8 @@
   "img": "assets/catalog/dining-room-12.jpg",
   "gallery": [],
   "short": "Dining Room",
-  "thumb": "assets/thumbs/dining-room-12.webp"
+  "thumb": "assets/thumbs/dining-room-12.webp",
+  "sku": ""
  },
  {
   "id": 18187,
@@ -4456,7 +4684,8 @@
   "img": "assets/catalog/dining-room-11.jpg",
   "gallery": [],
   "short": "Dining Room",
-  "thumb": "assets/thumbs/dining-room-11.webp"
+  "thumb": "assets/thumbs/dining-room-11.webp",
+  "sku": ""
  },
  {
   "id": 18182,
@@ -4474,7 +4703,8 @@
   "img": "assets/catalog/dining-room-10.jpg",
   "gallery": [],
   "short": "Keswick",
-  "thumb": "assets/thumbs/dining-room-10.webp"
+  "thumb": "assets/thumbs/dining-room-10.webp",
+  "sku": ""
  },
  {
   "id": 18181,
@@ -4492,7 +4722,8 @@
   "img": "assets/catalog/dining-room-9.jpg",
   "gallery": [],
   "short": "Dining Room",
-  "thumb": "assets/thumbs/dining-room-9.webp"
+  "thumb": "assets/thumbs/dining-room-9.webp",
+  "sku": ""
  },
  {
   "id": 18173,
@@ -4510,7 +4741,8 @@
   "img": "assets/catalog/dining-room-8.jpg",
   "gallery": [],
   "short": "Dining Room",
-  "thumb": "assets/thumbs/dining-room-8.webp"
+  "thumb": "assets/thumbs/dining-room-8.webp",
+  "sku": ""
  },
  {
   "id": 18169,
@@ -4528,7 +4760,8 @@
   "img": "assets/catalog/dining-room-7.jpg",
   "gallery": [],
   "short": "Dining Room",
-  "thumb": "assets/thumbs/dining-room-7.webp"
+  "thumb": "assets/thumbs/dining-room-7.webp",
+  "sku": ""
  },
  {
   "id": 18165,
@@ -4546,7 +4779,8 @@
   "img": "assets/catalog/dining-room-6.jpg",
   "gallery": [],
   "short": "Dining Room",
-  "thumb": "assets/thumbs/dining-room-6.webp"
+  "thumb": "assets/thumbs/dining-room-6.webp",
+  "sku": ""
  },
  {
   "id": 18161,
@@ -4564,7 +4798,8 @@
   "img": "assets/catalog/dining-room-5.jpg",
   "gallery": [],
   "short": "Dining Room",
-  "thumb": "assets/thumbs/dining-room-5.webp"
+  "thumb": "assets/thumbs/dining-room-5.webp",
+  "sku": ""
  },
  {
   "id": 18157,
@@ -4582,7 +4817,8 @@
   "img": "assets/catalog/dining-room-4.jpg",
   "gallery": [],
   "short": "Dining Room",
-  "thumb": "assets/thumbs/dining-room-4.webp"
+  "thumb": "assets/thumbs/dining-room-4.webp",
+  "sku": ""
  },
  {
   "id": 18153,
@@ -4600,7 +4836,8 @@
   "img": "assets/catalog/dining-room-3.jpg",
   "gallery": [],
   "short": "Dining Room",
-  "thumb": "assets/thumbs/dining-room-3.webp"
+  "thumb": "assets/thumbs/dining-room-3.webp",
+  "sku": ""
  },
  {
   "id": 18148,
@@ -4618,7 +4855,8 @@
   "img": "assets/catalog/dining-room-2.jpg",
   "gallery": [],
   "short": "Dining Room",
-  "thumb": "assets/thumbs/dining-room-2.webp"
+  "thumb": "assets/thumbs/dining-room-2.webp",
+  "sku": ""
  },
  {
   "id": 18142,
@@ -4636,7 +4874,8 @@
   "img": "assets/catalog/dining-room.jpg",
   "gallery": [],
   "short": "Dining Room",
-  "thumb": "assets/thumbs/dining-room.webp"
+  "thumb": "assets/thumbs/dining-room.webp",
+  "sku": ""
  },
  {
   "id": 18137,
@@ -4654,6 +4893,7 @@
   "img": "assets/catalog/dining-room-available.jpg",
   "gallery": [],
   "short": "Dining Room",
-  "thumb": "assets/thumbs/dining-room-available.webp"
+  "thumb": "assets/thumbs/dining-room-available.webp",
+  "sku": ""
  }
 ]

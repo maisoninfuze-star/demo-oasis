@@ -180,7 +180,7 @@
     const srcset = it.hi ? ` srcset="${it.img} 1x, ${it.hi} 2x"` : '';
     const inner = `
       <div class="pcard__media"><img src="${it.img}"${srcset} alt="${it.name}" loading="lazy" decoding="async" width="480" height="480">${tag}</div>
-      <div class="pcard__info"><div><h3>${it.name}</h3><span>${it.brand === 'oasis' ? subLabel(it.sub) : brandName}</span></div>
+      <div class="pcard__info"><div><h3>${it.name}</h3><span class="pcard__sku">${it.sku ? 'SKU ' + it.sku : (it.ref ? (L()==='fr'?'Réf ':'Ref ') + it.ref : '')}</span><span>${it.brand === 'oasis' ? subLabel(it.sub) : brandName}</span></div>
       <p>${price}</p></div>`;
     return it.link
       ? `<a class="pcard" href="${it.link}">${inner}</a>`

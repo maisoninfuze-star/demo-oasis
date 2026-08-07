@@ -52,6 +52,7 @@ for pr in products:
     sh = (sh[:1].upper() + sh[1:].lower()).title() if sh.isupper() else sh
     catalog.append({
         'id': pr['id'],
+        'sku': (pr.get('sku') or '').strip(),
         'short': sh,
         'name': html.unescape(pr['name']).strip(),
         'slug': pr['slug'],

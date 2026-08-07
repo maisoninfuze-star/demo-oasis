@@ -873,3 +873,7 @@ html.lb-open, html.lb-open body{overflow:hidden}
   color:#F6F1E8;background:linear-gradient(transparent,rgba(16,14,12,.85))}
 .custom-gallery__fine{font-family:var(--font-sans);font-size:.7rem;color:rgba(42,36,32,.5);margin-bottom:1.6rem}
 @media (max-width:700px){ .custom-gallery{grid-template-columns:1fr} .custom-gallery img{height:200px} }
+
+/* item numbers on cards */
+.pcard__sku{display:block;font-family:var(--font-sans);font-size:.6rem;letter-spacing:.12em;
+  color:rgba(246,241,232,.42);margin-top:.15rem;text-transform:uppercase}

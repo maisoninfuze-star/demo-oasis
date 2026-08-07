@@ -2898,7 +2898,8 @@
    "gallery": [
     "https://www.titusfurniture.ca/wp-content/uploads/2021/06/167_26_DR_Web.jpg"
    ],
-   "url": "https://www.titusfurniture.ca/shop/main-catalog/beds/r167/"
+   "url": "https://www.titusfurniture.ca/shop/main-catalog/beds/r167/",
+   "sku": "R167"
   },
   {
    "id": "titus-10165",
@@ -4022,7 +4023,8 @@
     "https://www.titusfurniture.ca/wp-content/uploads/2019/04/869_60_WEB.jpg",
     "https://www.titusfurniture.ca/wp-content/uploads/2019/04/869_OPEN_26_WEB.jpg"
    ],
-   "url": "https://www.titusfurniture.ca/shop/catalog/accessories-catalog/r869/"
+   "url": "https://www.titusfurniture.ca/shop/catalog/accessories-catalog/r869/",
+   "sku": "R869"
   },
   {
    "id": "titus-6018",
@@ -4268,7 +4270,8 @@
     "https://www.titusfurniture.ca/wp-content/uploads/2019/04/158_60_WEB.jpg",
     "https://www.titusfurniture.ca/wp-content/uploads/2019/04/158_26_DR_WEB.jpg"
    ],
-   "url": "https://www.titusfurniture.ca/shop/rosemount/headboards-beds/r158/"
+   "url": "https://www.titusfurniture.ca/shop/rosemount/headboards-beds/r158/",
+   "sku": "R158"
   },
   {
    "id": "titus-5838",
@@ -5567,7 +5570,8 @@
     "https://www.titusfurniture.ca/wp-content/uploads/2016/11/153_60_WEB.jpg",
     "https://www.titusfurniture.ca/wp-content/uploads/2016/11/153_26_DR_WEB.jpg"
    ],
-   "url": "https://www.titusfurniture.ca/shop/main-catalog/beds/r153/"
+   "url": "https://www.titusfurniture.ca/shop/main-catalog/beds/r153/",
+   "sku": "R153"
   },
   {
    "id": "titus-3152",

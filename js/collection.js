@@ -175,7 +175,7 @@
       : it.clearance ? `<span class="pcard__tag">${T('Clearance','Liquidation')}</span>`
       : it.sale ? `<span class="pcard__tag">${T('On promotion','Promotion')}</span>` : '';
     const price = it.price
-      ? `${money(it.price)}${it.retail && it.retail > it.price ? ` <s>${money(it.retail)}</s>` : ''}`
+      ? `${it.from ? (L() === 'fr' ? 'Dès ' : 'From ') : ''}${money(it.price)}${it.retail && it.retail > it.price ? ` <s>${money(it.retail)}</s>` : ''}`
       : T('On request', 'Sur demande');
     const srcset = it.hi ? ` srcset="${it.img} 1x, ${it.hi} 2x"` : '';
     const inner = `

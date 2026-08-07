@@ -18,7 +18,8 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5150.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5200.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/1010-sofa"
+   "url": "https://www.aclassfurniture.ca/product/1010-sofa",
+   "delisted": true
   },
   {
    "id": "aclass-1280",
@@ -35,7 +36,10 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5150.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5200.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/1280"
+   "url": "https://www.aclassfurniture.ca/product/1280",
+   "net": 540.0,
+   "price": "1242",
+   "from": true
   },
   {
    "id": "aclass-1290",
@@ -52,7 +56,10 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5200.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/seat_front.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/1290"
+   "url": "https://www.aclassfurniture.ca/product/1290",
+   "net": 540.0,
+   "price": "1242",
+   "from": true
   },
   {
    "id": "aclass-1510",
@@ -69,7 +76,10 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5150.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5200.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/1510"
+   "url": "https://www.aclassfurniture.ca/product/1510",
+   "net": 520.0,
+   "price": "1196",
+   "from": true
   },
   {
    "id": "aclass-1617",
@@ -86,7 +96,10 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5150.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5200.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/1617"
+   "url": "https://www.aclassfurniture.ca/product/1617",
+   "net": 540.0,
+   "price": "1242",
+   "from": true
   },
   {
    "id": "aclass-1625",
@@ -103,7 +116,10 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5150.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5200.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/1625"
+   "url": "https://www.aclassfurniture.ca/product/1625",
+   "net": 540.0,
+   "price": "1242",
+   "from": true
   },
   {
    "id": "aclass-1650",
@@ -120,7 +136,10 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5150.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5200.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/1650"
+   "url": "https://www.aclassfurniture.ca/product/1650",
+   "net": 540.0,
+   "price": "1242",
+   "from": true
   },
   {
    "id": "aclass-1825",
@@ -137,7 +156,10 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5150.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5200.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/1825"
+   "url": "https://www.aclassfurniture.ca/product/1825",
+   "net": 580.0,
+   "price": "1334",
+   "from": true
   },
   {
    "id": "aclass-1830",
@@ -154,7 +176,10 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5150.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5200.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/1830"
+   "url": "https://www.aclassfurniture.ca/product/1830",
+   "net": 540.0,
+   "price": "1242",
+   "from": true
   },
   {
    "id": "aclass-1840",
@@ -171,7 +196,10 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5150.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5200.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/1840"
+   "url": "https://www.aclassfurniture.ca/product/1840",
+   "net": 640.0,
+   "price": "1472",
+   "from": true
   },
   {
    "id": "aclass-1845",
@@ -188,7 +216,10 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5150.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5200.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/1845"
+   "url": "https://www.aclassfurniture.ca/product/1845",
+   "net": 660.0,
+   "price": "1518",
+   "from": true
   },
   {
    "id": "aclass-1850",
@@ -205,7 +236,10 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5150.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5200.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/1850"
+   "url": "https://www.aclassfurniture.ca/product/1850",
+   "net": 640.0,
+   "price": "1472",
+   "from": true
   },
   {
    "id": "aclass-1855",
@@ -222,7 +256,10 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5150.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5200.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/1855"
+   "url": "https://www.aclassfurniture.ca/product/1855",
+   "net": 620.0,
+   "price": "1426",
+   "from": true
   },
   {
    "id": "aclass-1865",
@@ -239,7 +276,10 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5150.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5200.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/1865"
+   "url": "https://www.aclassfurniture.ca/product/1865",
+   "net": 600.0,
+   "price": "1380",
+   "from": true
   },
   {
    "id": "aclass-1870",
@@ -256,7 +296,10 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5150.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5200.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/1870"
+   "url": "https://www.aclassfurniture.ca/product/1870",
+   "net": 620.0,
+   "price": "1426",
+   "from": true
   },
   {
    "id": "aclass-1880",
@@ -273,7 +316,8 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5150.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5200.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/1880"
+   "url": "https://www.aclassfurniture.ca/product/1880",
+   "delisted": true
   },
   {
    "id": "aclass-2020",
@@ -290,7 +334,10 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/assets_uploads_product_images_12602.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/1515_Sectional.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/2020"
+   "url": "https://www.aclassfurniture.ca/product/2020",
+   "net": 520.0,
+   "price": "1196",
+   "from": true
   },
   {
    "id": "aclass-2070",
@@ -307,7 +354,10 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5150.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5200.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/2070"
+   "url": "https://www.aclassfurniture.ca/product/2070",
+   "net": 520.0,
+   "price": "1196",
+   "from": true
   },
   {
    "id": "aclass-2110",
@@ -324,7 +374,10 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5150.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5200.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/2110"
+   "url": "https://www.aclassfurniture.ca/product/2110",
+   "net": 520.0,
+   "price": "1196",
+   "from": true
   },
   {
    "id": "aclass-2110a",
@@ -341,7 +394,8 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5150.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5200.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/2110a"
+   "url": "https://www.aclassfurniture.ca/product/2110a",
+   "delisted": true
   },
   {
    "id": "aclass-2160",
@@ -358,7 +412,10 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5150.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5200.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/2160"
+   "url": "https://www.aclassfurniture.ca/product/2160",
+   "net": 520.0,
+   "price": "1196",
+   "from": true
   },
   {
    "id": "aclass-2170",
@@ -375,7 +432,10 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5200.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/seat_front.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/2170"
+   "url": "https://www.aclassfurniture.ca/product/2170",
+   "net": 520.0,
+   "price": "1196",
+   "from": true
   },
   {
    "id": "aclass-2305",
@@ -392,7 +452,8 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5150.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5200.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/2305"
+   "url": "https://www.aclassfurniture.ca/product/2305",
+   "delisted": true
   },
   {
    "id": "aclass-2310",
@@ -409,7 +470,10 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5150.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5200.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/2310"
+   "url": "https://www.aclassfurniture.ca/product/2310",
+   "net": 540.0,
+   "price": "1242",
+   "from": true
   },
   {
    "id": "aclass-2350",
@@ -426,7 +490,10 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5150.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5200.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/2350"
+   "url": "https://www.aclassfurniture.ca/product/2350",
+   "net": 540.0,
+   "price": "1242",
+   "from": true
   },
   {
    "id": "aclass-2550",
@@ -443,7 +510,10 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5150.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5200.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/2550"
+   "url": "https://www.aclassfurniture.ca/product/2550",
+   "net": 520.0,
+   "price": "1196",
+   "from": true
   },
   {
    "id": "aclass-2750",
@@ -460,7 +530,10 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5150.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5200.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/2750"
+   "url": "https://www.aclassfurniture.ca/product/2750",
+   "net": 520.0,
+   "price": "1196",
+   "from": true
   },
   {
    "id": "aclass-2760",
@@ -477,7 +550,10 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5150.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5200.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/2760"
+   "url": "https://www.aclassfurniture.ca/product/2760",
+   "net": 520.0,
+   "price": "1196",
+   "from": true
   },
   {
    "id": "aclass-2860",
@@ -494,7 +570,10 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5150.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5200.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/2860"
+   "url": "https://www.aclassfurniture.ca/product/2860",
+   "net": 420.0,
+   "price": "966",
+   "from": true
   },
   {
    "id": "aclass-2870",
@@ -511,7 +590,10 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5150.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5200.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/2870"
+   "url": "https://www.aclassfurniture.ca/product/2870",
+   "net": 520.0,
+   "price": "1196",
+   "from": true
   },
   {
    "id": "aclass-2880",
@@ -528,7 +610,8 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5150.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5200.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/2880"
+   "url": "https://www.aclassfurniture.ca/product/2880",
+   "delisted": true
   },
   {
    "id": "aclass-2900",
@@ -545,7 +628,10 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5150.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5200.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/2900"
+   "url": "https://www.aclassfurniture.ca/product/2900",
+   "net": 640.0,
+   "price": "1472",
+   "from": true
   },
   {
    "id": "aclass-2910",
@@ -562,7 +648,10 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5150.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5200.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/2910"
+   "url": "https://www.aclassfurniture.ca/product/2910",
+   "net": 620.0,
+   "price": "1426",
+   "from": true
   },
   {
    "id": "aclass-2920",
@@ -579,7 +668,10 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5150.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5200.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/2920"
+   "url": "https://www.aclassfurniture.ca/product/2920",
+   "net": 660.0,
+   "price": "1518",
+   "from": true
   },
   {
    "id": "aclass-2950",
@@ -596,7 +688,10 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5150.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5200.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/2950"
+   "url": "https://www.aclassfurniture.ca/product/2950",
+   "net": 640.0,
+   "price": "1472",
+   "from": true
   },
   {
    "id": "aclass-3110",
@@ -613,7 +708,8 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5150.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5200.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/3110"
+   "url": "https://www.aclassfurniture.ca/product/3110",
+   "delisted": true
   },
   {
    "id": "aclass-3120",
@@ -630,7 +726,10 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5150.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5200.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/3120"
+   "url": "https://www.aclassfurniture.ca/product/3120",
+   "net": 520.0,
+   "price": "1196",
+   "from": true
   },
   {
    "id": "aclass-3130",
@@ -647,7 +746,10 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5150.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5200.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/3130"
+   "url": "https://www.aclassfurniture.ca/product/3130",
+   "net": 520.0,
+   "price": "1196",
+   "from": true
   },
   {
    "id": "aclass-3260",
@@ -664,7 +766,10 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5150.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5200.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/3260"
+   "url": "https://www.aclassfurniture.ca/product/3260",
+   "net": 520.0,
+   "price": "1196",
+   "from": true
   },
   {
    "id": "aclass-3300-a",
@@ -681,7 +786,10 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5150.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5200.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/3300-a"
+   "url": "https://www.aclassfurniture.ca/product/3300-a",
+   "net": 400.0,
+   "price": "920",
+   "from": true
   },
   {
    "id": "aclass-3320",
@@ -698,7 +806,10 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5150.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5200.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/3320"
+   "url": "https://www.aclassfurniture.ca/product/3320",
+   "net": 400.0,
+   "price": "920",
+   "from": true
   },
   {
    "id": "aclass-3370",
@@ -715,7 +826,10 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5150.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5200.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/3370"
+   "url": "https://www.aclassfurniture.ca/product/3370",
+   "net": 520.0,
+   "price": "1196",
+   "from": true
   },
   {
    "id": "aclass-3380",
@@ -732,7 +846,8 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5150.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5200.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/3380"
+   "url": "https://www.aclassfurniture.ca/product/3380",
+   "delisted": true
   },
   {
    "id": "aclass-3390",
@@ -749,7 +864,8 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5150.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5200.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/3390"
+   "url": "https://www.aclassfurniture.ca/product/3390",
+   "delisted": true
   },
   {
    "id": "aclass-3400",
@@ -766,7 +882,10 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5150.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5200.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/3400"
+   "url": "https://www.aclassfurniture.ca/product/3400",
+   "net": 520.0,
+   "price": "1196",
+   "from": true
   },
   {
    "id": "aclass-3410",
@@ -783,7 +902,10 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5200.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/seat_front.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/3410"
+   "url": "https://www.aclassfurniture.ca/product/3410",
+   "net": 520.0,
+   "price": "1196",
+   "from": true
   },
   {
    "id": "aclass-4100",
@@ -800,7 +922,10 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5150.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5200.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/4100"
+   "url": "https://www.aclassfurniture.ca/product/4100",
+   "net": 560.0,
+   "price": "1288",
+   "from": true
   },
   {
    "id": "aclass-4210",
@@ -817,7 +942,10 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5150.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5200.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/4210"
+   "url": "https://www.aclassfurniture.ca/product/4210",
+   "net": 520.0,
+   "price": "1196",
+   "from": true
   },
   {
    "id": "aclass-4250",
@@ -834,7 +962,10 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5150.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5200.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/4250"
+   "url": "https://www.aclassfurniture.ca/product/4250",
+   "net": 540.0,
+   "price": "1242",
+   "from": true
   },
   {
    "id": "aclass-4260",
@@ -851,7 +982,10 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5150.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5200.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/4260"
+   "url": "https://www.aclassfurniture.ca/product/4260",
+   "net": 520.0,
+   "price": "1196",
+   "from": true
   },
   {
    "id": "aclass-4280",
@@ -868,7 +1002,10 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5150.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5200.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/4280"
+   "url": "https://www.aclassfurniture.ca/product/4280",
+   "net": 540.0,
+   "price": "1242",
+   "from": true
   },
   {
    "id": "aclass-4300",
@@ -885,7 +1022,8 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5150.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5200.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/4300"
+   "url": "https://www.aclassfurniture.ca/product/4300",
+   "delisted": true
   },
   {
    "id": "aclass-4310",
@@ -902,7 +1040,10 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5150.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5200.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/4310"
+   "url": "https://www.aclassfurniture.ca/product/4310",
+   "net": 580.0,
+   "price": "1334",
+   "from": true
   },
   {
    "id": "aclass-4320",
@@ -919,7 +1060,10 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5150.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5200.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/4320"
+   "url": "https://www.aclassfurniture.ca/product/4320",
+   "net": 580.0,
+   "price": "1334",
+   "from": true
   },
   {
    "id": "aclass-4330",
@@ -936,7 +1080,10 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5150.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5200.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/4330"
+   "url": "https://www.aclassfurniture.ca/product/4330",
+   "net": 580.0,
+   "price": "1334",
+   "from": true
   },
   {
    "id": "aclass-4340",
@@ -953,7 +1100,10 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5150.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5200.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/4340"
+   "url": "https://www.aclassfurniture.ca/product/4340",
+   "net": 580.0,
+   "price": "1334",
+   "from": true
   },
   {
    "id": "aclass-4350",
@@ -970,7 +1120,8 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5150.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5200.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/4350"
+   "url": "https://www.aclassfurniture.ca/product/4350",
+   "delisted": true
   },
   {
    "id": "aclass-4900",
@@ -987,7 +1138,10 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5150.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5200.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/4900"
+   "url": "https://www.aclassfurniture.ca/product/4900",
+   "net": 520.0,
+   "price": "1196",
+   "from": true
   },
   {
    "id": "aclass-4910",
@@ -1004,7 +1158,10 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5150.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5200.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/4910"
+   "url": "https://www.aclassfurniture.ca/product/4910",
+   "net": 520.0,
+   "price": "1196",
+   "from": true
   },
   {
    "id": "aclass-4950",
@@ -1021,7 +1178,10 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5150.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5200.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/4950"
+   "url": "https://www.aclassfurniture.ca/product/4950",
+   "net": 440.0,
+   "price": "1012",
+   "from": true
   },
   {
    "id": "aclass-5100",
@@ -1038,7 +1198,10 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5150.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5200.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/5100"
+   "url": "https://www.aclassfurniture.ca/product/5100",
+   "net": 520.0,
+   "price": "1196",
+   "from": true
   },
   {
    "id": "aclass-5110",
@@ -1055,7 +1218,8 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5150.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5200.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/5110"
+   "url": "https://www.aclassfurniture.ca/product/5110",
+   "delisted": true
   },
   {
    "id": "aclass-5150",
@@ -1072,7 +1236,10 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5200.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/seat_front.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/5150"
+   "url": "https://www.aclassfurniture.ca/product/5150",
+   "net": 520.0,
+   "price": "1196",
+   "from": true
   },
   {
    "id": "aclass-5200",
@@ -1089,7 +1256,10 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5150.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/seat_front.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/5200"
+   "url": "https://www.aclassfurniture.ca/product/5200",
+   "net": 580.0,
+   "price": "1334",
+   "from": true
   },
   {
    "id": "aclass-5250",
@@ -1106,7 +1276,10 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5150.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5200.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/5250"
+   "url": "https://www.aclassfurniture.ca/product/5250",
+   "net": 580.0,
+   "price": "1334",
+   "from": true
   },
   {
    "id": "aclass-5300",
@@ -1123,7 +1296,10 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5150.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5200.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/5300"
+   "url": "https://www.aclassfurniture.ca/product/5300",
+   "net": 600.0,
+   "price": "1380",
+   "from": true
   },
   {
    "id": "aclass-5350",
@@ -1140,7 +1316,10 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5150.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5200.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/5350"
+   "url": "https://www.aclassfurniture.ca/product/5350",
+   "net": 560.0,
+   "price": "1288",
+   "from": true
   },
   {
    "id": "aclass-5360",
@@ -1157,7 +1336,10 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5150.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5200.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/5360"
+   "url": "https://www.aclassfurniture.ca/product/5360",
+   "net": 560.0,
+   "price": "1288",
+   "from": true
   },
   {
    "id": "aclass-5370",
@@ -1174,7 +1356,10 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5150.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5200.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/5370"
+   "url": "https://www.aclassfurniture.ca/product/5370",
+   "net": 660.0,
+   "price": "1518",
+   "from": true
   },
   {
    "id": "aclass-5375",
@@ -1191,7 +1376,10 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5150.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5200.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/5375"
+   "url": "https://www.aclassfurniture.ca/product/5375",
+   "net": 700.0,
+   "price": "1610",
+   "from": true
   },
   {
    "id": "aclass-5400",
@@ -1208,7 +1396,10 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5150.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5200.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/5400"
+   "url": "https://www.aclassfurniture.ca/product/5400",
+   "net": 440.0,
+   "price": "1012",
+   "from": true
   },
   {
    "id": "aclass-5650",
@@ -1225,7 +1416,8 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5150.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5200.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/5650"
+   "url": "https://www.aclassfurniture.ca/product/5650",
+   "delisted": true
   },
   {
    "id": "aclass-5700",
@@ -1242,7 +1434,8 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5150.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5200.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/5700"
+   "url": "https://www.aclassfurniture.ca/product/5700",
+   "delisted": true
   },
   {
    "id": "aclass-6050",
@@ -1259,7 +1452,10 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5150.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5200.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/6050"
+   "url": "https://www.aclassfurniture.ca/product/6050",
+   "net": 540.0,
+   "price": "1242",
+   "from": true
   },
   {
    "id": "aclass-6070",
@@ -1276,7 +1472,10 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5150.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5200.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/6070"
+   "url": "https://www.aclassfurniture.ca/product/6070",
+   "net": 520.0,
+   "price": "1196",
+   "from": true
   },
   {
    "id": "aclass-6100",
@@ -1293,7 +1492,10 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5150.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5200.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/6100"
+   "url": "https://www.aclassfurniture.ca/product/6100",
+   "net": 520.0,
+   "price": "1196",
+   "from": true
   },
   {
    "id": "aclass-6150",
@@ -1310,7 +1512,10 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5150.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5200.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/6150"
+   "url": "https://www.aclassfurniture.ca/product/6150",
+   "net": 520.0,
+   "price": "1196",
+   "from": true
   },
   {
    "id": "aclass-7100",
@@ -1327,7 +1532,10 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5150.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5200.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/7100"
+   "url": "https://www.aclassfurniture.ca/product/7100",
+   "net": 620.0,
+   "price": "1426",
+   "from": true
   },
   {
    "id": "aclass-7110",
@@ -1344,7 +1552,10 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5150.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5200.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/7110"
+   "url": "https://www.aclassfurniture.ca/product/7110",
+   "net": 620.0,
+   "price": "1426",
+   "from": true
   },
   {
    "id": "aclass-7500",
@@ -1361,7 +1572,8 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5150.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5200.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/7500"
+   "url": "https://www.aclassfurniture.ca/product/7500",
+   "delisted": true
   },
   {
    "id": "aclass-7550",
@@ -1378,7 +1590,8 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5150.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/5200.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/7550"
+   "url": "https://www.aclassfurniture.ca/product/7550",
+   "delisted": true
   },
   {
    "id": "aclass-1010",
@@ -1395,7 +1608,8 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/assets_uploads_product_images_12602.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/1515_Sectional.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/1010"
+   "url": "https://www.aclassfurniture.ca/product/1010",
+   "delisted": true
   },
   {
    "id": "aclass-465",
@@ -1412,7 +1626,10 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/cc14.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/cc32.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/465"
+   "url": "https://www.aclassfurniture.ca/product/465",
+   "net": 400.0,
+   "price": "920",
+   "from": true
   },
   {
    "id": "aclass-1212",
@@ -1429,7 +1646,10 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/408_c.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/cc14.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/1212"
+   "url": "https://www.aclassfurniture.ca/product/1212",
+   "net": 1100.0,
+   "price": "2530",
+   "from": true
   },
   {
    "id": "aclass-1213",
@@ -1446,7 +1666,10 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/408_c.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/cc14.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/1213"
+   "url": "https://www.aclassfurniture.ca/product/1213",
+   "net": 1250.0,
+   "price": "2875",
+   "from": true
   },
   {
    "id": "aclass-1220",
@@ -1463,7 +1686,10 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/408_c.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/cc14.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/1220"
+   "url": "https://www.aclassfurniture.ca/product/1220",
+   "net": 1275.0,
+   "price": "2932",
+   "from": true
   },
   {
    "id": "aclass-1220-l",
@@ -1480,7 +1706,10 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/assets_uploads_product_images_12602.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/1515_Sectional.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/1220-l"
+   "url": "https://www.aclassfurniture.ca/product/1220-l",
+   "net": 1275.0,
+   "price": "2932",
+   "from": true
   },
   {
    "id": "aclass-1250",
@@ -1497,7 +1726,10 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/1515_Sectional.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/1550.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/1250"
+   "url": "https://www.aclassfurniture.ca/product/1250",
+   "net": 1200.0,
+   "price": "2760",
+   "from": true
   },
   {
    "id": "aclass-1257",
@@ -1509,7 +1741,10 @@
    "desc": "Made-to-order in Mississauga, Ontario. Available in the ACU performance fabric programme.",
    "img": null,
    "gallery": [],
-   "url": "https://www.aclassfurniture.ca/product/1257"
+   "url": "https://www.aclassfurniture.ca/product/1257",
+   "net": 1100.0,
+   "price": "2530",
+   "from": true
   },
   {
    "id": "aclass-1260",
@@ -1526,7 +1761,10 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/1515_Sectional.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/1550.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/1260"
+   "url": "https://www.aclassfurniture.ca/product/1260",
+   "net": 1100.0,
+   "price": "2530",
+   "from": true
   },
   {
    "id": "aclass-1270",
@@ -1543,7 +1781,10 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/408_c.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/cc14.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/1270"
+   "url": "https://www.aclassfurniture.ca/product/1270",
+   "net": 1000.0,
+   "price": "2300",
+   "from": true
   },
   {
    "id": "aclass-1515",
@@ -1560,7 +1801,10 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/assets_uploads_product_images_12602.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/1550.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/1515"
+   "url": "https://www.aclassfurniture.ca/product/1515",
+   "net": 1350.0,
+   "price": "3105",
+   "from": true
   },
   {
    "id": "aclass-1525",
@@ -1577,7 +1821,10 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/1515_Sectional.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/1550.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/1525"
+   "url": "https://www.aclassfurniture.ca/product/1525",
+   "net": 495.0,
+   "price": "1138",
+   "from": true
   },
   {
    "id": "aclass-1550",
@@ -1594,7 +1841,10 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/assets_uploads_product_images_12602.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/1515_Sectional.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/1550"
+   "url": "https://www.aclassfurniture.ca/product/1550",
+   "net": 1050.0,
+   "price": "2415",
+   "from": true
   },
   {
    "id": "aclass-1616",
@@ -1611,7 +1861,10 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/408_c.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/cc14.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/1616"
+   "url": "https://www.aclassfurniture.ca/product/1616",
+   "net": 540.0,
+   "price": "1242",
+   "from": true
   },
   {
    "id": "aclass-1890",
@@ -1628,7 +1881,10 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/408_c.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/cc14.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/1890"
+   "url": "https://www.aclassfurniture.ca/product/1890",
+   "net": 625.0,
+   "price": "1438",
+   "from": true
   },
   {
    "id": "aclass-2050",
@@ -1645,7 +1901,10 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/assets_uploads_product_images_12602.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/1515_Sectional.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/2050"
+   "url": "https://www.aclassfurniture.ca/product/2050",
+   "net": 495.0,
+   "price": "1138",
+   "from": true
   },
   {
    "id": "aclass-2060",
@@ -1662,7 +1921,10 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/assets_uploads_product_images_12602.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/1515_Sectional.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/2060"
+   "url": "https://www.aclassfurniture.ca/product/2060",
+   "net": 1250.0,
+   "price": "2875",
+   "from": true
   },
   {
    "id": "aclass-2070-sectional",
@@ -1679,7 +1941,10 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/assets_uploads_product_images_12602.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/1515_Sectional.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/2070-sectional"
+   "url": "https://www.aclassfurniture.ca/product/2070-sectional",
+   "net": 520.0,
+   "price": "1196",
+   "from": true
   },
   {
    "id": "aclass-2121",
@@ -1696,7 +1961,10 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/assets_uploads_product_images_12602.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/1515_Sectional.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/2121"
+   "url": "https://www.aclassfurniture.ca/product/2121",
+   "net": 1050.0,
+   "price": "2415",
+   "from": true
   },
   {
    "id": "aclass-2860-sectional",
@@ -1713,7 +1981,10 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/assets_uploads_product_images_12602.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/1515_Sectional.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/2860-sectional"
+   "url": "https://www.aclassfurniture.ca/product/2860-sectional",
+   "net": 420.0,
+   "price": "966",
+   "from": true
   },
   {
    "id": "aclass-2929",
@@ -1730,7 +2001,10 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/assets_uploads_product_images_12602.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/1515_Sectional.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/2929"
+   "url": "https://www.aclassfurniture.ca/product/2929",
+   "net": 1675.0,
+   "price": "3852",
+   "from": true
   },
   {
    "id": "aclass-2933",
@@ -1747,7 +2021,10 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/408_c.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/cc14.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/2933"
+   "url": "https://www.aclassfurniture.ca/product/2933",
+   "net": 1375.0,
+   "price": "3162",
+   "from": true
   },
   {
    "id": "aclass-2935",
@@ -1764,7 +2041,10 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/408_c.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/cc14.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/2935"
+   "url": "https://www.aclassfurniture.ca/product/2935",
+   "net": 1100.0,
+   "price": "2530",
+   "from": true
   },
   {
    "id": "aclass-3335",
@@ -1781,7 +2061,10 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/408_c.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/cc14.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/3335"
+   "url": "https://www.aclassfurniture.ca/product/3335",
+   "net": 400.0,
+   "price": "920",
+   "from": true
   },
   {
    "id": "aclass-4253",
@@ -1798,7 +2081,10 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/1515_Sectional.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/1550.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/4253"
+   "url": "https://www.aclassfurniture.ca/product/4253",
+   "net": 160.0,
+   "price": "368",
+   "from": true
   },
   {
    "id": "aclass-5155",
@@ -1815,7 +2101,10 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/408_c.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/cc14.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/5155"
+   "url": "https://www.aclassfurniture.ca/product/5155",
+   "net": 1050.0,
+   "price": "2415",
+   "from": true
   },
   {
    "id": "aclass-2192",
@@ -1832,7 +2121,10 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/408_c.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/cc14.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/2192"
+   "url": "https://www.aclassfurniture.ca/product/2192",
+   "net": 400.0,
+   "price": "920",
+   "from": true
   },
   {
    "id": "aclass-401",
@@ -1849,7 +2141,10 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/510_-a1.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/520.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/401"
+   "url": "https://www.aclassfurniture.ca/product/401",
+   "net": 370.0,
+   "price": "851",
+   "from": true
   },
   {
    "id": "aclass-405",
@@ -1866,7 +2161,10 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/408_c.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/cc14.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/405"
+   "url": "https://www.aclassfurniture.ca/product/405",
+   "net": 450.0,
+   "price": "1035",
+   "from": true
   },
   {
    "id": "aclass-407",
@@ -1883,7 +2181,10 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/cc14.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/cc32.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/407"
+   "url": "https://www.aclassfurniture.ca/product/407",
+   "net": 450.0,
+   "price": "1035",
+   "from": true
   },
   {
    "id": "aclass-408",
@@ -1900,7 +2201,10 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/cc14.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/cc32.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/408"
+   "url": "https://www.aclassfurniture.ca/product/408",
+   "net": 450.0,
+   "price": "1035",
+   "from": true
   },
   {
    "id": "aclass-409",
@@ -1917,7 +2221,10 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/408_c.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/cc14.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/409"
+   "url": "https://www.aclassfurniture.ca/product/409",
+   "net": 450.0,
+   "price": "1035",
+   "from": true
   },
   {
    "id": "aclass-410",
@@ -1934,7 +2241,8 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/408_c.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/cc14.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/410"
+   "url": "https://www.aclassfurniture.ca/product/410",
+   "delisted": true
   },
   {
    "id": "aclass-412",
@@ -1951,7 +2259,10 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/408_c.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/cc14.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/412"
+   "url": "https://www.aclassfurniture.ca/product/412",
+   "net": 450.0,
+   "price": "1035",
+   "from": true
   },
   {
    "id": "aclass-413",
@@ -1968,7 +2279,10 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/510_-a1.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/520.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/413"
+   "url": "https://www.aclassfurniture.ca/product/413",
+   "net": 525.0,
+   "price": "1208",
+   "from": true
   },
   {
    "id": "aclass-415",
@@ -1985,7 +2299,10 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/408_c.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/cc32.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/415"
+   "url": "https://www.aclassfurniture.ca/product/415",
+   "net": 400.0,
+   "price": "920",
+   "from": true
   },
   {
    "id": "aclass-420a",
@@ -2002,7 +2319,8 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/408_c.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/cc14.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/420a"
+   "url": "https://www.aclassfurniture.ca/product/420a",
+   "delisted": true
   },
   {
    "id": "aclass-3350a",
@@ -2019,7 +2337,8 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/408_c.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/cc14.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/3350a"
+   "url": "https://www.aclassfurniture.ca/product/3350a",
+   "delisted": true
   },
   {
    "id": "aclass-426",
@@ -2036,7 +2355,10 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/408_c.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/cc14.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/426"
+   "url": "https://www.aclassfurniture.ca/product/426",
+   "net": 425.0,
+   "price": "977",
+   "from": true
   },
   {
    "id": "aclass-427",
@@ -2053,7 +2375,10 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/408_c.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/cc14.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/427"
+   "url": "https://www.aclassfurniture.ca/product/427",
+   "net": 425.0,
+   "price": "977",
+   "from": true
   },
   {
    "id": "aclass-428",
@@ -2070,7 +2395,10 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/408_c.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/cc14.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/428"
+   "url": "https://www.aclassfurniture.ca/product/428",
+   "net": 425.0,
+   "price": "977",
+   "from": true
   },
   {
    "id": "aclass-429",
@@ -2087,7 +2415,10 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/408_c.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/cc14.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/429"
+   "url": "https://www.aclassfurniture.ca/product/429",
+   "net": 400.0,
+   "price": "920",
+   "from": true
   },
   {
    "id": "aclass-430a",
@@ -2104,7 +2435,8 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/408_c.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/cc14.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/430a"
+   "url": "https://www.aclassfurniture.ca/product/430a",
+   "delisted": true
   },
   {
    "id": "aclass-431",
@@ -2121,7 +2453,10 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/510_-a1.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/520.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/431"
+   "url": "https://www.aclassfurniture.ca/product/431",
+   "net": 400.0,
+   "price": "920",
+   "from": true
   },
   {
    "id": "aclass-435",
@@ -2138,7 +2473,10 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/408_c.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/cc14.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/435"
+   "url": "https://www.aclassfurniture.ca/product/435",
+   "net": 400.0,
+   "price": "920",
+   "from": true
   },
   {
    "id": "aclass-440",
@@ -2155,7 +2493,10 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/408_c.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/cc14.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/440"
+   "url": "https://www.aclassfurniture.ca/product/440",
+   "net": 400.0,
+   "price": "920",
+   "from": true
   },
   {
    "id": "aclass-445a",
@@ -2172,7 +2513,8 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/408_c.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/cc14.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/445a"
+   "url": "https://www.aclassfurniture.ca/product/445a",
+   "delisted": true
   },
   {
    "id": "aclass-455",
@@ -2189,7 +2531,10 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/408_c.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/cc14.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/455"
+   "url": "https://www.aclassfurniture.ca/product/455",
+   "net": 400.0,
+   "price": "920",
+   "from": true
   },
   {
    "id": "aclass-457a",
@@ -2206,7 +2551,8 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/408_c.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/cc14.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/457a"
+   "url": "https://www.aclassfurniture.ca/product/457a",
+   "delisted": true
   },
   {
    "id": "aclass-458a",
@@ -2223,7 +2569,8 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/408_c.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/cc14.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/458a"
+   "url": "https://www.aclassfurniture.ca/product/458a",
+   "delisted": true
   },
   {
    "id": "aclass-459",
@@ -2240,7 +2587,10 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/cc14.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/cc32.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/459"
+   "url": "https://www.aclassfurniture.ca/product/459",
+   "net": 400.0,
+   "price": "920",
+   "from": true
   },
   {
    "id": "aclass-465a",
@@ -2257,7 +2607,8 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/408_c.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/cc14.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/465a"
+   "url": "https://www.aclassfurniture.ca/product/465a",
+   "delisted": true
   },
   {
    "id": "aclass-480",
@@ -2274,7 +2625,10 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/408_c.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/cc14.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/480"
+   "url": "https://www.aclassfurniture.ca/product/480",
+   "net": 400.0,
+   "price": "920",
+   "from": true
   },
   {
    "id": "aclass-490a",
@@ -2291,7 +2645,8 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/408_c.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/cc14.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/490a"
+   "url": "https://www.aclassfurniture.ca/product/490a",
+   "delisted": true
   },
   {
    "id": "aclass-495a",
@@ -2308,7 +2663,8 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/408_c.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/cc14.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/495a"
+   "url": "https://www.aclassfurniture.ca/product/495a",
+   "delisted": true
   },
   {
    "id": "aclass-2360",
@@ -2325,7 +2681,8 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/2930.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/SOFA_12B.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/2360"
+   "url": "https://www.aclassfurniture.ca/product/2360",
+   "delisted": true
   },
   {
    "id": "aclass-2930",
@@ -2342,7 +2699,8 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/23911.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/SOFA_12B.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/2930"
+   "url": "https://www.aclassfurniture.ca/product/2930",
+   "delisted": true
   },
   {
    "id": "aclass-2380",
@@ -2359,7 +2717,10 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/2930.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/SOFA_12B.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/2380"
+   "url": "https://www.aclassfurniture.ca/product/2380",
+   "net": 500.0,
+   "price": "1150",
+   "from": true
   },
   {
    "id": "aclass-2390",
@@ -2376,7 +2737,10 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/2930.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/SOFA_12B.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/2390"
+   "url": "https://www.aclassfurniture.ca/product/2390",
+   "net": 525.0,
+   "price": "1208",
+   "from": true
   },
   {
    "id": "aclass-2391",
@@ -2393,7 +2757,8 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/2930.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/SOFA_12B.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/2391"
+   "url": "https://www.aclassfurniture.ca/product/2391",
+   "delisted": true
   },
   {
    "id": "aclass-2395",
@@ -2410,7 +2775,8 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/23911.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/2930.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/2395"
+   "url": "https://www.aclassfurniture.ca/product/2395",
+   "delisted": true
   },
   {
    "id": "aclass-501a",
@@ -2427,7 +2793,8 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/520.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/532a.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/501a"
+   "url": "https://www.aclassfurniture.ca/product/501a",
+   "delisted": true
   },
   {
    "id": "aclass-502",
@@ -2444,7 +2811,10 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/520.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/532a.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/502"
+   "url": "https://www.aclassfurniture.ca/product/502",
+   "net": 375.0,
+   "price": "862",
+   "from": true
   },
   {
    "id": "aclass-503",
@@ -2461,7 +2831,10 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/510_-a1.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/520.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/503"
+   "url": "https://www.aclassfurniture.ca/product/503",
+   "net": 450.0,
+   "price": "1035",
+   "from": true
   },
   {
    "id": "aclass-505",
@@ -2478,7 +2851,10 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/520.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/532a.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/505"
+   "url": "https://www.aclassfurniture.ca/product/505",
+   "net": 375.0,
+   "price": "862",
+   "from": true
   },
   {
    "id": "aclass-510",
@@ -2495,7 +2871,10 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/520.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/532a.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/510"
+   "url": "https://www.aclassfurniture.ca/product/510",
+   "net": 260.0,
+   "price": "598",
+   "from": true
   },
   {
    "id": "aclass-520",
@@ -2512,7 +2891,10 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/510_-a1.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/532a.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/520"
+   "url": "https://www.aclassfurniture.ca/product/520",
+   "net": 260.0,
+   "price": "598",
+   "from": true
   },
   {
    "id": "aclass-522",
@@ -2529,7 +2911,8 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/510_-a1.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/520.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/522"
+   "url": "https://www.aclassfurniture.ca/product/522",
+   "delisted": true
   },
   {
    "id": "aclass-532",
@@ -2546,7 +2929,8 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/510_-a1.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/520.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/532"
+   "url": "https://www.aclassfurniture.ca/product/532",
+   "delisted": true
   },
   {
    "id": "aclass-540",
@@ -2563,7 +2947,10 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/510_-a1.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/520.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/540"
+   "url": "https://www.aclassfurniture.ca/product/540",
+   "net": 325.0,
+   "price": "747",
+   "from": true
   },
   {
    "id": "aclass-544",
@@ -2580,7 +2967,10 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/510_-a1.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/520.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/544"
+   "url": "https://www.aclassfurniture.ca/product/544",
+   "net": 325.0,
+   "price": "747",
+   "from": true
   },
   {
    "id": "aclass-550",
@@ -2597,7 +2987,10 @@
     "https://www.aclassfurniture.ca/assets/uploads/product_images/510_-a1.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/520.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/550"
+   "url": "https://www.aclassfurniture.ca/product/550",
+   "net": 300.0,
+   "price": "690",
+   "from": true
   },
   {
    "id": "aclass-1000",
@@ -2611,7 +3004,8 @@
    "gallery": [
     "https://www.aclassfurniture.ca/assets/uploads/product_images/950.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/1000"
+   "url": "https://www.aclassfurniture.ca/product/1000",
+   "delisted": true
   },
   {
    "id": "aclass-850",
@@ -2625,7 +3019,8 @@
    "gallery": [
     "https://www.aclassfurniture.ca/assets/uploads/product_images/1000A.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/850"
+   "url": "https://www.aclassfurniture.ca/product/850",
+   "delisted": true
   },
   {
    "id": "aclass-950",
@@ -2639,7 +3034,8 @@
    "gallery": [
     "https://www.aclassfurniture.ca/assets/uploads/product_images/1000A.jpg"
    ],
-   "url": "https://www.aclassfurniture.ca/product/950"
+   "url": "https://www.aclassfurniture.ca/product/950",
+   "delisted": true
   }
  ]
 }

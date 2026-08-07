@@ -182,6 +182,8 @@ for slug in FILES:
         continue
     d = json.load(open(path))
     for it in d.get('items', []):
+        if it.get('delisted'):
+            continue
         img = it.get('thumb') or it.get('img')
         if not img:
             continue
@@ -197,9 +199,10 @@ for slug in FILES:
             _pfx = {'titus':'T','creative':'CH','glory':'GL','mazin':'MZ','monarch':'M','matrix':'MX','sofabyfancy':'SF','aclass':'AC','rugsnetwork':'RN','wt':'WT'}.get(slug, slug[:2].upper())
             _tail = str(it.get('id') or it.get('pid') or '').rsplit('-', 1)[-1][:12]
             if _tail: row['ref'] = f"{_pfx}-{_tail}"
-        if slug == 'rugsnetwork':
+        if it.get('price'):
             row['price'] = it.get('price')
-            row['retail'] = it.get('retail')
+            if it.get('from'): row['from'] = True
+            if it.get('retail'): row['retail'] = it.get('retail')
             if it.get('clearance'): row['clearance'] = True
         buckets[top].append(row)
 

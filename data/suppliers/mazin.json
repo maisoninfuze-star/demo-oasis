@@ -1,7 +1,7 @@
 {
  "supplier": "mazin",
  "source": "https://www.mazinfurniture.com",
- "count": 135,
+ "count": 190,
  "items": [
   {
    "id": "mazin-1718NCBedroom",
@@ -518,24 +518,6 @@
    "delisted": true
   },
   {
-   "id": "mazin-2502Bedroom",
-   "sku": "2502Bedroom",
-   "name": "2502 Bedroom — Elowen Collection",
-   "cats": [
-    "bedroom"
-   ],
-   "desc": "Homelegance collection, distributed in Canada by Mazin Furniture.",
-   "img": "https://www.homelegance.com/u/HMLG/20260428/57/2502_bedroom__l.jpg",
-   "gallery": [
-    "https://www.homelegance.com/u/HMLG/20260722/5ada7cf745b1471fa286049b060acf60.jpg",
-    "https://www.homelegance.com/u/HMLG/20260722/5ada7cf745b1471fa286049b060acf60.jpg",
-    "https://www.homelegance.com/u/HMLG/20260428/57/2502_bedroom__l.jpg",
-    "https://www.homelegance.com/u/HMLG/20260428/55/2502K-1_noBG_front_2__l.jpg"
-   ],
-   "url": "https://www.homelegance.com/bedroom_bedroomcollections/2502Bedroom.htm",
-   "delisted": true
-  },
-  {
    "id": "mazin-2560Bedroom",
    "sku": "2560Bedroom",
    "name": "2560 Bedroom — Marlow Collection",
@@ -551,6 +533,172 @@
     "https://www.homelegance.com/u/HMLG/20260708/56/2560-1_noBG_side_2__l.jpg"
    ],
    "url": "https://www.homelegance.com/bedroom_bedroomcollections/2560Bedroom.htm",
+   "delisted": true
+  },
+  {
+   "id": "mazin-1718BRBedroom",
+   "sku": "1718BRBedroom",
+   "name": "1718BR Bedroom — Begonia Collection",
+   "cats": [
+    "bedroom"
+   ],
+   "desc": "Homelegance collection, distributed in Canada by Mazin Furniture.",
+   "img": "https://www.homelegance.com/u/HMLG/20260518/68/1718BR_bedroom__l.jpg",
+   "gallery": [
+    "https://www.homelegance.com/u/HMLG/20260518/68/1718BR_bedroom__l.jpg",
+    "https://www.homelegance.com/u/HMLG/20260518/83/1718BR-1_2_HEI__l.jpg",
+    "https://www.homelegance.com/u/HMLG/20260518/86/1718BR-1_3_HEI__l.jpg",
+    "https://www.homelegance.com/u/HMLG/20260518/67/1718BR-1_noBG_front_2__l.jpg"
+   ],
+   "url": "https://www.homelegance.com/new_arrivals/1718BRBedroom.htm",
+   "net": 99.95,
+   "price": "230",
+   "from": true
+  },
+  {
+   "id": "mazin-2469Bedroom",
+   "sku": "2469Bedroom",
+   "name": "2469 Bedroom — Luna Collection",
+   "cats": [
+    "bedroom"
+   ],
+   "desc": "Homelegance collection, distributed in Canada by Mazin Furniture.",
+   "img": "https://www.homelegance.com/u/HMLG/20260414/200/2469_bedroom__l.jpg",
+   "gallery": [
+    "https://www.homelegance.com/u/HMLG/20260603/bb445f466d014ac6ab5375c088e1f2d1.jpg",
+    "https://www.homelegance.com/u/HMLG/20260603/bb445f466d014ac6ab5375c088e1f2d1.jpg",
+    "https://www.homelegance.com/u/HMLG/20260414/200/2469_bedroom__l.jpg",
+    "https://www.homelegance.com/u/HMLG/20260414/204/2469-1_noBG_front_4__l.jpg"
+   ],
+   "url": "https://www.homelegance.com/new_arrivals/2469Bedroom.htm",
+   "delisted": true
+  },
+  {
+   "id": "mazin-2477Bedroom",
+   "sku": "2477Bedroom",
+   "name": "2477 Bedroom — Alita Collection",
+   "cats": [
+    "bedroom"
+   ],
+   "desc": "Homelegance collection, distributed in Canada by Mazin Furniture.",
+   "img": "https://www.homelegance.com/u/HMLG/20260429/99/2477_bedroom__l.jpg",
+   "gallery": [
+    "https://www.homelegance.com/u/HMLG/20260624/228e677379264abe9bb46025d6b8b4d6.jpg",
+    "https://www.homelegance.com/u/HMLG/20260624/228e677379264abe9bb46025d6b8b4d6.jpg",
+    "https://www.homelegance.com/u/HMLG/20260429/99/2477_bedroom__l.jpg",
+    "https://www.homelegance.com/u/HMLG/20260429/101/2477-1_noBG_front_2__l.jpg"
+   ],
+   "url": "https://www.homelegance.com/new_arrivals/2477Bedroom.htm",
+   "delisted": true
+  },
+  {
+   "id": "mazin-2496Bedroom",
+   "sku": "2496Bedroom",
+   "name": "2496 Bedroom — Aeon Collection",
+   "cats": [
+    "bedroom"
+   ],
+   "desc": "Homelegance collection, distributed in Canada by Mazin Furniture.",
+   "img": "https://www.homelegance.com/u/HMLG/20260505/60f464f249be4e30a42f3f0a9ad951e0.jpg",
+   "gallery": [
+    "https://www.homelegance.com/u/HMLG/20260505/44bf8b857c4842eca56a841e2247cfc1.jpg",
+    "https://www.homelegance.com/u/HMLG/20260505/44bf8b857c4842eca56a841e2247cfc1.jpg",
+    "https://www.homelegance.com/u/HMLG/20260505/44bf8b857c4842eca56a841e2247cfc1.jpg",
+    "https://www.homelegance.com/u/HMLG/20260505/60f464f249be4e30a42f3f0a9ad951e0.jpg"
+   ],
+   "url": "https://www.homelegance.com/new_arrivals/2496Bedroom.htm",
+   "net": 169.95,
+   "price": "391",
+   "from": true
+  },
+  {
+   "id": "mazin-2500Bedroom",
+   "sku": "2500Bedroom",
+   "name": "2500 Bedroom — Ribbon Collection",
+   "cats": [
+    "bedroom"
+   ],
+   "desc": "Homelegance collection, distributed in Canada by Mazin Furniture.",
+   "img": "https://www.homelegance.com/u/HMLG/20260701/14/2500_bedroom2__l.jpg",
+   "gallery": [
+    "https://www.homelegance.com/u/HMLG/20260603/be0125123bad48ca85073368261d538f.jpg",
+    "https://www.homelegance.com/u/HMLG/20260603/be0125123bad48ca85073368261d538f.jpg",
+    "https://www.homelegance.com/u/HMLG/20260701/14/2500_bedroom2__l.jpg",
+    "https://www.homelegance.com/u/HMLG/20260701/13/2500_bedroom3__l.jpg"
+   ],
+   "url": "https://www.homelegance.com/new_arrivals/2500Bedroom.htm",
+   "delisted": true
+  },
+  {
+   "id": "mazin-2502Bedroom",
+   "sku": "2502Bedroom",
+   "name": "2502 Bedroom — Elowen Collection",
+   "cats": [
+    "bedroom"
+   ],
+   "desc": "Homelegance collection, distributed in Canada by Mazin Furniture.",
+   "img": "https://www.homelegance.com/u/HMLG/20260428/57/2502_bedroom__l.jpg",
+   "gallery": [
+    "https://www.homelegance.com/u/HMLG/20260722/5ada7cf745b1471fa286049b060acf60.jpg",
+    "https://www.homelegance.com/u/HMLG/20260722/5ada7cf745b1471fa286049b060acf60.jpg",
+    "https://www.homelegance.com/u/HMLG/20260428/57/2502_bedroom__l.jpg",
+    "https://www.homelegance.com/u/HMLG/20260428/55/2502K-1_noBG_front_2__l.jpg"
+   ],
+   "url": "https://www.homelegance.com/new_arrivals/2502Bedroom.htm",
+   "delisted": true
+  },
+  {
+   "id": "mazin-2506Bedroom",
+   "sku": "2506Bedroom",
+   "name": "2506 Bedroom — Alabaster Collection",
+   "cats": [
+    "bedroom"
+   ],
+   "desc": "Homelegance collection, distributed in Canada by Mazin Furniture.",
+   "img": "https://www.homelegance.com/u/HMLG/20260517/275/2506_bedroom__l.jpg",
+   "gallery": [
+    "https://www.homelegance.com/u/HMLG/20260517/275/2506_bedroom__l.jpg",
+    "https://www.homelegance.com/u/HMLG/20260730/19/2506Q-1_noBG_front_2__l.jpg",
+    "https://www.homelegance.com/u/HMLG/20260730/18/2506Q-1_noBG_front_1__l.jpg",
+    "https://www.homelegance.com/u/HMLG/20260730/17/2506Q-1_noBG_side_2__l.jpg"
+   ],
+   "url": "https://www.homelegance.com/new_arrivals/2506Bedroom.htm",
+   "delisted": true
+  },
+  {
+   "id": "mazin-2550BRBedroom",
+   "sku": "2550BRBedroom",
+   "name": "2550BR Bedroom — Heirloom Collection",
+   "cats": [
+    "bedroom"
+   ],
+   "desc": "Homelegance collection, distributed in Canada by Mazin Furniture.",
+   "img": "https://www.homelegance.com/u/HMLG/20260607/46/2550BR_bedroom__l.jpg",
+   "gallery": [
+    "https://www.homelegance.com/u/HMLG/20260607/46/2550BR_bedroom__l.jpg",
+    "https://www.homelegance.com/u/HMLG/20260607/50/2550BR-1_noBG_front_2__l.jpg",
+    "https://www.homelegance.com/u/HMLG/20260607/51/2550BR-1_noBG_front_1__l.jpg",
+    "https://www.homelegance.com/u/HMLG/20260607/41/2550BR-1_noBG_side_2__l.jpg"
+   ],
+   "url": "https://www.homelegance.com/new_arrivals/2550BRBedroom.htm",
+   "delisted": true
+  },
+  {
+   "id": "mazin-2550DGBedroom",
+   "sku": "2550DGBedroom",
+   "name": "2550DG Bedroom — Heirloom Collection",
+   "cats": [
+    "bedroom"
+   ],
+   "desc": "Homelegance collection, distributed in Canada by Mazin Furniture.",
+   "img": "https://www.homelegance.com/u/HMLG/20260607/61/2550DG_bedroom__l.jpg",
+   "gallery": [
+    "https://www.homelegance.com/u/HMLG/20260607/61/2550DG_bedroom__l.jpg",
+    "https://www.homelegance.com/u/HMLG/20260607/64/2550DG-1_noBG_front_2__l.jpg",
+    "https://www.homelegance.com/u/HMLG/20260607/62/2550DG-1_noBG_front_1__l.jpg",
+    "https://www.homelegance.com/u/HMLG/20260607/59/2550DG-1_noBG_side_2__l.jpg"
+   ],
+   "url": "https://www.homelegance.com/new_arrivals/2550DGBedroom.htm",
    "delisted": true
   },
   {
@@ -998,6 +1146,278 @@
    "delisted": true
   },
   {
+   "id": "mazin-2423BRDining",
+   "sku": "2423BRDining",
+   "name": "2423BR Dining — Junipero Collection",
+   "cats": [
+    "dining"
+   ],
+   "desc": "Homelegance collection, distributed in Canada by Mazin Furniture.",
+   "img": "https://www.homelegance.com/u/HMLG/20260709/2/2423BR_dining__l.jpg",
+   "gallery": [
+    "https://www.homelegance.com/u/HMLG/20260731/83010651b73d4c478b924446102d0c9c.jpg",
+    "https://www.homelegance.com/u/HMLG/20260731/83010651b73d4c478b924446102d0c9c.jpg",
+    "https://www.homelegance.com/u/HMLG/20260709/2/2423BR_dining__l.jpg",
+    "https://www.homelegance.com/u/HMLG/20260709/9/2423BR-36_5pcs_2_HEI__l.jpg"
+   ],
+   "url": "https://www.homelegance.com/new_arrivals/2423BRDining.htm",
+   "net": 65.0,
+   "price": "150",
+   "from": true
+  },
+  {
+   "id": "mazin-2477-54RDDining",
+   "sku": "2477-54RDDining",
+   "name": "2477-54RD Dining — Alita Collection",
+   "cats": [
+    "dining"
+   ],
+   "desc": "Homelegance collection, distributed in Canada by Mazin Furniture.",
+   "img": "https://www.homelegance.com/u/HMLG/20260504/161d04443ea74d27b556066ed7bff8fe.jpg",
+   "gallery": [
+    "https://www.homelegance.com/u/HMLG/20260504/81cbabdb81994a4189f643f5d49838a0.jpg",
+    "https://www.homelegance.com/u/HMLG/20260624/ce421bbe417d4498901b2a2d47450669.jpg",
+    "https://www.homelegance.com/u/HMLG/20260504/81cbabdb81994a4189f643f5d49838a0.jpg",
+    "https://www.homelegance.com/u/HMLG/20260624/ce421bbe417d4498901b2a2d47450669.jpg"
+   ],
+   "url": "https://www.homelegance.com/new_arrivals/2477-54RDDining.htm",
+   "delisted": true
+  },
+  {
+   "id": "mazin-2477-86Dining",
+   "sku": "2477-86Dining",
+   "name": "2477-86 Dining — Alita Collection",
+   "cats": [
+    "dining"
+   ],
+   "desc": "Homelegance collection, distributed in Canada by Mazin Furniture.",
+   "img": "https://www.homelegance.com/u/HMLG/20260429/127/2477-86_dining__l.jpg",
+   "gallery": [
+    "https://www.homelegance.com/u/HMLG/20260624/1aed19314e324c229ad8e80e39c869bb.jpg",
+    "https://www.homelegance.com/u/HMLG/20260624/1aed19314e324c229ad8e80e39c869bb.jpg",
+    "https://www.homelegance.com/u/HMLG/20260429/127/2477-86_dining__l.jpg",
+    "https://www.homelegance.com/u/HMLG/20260429/130/2477-86_dining2__l.jpg"
+   ],
+   "url": "https://www.homelegance.com/new_arrivals/2477-86Dining.htm",
+   "delisted": true
+  },
+  {
+   "id": "mazin-5503BKDining",
+   "sku": "5503BKDining",
+   "name": "5503BK Dining — Yannis Collection",
+   "cats": [
+    "dining"
+   ],
+   "desc": "Homelegance collection, distributed in Canada by Mazin Furniture.",
+   "img": "https://www.homelegance.com/u/HMLG/20260609/69/5503BK_dining__l.jpg",
+   "gallery": [
+    "https://www.homelegance.com/u/HMLG/20260609/69/5503BK_dining__l.jpg",
+    "https://www.homelegance.com/u/HMLG/20260609/67/5503BK_dining2__l.jpg",
+    "https://www.homelegance.com/u/HMLG/20260609/65/5503BK_dining3__l.jpg",
+    "https://www.homelegance.com/u/HMLG/20260609/64/5503BK_noBG_front_1__l.jpg"
+   ],
+   "url": "https://www.homelegance.com/new_arrivals/5503BKDining.htm",
+   "net": 112.0,
+   "price": "258",
+   "from": true
+  },
+  {
+   "id": "mazin-5599NDining",
+   "sku": "5599NDining",
+   "name": "5599N Dining — Glissand Collection",
+   "cats": [
+    "dining"
+   ],
+   "desc": "Homelegance collection, distributed in Canada by Mazin Furniture.",
+   "img": "https://www.homelegance.com/u/HMLG/20260415/4/5599N_dining__l.jpg",
+   "gallery": [
+    "https://www.homelegance.com/u/HMLG/20260415/72f6c0dfcfea415aad68b935198d615e.jpg",
+    "https://www.homelegance.com/u/HMLG/20260415/72f6c0dfcfea415aad68b935198d615e.jpg",
+    "https://www.homelegance.com/u/HMLG/20260415/4/5599N_dining__l.jpg",
+    "https://www.homelegance.com/u/HMLG/20260415/7/5599N-71_noBG_front_2__l.jpg"
+   ],
+   "url": "https://www.homelegance.com/new_arrivals/5599NDining.htm",
+   "net": 80.0,
+   "price": "184",
+   "from": true
+  },
+  {
+   "id": "mazin-5709WHDining",
+   "sku": "5709WHDining",
+   "name": "5709WH Dining — Blair Farm Collection",
+   "cats": [
+    "dining"
+   ],
+   "desc": "Homelegance collection, distributed in Canada by Mazin Furniture.",
+   "img": "https://www.homelegance.com/u/HMLG/20260527/36/5709WH_dining__l.jpg",
+   "gallery": [
+    "https://www.homelegance.com/u/HMLG/20260731/3a0911d85ab6460d9ab2415daf5eb028.jpg",
+    "https://www.homelegance.com/u/HMLG/20260731/3a0911d85ab6460d9ab2415daf5eb028.jpg",
+    "https://www.homelegance.com/u/HMLG/20260527/36/5709WH_dining__l.jpg",
+    "https://www.homelegance.com/u/HMLG/20260520/99/5709WH_2_group__l.jpg"
+   ],
+   "url": "https://www.homelegance.com/new_arrivals/5709WHDining.htm",
+   "net": 697.0,
+   "price": "1603",
+   "from": true
+  },
+  {
+   "id": "mazin-5999Dining",
+   "sku": "5999Dining",
+   "name": "5999 Dining — Soma Collection",
+   "cats": [
+    "dining"
+   ],
+   "desc": "Homelegance collection, distributed in Canada by Mazin Furniture.",
+   "img": "https://www.homelegance.com/u/HMLG/20260407/31/5999-90_dining__l.jpg",
+   "gallery": [
+    "https://www.homelegance.com/u/HMLG/20260407/31/5999-90_dining__l.jpg",
+    "https://www.homelegance.com/u/HMLG/20260407/33/5999-90_dining2__l.jpg",
+    "https://www.homelegance.com/u/HMLG/20260407/28/5999-90_noBG_front_2__l.jpg",
+    "https://www.homelegance.com/u/HMLG/20260407/27/5999-90_noBG_front_1__l.jpg"
+   ],
+   "url": "https://www.homelegance.com/new_arrivals/5999Dining.htm",
+   "net": 130.0,
+   "price": "299",
+   "from": true
+  },
+  {
+   "id": "mazin-6048NG-82Dining",
+   "sku": "6048NG-82Dining",
+   "name": "6048NG-82 Dining — Marais Collection",
+   "cats": [
+    "dining"
+   ],
+   "desc": "Homelegance collection, distributed in Canada by Mazin Furniture.",
+   "img": "https://www.homelegance.com/u/HMLG/20260423/77/6048NG-826048NDGS__l.jpg",
+   "gallery": [
+    "https://www.homelegance.com/u/HMLG/20260731/4ed615ffb5f0491c98bfa3aa55954b55.jpg",
+    "https://www.homelegance.com/u/HMLG/20260731/4ed615ffb5f0491c98bfa3aa55954b55.jpg",
+    "https://www.homelegance.com/u/HMLG/20260423/77/6048NG-826048NDGS__l.jpg",
+    "https://www.homelegance.com/u/HMLG/20260423/73/6048NG-82_noBG_front__l.jpg"
+   ],
+   "url": "https://www.homelegance.com/new_arrivals/6048NG-82Dining.htm",
+   "net": 588.0,
+   "price": "1352",
+   "from": true
+  },
+  {
+   "id": "mazin-6048NG6054Dining",
+   "sku": "6048NG6054Dining",
+   "name": "6048NG + 6054 Dining — Marais Collection",
+   "cats": [
+    "dining"
+   ],
+   "desc": "Homelegance collection, distributed in Canada by Mazin Furniture.",
+   "img": "https://www.homelegance.com/u/HMLG/20260424/1/6048NG-826054DG_dining__l.jpg",
+   "gallery": [
+    "https://www.homelegance.com/u/HMLG/20260731/42e5d5a95bc4477db435ebd2dd73f236.jpg",
+    "https://www.homelegance.com/u/HMLG/20260731/42e5d5a95bc4477db435ebd2dd73f236.jpg",
+    "https://www.homelegance.com/u/HMLG/20260424/1/6048NG-826054DG_dining__l.jpg",
+    "https://www.homelegance.com/u/HMLG/20260424/0/6048NG-826054DG_dining2__l.jpg"
+   ],
+   "url": "https://www.homelegance.com/new_arrivals/6048NG6054Dining.htm",
+   "net": 588.0,
+   "price": "1352",
+   "from": true
+  },
+  {
+   "id": "mazin-6066NN-54RDDining",
+   "sku": "6066NN-54RDDining",
+   "name": "6066NN-54RD Dining — Clara Collection",
+   "cats": [
+    "dining"
+   ],
+   "desc": "Homelegance collection, distributed in Canada by Mazin Furniture.",
+   "img": "https://www.homelegance.com/u/HMLG/20260521/63/6066NN-54RD_dining__l.jpg",
+   "gallery": [
+    "https://www.homelegance.com/u/HMLG/20260731/9863dba9df044f20a2645d4d1d71407e.jpg",
+    "https://www.homelegance.com/u/HMLG/20260731/9863dba9df044f20a2645d4d1d71407e.jpg",
+    "https://www.homelegance.com/u/HMLG/20260521/63/6066NN-54RD_dining__l.jpg",
+    "https://www.homelegance.com/u/HMLG/20260521/62/6066NN-54RD_dining2__l.jpg"
+   ],
+   "url": "https://www.homelegance.com/new_arrivals/6066NN-54RDDining.htm",
+   "net": 120.0,
+   "price": "276",
+   "from": true
+  },
+  {
+   "id": "mazin-6066NN-84Dining",
+   "sku": "6066NN-84Dining",
+   "name": "6066NN-84 Dining — Clara Collection",
+   "cats": [
+    "dining"
+   ],
+   "desc": "Homelegance collection, distributed in Canada by Mazin Furniture.",
+   "img": "https://www.homelegance.com/u/HMLG/20260521/38/6066NN-84_dining__l.jpg",
+   "gallery": [
+    "https://www.homelegance.com/u/HMLG/20260731/7f2a88bd07b1443ca67034451f54d829.jpg",
+    "https://www.homelegance.com/u/HMLG/20260731/7f2a88bd07b1443ca67034451f54d829.jpg",
+    "https://www.homelegance.com/u/HMLG/20260521/38/6066NN-84_dining__l.jpg",
+    "https://www.homelegance.com/u/HMLG/20260521/39/6066NN-84_dining2__l.jpg"
+   ],
+   "url": "https://www.homelegance.com/new_arrivals/6066NN-84Dining.htm",
+   "net": 120.0,
+   "price": "276",
+   "from": true
+  },
+  {
+   "id": "mazin-6067DiningCollection",
+   "sku": "6067DiningCollection",
+   "name": "6067 Dining Collection — Metropolitan Collection",
+   "cats": [
+    "dining"
+   ],
+   "desc": "Homelegance collection, distributed in Canada by Mazin Furniture.",
+   "img": "https://www.homelegance.com/u/HMLG/20260505/13/6067-48_dining__l.jpg",
+   "gallery": [
+    "https://www.homelegance.com/u/HMLG/20260505/13/6067-48_dining__l.jpg",
+    "https://www.homelegance.com/u/HMLG/20260505/5/6067-48_noBG_front__l.jpg",
+    "https://www.homelegance.com/u/HMLG/20260505/6/6067-48_noBG_side__l.jpg",
+    "https://www.homelegance.com/u/HMLG/20260505/8/6067-48_noBG_top__l.jpg"
+   ],
+   "url": "https://www.homelegance.com/new_arrivals/6067DiningCollection.htm",
+   "delisted": true
+  },
+  {
+   "id": "mazin-6099Dining",
+   "sku": "6099Dining",
+   "name": "6099 Dining — Niche Collection",
+   "cats": [
+    "dining"
+   ],
+   "desc": "Homelegance collection, distributed in Canada by Mazin Furniture.",
+   "img": "https://www.homelegance.com/u/HMLG/20260413/115/6099-94_dining__l.jpg",
+   "gallery": [
+    "https://www.homelegance.com/u/HMLG/20260722/7159057a72204bdca0dedfb8247b6914.jpg",
+    "https://www.homelegance.com/u/HMLG/20260722/7159057a72204bdca0dedfb8247b6914.jpg",
+    "https://www.homelegance.com/u/HMLG/20260413/115/6099-94_dining__l.jpg",
+    "https://www.homelegance.com/u/HMLG/20260413/114/6099-94_dining3__l.jpg"
+   ],
+   "url": "https://www.homelegance.com/new_arrivals/6099Dining.htm",
+   "net": 550.0,
+   "price": "1265",
+   "from": true
+  },
+  {
+   "id": "mazin-BF-CRAAdjustableBedFrame",
+   "sku": "BF-CRAAdjustableBedFrame",
+   "name": "BF-CRA Adjustable Bed Frame — Flex Collection",
+   "cats": [
+    "mattress"
+   ],
+   "desc": "Homelegance collection, distributed in Canada by Mazin Furniture.",
+   "img": "https://www.homelegance.com/u/HMLG/20260512/64/BF-CRA-Q_1__l.jpg",
+   "gallery": [
+    "https://www.homelegance.com/u/HMLG/20260722/d4da0a96272842e9824ba39cd9e5904d.jpg",
+    "https://www.homelegance.com/u/HMLG/20260722/d4da0a96272842e9824ba39cd9e5904d.jpg",
+    "https://www.homelegance.com/u/HMLG/20260512/64/BF-CRA-Q_1__l.jpg",
+    "https://www.homelegance.com/u/HMLG/20260512/65/BF-CRA-Q_2__l.jpg"
+   ],
+   "url": "https://www.homelegance.com/new_arrivals/BF-CRAAdjustableBedFrame.htm",
+   "delisted": true
+  },
+  {
    "id": "mazin-15260Media",
    "sku": "15260Media",
    "name": "15260 Media — Bainbridge Collection",
@@ -1051,6 +1471,376 @@
    "net": 597.0,
    "price": "1373",
    "from": true
+  },
+  {
+   "id": "mazin-2307Occasional",
+   "sku": "2307Occasional",
+   "name": "2307 Occasional — Bancroft Collection",
+   "cats": [
+    "new"
+   ],
+   "desc": "Homelegance collection, distributed in Canada by Mazin Furniture.",
+   "img": "https://www.homelegance.com/u/HMLG/20260511/66/2307_occasional__l.jpg",
+   "gallery": [
+    "https://www.homelegance.com/u/HMLG/20260511/66/2307_occasional__l.jpg",
+    "https://www.homelegance.com/u/HMLG/20260511/2/2307-30_noBG_front__l.jpg",
+    "https://www.homelegance.com/u/HMLG/20260511/1/2307-30_noBG_side__l.jpg",
+    "https://www.homelegance.com/u/HMLG/20260511/3/2307-30_noBG_top__l.jpg"
+   ],
+   "url": "https://www.homelegance.com/new_arrivals/2307Occasional.htm",
+   "delisted": true
+  },
+  {
+   "id": "mazin-8317BLKSeating",
+   "sku": "8317BLKSeating",
+   "name": "8317BLK Seating — Ridge Collection",
+   "cats": [
+    "new"
+   ],
+   "desc": "Homelegance collection, distributed in Canada by Mazin Furniture.",
+   "img": "https://www.homelegance.com/u/HMLG/20260603/35/8317BLK_seating__l.jpg",
+   "gallery": [
+    "https://www.homelegance.com/u/HMLG/20260603/35/8317BLK_seating__l.jpg",
+    "https://www.homelegance.com/u/HMLG/20260603/32/8317BLK_seating2__l.jpg",
+    "https://www.homelegance.com/u/HMLG/20260603/34/8317BLK_seating3__l.jpg",
+    "https://www.homelegance.com/u/HMLG/20260603/33/8317BLK_seating4__l.jpg"
+   ],
+   "url": "https://www.homelegance.com/new_arrivals/8317BLKSeating.htm",
+   "delisted": true
+  },
+  {
+   "id": "mazin-8317DGYSeating",
+   "sku": "8317DGYSeating",
+   "name": "8317DGY Seating — Ridge Collection",
+   "cats": [
+    "new"
+   ],
+   "desc": "Homelegance collection, distributed in Canada by Mazin Furniture.",
+   "img": "https://www.homelegance.com/u/HMLG/20260427/190/8317DGY_seating__l.jpg",
+   "gallery": [
+    "https://www.homelegance.com/u/HMLG/20260427/190/8317DGY_seating__l.jpg",
+    "https://www.homelegance.com/u/HMLG/20260427/187/8317DGY_seating2__l.jpg",
+    "https://www.homelegance.com/u/HMLG/20260427/189/8317DGY_seating3__l.jpg",
+    "https://www.homelegance.com/u/HMLG/20260427/191/8317DGY_seating4__l.jpg"
+   ],
+   "url": "https://www.homelegance.com/new_arrivals/8317DGYSeating.htm",
+   "delisted": true
+  },
+  {
+   "id": "mazin-8317WHTSeating",
+   "sku": "8317WHTSeating",
+   "name": "8317WHT Seating — Ridge Collection",
+   "cats": [
+    "new"
+   ],
+   "desc": "Homelegance collection, distributed in Canada by Mazin Furniture.",
+   "img": "https://www.homelegance.com/u/HMLG/20260603/38/8317WHT_seating__l.jpg",
+   "gallery": [
+    "https://www.homelegance.com/u/HMLG/20260603/38/8317WHT_seating__l.jpg",
+    "https://www.homelegance.com/u/HMLG/20260603/39/8317WHT_seating2__l.jpg",
+    "https://www.homelegance.com/u/HMLG/20260603/36/8317WHT_seating3__l.jpg",
+    "https://www.homelegance.com/u/HMLG/20260603/37/8317WHT_seating4__l.jpg"
+   ],
+   "url": "https://www.homelegance.com/new_arrivals/8317WHTSeating.htm",
+   "delisted": true
+  },
+  {
+   "id": "mazin-8348BLKSeating",
+   "sku": "8348BLKSeating",
+   "name": "8348BLK Seating — Phyllis Collection",
+   "cats": [
+    "new"
+   ],
+   "desc": "Homelegance collection, distributed in Canada by Mazin Furniture.",
+   "img": "https://www.homelegance.com/u/HMLG/20260603/76/8348BLK_seating__l.jpg",
+   "gallery": [
+    "https://www.homelegance.com/u/HMLG/20260603/76/8348BLK_seating__l.jpg",
+    "https://www.homelegance.com/u/HMLG/20260603/78/8348BLK_seating2__l.jpg",
+    "https://www.homelegance.com/u/HMLG/20260603/77/8348BLK_seating3__l.jpg",
+    "https://www.homelegance.com/u/HMLG/20260603/74/8348BLK-3_noBG_front__l.jpg"
+   ],
+   "url": "https://www.homelegance.com/new_arrivals/8348BLKSeating.htm",
+   "delisted": true
+  },
+  {
+   "id": "mazin-8390Seating",
+   "sku": "8390Seating",
+   "name": "8390 Seating — Regal Collection",
+   "cats": [
+    "new"
+   ],
+   "desc": "Homelegance collection, distributed in Canada by Mazin Furniture.",
+   "img": "https://www.homelegance.com/u/HMLG/20260521/126/8390_seating__l.jpg",
+   "gallery": [
+    "https://www.homelegance.com/u/HMLG/20260521/126/8390_seating__l.jpg",
+    "https://www.homelegance.com/u/HMLG/20260521/125/8390_seating2__l.jpg",
+    "https://www.homelegance.com/u/HMLG/20260521/131/8390-3_noBG_front__l.jpg",
+    "https://www.homelegance.com/u/HMLG/20260521/132/8390-3_noBG_side_1__l.jpg"
+   ],
+   "url": "https://www.homelegance.com/new_arrivals/8390Seating.htm",
+   "delisted": true
+  },
+  {
+   "id": "mazin-8457BRWSeating",
+   "sku": "8457BRWSeating",
+   "name": "8457BRW Seating — Huron Collection",
+   "cats": [
+    "new"
+   ],
+   "desc": "Homelegance collection, distributed in Canada by Mazin Furniture.",
+   "img": "https://www.homelegance.com/u/HMLG/20260524/157/8457BRW_seating__l.jpg",
+   "gallery": [
+    "https://www.homelegance.com/u/HMLG/20260524/157/8457BRW_seating__l.jpg",
+    "https://www.homelegance.com/u/HMLG/20260524/154/8457BRW_seating2__l.jpg",
+    "https://www.homelegance.com/u/HMLG/20260524/158/8457BRW_seating4__l.jpg",
+    "https://www.homelegance.com/u/HMLG/20260524/156/8457BRW_seating3__l.jpg"
+   ],
+   "url": "https://www.homelegance.com/new_arrivals/8457BRWSeating.htm",
+   "delisted": true
+  },
+  {
+   "id": "mazin-9169DGYSeating",
+   "sku": "9169DGYSeating",
+   "name": "9169DGY Seating — Slate Collection",
+   "cats": [
+    "new"
+   ],
+   "desc": "Homelegance collection, distributed in Canada by Mazin Furniture.",
+   "img": "https://www.homelegance.com/u/HMLG/20260628/443/9169DGY_seating__l.jpg",
+   "gallery": [
+    "https://www.homelegance.com/u/HMLG/20260628/443/9169DGY_seating__l.jpg",
+    "https://www.homelegance.com/u/HMLG/20260628/442/9169DGY_seating2__l.jpg",
+    "https://www.homelegance.com/u/HMLG/20260721/27/9169DGY-3_noBG_front__l.jpg",
+    "https://www.homelegance.com/u/HMLG/20260721/26/9169DGY-3_noBG_side__l.jpg"
+   ],
+   "url": "https://www.homelegance.com/new_arrivals/9169DGYSeating.htm",
+   "delisted": true
+  },
+  {
+   "id": "mazin-9177WABEGSeating",
+   "sku": "9177WABEGSeating",
+   "name": "9177WABEG Seating — Loom Collection",
+   "cats": [
+    "new"
+   ],
+   "desc": "Homelegance collection, distributed in Canada by Mazin Furniture.",
+   "img": "https://www.homelegance.com/u/HMLG/20260624/85/9177WABEG_seating__l.jpg",
+   "gallery": [
+    "https://www.homelegance.com/u/HMLG/20260624/85/9177WABEG_seating__l.jpg",
+    "https://www.homelegance.com/u/HMLG/20260624/86/9177WABEG_seating2__l.jpg",
+    "https://www.homelegance.com/u/HMLG/20260624/87/9177WABEG-3_noBG_front__l.jpg",
+    "https://www.homelegance.com/u/HMLG/20260625/102/9177WABEG-3_noBG_side__l.jpg"
+   ],
+   "url": "https://www.homelegance.com/new_arrivals/9177WABEGSeating.htm",
+   "delisted": true
+  },
+  {
+   "id": "mazin-9178NBRSeating",
+   "sku": "9178NBRSeating",
+   "name": "9178NBR Seating — Sovereign Collection",
+   "cats": [
+    "new"
+   ],
+   "desc": "Homelegance collection, distributed in Canada by Mazin Furniture.",
+   "img": "https://www.homelegance.com/u/HMLG/20260602/62/9178NBR_seating__l.jpg",
+   "gallery": [
+    "https://www.homelegance.com/u/HMLG/20260602/62/9178NBR_seating__l.jpg",
+    "https://www.homelegance.com/u/HMLG/20260602/65/9178NBR_seating2__l.jpg",
+    "https://www.homelegance.com/u/HMLG/20260602/63/9178NBR-3_noBG_front__l.jpg",
+    "https://www.homelegance.com/u/HMLG/20260602/68/9178NBR-3_noBG_side_1__l.jpg"
+   ],
+   "url": "https://www.homelegance.com/new_arrivals/9178NBRSeating.htm",
+   "delisted": true
+  },
+  {
+   "id": "mazin-9630BKSeating",
+   "sku": "9630BKSeating",
+   "name": "9630BK Seating — Pompano Collection",
+   "cats": [
+    "new"
+   ],
+   "desc": "Homelegance collection, distributed in Canada by Mazin Furniture.",
+   "img": "https://www.homelegance.com/u/HMLG/20260707/545/9630BK_seating2__l.jpg",
+   "gallery": [
+    "https://www.homelegance.com/u/HMLG/20260707/545/9630BK_seating2__l.jpg",
+    "https://www.homelegance.com/u/HMLG/20260707/546/9630BK_seating__l.jpg",
+    "https://www.homelegance.com/u/HMLG/20260707/551/9630BK_42LRC_1__l.jpg",
+    "https://www.homelegance.com/u/HMLG/20260707/547/9630BK_42LRC_4__l.jpg"
+   ],
+   "url": "https://www.homelegance.com/new_arrivals/9630BKSeating.htm",
+   "delisted": true
+  },
+  {
+   "id": "mazin-9745BESeating",
+   "sku": "9745BESeating",
+   "name": "9745BE Seating — Zander Collection",
+   "cats": [
+    "new"
+   ],
+   "desc": "Homelegance collection, distributed in Canada by Mazin Furniture.",
+   "img": "https://www.homelegance.com/u/HMLG/20260617/142/9745BE_seating__l.jpg",
+   "gallery": [
+    "https://www.homelegance.com/u/HMLG/20260617/142/9745BE_seating__l.jpg",
+    "https://www.homelegance.com/u/HMLG/20260617/141/9745BE_seating2__l.jpg",
+    "https://www.homelegance.com/u/HMLG/20260621/27/9745BE-3_noBG_front__l.jpg",
+    "https://www.homelegance.com/u/HMLG/20260621/29/9745BE-3_noBG_side__l.jpg"
+   ],
+   "url": "https://www.homelegance.com/new_arrivals/9745BESeating.htm",
+   "net": 280.0,
+   "price": "644",
+   "from": true
+  },
+  {
+   "id": "mazin-9745DGSeating",
+   "sku": "9745DGSeating",
+   "name": "9745DG Seating — Zander Collection",
+   "cats": [
+    "new"
+   ],
+   "desc": "Homelegance collection, distributed in Canada by Mazin Furniture.",
+   "img": "https://www.homelegance.com/u/HMLG/20260524/203/9745DG_seating__l.jpg",
+   "gallery": [
+    "https://www.homelegance.com/u/HMLG/20260524/203/9745DG_seating__l.jpg",
+    "https://www.homelegance.com/u/HMLG/20260524/201/9745DG_seating2__l.jpg",
+    "https://www.homelegance.com/u/HMLG/20260524/202/9745DG-3_noBG_front__l.jpg",
+    "https://www.homelegance.com/u/HMLG/20260524/206/9745DG-3_noBG_side__l.jpg"
+   ],
+   "url": "https://www.homelegance.com/new_arrivals/9745DGSeating.htm",
+   "net": 280.0,
+   "price": "644",
+   "from": true
+  },
+  {
+   "id": "mazin-9746BESeating",
+   "sku": "9746BESeating",
+   "name": "9746BE Seating — Chelsea Collection",
+   "cats": [
+    "new"
+   ],
+   "desc": "Homelegance collection, distributed in Canada by Mazin Furniture.",
+   "img": "https://www.homelegance.com/u/HMLG/20260610/140/9746BE_seating__l.jpg",
+   "gallery": [
+    "https://www.homelegance.com/u/HMLG/20260802/aad2c1ab295b456995cbaf790b13b17d.jpg",
+    "https://www.homelegance.com/u/HMLG/20260802/bf9c0b3661a1414fbd530bd2df5c336b.jpg",
+    "https://www.homelegance.com/u/HMLG/20260802/cb2e5fd74e594cb8aaa0cc720bcbe100.jpg",
+    "https://www.homelegance.com/u/HMLG/20260802/aad2c1ab295b456995cbaf790b13b17d.jpg"
+   ],
+   "url": "https://www.homelegance.com/new_arrivals/9746BESeating.htm",
+   "net": 280.0,
+   "price": "644",
+   "from": true
+  },
+  {
+   "id": "mazin-9746GYSeating",
+   "sku": "9746GYSeating",
+   "name": "9746GY Seating — Chelsea Collection",
+   "cats": [
+    "new"
+   ],
+   "desc": "Homelegance collection, distributed in Canada by Mazin Furniture.",
+   "img": "https://www.homelegance.com/u/HMLG/20260517/341/9746GY_seating__l.jpg",
+   "gallery": [
+    "https://www.homelegance.com/u/HMLG/20260802/1e2e6963296147d391aa47b2f0e41d38.jpg",
+    "https://www.homelegance.com/u/HMLG/20260802/bffbd9d8903a4131add97b7146b77e57.jpg",
+    "https://www.homelegance.com/u/HMLG/20260802/889556525d5742b3b2efda85b3af8bc4.jpg",
+    "https://www.homelegance.com/u/HMLG/20260802/1e2e6963296147d391aa47b2f0e41d38.jpg"
+   ],
+   "url": "https://www.homelegance.com/new_arrivals/9746GYSeating.htm",
+   "net": 280.0,
+   "price": "644",
+   "from": true
+  },
+  {
+   "id": "mazin-9747BUSeating",
+   "sku": "9747BUSeating",
+   "name": "9747BU Seating — Sarah Collection",
+   "cats": [
+    "new"
+   ],
+   "desc": "Homelegance collection, distributed in Canada by Mazin Furniture.",
+   "img": "https://www.homelegance.com/u/HMLG/20260604/101/9747BU_seating__l.jpg",
+   "gallery": [
+    "https://www.homelegance.com/u/HMLG/20260802/a24d4195a6144bd9b070fb6d052b37c9.jpg",
+    "https://www.homelegance.com/u/HMLG/20260802/8ae0ad4b9ed345ec9432b6793ec4fb5a.jpg",
+    "https://www.homelegance.com/u/HMLG/20260802/5b98ab57c19640baa1a4d5f6efdca3bb.jpg",
+    "https://www.homelegance.com/u/HMLG/20260802/a24d4195a6144bd9b070fb6d052b37c9.jpg"
+   ],
+   "url": "https://www.homelegance.com/new_arrivals/9747BUSeating.htm",
+   "net": 280.0,
+   "price": "644",
+   "from": true
+  },
+  {
+   "id": "mazin-B2045PMYouth",
+   "sku": "B2045PMYouth",
+   "name": "B2045PM Youth — Arbor Collection",
+   "cats": [
+    "new"
+   ],
+   "desc": "Homelegance collection, distributed in Canada by Mazin Furniture.",
+   "img": "https://www.homelegance.com/u/HMLG/20260427/256/B2045PMTT_youth__l.jpg",
+   "gallery": [
+    "https://www.homelegance.com/u/HMLG/20260427/256/B2045PMTT_youth__l.jpg",
+    "https://www.homelegance.com/u/HMLG/20260427/260/B2045PMTT_youth2__l.jpg",
+    "https://www.homelegance.com/u/HMLG/20260427/258/B2045PMTT_youth3__l.jpg",
+    "https://www.homelegance.com/u/HMLG/20260427/257/B2045PMTT_youth4__l.jpg"
+   ],
+   "url": "https://www.homelegance.com/new_arrivals/B2045PMYouth.htm",
+   "delisted": true
+  },
+  {
+   "id": "mazin-B2046PMFFYouth",
+   "sku": "B2046PMFFYouth",
+   "name": "B2046PMFF Youth — Koda Collection",
+   "cats": [
+    "new"
+   ],
+   "desc": "Homelegance collection, distributed in Canada by Mazin Furniture.",
+   "img": "https://www.homelegance.com/u/HMLG/20260511/72/B2046PMFF_youth__l.jpg",
+   "gallery": [
+    "https://www.homelegance.com/u/HMLG/20260511/72/B2046PMFF_youth__l.jpg",
+    "https://www.homelegance.com/u/HMLG/20260511/71/B2046PMFF-1_noBG_side_3__l.jpg",
+    "https://www.homelegance.com/u/HMLG/20260511/67/B2046PMFF-1_noBG_front_1__l.jpg",
+    "https://www.homelegance.com/u/HMLG/20260511/69/B2046PMFF-1_noBG_side_1__l.jpg"
+   ],
+   "url": "https://www.homelegance.com/new_arrivals/B2046PMFFYouth.htm",
+   "delisted": true
+  },
+  {
+   "id": "mazin-B2046PMTFYouth",
+   "sku": "B2046PMTFYouth",
+   "name": "B2046PMTF Youth — Koda Collection",
+   "cats": [
+    "new"
+   ],
+   "desc": "Homelegance collection, distributed in Canada by Mazin Furniture.",
+   "img": "https://www.homelegance.com/u/HMLG/20260511/88/B2046PMTF_youth__l.jpg",
+   "gallery": [
+    "https://www.homelegance.com/u/HMLG/20260511/88/B2046PMTF_youth__l.jpg",
+    "https://www.homelegance.com/u/HMLG/20260511/87/B2046PMTF_youth2__l.jpg",
+    "https://www.homelegance.com/u/HMLG/20260511/85/B2046PMTF-1_noBG_side_3__l.jpg",
+    "https://www.homelegance.com/u/HMLG/20260511/83/B2046PMTF-1_noBG_front_1__l.jpg"
+   ],
+   "url": "https://www.homelegance.com/new_arrivals/B2046PMTFYouth.htm",
+   "delisted": true
+  },
+  {
+   "id": "mazin-B2046PMTTYouth",
+   "sku": "B2046PMTTYouth",
+   "name": "B2046PMTT Youth — Koda Collection",
+   "cats": [
+    "new"
+   ],
+   "desc": "Homelegance collection, distributed in Canada by Mazin Furniture.",
+   "img": "https://www.homelegance.com/u/HMLG/20260511/108/B2046PMTT_youth__l.jpg",
+   "gallery": [
+    "https://www.homelegance.com/u/HMLG/20260511/108/B2046PMTT_youth__l.jpg",
+    "https://www.homelegance.com/u/HMLG/20260511/106/B2046PMTT-1_noBG_side_3__l.jpg",
+    "https://www.homelegance.com/u/HMLG/20260511/103/B2046PMTT-1_noBG_front_1__l.jpg",
+    "https://www.homelegance.com/u/HMLG/20260511/104/B2046PMTT-1_noBG_side_1__l.jpg"
+   ],
+   "url": "https://www.homelegance.com/new_arrivals/B2046PMTTYouth.htm",
+   "delisted": true
   },
   {
    "id": "mazin-1104Occasional",
@@ -1719,6 +2509,226 @@
    "delisted": true
   },
   {
+   "id": "mazin-4998BLKOccasional",
+   "sku": "4998BLKOccasional",
+   "name": "4998BLK Occasional — Salina Collection",
+   "cats": [
+    "occasional"
+   ],
+   "desc": "Homelegance collection, distributed in Canada by Mazin Furniture.",
+   "img": "https://www.homelegance.com/u/HMLG/20250115/171/4998BLK_office__l.jpg",
+   "gallery": [
+    "https://www.homelegance.com/u/HMLG/20250511/a0612a3e98d54914a1ac250e3126521b.jpg",
+    "https://www.homelegance.com/u/HMLG/20250511/a0612a3e98d54914a1ac250e3126521b.jpg",
+    "https://www.homelegance.com/u/HMLG/20250115/171/4998BLK_office__l.jpg",
+    "https://www.homelegance.com/u/HMLG/20250115/172/4998BLK_office2__l.jpg"
+   ],
+   "url": "https://www.homelegance.com/youth_youthbedroomcollections/4998BLKOccasional.htm",
+   "net": 243.0,
+   "price": "559",
+   "from": true
+  },
+  {
+   "id": "mazin-5687BLK-364PDining",
+   "sku": "5687BLK-364PDining",
+   "name": "5687BLK-364P Dining — Caspian Collection",
+   "cats": [
+    "office"
+   ],
+   "desc": "Homelegance collection, distributed in Canada by Mazin Furniture.",
+   "img": "https://www.homelegance.com/u/HMLG/20240219/79/5687BLK-364P_di__l.jpg",
+   "gallery": [
+    "https://www.homelegance.com/u/HMLG/20260315/d3a663eadc764ccbbb33ce8c44a46e54.jpg",
+    "https://www.homelegance.com/u/HMLG/20241013/16913b22a77c4d21af099aff94f3d0a9.jpg",
+    "https://www.homelegance.com/u/HMLG/20260315/d3a663eadc764ccbbb33ce8c44a46e54.jpg",
+    "https://www.homelegance.com/u/HMLG/20241013/16913b22a77c4d21af099aff94f3d0a9.jpg"
+   ],
+   "url": "https://www.homelegance.com/dining_diningroomcollections/5687BLK-364PDining.htm",
+   "net": 70.0,
+   "price": "161",
+   "from": true
+  },
+  {
+   "id": "mazin-5687BLK-424PDining",
+   "sku": "5687BLK-424PDining",
+   "name": "5687BLK-424P Dining — Caspian Collection",
+   "cats": [
+    "office"
+   ],
+   "desc": "Homelegance collection, distributed in Canada by Mazin Furniture.",
+   "img": "https://www.homelegance.com/u/HMLG/20240219/95/5687BLK-424P_di__l.jpg",
+   "gallery": [
+    "https://www.homelegance.com/u/HMLG/20260315/d7550ae61f2c4cfb9e67c16ab4f8cf5e.jpg",
+    "https://www.homelegance.com/u/HMLG/20260315/d7550ae61f2c4cfb9e67c16ab4f8cf5e.jpg",
+    "https://www.homelegance.com/u/HMLG/20240219/95/5687BLK-424P_di__l.jpg",
+    "https://www.homelegance.com/u/HMLG/20240219/100/5687BLK-29__l.jpg"
+   ],
+   "url": "https://www.homelegance.com/dining_diningroomcollections/5687BLK-424PDining.htm",
+   "net": 70.0,
+   "price": "161",
+   "from": true
+  },
+  {
+   "id": "mazin-5687BTT-364PDining",
+   "sku": "5687BTT-364PDining",
+   "name": "5687BTT-364P Dining — Caspian Collection",
+   "cats": [
+    "office"
+   ],
+   "desc": "Homelegance collection, distributed in Canada by Mazin Furniture.",
+   "img": "https://www.homelegance.com/u/HMLG/20240219/109/5687BTT-364P_di__l.jpg",
+   "gallery": [
+    "https://www.homelegance.com/u/HMLG/20260315/26a56535961a483da94affca55d34f40.jpg",
+    "https://www.homelegance.com/u/HMLG/20241013/39f15c1810bd45dab7f40bcbe071c224.jpg",
+    "https://www.homelegance.com/u/HMLG/20260315/26a56535961a483da94affca55d34f40.jpg",
+    "https://www.homelegance.com/u/HMLG/20241013/39f15c1810bd45dab7f40bcbe071c224.jpg"
+   ],
+   "url": "https://www.homelegance.com/dining_diningroomcollections/5687BTT-364PDining.htm",
+   "net": 70.0,
+   "price": "161",
+   "from": true
+  },
+  {
+   "id": "mazin-5687BTT-424PDining",
+   "sku": "5687BTT-424PDining",
+   "name": "5687BTT-424P Dining — Caspian Collection",
+   "cats": [
+    "office"
+   ],
+   "desc": "Homelegance collection, distributed in Canada by Mazin Furniture.",
+   "img": "https://www.homelegance.com/u/HMLG/20240219/126/5687BTT-424P_di__l.jpg",
+   "gallery": [
+    "https://www.homelegance.com/u/HMLG/20260315/88dd882141ca46bcb7e9b141a8e901ae.jpg",
+    "https://www.homelegance.com/u/HMLG/20260315/88dd882141ca46bcb7e9b141a8e901ae.jpg",
+    "https://www.homelegance.com/u/HMLG/20240219/126/5687BTT-424P_di__l.jpg",
+    "https://www.homelegance.com/u/HMLG/20240219/130/5687BTT-29__l.jpg"
+   ],
+   "url": "https://www.homelegance.com/dining_diningroomcollections/5687BTT-424PDining.htm",
+   "net": 70.0,
+   "price": "161",
+   "from": true
+  },
+  {
+   "id": "mazin-5687WTT-364PDining",
+   "sku": "5687WTT-364PDining",
+   "name": "5687WTT-364P Dining — Caspian Collection",
+   "cats": [
+    "office"
+   ],
+   "desc": "Homelegance collection, distributed in Canada by Mazin Furniture.",
+   "img": "https://www.homelegance.com/u/HMLG/20240219/132/5687WTT-364P_di__l.jpg",
+   "gallery": [
+    "https://www.homelegance.com/u/HMLG/20260315/175f347097c543959001edd24ce349ad.jpg",
+    "https://www.homelegance.com/u/HMLG/20241013/08278a5eda854a8a997e44e978088605.jpg",
+    "https://www.homelegance.com/u/HMLG/20260315/175f347097c543959001edd24ce349ad.jpg",
+    "https://www.homelegance.com/u/HMLG/20241013/08278a5eda854a8a997e44e978088605.jpg"
+   ],
+   "url": "https://www.homelegance.com/dining_diningroomcollections/5687WTT-364PDining.htm",
+   "net": 70.0,
+   "price": "161",
+   "from": true
+  },
+  {
+   "id": "mazin-5687WTT-424PDining",
+   "sku": "5687WTT-424PDining",
+   "name": "5687WTT-424P Dining — Caspian Collection",
+   "cats": [
+    "office"
+   ],
+   "desc": "Homelegance collection, distributed in Canada by Mazin Furniture.",
+   "img": "https://www.homelegance.com/u/HMLG/20240219/148/5687WTT-424P_di__l.jpg",
+   "gallery": [
+    "https://www.homelegance.com/u/HMLG/20260315/71eab5a3a3ae4ab19e57275335cabf06.jpg",
+    "https://www.homelegance.com/u/HMLG/20260315/71eab5a3a3ae4ab19e57275335cabf06.jpg",
+    "https://www.homelegance.com/u/HMLG/20240219/148/5687WTT-424P_di__l.jpg",
+    "https://www.homelegance.com/u/HMLG/20240219/153/5687WTT-29__l.jpg"
+   ],
+   "url": "https://www.homelegance.com/dining_diningroomcollections/5687WTT-424PDining.htm",
+   "net": 70.0,
+   "price": "161",
+   "from": true
+  },
+  {
+   "id": "mazin-5713BKDining",
+   "sku": "5713BKDining",
+   "name": "5713BK Dining — Connected Collection",
+   "cats": [
+    "office"
+   ],
+   "desc": "Homelegance collection, distributed in Canada by Mazin Furniture.",
+   "img": "https://www.homelegance.com/u/HMLG/20230718/134/5713BK_dining__l.jpg",
+   "gallery": [
+    "https://www.homelegance.com/u/HMLG/20260517/0170b737087e4bfe97af7b720a9eed5b.jpg",
+    "https://www.homelegance.com/u/HMLG/20260517/0170b737087e4bfe97af7b720a9eed5b.jpg",
+    "https://www.homelegance.com/u/HMLG/20230718/134/5713BK_dining__l.jpg",
+    "https://www.homelegance.com/u/HMLG/20230718/133/5713BK__l.jpg"
+   ],
+   "url": "https://www.homelegance.com/dining_diningroomcollections/5713BKDining.htm",
+   "net": 395.0,
+   "price": "908",
+   "from": true
+  },
+  {
+   "id": "mazin-5713ESDining",
+   "sku": "5713ESDining",
+   "name": "5713ES Dining — Connected Collection",
+   "cats": [
+    "office"
+   ],
+   "desc": "Homelegance collection, distributed in Canada by Mazin Furniture.",
+   "img": "https://www.homelegance.com/u/HMLG/20230718/135/5713ES_dining__l.jpg",
+   "gallery": [
+    "https://www.homelegance.com/u/HMLG/20260517/4b086a11542a4d21b16f7eedb2bf5f0c.jpg",
+    "https://www.homelegance.com/u/HMLG/20260517/4b086a11542a4d21b16f7eedb2bf5f0c.jpg",
+    "https://www.homelegance.com/u/HMLG/20230718/135/5713ES_dining__l.jpg",
+    "https://www.homelegance.com/u/HMLG/20230718/138/5713ES___l.jpg"
+   ],
+   "url": "https://www.homelegance.com/dining_diningroomcollections/5713ESDining.htm",
+   "net": 395.0,
+   "price": "908",
+   "from": true
+  },
+  {
+   "id": "mazin-5713GYDining",
+   "sku": "5713GYDining",
+   "name": "5713GY Dining — Connected Collection",
+   "cats": [
+    "office"
+   ],
+   "desc": "Homelegance collection, distributed in Canada by Mazin Furniture.",
+   "img": "https://www.homelegance.com/u/HMLG/20230718/136/5713GY_dining__l.jpg",
+   "gallery": [
+    "https://www.homelegance.com/u/HMLG/20260517/c0d931ad472e45e0b9cc1a6e5b58fe10.jpg",
+    "https://www.homelegance.com/u/HMLG/20260517/c0d931ad472e45e0b9cc1a6e5b58fe10.jpg",
+    "https://www.homelegance.com/u/HMLG/20230718/136/5713GY_dining__l.jpg",
+    "https://www.homelegance.com/u/HMLG/20210120/552/5713GY___l.jpg"
+   ],
+   "url": "https://www.homelegance.com/dining_diningroomcollections/5713GYDining.htm",
+   "net": 395.0,
+   "price": "908",
+   "from": true
+  },
+  {
+   "id": "mazin-5713WTDining",
+   "sku": "5713WTDining",
+   "name": "5713WT Dining — Connected Collection",
+   "cats": [
+    "office"
+   ],
+   "desc": "Homelegance collection, distributed in Canada by Mazin Furniture.",
+   "img": "https://www.homelegance.com/u/HMLG/20230718/139/5713WT_dining__l.jpg",
+   "gallery": [
+    "https://www.homelegance.com/u/HMLG/20260517/a50eb7812ab9403ab69c2504df8d1a6d.jpg",
+    "https://www.homelegance.com/u/HMLG/20260517/a50eb7812ab9403ab69c2504df8d1a6d.jpg",
+    "https://www.homelegance.com/u/HMLG/20230718/139/5713WT_dining__l.jpg",
+    "https://www.homelegance.com/u/HMLG/20230718/141/5713WT___l.jpg"
+   ],
+   "url": "https://www.homelegance.com/dining_diningroomcollections/5713WTDining.htm",
+   "net": 395.0,
+   "price": "908",
+   "from": true
+  },
+  {
    "id": "mazin-1386NWOffice",
    "sku": "1386NWOffice",
    "name": "1386NW Office — Cinderella Collection",
@@ -2044,6 +3054,42 @@
     "https://www.homelegance.com/u/HMLG/20260511/198/B2048WH-14B2048WHB2048-BC4S-15_sid_HEI__l.jpg"
    ],
    "url": "https://www.homelegance.com/office_officecollections/B2048WHOffice.htm",
+   "delisted": true
+  },
+  {
+   "id": "mazin-2510TYouth",
+   "sku": "2510TYouth",
+   "name": "2510T Youth — Olson Collection",
+   "cats": [
+    "youth"
+   ],
+   "desc": "Homelegance collection, distributed in Canada by Mazin Furniture.",
+   "img": "https://www.homelegance.com/u/HMLG/20260325/23/2510T_youth__l.jpg",
+   "gallery": [
+    "https://www.homelegance.com/u/HMLG/20260419/a60598a5c50c4077bf98baf027084627.jpg",
+    "https://www.homelegance.com/u/HMLG/20260419/a60598a5c50c4077bf98baf027084627.jpg",
+    "https://www.homelegance.com/u/HMLG/20260325/23/2510T_youth__l.jpg",
+    "https://www.homelegance.com/u/HMLG/20260325/21/2510T_youth2__l.jpg"
+   ],
+   "url": "https://www.homelegance.com/new_arrivals/2510TYouth.htm",
+   "delisted": true
+  },
+  {
+   "id": "mazin-B2035Youth",
+   "sku": "B2035Youth",
+   "name": "B2035 Youth — Spenser Collection",
+   "cats": [
+    "youth"
+   ],
+   "desc": "Homelegance collection, distributed in Canada by Mazin Furniture.",
+   "img": "https://www.homelegance.com/u/HMLG/20260414/249/B2035_youth__l.jpg",
+   "gallery": [
+    "https://www.homelegance.com/u/HMLG/20260622/c12c94fab03f4079ba58f65e48f1d651.jpg",
+    "https://www.homelegance.com/u/HMLG/20260622/e7474543b8024206881e0054c54e88e3.jpg",
+    "https://www.homelegance.com/u/HMLG/20260622/7dc74d486e99489aa1f7e5dc15374b3f.jpg",
+    "https://www.homelegance.com/u/HMLG/20260622/c12c94fab03f4079ba58f65e48f1d651.jpg"
+   ],
+   "url": "https://www.homelegance.com/new_arrivals/B2035Youth.htm",
    "delisted": true
   },
   {

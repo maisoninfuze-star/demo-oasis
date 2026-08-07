@@ -12,10 +12,11 @@ OUT = os.path.dirname(os.path.abspath(__file__))
 BASE = 'https://www.homelegance.com'
 UA = {'User-Agent': 'Mozilla/5.0', 'Accept': 'text/html'}
 
-SECTIONS = ['bedroom_bedroomcollections', 'dining_diningroomcollections',
-            'media_mediacollections', 'occasional_tablecollections',
-            'office_officecollections', 'seat_seatingcollections',
-            'youth_youthbedroomcollections']
+# Sections are DISCOVERED from the site nav, not hardcoded — the original
+# hardcoded list missed seat_accentchairs, seat_chaises, seat_daybeds,
+# seat_leather, occasional_sofatables, new_arrivals and more; and the
+# per-section link regex dropped products cross-listed under /new_arrivals/.
+SEED = ['', 'seat/', 'bedroom/', 'dining/', 'occasional/', 'office/', 'youth/', 'media/']
 
 def get(url, tries=3):
     for a in range(tries):
@@ -28,11 +29,19 @@ def get(url, tries=3):
 
 if __name__ == '__main__':
     items, seen = [], set()
-    for sec in SECTIONS:
+    # 1) discover every section slug from the seed/nav pages
+    sections = set()
+    for seed in SEED:
+        nav = get(f'{BASE}/{seed}')
+        sections |= set(re.findall(r'href="/([a-z]+_[a-z0-9-]+)/"', nav))
+    sections = sorted(sections)
+    print(f'discovered {len(sections)} sections: {sections}', flush=True)
+    # 2) each section listing may link products in ANY path (incl. /new_arrivals/)
+    for sec in sections:
         cat = sec.split('_')[0]
         listing = get(f'{BASE}/{sec}/')
-        pages = sorted(set(re.findall(rf'href="(/{sec}/[^"]+\.htm)"', listing)))
-        print(f'{sec}: {len(pages)} collections', flush=True)
+        pages = sorted(set(re.findall(r'href="(/[a-z_]+/[^"]+\.htm)"', listing)))
+        print(f'{sec}: {len(pages)} product pages', flush=True)
         for path in pages:
             slug = path.split('/')[-1].replace('.htm', '')
             if slug in seen:

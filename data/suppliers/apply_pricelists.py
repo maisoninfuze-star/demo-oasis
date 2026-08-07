@@ -17,7 +17,7 @@ import pdfplumber
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.dirname(os.path.dirname(HERE))
-MARGIN = lambda net: round(net * 2 * 1.15)
+MARGIN = lambda net: round(net * 3.15)   # owner: pdf price x 3.15
 
 def money(s):
     s = s.replace(',', '').replace(' ', '')
@@ -90,9 +90,12 @@ def parse_matrix():
                         for d in re.findall(r'\$\s*([\d ,]+)', line):
                             v = money(d)
                             if v and 50 <= v <= 30000:
-                                prices[cur] = min(prices.get(cur, 1e9), v)
+                                label = re.sub(r'\$.*$', '', line).strip().lower()
+                                prices.setdefault(cur, {})
+                                prices[cur][label] = min(prices[cur].get(label, 1e9), v)
                                 if curname and len(curname) >= 4:
-                                    name_prices[curname] = min(name_prices.get(curname, 1e9), v)
+                                    name_prices.setdefault(curname, {})
+                                    name_prices[curname][label] = min(name_prices[curname].get(label, 1e9), v)
     return {'codes': prices, 'names': name_prices}
 
 # ---------------- apply to a supplier feed ----------------
@@ -135,16 +138,37 @@ def aclass_key(it, pm):
     if (code, None) in pm: return pm[(code, None)]
     return None
 
+PIECE_WORDS = [
+    ('queen bed', ['queen bed']), ('king bed', ['king bed']),
+    ('bed', ['queen bed', 'bed']), ('dresser', ['dresser']), ('mirror', ['mirror']),
+    ('chest', ['chest']), ('nightstand', ['night stand', 'nightstand']),
+    ('sectional', ['sectional']), ('sofa', ['sofa']), ('loveseat', ['loveseat', 'love seat']),
+    ('chair', ['chair']), ('server', ['server', 'buffet']), ('table', ['table']),
+    ('set', ['complete set', 'set']),
+]
+
+def _pick_line(lines, it):
+    # lines: {label: net} -> choose the line for this item's own piece type
+    blob = (str(it.get('name','')) + ' ' + ' '.join(it.get('cats') or []) + ' ' + str(it.get('id',''))).lower()
+    for piece, labels in PIECE_WORDS:
+        if piece in blob:
+            for lab in labels:
+                for label, v in lines.items():
+                    if lab in label:
+                        return v
+    for label, v in lines.items():
+        if 'complete set' in label or 'set' in label:
+            return v
+    return max(lines.values())
+
 def matrix_key(it, pm):
-    # 1) numeric part of the site SKU matches a pricelist collection code
     sku_num = re.sub(r'[A-Z]', '', str(it.get('sku', '')))
     if sku_num and sku_num in pm['codes']:
-        return pm['codes'][sku_num]
-    # 2) product name contains (or is) a pricelist collection name
+        return _pick_line(pm['codes'][sku_num], it)
     n = re.sub(r'[^A-Z]', '', str(it.get('name', '')).upper())
     for pn, v in pm['names'].items():
         if pn in n or (n and n in pn):
-            return v
+            return _pick_line(v, it)
     return None
 
 if __name__ == '__main__':

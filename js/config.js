@@ -37,12 +37,12 @@ window.OASIS_CONFIG = {
     enabled: true,
     en: 'WE PAY THE TAXES',
     fr: 'NOUS PAYONS LES TAXES',
-    subEn: 'On everything in store and in our catalogues — for a limited time.',
-    subFr: 'Sur tout en magasin et dans nos catalogues — pour un temps limité.',
-    fineEn: 'Equivalent to a discount equal to both sales taxes (GST + QST). Cannot be combined with certain offers. Details in store.',
-    fineFr: 'Équivaut à un rabais égal aux deux taxes de vente (TPS + TVQ). Ne peut être jumelé à certaines offres. Détails en magasin.',
+    subEn: 'On everything — for a limited time. In store only.',
+    subFr: 'Sur tout — pour un temps limité. Seulement en magasin.',
+    fineEn: 'In store only. Equivalent to a discount equal to both sales taxes (GST + QST). Cannot be combined with certain offers. Details in store.',
+    fineFr: 'Seulement en magasin. Équivaut à un rabais égal aux deux taxes de vente (TPS + TVQ). Ne peut être jumelé à certaines offres. Détails en magasin.',
     ctaEn: 'Shop the event', ctaFr: 'Profiter de l’offre'
   },
 
-  dataVersion: '20260807b'
+  dataVersion: '20260807c'
 };

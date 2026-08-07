@@ -960,3 +960,6 @@ html.has-promo .purch{padding-top:calc(9rem + 44px)}
 .purch__done{text-align:center;padding:4rem 0}
 .purch__done p{color:rgba(246,241,232,.7);margin:1rem auto 1.8rem;max-width:34ch}
 @media (max-width:900px){ .purch__grid{grid-template-columns:1fr} }
+.nav__buy{background:var(--gold);color:var(--black) !important;border-radius:2rem;padding:.45rem 1rem !important;font-weight:500}
+.nav__buy::after{display:none !important}
+.nav__buy:hover{background:var(--cream)}

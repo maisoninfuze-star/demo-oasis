@@ -67,19 +67,27 @@
 
   /* hero text */
   const t = $('.col-hero__title');
-  const heroPair = () => { const p = TOP_LABEL[top][L()]; if (t) t.innerHTML = `<span>${p[0]}</span> <em>${p[1]}</em>`; };
+  const PRICE_HERO = {
+    priced:  { en: ['Ready to', 'Order'], fr: ['Prêt à', 'commander'] },
+    request: { en: ['Made for', 'You'],   fr: ['Fait pour', 'vous'] },
+  };
+  const heroPair = () => {
+    const p = (top === 'all' && PRICE_HERO[state.price]) ? PRICE_HERO[state.price][L()] : TOP_LABEL[top][L()];
+    if (t) t.innerHTML = `<span>${p[0]}</span> <em>${p[1]}</em>`;
+  };
   const sub = $('.col-hero__sub');
   const heroSub = () => { if (sub) sub.textContent = TOP_SUB[top][L()]; };
   const crumbLast = $('.crumb span');
   const heroCrumb = () => { if (crumbLast) crumbLast.textContent = TOP_LABEL[top][L()].join(' '); };
-  heroPair(); heroSub(); heroCrumb();
 
   /* ---------- state ---------- */
   let index = null, items = [], view = [], shown = 0;
   const BATCH = 48;
   const state = { sub: params.get('sub') || 'all', brand: params.get('brand') || 'all',
-                  price: 'all', sort: 'featured', q: '' };
+                  price: ['priced','request','clearance'].includes(params.get('price')) ? params.get('price') : 'all',
+                  sort: 'featured', q: '' };
   let customIds = new Set();
+  heroPair(); heroSub(); heroCrumb();
 
   /* ---------- filter bar (built once) ---------- */
   const meta = $('.toolbar__meta');
@@ -246,6 +254,7 @@
 
   /* supplier cards → enquiry modal with context */
   grid.addEventListener('click', e => {
+    if (e.target.closest('.pcard__add')) return;  // Add-to-order wins, no enquiry modal
     const a = e.target.closest('.pcard--ask');
     if (!a) return;
     e.preventDefault();

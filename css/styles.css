@@ -903,3 +903,14 @@ html.has-promo .hero{padding-top:44px}
   background:linear-gradient(180deg,#f4e7c3,var(--gold) 70%);-webkit-background-clip:text;background-clip:text;-webkit-text-fill-color:transparent}
 .taxfree__sub{color:rgba(246,241,232,.78);font-size:1.05rem;max-width:34rem;margin:0 auto 1.8rem}
 .taxfree__fine{font-family:var(--font-sans);font-size:.68rem;color:rgba(246,241,232,.45);margin-top:1.4rem;line-height:1.6;max-width:40rem;margin-left:auto;margin-right:auto}
+
+/* full-width section headers inside the product grid */
+.grid-sec{grid-column:1/-1;padding:1.6rem 0 .4rem;border-top:1px solid var(--line-gold);margin-top:1rem}
+.grid-sec:first-child{margin-top:0;border-top:none;padding-top:.4rem}
+.grid-sec h3{font-family:var(--font-display);font-size:1.7rem;color:var(--cream)}
+.grid-sec p{font-family:var(--font-sans);font-size:.78rem;color:rgba(246,241,232,.55);margin-top:.25rem}
+.grid-sec{display:flex;justify-content:space-between;align-items:flex-end;gap:1rem;flex-wrap:wrap}
+.grid-sec__jump{background:none;border:1px solid var(--line-gold);border-radius:2rem;color:var(--gold);
+  font-family:var(--font-sans);font-size:.7rem;letter-spacing:.14em;text-transform:uppercase;
+  padding:.55rem 1.1rem;cursor:pointer;transition:.3s}
+.grid-sec__jump:hover{background:var(--gold);color:var(--black)}

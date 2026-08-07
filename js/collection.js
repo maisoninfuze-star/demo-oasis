@@ -161,11 +161,38 @@
     if (state.sort === 'name') view.sort((a, b) => a.name.localeCompare(b.name));
     if (state.sort === 'price-asc') view.sort((a, b) => (parseFloat(a.price ?? 1e9)) - (parseFloat(b.price ?? 1e9)));
     if (state.sort === 'price-desc') view.sort((a, b) => (parseFloat(b.price ?? -1)) - (parseFloat(a.price ?? -1)));
-    /* featured = curated first, then priced rugs, then the rest (build order) */
+    /* Two sections when no price filter is active: live prices first,
+       then price-on-request — each with a full-width header row. */
+    if (state.price === 'all') {
+      const priced = view.filter(it => it.price);
+      const request = view.filter(it => !it.price);
+      if (priced.length && request.length) {
+        view = [
+          { _hdr: true, kind: 'priced', n: priced.length }, ...priced,
+          { _hdr: true, kind: 'request', n: request.length }, ...request
+        ];
+      }
+    }
     grid.innerHTML = '';
     shown = 0;
-    $('#pcount').textContent = view.length.toLocaleString();
+    $('#pcount').textContent = view.filter(it => !it._hdr).length.toLocaleString();
     renderMore();
+  }
+
+  function headerHTML(h) {
+    const fr = L() === 'fr';
+    const title = h.kind === 'priced'
+      ? (fr ? 'Prix affichés' : 'Live prices')
+      : (fr ? 'Sur demande' : 'Price on request');
+    const sub = h.kind === 'priced'
+      ? (fr ? 'Prêts à commander — de notre entrepôt et des listes de prix de nos partenaires.'
+            : 'Order-ready — from our warehouse and our partners\' pricelists.')
+      : (fr ? 'Nous confirmons le prix le jour même — demandez un devis en un clic.'
+            : 'We confirm pricing the same day — request a quote in one click.');
+    const jump = h.kind === 'priced'
+      ? `<button class="grid-sec__jump" data-jump="request">${fr ? 'Voir les articles sur demande →' : 'Skip to on-request items →'}</button>`
+      : `<button class="grid-sec__jump" data-jump="priced">${fr ? '← Voir les prix affichés' : '← Back to live prices'}</button>`;
+    return `<div class="grid-sec"><div><h3>${title} · ${h.n.toLocaleString()}</h3><p>${sub}</p></div>${jump}</div>`;
   }
 
   const money = n => { n = parseFloat(n); return isNaN(n) ? '' : '$' + (n % 1 ? n.toFixed(2) : n.toLocaleString('en-CA')); };
@@ -189,9 +216,19 @@
       : `<a class="pcard pcard--ask" href="#" data-name="${it.name.replace(/"/g,'&quot;')}" data-brand="${brandName}">${inner}</a>`;
   }
 
+  grid.addEventListener('click', e => {
+    const j = e.target.closest('.grid-sec__jump');
+    if (!j) return;
+    e.preventDefault();
+    state.price = j.dataset.jump === 'request' ? 'request' : 'priced';
+    const sel = $('#fltPrice'); if (sel) sel.value = state.price;
+    apply();
+    window.scrollTo({ top: grid.getBoundingClientRect().top + scrollY - 140, behavior: 'smooth' });
+  });
+
   function renderMore() {
     const next = view.slice(shown, shown + BATCH);
-    grid.insertAdjacentHTML('beforeend', next.map(cardHTML).join(''));
+    grid.insertAdjacentHTML('beforeend', next.map(it => it._hdr ? headerHTML(it) : cardHTML(it)).join(''));
     shown += next.length;
     [...grid.children].slice(-next.length).forEach((el, i) => {
       el.classList.add('reveal');

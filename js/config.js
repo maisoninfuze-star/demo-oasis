@@ -28,5 +28,17 @@ window.OASIS_CONFIG = {
             fr: 'Escaliers, ascenseurs et levage sont estimés après confirmation des accès.' }
   },
 
-  dataVersion: '20260806e'
+  /* Site-wide promotion. Set enabled:false to remove everywhere at once. */
+  promo: {
+    enabled: true,
+    en: 'WE PAY THE TAXES',
+    fr: 'NOUS PAYONS LES TAXES',
+    subEn: 'On everything in store and in our catalogues — for a limited time.',
+    subFr: 'Sur tout en magasin et dans nos catalogues — pour un temps limité.',
+    fineEn: 'Equivalent to a discount equal to both sales taxes (GST + QST). Cannot be combined with certain offers. Details in store.',
+    fineFr: 'Équivaut à un rabais égal aux deux taxes de vente (TPS + TVQ). Ne peut être jumelé à certaines offres. Détails en magasin.',
+    ctaEn: 'Shop the event', ctaFr: 'Profiter de l’offre'
+  },
+
+  dataVersion: '20260806f'
 };

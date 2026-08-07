@@ -877,3 +877,29 @@ html.lb-open, html.lb-open body{overflow:hidden}
 /* item numbers on cards */
 .pcard__sku{display:block;font-family:var(--font-sans);font-size:.6rem;letter-spacing:.12em;
   color:rgba(246,241,232,.42);margin-top:.15rem;text-transform:uppercase}
+
+/* ---------- "We pay the taxes" promotion ---------- */
+.promo-ribbon{position:fixed;top:0;left:0;right:0;z-index:1100;display:flex;align-items:center;justify-content:center;
+  gap:1rem;height:44px;padding:0 1rem;text-align:center;
+  background:linear-gradient(90deg,#8a6d2f,var(--gold) 30%,#e8cf8f 50%,var(--gold) 70%,#8a6d2f);
+  color:var(--black);box-shadow:0 2px 18px rgba(198,166,98,.35)}
+.promo-ribbon b{font-family:var(--font-sans);font-weight:500;letter-spacing:.22em;font-size:.78rem;white-space:nowrap}
+.promo-ribbon span{font-family:var(--font-sans);font-size:.7rem;letter-spacing:.04em;opacity:.85;
+  overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+html.has-promo .site-head{top:44px}
+html.has-promo .mobile-menu{padding-top:44px}
+html.has-promo .hero{padding-top:44px}
+@media (max-width:640px){ .promo-ribbon span{display:none} }
+
+.taxfree{background:
+  radial-gradient(70% 120% at 50% 0%,rgba(198,166,98,.16),transparent 60%),
+  linear-gradient(180deg,var(--black-2),var(--black));
+  border-top:1px solid var(--line-gold);border-bottom:1px solid var(--line-dark);
+  padding:clamp(3.5rem,7vw,6rem) var(--pad);text-align:center}
+.taxfree__inner{max-width:900px;margin:0 auto}
+.taxfree__kicker{font-family:var(--font-sans);font-size:.7rem;letter-spacing:.34em;text-transform:uppercase;color:var(--gold);margin-bottom:1rem}
+.taxfree__title{font-family:var(--font-display);font-size:clamp(2.6rem,7vw,5.5rem);line-height:1;color:var(--cream);
+  letter-spacing:.02em;margin-bottom:1rem;
+  background:linear-gradient(180deg,#f4e7c3,var(--gold) 70%);-webkit-background-clip:text;background-clip:text;-webkit-text-fill-color:transparent}
+.taxfree__sub{color:rgba(246,241,232,.78);font-size:1.05rem;max-width:34rem;margin:0 auto 1.8rem}
+.taxfree__fine{font-family:var(--font-sans);font-size:.68rem;color:rgba(246,241,232,.45);margin-top:1.4rem;line-height:1.6;max-width:40rem;margin-left:auto;margin-right:auto}

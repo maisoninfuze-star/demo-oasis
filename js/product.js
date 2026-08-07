@@ -135,8 +135,8 @@
     if (!ul || !D) return;
     const L2 = lang();
     ul.innerHTML = `
-      <li><b>$${D.local.fee} · ${D.local[L2]}</b><span>${D.included[L2]}</span></li>
-      <li><b>$${D.shores.fee} · ${D.shores[L2]}</b><span>${D.note[L2]}</span></li>`;
+      <li><b>${L2 === 'fr' ? `Livraison GRATUITE dès ${D.freeOver} $` : `FREE delivery over $${D.freeOver}`} · ${L2 === 'fr' ? `${D.fee} $ en deçà` : `$${D.fee} below`}</b><span>${D.included[L2]}</span></li>
+      <li><b>${D.area[L2]}</b><span>${D.outside[L2]} ${D.note[L2]}</span></li>`;
     /* financing & easy payments */
     if (!document.querySelector('.pay-row')) {
       const pr = document.createElement('div');

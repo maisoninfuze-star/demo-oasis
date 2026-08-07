@@ -101,7 +101,12 @@ if __name__ == '__main__':
             it['clearance'] = slug == 'clearance'
             out.append(it)
     dest = os.path.join(OUT, 'rugsnetwork.json')
-    json.dump({'supplier': 'rugsnetwork', 'source': BASE, 'count': len(out), 'items': out},
+    # restore local thumb references a re-scrape would otherwise lose
+for _it in items:
+    _p = f"assets/rugs/{_it['pid']}.webp"
+    if os.path.exists(os.path.join(os.path.dirname(OUT), '..', '..', _p)):
+        _it['thumb'] = _p
+json.dump({'supplier': 'rugsnetwork', 'source': BASE, 'count': len(out), 'items': out},
               open(dest, 'w'), ensure_ascii=False, indent=1)
     withprice = sum(1 for i in out if i['price'])
     print(f'rugsnetwork: {len(out)} rugs ({withprice} with price) -> {dest}')

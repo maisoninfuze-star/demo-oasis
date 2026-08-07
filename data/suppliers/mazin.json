@@ -1,7 +1,7 @@
 {
  "supplier": "mazin",
  "source": "https://www.mazinfurniture.com",
- "count": 548,
+ "count": 447,
  "items": [
   {
    "id": "mazin-1718NCBedroom",
@@ -3635,8 +3635,8 @@
    "delisted": true
   },
   {
-   "id": "mazin-synth-1138-pc-pack-coffee-end-tables",
-   "name": "Pc Pack Coffee & End Tables — Damala Collection",
+   "id": "mazin-synth-1138-coffee-end-tables",
+   "name": "Damala — Coffee & End Tables",
    "sku": "1138",
    "cats": [
     "occasional"
@@ -3649,8 +3649,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-1138-accent-chair-fabric",
-   "name": "Accent Chair Fabric — Damala Collection",
+   "id": "mazin-synth-1138-accent-chair",
+   "name": "Damala — Accent Chair",
    "sku": "1138",
    "cats": [
     "occasional"
@@ -3663,8 +3663,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-1138-loveseat-fabric",
-   "name": "Loveseat Fabric — Damala Collection",
+   "id": "mazin-synth-1138-loveseat",
+   "name": "Damala — Loveseat",
    "sku": "1138",
    "cats": [
     "occasional"
@@ -3677,8 +3677,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-1138-sofa-fabric",
-   "name": "Sofa Fabric — Damala Collection",
+   "id": "mazin-synth-1138-sofa",
+   "name": "Damala — Sofa",
    "sku": "1138",
    "cats": [
     "occasional"
@@ -3691,64 +3691,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-1138-pc-sofa-ls-chair",
-   "name": "Pc Sofa/Ls/Chair — Damala Collection",
-   "sku": "1138",
-   "cats": [
-    "occasional"
-   ],
-   "img": "https://www.homelegance.com/u/HMLG/20210110/107/1138_occasional__l.jpg",
-   "gallery": [],
-   "url": "https://www.homelegance.com/occasional_tablecollections/1138Occasional.htm",
-   "net": 959.95,
-   "price": "3024",
-   "synth": true
-  },
-  {
-   "id": "mazin-synth-1138-accent-chair-orange-fabric",
-   "name": "Accent Chair Orange Fabric — Damala Collection",
-   "sku": "1138",
-   "cats": [
-    "occasional"
-   ],
-   "img": "https://www.homelegance.com/u/HMLG/20210110/107/1138_occasional__l.jpg",
-   "gallery": [],
-   "url": "https://www.homelegance.com/occasional_tablecollections/1138Occasional.htm",
-   "net": 229.95,
-   "price": "724",
-   "synth": true
-  },
-  {
-   "id": "mazin-synth-1138-loveseat-orange-fabric",
-   "name": "Loveseat Orange Fabric — Damala Collection",
-   "sku": "1138",
-   "cats": [
-    "occasional"
-   ],
-   "img": "https://www.homelegance.com/u/HMLG/20210110/107/1138_occasional__l.jpg",
-   "gallery": [],
-   "url": "https://www.homelegance.com/occasional_tablecollections/1138Occasional.htm",
-   "net": 330.0,
-   "price": "1040",
-   "synth": true
-  },
-  {
-   "id": "mazin-synth-1138-sofa-orange-fabric",
-   "name": "Sofa Orange Fabric — Damala Collection",
-   "sku": "1138",
-   "cats": [
-    "occasional"
-   ],
-   "img": "https://www.homelegance.com/u/HMLG/20210110/107/1138_occasional__l.jpg",
-   "gallery": [],
-   "url": "https://www.homelegance.com/occasional_tablecollections/1138Occasional.htm",
-   "net": 400.0,
-   "price": "1260",
-   "synth": true
-  },
-  {
-   "id": "mazin-synth-1450-king-bed-finish",
-   "name": "King Bed Finish — Garretson Collection",
+   "id": "mazin-synth-1450-king-bed",
+   "name": "Garretson — King Bed",
    "sku": "1450",
    "cats": [
     "office"
@@ -3761,8 +3705,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-1450-queen-bed-finish",
-   "name": "Queen Bed Finish — Garretson Collection",
+   "id": "mazin-synth-1450-queen-bed",
+   "name": "Garretson — Queen Bed",
    "sku": "1450",
    "cats": [
     "office"
@@ -3775,8 +3719,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-1450-night-stand-finish",
-   "name": "Night Stand Finish — Garretson Collection",
+   "id": "mazin-synth-1450-nightstand",
+   "name": "Garretson — Nightstand",
    "sku": "1450",
    "cats": [
     "office"
@@ -3789,8 +3733,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-1450-dresser-finish",
-   "name": "Dresser Finish — Garretson Collection",
+   "id": "mazin-synth-1450-dresser",
+   "name": "Garretson — Dresser",
    "sku": "1450",
    "cats": [
     "office"
@@ -3803,8 +3747,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-1450-mirror-finish",
-   "name": "Mirror Finish — Garretson Collection",
+   "id": "mazin-synth-1450-mirror",
+   "name": "Garretson — Mirror",
    "sku": "1450",
    "cats": [
     "office"
@@ -3817,8 +3761,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-1450-chest-finish",
-   "name": "Chest Finish — Garretson Collection",
+   "id": "mazin-synth-1450-chest",
+   "name": "Garretson — Chest",
    "sku": "1450",
    "cats": [
     "office"
@@ -3831,8 +3775,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-1450-pc-queen-set",
-   "name": "Pc Queen Set — Garretson Collection",
+   "id": "mazin-synth-1450-set",
+   "name": "Garretson — Set",
    "sku": "1450",
    "cats": [
     "office"
@@ -3845,8 +3789,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-1450-full-bed",
-   "name": "Full Bed — Garretson Collection",
+   "id": "mazin-synth-1450-bed",
+   "name": "Garretson — Bed",
    "sku": "1450",
    "cats": [
     "office"
@@ -3859,8 +3803,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-1526-queen-platform-storage-bed",
-   "name": "Queen Platform Storage Bed — Bainbridge Collection",
+   "id": "mazin-synth-1526-bed",
+   "name": "Bainbridge — Bed",
    "sku": "1526",
    "cats": [
     "occasional"
@@ -3873,8 +3817,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-1526-night-stand",
-   "name": "Night Stand — Bainbridge Collection",
+   "id": "mazin-synth-1526-nightstand",
+   "name": "Bainbridge — Nightstand",
    "sku": "1526",
    "cats": [
     "occasional"
@@ -3888,7 +3832,7 @@
   },
   {
    "id": "mazin-synth-1526-dresser",
-   "name": "Dresser — Bainbridge Collection",
+   "name": "Bainbridge — Dresser",
    "sku": "1526",
    "cats": [
     "occasional"
@@ -3902,7 +3846,7 @@
   },
   {
    "id": "mazin-synth-1526-mirror",
-   "name": "Mirror — Bainbridge Collection",
+   "name": "Bainbridge — Mirror",
    "sku": "1526",
    "cats": [
     "occasional"
@@ -3916,7 +3860,7 @@
   },
   {
    "id": "mazin-synth-1526-chest",
-   "name": "Chest — Bainbridge Collection",
+   "name": "Bainbridge — Chest",
    "sku": "1526",
    "cats": [
     "occasional"
@@ -3929,22 +3873,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-1526-pc-queen-qb-dr-mr-ns",
-   "name": "Pc Queen Qb Dr Mr Ns — Bainbridge Collection",
-   "sku": "1526",
-   "cats": [
-    "occasional"
-   ],
-   "img": "https://www.homelegance.com/u/HMLG/20201125/d9bf376ea97f40998b630310d42c8435.jpg",
-   "gallery": [],
-   "url": "https://www.homelegance.com/occasional_tablecollections/1526Occasional.htm",
-   "net": 1169.95,
-   "price": "3685",
-   "synth": true
-  },
-  {
-   "id": "mazin-synth-1526-pc-queen-set",
-   "name": "Pc Queen Set — Bainbridge Collection",
+   "id": "mazin-synth-1526-set",
+   "name": "Bainbridge — Set",
    "sku": "1526",
    "cats": [
     "occasional"
@@ -3958,7 +3888,7 @@
   },
   {
    "id": "mazin-synth-1526-dining-table",
-   "name": "Dining Table — Bainbridge Collection",
+   "name": "Bainbridge — Dining Table",
    "sku": "1526",
    "cats": [
     "occasional"
@@ -3971,36 +3901,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-15260-side-pier-bookcase",
-   "name": "Side Pier/Bookcase — Bainbridge Collection",
-   "sku": "15260",
-   "cats": [
-    "media"
-   ],
-   "img": "https://www.homelegance.com/u/HMLG/20201125/1e4af8be7d6e4927a1d2b6b027ec5253.jpg",
-   "gallery": [],
-   "url": "https://www.homelegance.com/media_mediacollections/15260Media.htm",
-   "net": 200.0,
-   "price": "630",
-   "synth": true
-  },
-  {
-   "id": "mazin-synth-15260-tv-stand",
-   "name": "Tv Stand — Bainbridge Collection",
-   "sku": "15260",
-   "cats": [
-    "media"
-   ],
-   "img": "https://www.homelegance.com/u/HMLG/20201125/1e4af8be7d6e4927a1d2b6b027ec5253.jpg",
-   "gallery": [],
-   "url": "https://www.homelegance.com/media_mediacollections/15260Media.htm",
-   "net": 437.0,
-   "price": "1377",
-   "synth": true
-  },
-  {
-   "id": "mazin-synth-1534-king-bed-in-a-box",
-   "name": "King Bed In A Box — Corbin Collection",
+   "id": "mazin-synth-1534-king-bed",
+   "name": "Corbin — King Bed",
    "sku": "1534",
    "cats": [
     "office"
@@ -4013,8 +3915,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-1534-queen-bed-in-a-box",
-   "name": "Queen Bed In A Box — Corbin Collection",
+   "id": "mazin-synth-1534-queen-bed",
+   "name": "Corbin — Queen Bed",
    "sku": "1534",
    "cats": [
     "office"
@@ -4027,8 +3929,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-1534-full-bed-in-a-box",
-   "name": "Full Bed In A Box — Corbin Collection",
+   "id": "mazin-synth-1534-bed",
+   "name": "Corbin — Bed",
    "sku": "1534",
    "cats": [
     "office"
@@ -4041,8 +3943,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-1534-night-stand",
-   "name": "Night Stand — Corbin Collection",
+   "id": "mazin-synth-1534-nightstand",
+   "name": "Corbin — Nightstand",
    "sku": "1534",
    "cats": [
     "office"
@@ -4056,7 +3958,7 @@
   },
   {
    "id": "mazin-synth-1534-dresser",
-   "name": "Dresser — Corbin Collection",
+   "name": "Corbin — Dresser",
    "sku": "1534",
    "cats": [
     "office"
@@ -4070,7 +3972,7 @@
   },
   {
    "id": "mazin-synth-1534-mirror",
-   "name": "Mirror — Corbin Collection",
+   "name": "Corbin — Mirror",
    "sku": "1534",
    "cats": [
     "office"
@@ -4084,7 +3986,7 @@
   },
   {
    "id": "mazin-synth-1534-chest",
-   "name": "Chest — Corbin Collection",
+   "name": "Corbin — Chest",
    "sku": "1534",
    "cats": [
     "office"
@@ -4097,22 +3999,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-1534-king-bed-in-a-box-diagonal-plank-wood-fi",
-   "name": "King Bed In A Box Diagonal Plank Wood Finish — Corbin Collection",
-   "sku": "1534",
-   "cats": [
-    "office"
-   ],
-   "img": "https://www.homelegance.com/u/HMLG/20260205/357/1534GY_office__l.jpg",
-   "gallery": [],
-   "url": "https://www.homelegance.com/office_officecollections/1534GYOffice.htm",
-   "net": 250.0,
-   "price": "788",
-   "synth": true
-  },
-  {
    "id": "mazin-synth-1718-king-bed",
-   "name": "King Bed — Begonia Collection",
+   "name": "Begonia — King Bed",
    "sku": "1718",
    "cats": [
     "bedroom"
@@ -4126,7 +4014,7 @@
   },
   {
    "id": "mazin-synth-1718-queen-bed",
-   "name": "Queen Bed — Begonia Collection",
+   "name": "Begonia — Queen Bed",
    "sku": "1718",
    "cats": [
     "bedroom"
@@ -4139,8 +4027,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-1718-night-stand",
-   "name": "Night Stand — Begonia Collection",
+   "id": "mazin-synth-1718-nightstand",
+   "name": "Begonia — Nightstand",
    "sku": "1718",
    "cats": [
     "bedroom"
@@ -4154,7 +4042,7 @@
   },
   {
    "id": "mazin-synth-1718-dresser",
-   "name": "Dresser — Begonia Collection",
+   "name": "Begonia — Dresser",
    "sku": "1718",
    "cats": [
     "bedroom"
@@ -4168,7 +4056,7 @@
   },
   {
    "id": "mazin-synth-1718-mirror",
-   "name": "Mirror — Begonia Collection",
+   "name": "Begonia — Mirror",
    "sku": "1718",
    "cats": [
     "bedroom"
@@ -4182,7 +4070,7 @@
   },
   {
    "id": "mazin-synth-1718-chest",
-   "name": "Chest — Begonia Collection",
+   "name": "Begonia — Chest",
    "sku": "1718",
    "cats": [
     "bedroom"
@@ -4196,7 +4084,7 @@
   },
   {
    "id": "mazin-synth-1718-dining-table",
-   "name": "Dining Table — Begonia Collection",
+   "name": "Begonia — Dining Table",
    "sku": "1718",
    "cats": [
     "bedroom"
@@ -4209,8 +4097,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-1718-side-chair",
-   "name": "Side Chair — Begonia Collection",
+   "id": "mazin-synth-1718-dining-chair",
+   "name": "Begonia — Dining Chair",
    "sku": "1718",
    "cats": [
     "bedroom"
@@ -4224,7 +4112,7 @@
   },
   {
    "id": "mazin-synth-1730-king-bed",
-   "name": "King Bed — Cotterill Collection",
+   "name": "Cotterill — King Bed",
    "sku": "1730",
    "cats": [
     "bedroom"
@@ -4238,7 +4126,7 @@
   },
   {
    "id": "mazin-synth-1730-queen-bed",
-   "name": "Queen Bed — Cotterill Collection",
+   "name": "Cotterill — Queen Bed",
    "sku": "1730",
    "cats": [
     "bedroom"
@@ -4251,8 +4139,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-1730-night-stand-clear-pine",
-   "name": "Night Stand Clear Pine — Cotterill Collection",
+   "id": "mazin-synth-1730-nightstand",
+   "name": "Cotterill — Nightstand",
    "sku": "1730",
    "cats": [
     "bedroom"
@@ -4265,8 +4153,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-1730-dresser-clear-pine",
-   "name": "Dresser Clear Pine — Cotterill Collection",
+   "id": "mazin-synth-1730-dresser",
+   "name": "Cotterill — Dresser",
    "sku": "1730",
    "cats": [
     "bedroom"
@@ -4279,8 +4167,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-1730-mirror-clear-pine",
-   "name": "Mirror Clear Pine — Cotterill Collection",
+   "id": "mazin-synth-1730-mirror",
+   "name": "Cotterill — Mirror",
    "sku": "1730",
    "cats": [
     "bedroom"
@@ -4293,8 +4181,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-1730-chest-clear-pine",
-   "name": "Chest Clear Pine — Cotterill Collection",
+   "id": "mazin-synth-1730-chest",
+   "name": "Cotterill — Chest",
    "sku": "1730",
    "cats": [
     "bedroom"
@@ -4307,22 +4195,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-1730-pc-queen-qb-dr-mr-ns",
-   "name": "Pc Queen Qb Dr Mr Ns — Cotterill Collection",
-   "sku": "1730",
-   "cats": [
-    "bedroom"
-   ],
-   "img": "https://www.homelegance.com/u/HMLG/20250904/60/1730NB_bedroom__l.jpg",
-   "gallery": [],
-   "url": "https://www.homelegance.com/bedroom_bedroomcollections/1730NBBedroom.htm",
-   "net": 1039.95,
-   "price": "3276",
-   "synth": true
-  },
-  {
-   "id": "mazin-synth-1730-pc-queen-set-qb-ns-dr-mr-ch",
-   "name": "Pc Queen Set Qb Ns Dr Mr Ch — Cotterill Collection",
+   "id": "mazin-synth-1730-set",
+   "name": "Cotterill — Set",
    "sku": "1730",
    "cats": [
     "bedroom"
@@ -4335,8 +4209,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-2336-king-storage-bed-hickory-acacia",
-   "name": "King Storage Bed Hickory Acacia — Charlotte Collection",
+   "id": "mazin-synth-2336-bed",
+   "name": "Charlotte — Bed",
    "sku": "2336",
    "cats": [
     "bedroom"
@@ -4349,22 +4223,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-2336-queen-storage-bed-hickory-acacia",
-   "name": "Queen Storage Bed Hickory Acacia — Charlotte Collection",
-   "sku": "2336",
-   "cats": [
-    "bedroom"
-   ],
-   "img": "https://www.homelegance.com/u/HMLG/20250527/134/2336_bedroom__l.jpg",
-   "gallery": [],
-   "url": "https://www.homelegance.com/bedroom_bedroomcollections/2336Bedroom.htm",
-   "net": 715.0,
-   "price": "2252",
-   "synth": true
-  },
-  {
-   "id": "mazin-synth-2336-night-stand-with-usb-a-c-ports-hickory-a",
-   "name": "Night Stand With Usb A/C Ports Hickory Acacia — Charlotte Collection",
+   "id": "mazin-synth-2336-nightstand",
+   "name": "Charlotte — Nightstand",
    "sku": "2336",
    "cats": [
     "bedroom"
@@ -4377,8 +4237,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-2336-dresser-hickory-acacia",
-   "name": "Dresser Hickory Acacia — Charlotte Collection",
+   "id": "mazin-synth-2336-dresser",
+   "name": "Charlotte — Dresser",
    "sku": "2336",
    "cats": [
     "bedroom"
@@ -4391,8 +4251,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-2336-mirror-w-beveled-hickory-acacia",
-   "name": "Mirror W/Beveled Hickory Acacia — Charlotte Collection",
+   "id": "mazin-synth-2336-mirror",
+   "name": "Charlotte — Mirror",
    "sku": "2336",
    "cats": [
     "bedroom"
@@ -4405,8 +4265,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-2336-chest-hickory-acacia",
-   "name": "Chest Hickory Acacia — Charlotte Collection",
+   "id": "mazin-synth-2336-chest",
+   "name": "Charlotte — Chest",
    "sku": "2336",
    "cats": [
     "bedroom"
@@ -4419,22 +4279,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-2336-pc-queen-qb-dr-mr-ns",
-   "name": "Pc Queen Qb Dr Mr Ns — Charlotte Collection",
-   "sku": "2336",
-   "cats": [
-    "bedroom"
-   ],
-   "img": "https://www.homelegance.com/u/HMLG/20250527/134/2336_bedroom__l.jpg",
-   "gallery": [],
-   "url": "https://www.homelegance.com/bedroom_bedroomcollections/2336Bedroom.htm",
-   "net": 1629.95,
-   "price": "5134",
-   "synth": true
-  },
-  {
-   "id": "mazin-synth-2336-pc-queen-set",
-   "name": "Pc Queen Set — Charlotte Collection",
+   "id": "mazin-synth-2336-set",
+   "name": "Charlotte — Set",
    "sku": "2336",
    "cats": [
     "bedroom"
@@ -4448,7 +4294,7 @@
   },
   {
    "id": "mazin-synth-2390-king-bed",
-   "name": "King Bed — Lumin Collection",
+   "name": "Lumin — King Bed",
    "sku": "2390",
    "cats": [
     "bedroom"
@@ -4462,7 +4308,7 @@
   },
   {
    "id": "mazin-synth-2390-queen-bed",
-   "name": "Queen Bed — Lumin Collection",
+   "name": "Lumin — Queen Bed",
    "sku": "2390",
    "cats": [
     "bedroom"
@@ -4475,8 +4321,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-2390-night-stand-w-led",
-   "name": "Night Stand W/Led — Lumin Collection",
+   "id": "mazin-synth-2390-nightstand",
+   "name": "Lumin — Nightstand",
    "sku": "2390",
    "cats": [
     "bedroom"
@@ -4489,8 +4335,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-2390-dresser-w-led",
-   "name": "Dresser W/Led — Lumin Collection",
+   "id": "mazin-synth-2390-dresser",
+   "name": "Lumin — Dresser",
    "sku": "2390",
    "cats": [
     "bedroom"
@@ -4503,8 +4349,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-2390-mirror-w-led",
-   "name": "Mirror W/Led — Lumin Collection",
+   "id": "mazin-synth-2390-mirror",
+   "name": "Lumin — Mirror",
    "sku": "2390",
    "cats": [
     "bedroom"
@@ -4517,8 +4363,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-2390-chest-w-led",
-   "name": "Chest W/Led — Lumin Collection",
+   "id": "mazin-synth-2390-chest",
+   "name": "Lumin — Chest",
    "sku": "2390",
    "cats": [
     "bedroom"
@@ -4531,22 +4377,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-2390-pc-queen-bedroom",
-   "name": "Pc Queen Bedroom — Lumin Collection",
-   "sku": "2390",
-   "cats": [
-    "bedroom"
-   ],
-   "img": "https://www.homelegance.com/u/HMLG/20251014/100/2390_bedroom__l.jpg",
-   "gallery": [],
-   "url": "https://www.homelegance.com/bedroom_bedroomcollections/2390Bedroom.htm",
-   "net": 1139.95,
-   "price": "3591",
-   "synth": true
-  },
-  {
-   "id": "mazin-synth-2393-king-bed-faux-marble",
-   "name": "King Bed Faux Marble — Dalston Collection",
+   "id": "mazin-synth-2393-king-bed",
+   "name": "Dalston — King Bed",
    "sku": "2393",
    "cats": [
     "bedroom"
@@ -4559,8 +4391,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-2393-queen-bed-faux-marble",
-   "name": "Queen Bed Faux Marble — Dalston Collection",
+   "id": "mazin-synth-2393-queen-bed",
+   "name": "Dalston — Queen Bed",
    "sku": "2393",
    "cats": [
     "bedroom"
@@ -4573,8 +4405,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-2393-night-stand",
-   "name": "Night Stand — Dalston Collection",
+   "id": "mazin-synth-2393-nightstand",
+   "name": "Dalston — Nightstand",
    "sku": "2393",
    "cats": [
     "bedroom"
@@ -4588,7 +4420,7 @@
   },
   {
    "id": "mazin-synth-2393-dresser",
-   "name": "Dresser — Dalston Collection",
+   "name": "Dalston — Dresser",
    "sku": "2393",
    "cats": [
     "bedroom"
@@ -4602,7 +4434,7 @@
   },
   {
    "id": "mazin-synth-2393-mirror",
-   "name": "Mirror — Dalston Collection",
+   "name": "Dalston — Mirror",
    "sku": "2393",
    "cats": [
     "bedroom"
@@ -4616,7 +4448,7 @@
   },
   {
    "id": "mazin-synth-2393-chest",
-   "name": "Chest — Dalston Collection",
+   "name": "Dalston — Chest",
    "sku": "2393",
    "cats": [
     "bedroom"
@@ -4629,8 +4461,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-2399-queen-uph-bed-in-a-box",
-   "name": "Queen Uph Bed In A Box — Emerson Collection",
+   "id": "mazin-synth-2399-bed",
+   "name": "Emerson — Bed",
    "sku": "2399",
    "cats": [
     "bedroom"
@@ -4643,36 +4475,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-2399-king-uph-bed-in-a-box",
-   "name": "King Uph Bed In A Box — Emerson Collection",
-   "sku": "2399",
-   "cats": [
-    "bedroom"
-   ],
-   "img": "https://www.homelegance.com/u/HMLG/20250612/46/2399_bedroom__l.jpg",
-   "gallery": [],
-   "url": "https://www.homelegance.com/bedroom_bedroomcollections/2399Bedroom.htm",
-   "net": 365.0,
-   "price": "1150",
-   "synth": true
-  },
-  {
-   "id": "mazin-synth-2399-full-bed-in-a-box",
-   "name": "Full Bed In A Box — Emerson Collection",
-   "sku": "2399",
-   "cats": [
-    "bedroom"
-   ],
-   "img": "https://www.homelegance.com/u/HMLG/20250612/46/2399_bedroom__l.jpg",
-   "gallery": [],
-   "url": "https://www.homelegance.com/bedroom_bedroomcollections/2399Bedroom.htm",
-   "net": 434.0,
-   "price": "1367",
-   "synth": true
-  },
-  {
-   "id": "mazin-synth-2411-king-bed-w-fireplace-corduroy",
-   "name": "King Bed W/Fireplace Corduroy — Fitzroy Collection",
+   "id": "mazin-synth-2411-king-bed",
+   "name": "Fitzroy — King Bed",
    "sku": "2411",
    "cats": [
     "bedroom"
@@ -4685,8 +4489,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-2411-queen-bed-w-fireplace-corduroy",
-   "name": "Queen Bed W/Fireplace Corduroy — Fitzroy Collection",
+   "id": "mazin-synth-2411-queen-bed",
+   "name": "Fitzroy — Queen Bed",
    "sku": "2411",
    "cats": [
     "bedroom"
@@ -4699,8 +4503,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-2423-counter-height-table-w-leaf",
-   "name": "Counter-Height Table W/ Leaf — Junipero Collection",
+   "id": "mazin-synth-2423-table",
+   "name": "Junipero — Table",
    "sku": "2423",
    "cats": [
     "dining"
@@ -4713,8 +4517,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-2423-counter-height-chair",
-   "name": "Counter-Height Chair — Junipero Collection",
+   "id": "mazin-synth-2423-chair",
+   "name": "Junipero — Chair",
    "sku": "2423",
    "cats": [
     "dining"
@@ -4727,22 +4531,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-2423-rd-oval-counter-height-table",
-   "name": "Rd/Oval Counter-Height Table — Junipero Collection",
-   "sku": "2423",
-   "cats": [
-    "dining"
-   ],
-   "img": "https://www.homelegance.com/u/HMLG/20260709/2/2423BR_dining__l.jpg",
-   "gallery": [],
-   "url": "https://www.homelegance.com/new_arrivals/2423BRDining.htm",
-   "net": 259.95,
-   "price": "819",
-   "synth": true
-  },
-  {
    "id": "mazin-synth-2447-king-bed",
-   "name": "King Bed — Matisse Collection",
+   "name": "Matisse — King Bed",
    "sku": "2447",
    "cats": [
     "bedroom"
@@ -4756,7 +4546,7 @@
   },
   {
    "id": "mazin-synth-2447-queen-bed",
-   "name": "Queen Bed — Matisse Collection",
+   "name": "Matisse — Queen Bed",
    "sku": "2447",
    "cats": [
     "bedroom"
@@ -4769,8 +4559,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-2447-night-stand",
-   "name": "Night Stand — Matisse Collection",
+   "id": "mazin-synth-2447-nightstand",
+   "name": "Matisse — Nightstand",
    "sku": "2447",
    "cats": [
     "bedroom"
@@ -4783,8 +4573,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-2447-dresser-w-drawers-felt-top-cedar-bottoms",
-   "name": "Dresser W/ Drawers Felt Top Cedar Bottoms — Matisse Collection",
+   "id": "mazin-synth-2447-dresser",
+   "name": "Matisse — Dresser",
    "sku": "2447",
    "cats": [
     "bedroom"
@@ -4798,7 +4588,7 @@
   },
   {
    "id": "mazin-synth-2447-mirror",
-   "name": "Mirror — Matisse Collection",
+   "name": "Matisse — Mirror",
    "sku": "2447",
    "cats": [
     "bedroom"
@@ -4811,8 +4601,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-2447-chest-w-drawers",
-   "name": "Chest W/ Drawers — Matisse Collection",
+   "id": "mazin-synth-2447-chest",
+   "name": "Matisse — Chest",
    "sku": "2447",
    "cats": [
     "bedroom"
@@ -4825,8 +4615,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-2447-pc-queen-set",
-   "name": "Pc Queen Set — Matisse Collection",
+   "id": "mazin-synth-2447-set",
+   "name": "Matisse — Set",
    "sku": "2447",
    "cats": [
     "bedroom"
@@ -4839,8 +4629,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-2447-round-in-dining-table",
-   "name": "Round In Dining Table — Matisse Collection",
+   "id": "mazin-synth-2447-dining-table",
+   "name": "Matisse — Dining Table",
    "sku": "2447",
    "cats": [
     "bedroom"
@@ -4853,8 +4643,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-2455-king-bed-lacquer",
-   "name": "King Bed Lacquer — Orlo Collection",
+   "id": "mazin-synth-2455-king-bed",
+   "name": "Orlo — King Bed",
    "sku": "2455",
    "cats": [
     "bedroom"
@@ -4867,8 +4657,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-2455-queen-bed-lacquer",
-   "name": "Queen Bed Lacquer — Orlo Collection",
+   "id": "mazin-synth-2455-queen-bed",
+   "name": "Orlo — Queen Bed",
    "sku": "2455",
    "cats": [
     "bedroom"
@@ -4881,8 +4671,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-2455-night-stand-lacquer",
-   "name": "Night Stand Lacquer — Orlo Collection",
+   "id": "mazin-synth-2455-nightstand",
+   "name": "Orlo — Nightstand",
    "sku": "2455",
    "cats": [
     "bedroom"
@@ -4895,8 +4685,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-2455-dresser-lacquer",
-   "name": "Dresser Lacquer — Orlo Collection",
+   "id": "mazin-synth-2455-dresser",
+   "name": "Orlo — Dresser",
    "sku": "2455",
    "cats": [
     "bedroom"
@@ -4909,8 +4699,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-2455-mirror-w-led-lacquer",
-   "name": "Mirror W/Led Lacquer — Orlo Collection",
+   "id": "mazin-synth-2455-mirror",
+   "name": "Orlo — Mirror",
    "sku": "2455",
    "cats": [
     "bedroom"
@@ -4923,8 +4713,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-2455-chest-lacquer",
-   "name": "Chest Lacquer — Orlo Collection",
+   "id": "mazin-synth-2455-chest",
+   "name": "Orlo — Chest",
    "sku": "2455",
    "cats": [
     "bedroom"
@@ -4937,22 +4727,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-2455-pc-queen-qb-dr-mr-ns",
-   "name": "Pc Queen Qb Dr Mr Ns — Orlo Collection",
-   "sku": "2455",
-   "cats": [
-    "bedroom"
-   ],
-   "img": "https://www.homelegance.com/u/HMLG/20250911/190/2455_bedroom1__l.jpg",
-   "gallery": [],
-   "url": "https://www.homelegance.com/bedroom_bedroomcollections/2455Bedroom.htm",
-   "net": 1229.95,
-   "price": "3874",
-   "synth": true
-  },
-  {
-   "id": "mazin-synth-2455-pc-queen-set",
-   "name": "Pc Queen Set — Orlo Collection",
+   "id": "mazin-synth-2455-set",
+   "name": "Orlo — Set",
    "sku": "2455",
    "cats": [
     "bedroom"
@@ -4965,36 +4741,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-2457-king-uph-hdbd-w-led-faux-marble",
-   "name": "King Uph Hdbd W/Led Faux Marble — Ripple Collection",
-   "sku": "2457",
-   "cats": [
-    "bedroom"
-   ],
-   "img": "https://www.homelegance.com/u/HMLG/20250911/194/2457_bedroom__l.jpg",
-   "gallery": [],
-   "url": "https://www.homelegance.com/bedroom_bedroomcollections/2457Bedroom.htm",
-   "net": 510.0,
-   "price": "1606",
-   "synth": true
-  },
-  {
-   "id": "mazin-synth-2457-queen-uph-hdbd-w-led-faux-marble",
-   "name": "Queen Uph Hdbd W/Led Faux Marble — Ripple Collection",
-   "sku": "2457",
-   "cats": [
-    "bedroom"
-   ],
-   "img": "https://www.homelegance.com/u/HMLG/20250911/194/2457_bedroom__l.jpg",
-   "gallery": [],
-   "url": "https://www.homelegance.com/bedroom_bedroomcollections/2457Bedroom.htm",
-   "net": 375.0,
-   "price": "1181",
-   "synth": true
-  },
-  {
-   "id": "mazin-synth-2457-night-stand-faux-marble-top",
-   "name": "Night Stand Faux Marble Top — Ripple Collection",
+   "id": "mazin-synth-2457-nightstand",
+   "name": "Ripple — Nightstand",
    "sku": "2457",
    "cats": [
     "bedroom"
@@ -5007,8 +4755,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-2457-dresser-faux-marble-top",
-   "name": "Dresser Faux Marble Top — Ripple Collection",
+   "id": "mazin-synth-2457-dresser",
+   "name": "Ripple — Dresser",
    "sku": "2457",
    "cats": [
     "bedroom"
@@ -5021,22 +4769,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-2457-mrror-w-led-faux-marble-top",
-   "name": "Mrror W/Led Faux Marble Top — Ripple Collection",
-   "sku": "2457",
-   "cats": [
-    "bedroom"
-   ],
-   "img": "https://www.homelegance.com/u/HMLG/20250911/194/2457_bedroom__l.jpg",
-   "gallery": [],
-   "url": "https://www.homelegance.com/bedroom_bedroomcollections/2457Bedroom.htm",
-   "net": 159.95,
-   "price": "504",
-   "synth": true
-  },
-  {
-   "id": "mazin-synth-2457-chest-faux-marble-top",
-   "name": "Chest Faux Marble Top — Ripple Collection",
+   "id": "mazin-synth-2457-chest",
+   "name": "Ripple — Chest",
    "sku": "2457",
    "cats": [
     "bedroom"
@@ -5049,22 +4783,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-2457-pc-queen-qb-dr-mr-ns",
-   "name": "Pc Queen Qb Dr Mr Ns — Ripple Collection",
-   "sku": "2457",
-   "cats": [
-    "bedroom"
-   ],
-   "img": "https://www.homelegance.com/u/HMLG/20250911/194/2457_bedroom__l.jpg",
-   "gallery": [],
-   "url": "https://www.homelegance.com/bedroom_bedroomcollections/2457Bedroom.htm",
-   "net": 1219.95,
-   "price": "3843",
-   "synth": true
-  },
-  {
-   "id": "mazin-synth-2457-pc-queen-set",
-   "name": "Pc Queen Set — Ripple Collection",
+   "id": "mazin-synth-2457-set",
+   "name": "Ripple — Set",
    "sku": "2457",
    "cats": [
     "bedroom"
@@ -5077,8 +4797,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-2496-king-uph-bed-bleached-veneer",
-   "name": "King Uph Bed Bleached & Veneer — Aeon Collection",
+   "id": "mazin-synth-2496-bed",
+   "name": "Aeon — Bed",
    "sku": "2496",
    "cats": [
     "bedroom"
@@ -5091,22 +4811,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-2496-queen-uph-bed-bleached-veneer",
-   "name": "Queen Uph Bed Bleached & Veneer — Aeon Collection",
-   "sku": "2496",
-   "cats": [
-    "bedroom"
-   ],
-   "img": "https://www.homelegance.com/u/HMLG/20260505/60f464f249be4e30a42f3f0a9ad951e0.jpg",
-   "gallery": [],
-   "url": "https://www.homelegance.com/new_arrivals/2496Bedroom.htm",
-   "net": 500.0,
-   "price": "1575",
-   "synth": true
-  },
-  {
-   "id": "mazin-synth-2496-nightstand-bleached-veneer",
-   "name": "Nightstand Bleached & Veneer — Aeon Collection",
+   "id": "mazin-synth-2496-nightstand",
+   "name": "Aeon — Nightstand",
    "sku": "2496",
    "cats": [
     "bedroom"
@@ -5119,8 +4825,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-2496-dresser-bleached-veneer",
-   "name": "Dresser Bleached & Veneer — Aeon Collection",
+   "id": "mazin-synth-2496-dresser",
+   "name": "Aeon — Dresser",
    "sku": "2496",
    "cats": [
     "bedroom"
@@ -5133,8 +4839,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-2496-mirror-bleached-veneer",
-   "name": "Mirror Bleached & Veneer — Aeon Collection",
+   "id": "mazin-synth-2496-mirror",
+   "name": "Aeon — Mirror",
    "sku": "2496",
    "cats": [
     "bedroom"
@@ -5147,8 +4853,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-2496-chest-bleached-veneer",
-   "name": "Chest Bleached & Veneer — Aeon Collection",
+   "id": "mazin-synth-2496-chest",
+   "name": "Aeon — Chest",
    "sku": "2496",
    "cats": [
     "bedroom"
@@ -5161,8 +4867,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-2496-pc-queen-set-qb-dr-mr-ns",
-   "name": "Pc Queen Set Qb Dr Mr Ns — Aeon Collection",
+   "id": "mazin-synth-2496-set",
+   "name": "Aeon — Set",
    "sku": "2496",
    "cats": [
     "bedroom"
@@ -5175,22 +4881,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-2496-pc-queen-set-qb-dr-mr-ns-ch",
-   "name": "Pc Queen Set Qb Dr Mr Ns Ch — Aeon Collection",
-   "sku": "2496",
-   "cats": [
-    "bedroom"
-   ],
-   "img": "https://www.homelegance.com/u/HMLG/20260505/60f464f249be4e30a42f3f0a9ad951e0.jpg",
-   "gallery": [],
-   "url": "https://www.homelegance.com/new_arrivals/2496Bedroom.htm",
-   "net": 2329.95,
-   "price": "7339",
-   "synth": true
-  },
-  {
-   "id": "mazin-synth-3500-lift-top-coffee-end-table-pc-box",
-   "name": "Lift-Top Coffee & End Table Pc- Box — Claremore Collection",
+   "id": "mazin-synth-3500-coffee-end-tables",
+   "name": "Claremore — Coffee & End Tables",
    "sku": "3500",
    "cats": [
     "occasional"
@@ -5203,8 +4895,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-3500-cocktail-table-with-two-benches",
-   "name": "Cocktail Table With Two Benches — Claremore Collection",
+   "id": "mazin-synth-3500-table",
+   "name": "Claremore — Table",
    "sku": "3500",
    "cats": [
     "occasional"
@@ -5218,7 +4910,7 @@
   },
   {
    "id": "mazin-synth-3500-end-table",
-   "name": "End Table — Claremore Collection",
+   "name": "Claremore — End Table",
    "sku": "3500",
    "cats": [
     "occasional"
@@ -5231,8 +4923,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-3503-lift-top-cocktail-table-solid-wood",
-   "name": "Lift Top Cocktail Table Solid Wood — Muriel Collection",
+   "id": "mazin-synth-3503-table",
+   "name": "Muriel — Table",
    "sku": "3503",
    "cats": [
     "occasional"
@@ -5242,53 +4934,11 @@
    "url": "https://www.homelegance.com/occasional_tablecollections/3503BKOccasional.htm",
    "net": 329.95,
    "price": "1039",
-   "synth": true
-  },
-  {
-   "id": "mazin-synth-3503-side-table-solid-wood",
-   "name": "Side Table Solid Wood — Muriel Collection",
-   "sku": "3503",
-   "cats": [
-    "occasional"
-   ],
-   "img": "https://www.homelegance.com/u/HMLG/20241230/270/3503BK_occasion__l.jpg",
-   "gallery": [],
-   "url": "https://www.homelegance.com/occasional_tablecollections/3503BKOccasional.htm",
-   "net": 260.0,
-   "price": "819",
-   "synth": true
-  },
-  {
-   "id": "mazin-synth-3503-lift-top-cocktail-table-pine-w-elm-venee",
-   "name": "Lift Top Cocktail Table Pine W/Elm Veneer — Muriel Collection",
-   "sku": "3503",
-   "cats": [
-    "occasional"
-   ],
-   "img": "https://www.homelegance.com/u/HMLG/20241230/270/3503BK_occasion__l.jpg",
-   "gallery": [],
-   "url": "https://www.homelegance.com/occasional_tablecollections/3503BKOccasional.htm",
-   "net": 329.95,
-   "price": "1039",
-   "synth": true
-  },
-  {
-   "id": "mazin-synth-3503-lift-top-cocktail-table",
-   "name": "Lift Top Cocktail Table — Muriel Collection",
-   "sku": "3503",
-   "cats": [
-    "occasional"
-   ],
-   "img": "https://www.homelegance.com/u/HMLG/20241230/270/3503BK_occasion__l.jpg",
-   "gallery": [],
-   "url": "https://www.homelegance.com/occasional_tablecollections/3503BKOccasional.htm",
-   "net": 427.0,
-   "price": "1345",
    "synth": true
   },
   {
    "id": "mazin-synth-3503-end-table",
-   "name": "End Table — Muriel Collection",
+   "name": "Muriel — End Table",
    "sku": "3503",
    "cats": [
     "occasional"
@@ -5301,22 +4951,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-3537-cocktail-tbl-veneer-w-metal-feet",
-   "name": "Cocktail Tbl Veneer W/Metal Feet — Anton Collection",
-   "sku": "3537",
-   "cats": [
-    "occasional"
-   ],
-   "img": "https://www.homelegance.com/u/HMLG/20250527/128/3537_occasional__l.jpg",
-   "gallery": [],
-   "url": "https://www.homelegance.com/occasional_tablecollections/3537Occasional.htm",
-   "net": 189.95,
-   "price": "598",
-   "synth": true
-  },
-  {
-   "id": "mazin-synth-3537-end-table-veneer-w-metal-feet",
-   "name": "End Table Veneer W/Metal Feet — Anton Collection",
+   "id": "mazin-synth-3537-end-table",
+   "name": "Anton — End Table",
    "sku": "3537",
    "cats": [
     "occasional"
@@ -5329,8 +4965,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-5438-dining-table-wire-brushed",
-   "name": "Dining Table Wire Brushed — Toulon Collection",
+   "id": "mazin-synth-5438-dining-table",
+   "name": "Toulon — Dining Table",
    "sku": "5438",
    "cats": [
     "occasional"
@@ -5343,8 +4979,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-5438-side-chair-wire-brushed-pine",
-   "name": "Side Chair Wire Brushed Pine — Toulon Collection",
+   "id": "mazin-synth-5438-dining-chair",
+   "name": "Toulon — Dining Chair",
    "sku": "5438",
    "cats": [
     "occasional"
@@ -5357,8 +4993,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-5438-bench-w-arms-wire-brushed",
-   "name": "Bench W/Arms Wire Brushed — Toulon Collection",
+   "id": "mazin-synth-5438-bench",
+   "name": "Toulon — Bench",
    "sku": "5438",
    "cats": [
     "occasional"
@@ -5372,7 +5008,7 @@
   },
   {
    "id": "mazin-synth-5438-server",
-   "name": "Server — Toulon Collection",
+   "name": "Toulon — Server",
    "sku": "5438",
    "cats": [
     "occasional"
@@ -5385,8 +5021,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-5438-pc-dining-set",
-   "name": "Pc Dining Set — Toulon Collection",
+   "id": "mazin-synth-5438-set",
+   "name": "Toulon — Set",
    "sku": "5438",
    "cats": [
     "occasional"
@@ -5399,8 +5035,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-5438-pc-table-sides-bench",
-   "name": "Pc Table Sides & Bench — Toulon Collection",
+   "id": "mazin-synth-5438-table",
+   "name": "Toulon — Table",
    "sku": "5438",
    "cats": [
     "occasional"
@@ -5413,22 +5049,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-5438-cocktail-table",
-   "name": "Cocktail Table — Toulon Collection",
-   "sku": "5438",
-   "cats": [
-    "occasional"
-   ],
-   "img": "https://www.homelegance.com/u/HMLG/20230723/37/5438_occasional__l.jpg",
-   "gallery": [],
-   "url": "https://www.homelegance.com/occasional_tablecollections/5438Occasional.htm",
-   "net": 303.0,
-   "price": "954",
-   "synth": true
-  },
-  {
    "id": "mazin-synth-5438-end-table",
-   "name": "End Table — Toulon Collection",
+   "name": "Toulon — End Table",
    "sku": "5438",
    "cats": [
     "occasional"
@@ -5441,8 +5063,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-5599-side-chair-pu",
-   "name": "Side Chair Pu — Glissand Collection",
+   "id": "mazin-synth-5599-dining-chair",
+   "name": "Glissand — Dining Chair",
    "sku": "5599",
    "cats": [
     "dining"
@@ -5456,7 +5078,7 @@
   },
   {
    "id": "mazin-synth-5599-dining-table",
-   "name": "Dining Table — Glissand Collection",
+   "name": "Glissand — Dining Table",
    "sku": "5599",
    "cats": [
     "dining"
@@ -5469,22 +5091,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-5599-side-chair",
-   "name": "Side Chair — Glissand Collection",
-   "sku": "5599",
-   "cats": [
-    "dining"
-   ],
-   "img": "https://www.homelegance.com/u/HMLG/20260415/4/5599N_dining__l.jpg",
-   "gallery": [],
-   "url": "https://www.homelegance.com/new_arrivals/5599NDining.htm",
-   "net": 94.0,
-   "price": "296",
-   "synth": true
-  },
-  {
-   "id": "mazin-synth-5599-pc-set",
-   "name": "Pc Set — Glissand Collection",
+   "id": "mazin-synth-5599-set",
+   "name": "Glissand — Set",
    "sku": "5599",
    "cats": [
     "dining"
@@ -5497,8 +5105,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-5627-coffee-table-w-casters-dwrs-ant",
-   "name": "Coffee Table W/Casters&Dwrs Ant — Granby Collection",
+   "id": "mazin-synth-5627-coffee-table",
+   "name": "Granby — Coffee Table",
    "sku": "5627",
    "cats": [
     "occasional"
@@ -5511,8 +5119,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-5627-end-table-w-drawer-antique",
-   "name": "End Table W/ Drawer Antique — Granby Collection",
+   "id": "mazin-synth-5627-end-table",
+   "name": "Granby — End Table",
    "sku": "5627",
    "cats": [
     "occasional"
@@ -5525,8 +5133,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-5627-sofa-table-w-drawrs-antique",
-   "name": "Sofa Table W/ Drawrs Antique — Granby Collection",
+   "id": "mazin-synth-5627-sofa",
+   "name": "Granby — Sofa",
    "sku": "5627",
    "cats": [
     "occasional"
@@ -5539,50 +5147,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-5627-coffee-table-w-casters-drawrs",
-   "name": "Coffee Table W/Casters & Drawrs — Granby Collection",
-   "sku": "5627",
-   "cats": [
-    "occasional"
-   ],
-   "img": "https://www.homelegance.com/u/HMLG/20211004/b7e85e67af8c4ccdb9449741a23719a7.jpg",
-   "gallery": [],
-   "url": "https://www.homelegance.com/occasional_tablecollections/5627GYOccasional.htm",
-   "net": 249.95,
-   "price": "787",
-   "synth": true
-  },
-  {
-   "id": "mazin-synth-5627-end-table-w-drawer",
-   "name": "End Table W/ Drawer — Granby Collection",
-   "sku": "5627",
-   "cats": [
-    "occasional"
-   ],
-   "img": "https://www.homelegance.com/u/HMLG/20211004/b7e85e67af8c4ccdb9449741a23719a7.jpg",
-   "gallery": [],
-   "url": "https://www.homelegance.com/occasional_tablecollections/5627GYOccasional.htm",
-   "net": 180.0,
-   "price": "567",
-   "synth": true
-  },
-  {
-   "id": "mazin-synth-5627-sofa-table-w-drawrs",
-   "name": "Sofa Table W/ Drawrs — Granby Collection",
-   "sku": "5627",
-   "cats": [
-    "occasional"
-   ],
-   "img": "https://www.homelegance.com/u/HMLG/20211004/b7e85e67af8c4ccdb9449741a23719a7.jpg",
-   "gallery": [],
-   "url": "https://www.homelegance.com/occasional_tablecollections/5627GYOccasional.htm",
-   "net": 230.0,
-   "price": "724",
-   "synth": true
-  },
-  {
-   "id": "mazin-synth-5627-dining-table-w-drawrs-ant",
-   "name": "Dining Table W/ Drawrs Ant — Granby Collection",
+   "id": "mazin-synth-5627-dining-table",
+   "name": "Granby — Dining Table",
    "sku": "5627",
    "cats": [
     "occasional"
@@ -5595,8 +5161,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-5627-side-chair-antique",
-   "name": "Side Chair Antique — Granby Collection",
+   "id": "mazin-synth-5627-dining-chair",
+   "name": "Granby — Dining Chair",
    "sku": "5627",
    "cats": [
     "occasional"
@@ -5609,8 +5175,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-5713-pc-counter-height-set-w-usb-outlets",
-   "name": "Pc Counter-Height Set W/Usb & Outlets — Connected Collection",
+   "id": "mazin-synth-5713-set",
+   "name": "Connected — Set",
    "sku": "5713",
    "cats": [
     "office"
@@ -5624,7 +5190,7 @@
   },
   {
    "id": "mazin-synth-5898-king-bed",
-   "name": "King Bed — Aiden Collection",
+   "name": "Aiden — King Bed",
    "sku": "5898",
    "cats": [
     "dining"
@@ -5638,7 +5204,7 @@
   },
   {
    "id": "mazin-synth-5898-queen-bed",
-   "name": "Queen Bed — Aiden Collection",
+   "name": "Aiden — Queen Bed",
    "sku": "5898",
    "cats": [
     "dining"
@@ -5651,8 +5217,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-5898-full-bed",
-   "name": "Full Bed — Aiden Collection",
+   "id": "mazin-synth-5898-bed",
+   "name": "Aiden — Bed",
    "sku": "5898",
    "cats": [
     "dining"
@@ -5665,8 +5231,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-5898-dining-table-base",
-   "name": "Dining Table Base — Aiden Collection",
+   "id": "mazin-synth-5898-dining-table",
+   "name": "Aiden — Dining Table",
    "sku": "5898",
    "cats": [
     "dining"
@@ -5679,36 +5245,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-5898-side-chair",
-   "name": "Side Chair — Aiden Collection",
-   "sku": "5898",
-   "cats": [
-    "dining"
-   ],
-   "img": "https://www.homelegance.com/u/HMLG/20250806/10/5898_dining5__l.jpg",
-   "gallery": [],
-   "url": "https://www.homelegance.com/dining_diningroomcollections/5898Dining.htm",
-   "net": 81.0,
-   "price": "255",
-   "synth": true
-  },
-  {
-   "id": "mazin-synth-5898-side-chair-olive",
-   "name": "Side Chair Olive — Aiden Collection",
-   "sku": "5898",
-   "cats": [
-    "dining"
-   ],
-   "img": "https://www.homelegance.com/u/HMLG/20250806/10/5898_dining5__l.jpg",
-   "gallery": [],
-   "url": "https://www.homelegance.com/dining_diningroomcollections/5898Dining.htm",
-   "net": 81.0,
-   "price": "255",
-   "synth": true
-  },
-  {
-   "id": "mazin-synth-5898-side-chair-rust",
-   "name": "Side Chair Rust — Aiden Collection",
+   "id": "mazin-synth-5898-dining-chair",
+   "name": "Aiden — Dining Chair",
    "sku": "5898",
    "cats": [
     "dining"
@@ -5722,7 +5260,7 @@
   },
   {
    "id": "mazin-synth-5982-dining-table",
-   "name": "Dining Table — Savile Collection",
+   "name": "Savile — Dining Table",
    "sku": "5982",
    "cats": [
     "dining"
@@ -5735,8 +5273,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-5982-dining-chair-w-fabric",
-   "name": "Dining Chair W/ Fabric — Savile Collection",
+   "id": "mazin-synth-5982-dining-chair",
+   "name": "Savile — Dining Chair",
    "sku": "5982",
    "cats": [
     "dining"
@@ -5749,8 +5287,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-5982-dining-bench-w-fabric",
-   "name": "Dining Bench W/ Fabric — Savile Collection",
+   "id": "mazin-synth-5982-bench",
+   "name": "Savile — Bench",
    "sku": "5982",
    "cats": [
     "dining"
@@ -5763,8 +5301,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-5982-pc-dining-set",
-   "name": "Pc Dining Set — Savile Collection",
+   "id": "mazin-synth-5982-set",
+   "name": "Savile — Set",
    "sku": "5982",
    "cats": [
     "dining"
@@ -5777,8 +5315,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-5982-pc-table-sides-bench",
-   "name": "Pc Table Sides & Bench — Savile Collection",
+   "id": "mazin-synth-5982-table",
+   "name": "Savile — Table",
    "sku": "5982",
    "cats": [
     "dining"
@@ -5791,50 +5329,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-5982-counter-height-table",
-   "name": "Counter Height Table — Savile Collection",
-   "sku": "5982",
-   "cats": [
-    "dining"
-   ],
-   "img": "https://www.homelegance.com/u/HMLG/20250805/156/5982-36_dining__l.jpg",
-   "gallery": [],
-   "url": "https://www.homelegance.com/dining_diningroomcollections/5982-36Dining.htm",
-   "net": 459.95,
-   "price": "1449",
-   "synth": true
-  },
-  {
-   "id": "mazin-synth-5982-counter-height-bench-w-fabric",
-   "name": "Counter Height Bench W/ Fabric — Savile Collection",
-   "sku": "5982",
-   "cats": [
-    "dining"
-   ],
-   "img": "https://www.homelegance.com/u/HMLG/20250805/156/5982-36_dining__l.jpg",
-   "gallery": [],
-   "url": "https://www.homelegance.com/dining_diningroomcollections/5982-36Dining.htm",
-   "net": 115.0,
-   "price": "362",
-   "synth": true
-  },
-  {
-   "id": "mazin-synth-5982-pc-counter-ht-set",
-   "name": "Pc Counter-Ht Set — Savile Collection",
-   "sku": "5982",
-   "cats": [
-    "dining"
-   ],
-   "img": "https://www.homelegance.com/u/HMLG/20250805/156/5982-36_dining__l.jpg",
-   "gallery": [],
-   "url": "https://www.homelegance.com/dining_diningroomcollections/5982-36Dining.htm",
-   "net": 819.95,
-   "price": "2583",
-   "synth": true
-  },
-  {
-   "id": "mazin-synth-5999-dining-table-veneer",
-   "name": "Dining Table Veneer — Soma Collection",
+   "id": "mazin-synth-5999-dining-table",
+   "name": "Soma — Dining Table",
    "sku": "5999",
    "cats": [
     "dining"
@@ -5848,7 +5344,7 @@
   },
   {
    "id": "mazin-synth-5999-dining-chair",
-   "name": "Dining Chair — Soma Collection",
+   "name": "Soma — Dining Chair",
    "sku": "5999",
    "cats": [
     "dining"
@@ -5861,8 +5357,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-5999-server-veneer",
-   "name": "Server Veneer — Soma Collection",
+   "id": "mazin-synth-5999-server",
+   "name": "Soma — Server",
    "sku": "5999",
    "cats": [
     "dining"
@@ -5875,8 +5371,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-5999-pc-dining-set",
-   "name": "Pc Dining Set — Soma Collection",
+   "id": "mazin-synth-5999-set",
+   "name": "Soma — Set",
    "sku": "5999",
    "cats": [
     "dining"
@@ -5889,8 +5385,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-8570-cocktail-table-w-marble-top",
-   "name": "Cocktail Table W/Marble Top — Balthasar Collection",
+   "id": "mazin-synth-8570-table",
+   "name": "Balthasar — Table",
    "sku": "8570",
    "cats": [
     "occasional"
@@ -5903,8 +5399,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-8570-end-table-w-marble-top",
-   "name": "End Table W/Marble Top — Balthasar Collection",
+   "id": "mazin-synth-8570-end-table",
+   "name": "Balthasar — End Table",
    "sku": "8570",
    "cats": [
     "occasional"
@@ -5917,8 +5413,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-8570-sofa-table-w-marble-top",
-   "name": "Sofa Table W/Marble Top — Balthasar Collection",
+   "id": "mazin-synth-8570-sofa",
+   "name": "Balthasar — Sofa",
    "sku": "8570",
    "cats": [
     "occasional"
@@ -5932,7 +5428,7 @@
   },
   {
    "id": "mazin-synth-8570-chair",
-   "name": "Chair — Balthasar Collection",
+   "name": "Balthasar — Chair",
    "sku": "8570",
    "cats": [
     "occasional"
@@ -5945,8 +5441,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-8570-love-seat",
-   "name": "Love Seat — Balthasar Collection",
+   "id": "mazin-synth-8570-loveseat",
+   "name": "Balthasar — Loveseat",
    "sku": "8570",
    "cats": [
     "occasional"
@@ -5959,22 +5455,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-8570-sofa",
-   "name": "Sofa — Balthasar Collection",
-   "sku": "8570",
-   "cats": [
-    "occasional"
-   ],
-   "img": "https://www.homelegance.com/u/HMLG/20240310/62/8570_occasional__l.jpg",
-   "gallery": [],
-   "url": "https://www.homelegance.com/occasional_tablecollections/8570Occasional.htm",
-   "net": 1474.0,
-   "price": "4643",
-   "synth": true
-  },
-  {
-   "id": "mazin-synth-9745-chair-taupe-chenille",
-   "name": "Chair Taupe Chenille — Zander Collection",
+   "id": "mazin-synth-9745-chair",
+   "name": "Zander — Chair",
    "sku": "9745",
    "cats": [
     "new"
@@ -5987,8 +5469,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-9745-love-seat-w-pillows-taupe-chenille",
-   "name": "Love Seat W/ Pillows Taupe Chenille — Zander Collection",
+   "id": "mazin-synth-9745-loveseat",
+   "name": "Zander — Loveseat",
    "sku": "9745",
    "cats": [
     "new"
@@ -6001,8 +5483,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-9745-sofa-w-pillows-taupe-chenille",
-   "name": "Sofa W/ Pillows Taupe Chenille — Zander Collection",
+   "id": "mazin-synth-9745-sofa",
+   "name": "Zander — Sofa",
    "sku": "9745",
    "cats": [
     "new"
@@ -6010,55 +5492,13 @@
    "img": "https://www.homelegance.com/u/HMLG/20260617/142/9745BE_seating__l.jpg",
    "gallery": [],
    "url": "https://www.homelegance.com/new_arrivals/9745BESeating.htm",
-   "net": 479.95,
-   "price": "1512",
-   "synth": true
-  },
-  {
-   "id": "mazin-synth-9746-chair-chenille",
-   "name": "Chair Chenille — Chelsea Collection",
-   "sku": "9746",
-   "cats": [
-    "new"
-   ],
-   "img": "https://www.homelegance.com/u/HMLG/20260610/140/9746BE_seating__l.jpg",
-   "gallery": [],
-   "url": "https://www.homelegance.com/new_arrivals/9746BESeating.htm",
-   "net": 280.0,
-   "price": "882",
-   "synth": true
-  },
-  {
-   "id": "mazin-synth-9746-ls-w-pillows-chenille",
-   "name": "Ls W/ Pillows Chenille — Chelsea Collection",
-   "sku": "9746",
-   "cats": [
-    "new"
-   ],
-   "img": "https://www.homelegance.com/u/HMLG/20260610/140/9746BE_seating__l.jpg",
-   "gallery": [],
-   "url": "https://www.homelegance.com/new_arrivals/9746BESeating.htm",
-   "net": 400.0,
-   "price": "1260",
-   "synth": true
-  },
-  {
-   "id": "mazin-synth-9746-sofa-w-pillows-chenille",
-   "name": "Sofa W/ Pillows Chenille — Chelsea Collection",
-   "sku": "9746",
-   "cats": [
-    "new"
-   ],
-   "img": "https://www.homelegance.com/u/HMLG/20260610/140/9746BE_seating__l.jpg",
-   "gallery": [],
-   "url": "https://www.homelegance.com/new_arrivals/9746BESeating.htm",
    "net": 479.95,
    "price": "1512",
    "synth": true
   },
   {
    "id": "mazin-synth-9746-chair",
-   "name": "Chair — Chelsea Collection",
+   "name": "Chelsea — Chair",
    "sku": "9746",
    "cats": [
     "new"
@@ -6066,13 +5506,27 @@
    "img": "https://www.homelegance.com/u/HMLG/20260610/140/9746BE_seating__l.jpg",
    "gallery": [],
    "url": "https://www.homelegance.com/new_arrivals/9746BESeating.htm",
-   "net": 943.0,
-   "price": "2970",
+   "net": 280.0,
+   "price": "882",
    "synth": true
   },
   {
-   "id": "mazin-synth-9746-love-seat",
-   "name": "Love Seat — Chelsea Collection",
+   "id": "mazin-synth-9746-sofa",
+   "name": "Chelsea — Sofa",
+   "sku": "9746",
+   "cats": [
+    "new"
+   ],
+   "img": "https://www.homelegance.com/u/HMLG/20260610/140/9746BE_seating__l.jpg",
+   "gallery": [],
+   "url": "https://www.homelegance.com/new_arrivals/9746BESeating.htm",
+   "net": 479.95,
+   "price": "1512",
+   "synth": true
+  },
+  {
+   "id": "mazin-synth-9746-loveseat",
+   "name": "Chelsea — Loveseat",
    "sku": "9746",
    "cats": [
     "new"
@@ -6085,22 +5539,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-9746-sofa",
-   "name": "Sofa — Chelsea Collection",
-   "sku": "9746",
-   "cats": [
-    "new"
-   ],
-   "img": "https://www.homelegance.com/u/HMLG/20260610/140/9746BE_seating__l.jpg",
-   "gallery": [],
-   "url": "https://www.homelegance.com/new_arrivals/9746BESeating.htm",
-   "net": 1660.0,
-   "price": "5229",
-   "synth": true
-  },
-  {
-   "id": "mazin-synth-9747-chair-chenille",
-   "name": "Chair Chenille — Sarah Collection",
+   "id": "mazin-synth-9747-chair",
+   "name": "Sarah — Chair",
    "sku": "9747",
    "cats": [
     "new"
@@ -6113,8 +5553,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-9747-loveseat-w-pillows-chenille",
-   "name": "Loveseat W/ Pillows Chenille — Sarah Collection",
+   "id": "mazin-synth-9747-loveseat",
+   "name": "Sarah — Loveseat",
    "sku": "9747",
    "cats": [
     "new"
@@ -6127,8 +5567,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-9747-sofa-w-pillows-chenille",
-   "name": "Sofa W/ Pillows Chenille — Sarah Collection",
+   "id": "mazin-synth-9747-sofa",
+   "name": "Sarah — Sofa",
    "sku": "9747",
    "cats": [
     "new"
@@ -6141,50 +5581,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-9747-chair",
-   "name": "Chair — Sarah Collection",
-   "sku": "9747",
-   "cats": [
-    "new"
-   ],
-   "img": "https://www.homelegance.com/u/HMLG/20260604/101/9747BU_seating__l.jpg",
-   "gallery": [],
-   "url": "https://www.homelegance.com/new_arrivals/9747BUSeating.htm",
-   "net": 407.0,
-   "price": "1282",
-   "synth": true
-  },
-  {
-   "id": "mazin-synth-9747-love-seat",
-   "name": "Love Seat — Sarah Collection",
-   "sku": "9747",
-   "cats": [
-    "new"
-   ],
-   "img": "https://www.homelegance.com/u/HMLG/20260604/101/9747BU_seating__l.jpg",
-   "gallery": [],
-   "url": "https://www.homelegance.com/new_arrivals/9747BUSeating.htm",
-   "net": 648.0,
-   "price": "2041",
-   "synth": true
-  },
-  {
-   "id": "mazin-synth-9747-sofa",
-   "name": "Sofa — Sarah Collection",
-   "sku": "9747",
-   "cats": [
-    "new"
-   ],
-   "img": "https://www.homelegance.com/u/HMLG/20260604/101/9747BU_seating__l.jpg",
-   "gallery": [],
-   "url": "https://www.homelegance.com/new_arrivals/9747BUSeating.htm",
-   "net": 796.0,
-   "price": "2507",
-   "synth": true
-  },
-  {
-   "id": "mazin-synth-1104-piece-pack-occasional-set",
-   "name": "Piece Pack Occasional Set — Lewiston Collection",
+   "id": "mazin-synth-1104-set",
+   "name": "Lewiston — Set",
    "sku": "1104",
    "cats": [
     "occasional"
@@ -6197,8 +5595,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-1104-accent-chair-mission-arm-fabric",
-   "name": "Accent Chair Mission Arm Fabric — Lewiston Collection",
+   "id": "mazin-synth-1104-accent-chair",
+   "name": "Lewiston — Accent Chair",
    "sku": "1104",
    "cats": [
     "occasional"
@@ -6212,7 +5610,7 @@
   },
   {
    "id": "mazin-synth-1104-loveseat",
-   "name": "Loveseat — Lewiston Collection",
+   "name": "Lewiston — Loveseat",
    "sku": "1104",
    "cats": [
     "occasional"
@@ -6226,7 +5624,7 @@
   },
   {
    "id": "mazin-synth-1104-sofa",
-   "name": "Sofa — Lewiston Collection",
+   "name": "Lewiston — Sofa",
    "sku": "1104",
    "cats": [
     "occasional"
@@ -6240,7 +5638,7 @@
   },
   {
    "id": "mazin-synth-1366-king-bed",
-   "name": "King Bed — Rowan Collection",
+   "name": "Rowan — King Bed",
    "sku": "1366",
    "cats": [
     "youth"
@@ -6254,7 +5652,7 @@
   },
   {
    "id": "mazin-synth-1366-queen-bed",
-   "name": "Queen Bed — Rowan Collection",
+   "name": "Rowan — Queen Bed",
    "sku": "1366",
    "cats": [
     "youth"
@@ -6267,8 +5665,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-1366-full-bed",
-   "name": "Full Bed — Rowan Collection",
+   "id": "mazin-synth-1366-bed",
+   "name": "Rowan — Bed",
    "sku": "1366",
    "cats": [
     "youth"
@@ -6281,36 +5679,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-1366-twin-headboard",
-   "name": "Twin Headboard — Rowan Collection",
-   "sku": "1366",
-   "cats": [
-    "youth"
-   ],
-   "img": "https://www.homelegance.com/u/HMLG/20251112/172/1366T-1_youth__l.jpg",
-   "gallery": [],
-   "url": "https://www.homelegance.com/youth_youthbedroomcollections/1366TYouth.htm",
-   "net": 175.0,
-   "price": "551",
-   "synth": true
-  },
-  {
-   "id": "mazin-synth-1366-twin-footboard-storage-slats",
-   "name": "Twin Footboard Storage & Slats — Rowan Collection",
-   "sku": "1366",
-   "cats": [
-    "youth"
-   ],
-   "img": "https://www.homelegance.com/u/HMLG/20251112/172/1366T-1_youth__l.jpg",
-   "gallery": [],
-   "url": "https://www.homelegance.com/youth_youthbedroomcollections/1366TYouth.htm",
-   "net": 260.0,
-   "price": "819",
-   "synth": true
-  },
-  {
-   "id": "mazin-synth-1366-night-stand",
-   "name": "Night Stand — Rowan Collection",
+   "id": "mazin-synth-1366-nightstand",
+   "name": "Rowan — Nightstand",
    "sku": "1366",
    "cats": [
     "youth"
@@ -6324,7 +5694,7 @@
   },
   {
    "id": "mazin-synth-1366-dresser",
-   "name": "Dresser — Rowan Collection",
+   "name": "Rowan — Dresser",
    "sku": "1366",
    "cats": [
     "youth"
@@ -6338,7 +5708,7 @@
   },
   {
    "id": "mazin-synth-1366-mirror",
-   "name": "Mirror — Rowan Collection",
+   "name": "Rowan — Mirror",
    "sku": "1366",
    "cats": [
     "youth"
@@ -6352,7 +5722,7 @@
   },
   {
    "id": "mazin-synth-1386-daybed",
-   "name": "Daybed — Cinderella Collection",
+   "name": "Cinderella — Daybed",
    "sku": "1386",
    "cats": [
     "office"
@@ -6365,8 +5735,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-1386-queen-bed-new",
-   "name": "Queen Bed New — Cinderella Collection",
+   "id": "mazin-synth-1386-queen-bed",
+   "name": "Cinderella — Queen Bed",
    "sku": "1386",
    "cats": [
     "office"
@@ -6379,8 +5749,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-1386-full-bed-new",
-   "name": "Full Bed New — Cinderella Collection",
+   "id": "mazin-synth-1386-bed",
+   "name": "Cinderella — Bed",
    "sku": "1386",
    "cats": [
     "office"
@@ -6393,22 +5763,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-1386-twin-bed-new",
-   "name": "Twin Bed New — Cinderella Collection",
-   "sku": "1386",
-   "cats": [
-    "office"
-   ],
-   "img": "https://www.homelegance.com/u/HMLG/20200121/123/1386NW20Office__l.jpg",
-   "gallery": [],
-   "url": "https://www.homelegance.com/office_officecollections/1386NWOffice.htm",
-   "net": 489.0,
-   "price": "1540",
-   "synth": true
-  },
-  {
-   "id": "mazin-synth-1386-night-stand",
-   "name": "Night Stand — Cinderella Collection",
+   "id": "mazin-synth-1386-nightstand",
+   "name": "Cinderella — Nightstand",
    "sku": "1386",
    "cats": [
     "office"
@@ -6421,8 +5777,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-1386-dresser-new",
-   "name": "Dresser New — Cinderella Collection",
+   "id": "mazin-synth-1386-dresser",
+   "name": "Cinderella — Dresser",
    "sku": "1386",
    "cats": [
     "office"
@@ -6436,7 +5792,7 @@
   },
   {
    "id": "mazin-synth-1386-mirror",
-   "name": "Mirror — Cinderella Collection",
+   "name": "Cinderella — Mirror",
    "sku": "1386",
    "cats": [
     "office"
@@ -6449,8 +5805,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-1386-chest-new",
-   "name": "Chest New — Cinderella Collection",
+   "id": "mazin-synth-1386-chest",
+   "name": "Cinderella — Chest",
    "sku": "1386",
    "cats": [
     "office"
@@ -6463,50 +5819,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-2322-queen-headboard",
-   "name": "Queen Headboard — York Collection",
-   "sku": "2322",
-   "cats": [
-    "bedroom"
-   ],
-   "img": "https://www.homelegance.com/u/HMLG/20250617/165/2322_bedroom__l.jpg",
-   "gallery": [],
-   "url": "https://www.homelegance.com/bedroom_bedroomcollections/2322Bedroom.htm",
-   "net": 252.0,
-   "price": "794",
-   "synth": true
-  },
-  {
-   "id": "mazin-synth-2322-queen-footboard-slats",
-   "name": "Queen Footboard & Slats — York Collection",
-   "sku": "2322",
-   "cats": [
-    "bedroom"
-   ],
-   "img": "https://www.homelegance.com/u/HMLG/20250617/165/2322_bedroom__l.jpg",
-   "gallery": [],
-   "url": "https://www.homelegance.com/bedroom_bedroomcollections/2322Bedroom.htm",
-   "net": 157.0,
-   "price": "495",
-   "synth": true
-  },
-  {
-   "id": "mazin-synth-2322-eastern-king-queen-side-rails",
-   "name": "Eastern King/Queen Side Rails — York Collection",
-   "sku": "2322",
-   "cats": [
-    "bedroom"
-   ],
-   "img": "https://www.homelegance.com/u/HMLG/20250617/165/2322_bedroom__l.jpg",
-   "gallery": [],
-   "url": "https://www.homelegance.com/bedroom_bedroomcollections/2322Bedroom.htm",
-   "net": 87.0,
-   "price": "274",
-   "synth": true
-  },
-  {
-   "id": "mazin-synth-2322-night-stand",
-   "name": "Night Stand — York Collection",
+   "id": "mazin-synth-2322-nightstand",
+   "name": "York — Nightstand",
    "sku": "2322",
    "cats": [
     "bedroom"
@@ -6520,7 +5834,7 @@
   },
   {
    "id": "mazin-synth-2322-dresser",
-   "name": "Dresser — York Collection",
+   "name": "York — Dresser",
    "sku": "2322",
    "cats": [
     "bedroom"
@@ -6534,7 +5848,7 @@
   },
   {
    "id": "mazin-synth-2322-mirror",
-   "name": "Mirror — York Collection",
+   "name": "York — Mirror",
    "sku": "2322",
    "cats": [
     "bedroom"
@@ -6548,7 +5862,7 @@
   },
   {
    "id": "mazin-synth-2322-chest",
-   "name": "Chest — York Collection",
+   "name": "York — Chest",
    "sku": "2322",
    "cats": [
     "bedroom"
@@ -6561,64 +5875,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-2322-full-headboard",
-   "name": "Full Headboard — York Collection",
-   "sku": "2322",
-   "cats": [
-    "bedroom"
-   ],
-   "img": "https://www.homelegance.com/u/HMLG/20250617/165/2322_bedroom__l.jpg",
-   "gallery": [],
-   "url": "https://www.homelegance.com/bedroom_bedroomcollections/2322Bedroom.htm",
-   "net": 229.0,
-   "price": "721",
-   "synth": true
-  },
-  {
-   "id": "mazin-synth-2384-queen-headboard",
-   "name": "Queen Headboard — Linea Collection",
-   "sku": "2384",
-   "cats": [
-    "bedroom"
-   ],
-   "img": "https://www.homelegance.com/u/HMLG/20251204/26/2384_bedroom2__l.jpg",
-   "gallery": [],
-   "url": "https://www.homelegance.com/bedroom_bedroomcollections/2384Bedroom.htm",
-   "net": 264.0,
-   "price": "832",
-   "synth": true
-  },
-  {
-   "id": "mazin-synth-2384-queen-footboard-slats",
-   "name": "Queen Footboard & Slats — Linea Collection",
-   "sku": "2384",
-   "cats": [
-    "bedroom"
-   ],
-   "img": "https://www.homelegance.com/u/HMLG/20251204/26/2384_bedroom2__l.jpg",
-   "gallery": [],
-   "url": "https://www.homelegance.com/bedroom_bedroomcollections/2384Bedroom.htm",
-   "net": 123.0,
-   "price": "387",
-   "synth": true
-  },
-  {
-   "id": "mazin-synth-2384-eastern-king-queen-side-rails",
-   "name": "Eastern King/Queen Side Rails — Linea Collection",
-   "sku": "2384",
-   "cats": [
-    "bedroom"
-   ],
-   "img": "https://www.homelegance.com/u/HMLG/20251204/26/2384_bedroom2__l.jpg",
-   "gallery": [],
-   "url": "https://www.homelegance.com/bedroom_bedroomcollections/2384Bedroom.htm",
-   "net": 116.0,
-   "price": "365",
-   "synth": true
-  },
-  {
-   "id": "mazin-synth-2384-night-stand",
-   "name": "Night Stand — Linea Collection",
+   "id": "mazin-synth-2384-nightstand",
+   "name": "Linea — Nightstand",
    "sku": "2384",
    "cats": [
     "bedroom"
@@ -6631,22 +5889,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-2384-wall-panels-for-night-stand-piece",
-   "name": "Wall Panels For Night Stand Piece — Linea Collection",
-   "sku": "2384",
-   "cats": [
-    "bedroom"
-   ],
-   "img": "https://www.homelegance.com/u/HMLG/20251204/26/2384_bedroom2__l.jpg",
-   "gallery": [],
-   "url": "https://www.homelegance.com/bedroom_bedroomcollections/2384Bedroom.htm",
-   "net": 92.0,
-   "price": "290",
-   "synth": true
-  },
-  {
    "id": "mazin-synth-2384-dresser",
-   "name": "Dresser — Linea Collection",
+   "name": "Linea — Dresser",
    "sku": "2384",
    "cats": [
     "bedroom"
@@ -6660,7 +5904,7 @@
   },
   {
    "id": "mazin-synth-2384-mirror",
-   "name": "Mirror — Linea Collection",
+   "name": "Linea — Mirror",
    "sku": "2384",
    "cats": [
     "bedroom"
@@ -6674,7 +5918,7 @@
   },
   {
    "id": "mazin-synth-2384-chest",
-   "name": "Chest — Linea Collection",
+   "name": "Linea — Chest",
    "sku": "2384",
    "cats": [
     "bedroom"
@@ -6687,50 +5931,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-2391-queen-headboard",
-   "name": "Queen Headboard — Noctis Collection",
-   "sku": "2391",
-   "cats": [
-    "bedroom"
-   ],
-   "img": "https://www.homelegance.com/u/HMLG/20251130/312/2391_bedroom__l.jpg",
-   "gallery": [],
-   "url": "https://www.homelegance.com/bedroom_bedroomcollections/2391Bedroom.htm",
-   "net": 202.0,
-   "price": "636",
-   "synth": true
-  },
-  {
-   "id": "mazin-synth-2391-queen-footboard-slats",
-   "name": "Queen Footboard & Slats — Noctis Collection",
-   "sku": "2391",
-   "cats": [
-    "bedroom"
-   ],
-   "img": "https://www.homelegance.com/u/HMLG/20251130/312/2391_bedroom__l.jpg",
-   "gallery": [],
-   "url": "https://www.homelegance.com/bedroom_bedroomcollections/2391Bedroom.htm",
-   "net": 310.0,
-   "price": "976",
-   "synth": true
-  },
-  {
-   "id": "mazin-synth-2391-eastern-king-queen-side-rails",
-   "name": "Eastern King/Queen Side Rails — Noctis Collection",
-   "sku": "2391",
-   "cats": [
-    "bedroom"
-   ],
-   "img": "https://www.homelegance.com/u/HMLG/20251130/312/2391_bedroom__l.jpg",
-   "gallery": [],
-   "url": "https://www.homelegance.com/bedroom_bedroomcollections/2391Bedroom.htm",
-   "net": 189.0,
-   "price": "595",
-   "synth": true
-  },
-  {
-   "id": "mazin-synth-2391-night-stand",
-   "name": "Night Stand — Noctis Collection",
+   "id": "mazin-synth-2391-nightstand",
+   "name": "Noctis — Nightstand",
    "sku": "2391",
    "cats": [
     "bedroom"
@@ -6744,7 +5946,7 @@
   },
   {
    "id": "mazin-synth-2391-dresser",
-   "name": "Dresser — Noctis Collection",
+   "name": "Noctis — Dresser",
    "sku": "2391",
    "cats": [
     "bedroom"
@@ -6758,7 +5960,7 @@
   },
   {
    "id": "mazin-synth-2391-mirror",
-   "name": "Mirror — Noctis Collection",
+   "name": "Noctis — Mirror",
    "sku": "2391",
    "cats": [
     "bedroom"
@@ -6772,7 +5974,7 @@
   },
   {
    "id": "mazin-synth-2391-chest",
-   "name": "Chest — Noctis Collection",
+   "name": "Noctis — Chest",
    "sku": "2391",
    "cats": [
     "bedroom"
@@ -6785,64 +5987,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-2391-california-eastern-king-headboard",
-   "name": "California/Eastern King Headboard — Noctis Collection",
-   "sku": "2391",
-   "cats": [
-    "bedroom"
-   ],
-   "img": "https://www.homelegance.com/u/HMLG/20251130/312/2391_bedroom__l.jpg",
-   "gallery": [],
-   "url": "https://www.homelegance.com/bedroom_bedroomcollections/2391Bedroom.htm",
-   "net": 251.0,
-   "price": "791",
-   "synth": true
-  },
-  {
-   "id": "mazin-synth-2392-queen-headboard",
-   "name": "Queen Headboard — Bridgepoint Collection",
-   "sku": "2392",
-   "cats": [
-    "bedroom"
-   ],
-   "img": "https://www.homelegance.com/u/HMLG/20251008/87/2392_bedroom__l.jpg",
-   "gallery": [],
-   "url": "https://www.homelegance.com/bedroom_bedroomcollections/2392Bedroom.htm",
-   "net": 370.0,
-   "price": "1166",
-   "synth": true
-  },
-  {
-   "id": "mazin-synth-2392-queen-footboard-slats",
-   "name": "Queen Footboard & Slats — Bridgepoint Collection",
-   "sku": "2392",
-   "cats": [
-    "bedroom"
-   ],
-   "img": "https://www.homelegance.com/u/HMLG/20251008/87/2392_bedroom__l.jpg",
-   "gallery": [],
-   "url": "https://www.homelegance.com/bedroom_bedroomcollections/2392Bedroom.htm",
-   "net": 272.0,
-   "price": "857",
-   "synth": true
-  },
-  {
-   "id": "mazin-synth-2392-eastern-king-queen-side-rails",
-   "name": "Eastern King/Queen Side Rails — Bridgepoint Collection",
-   "sku": "2392",
-   "cats": [
-    "bedroom"
-   ],
-   "img": "https://www.homelegance.com/u/HMLG/20251008/87/2392_bedroom__l.jpg",
-   "gallery": [],
-   "url": "https://www.homelegance.com/bedroom_bedroomcollections/2392Bedroom.htm",
-   "net": 93.0,
-   "price": "293",
-   "synth": true
-  },
-  {
-   "id": "mazin-synth-2392-night-stand",
-   "name": "Night Stand — Bridgepoint Collection",
+   "id": "mazin-synth-2392-nightstand",
+   "name": "Bridgepoint — Nightstand",
    "sku": "2392",
    "cats": [
     "bedroom"
@@ -6856,7 +6002,7 @@
   },
   {
    "id": "mazin-synth-2392-dresser",
-   "name": "Dresser — Bridgepoint Collection",
+   "name": "Bridgepoint — Dresser",
    "sku": "2392",
    "cats": [
     "bedroom"
@@ -6870,7 +6016,7 @@
   },
   {
    "id": "mazin-synth-2392-mirror",
-   "name": "Mirror — Bridgepoint Collection",
+   "name": "Bridgepoint — Mirror",
    "sku": "2392",
    "cats": [
     "bedroom"
@@ -6884,7 +6030,7 @@
   },
   {
    "id": "mazin-synth-2392-chest",
-   "name": "Chest — Bridgepoint Collection",
+   "name": "Bridgepoint — Chest",
    "sku": "2392",
    "cats": [
     "bedroom"
@@ -6897,64 +6043,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-2392-california-eastern-king-headboard",
-   "name": "California/Eastern King Headboard — Bridgepoint Collection",
-   "sku": "2392",
-   "cats": [
-    "bedroom"
-   ],
-   "img": "https://www.homelegance.com/u/HMLG/20251008/87/2392_bedroom__l.jpg",
-   "gallery": [],
-   "url": "https://www.homelegance.com/bedroom_bedroomcollections/2392Bedroom.htm",
-   "net": 517.0,
-   "price": "1629",
-   "synth": true
-  },
-  {
-   "id": "mazin-synth-2418-queen-headboard",
-   "name": "Queen Headboard — Oakmont Collection",
-   "sku": "2418",
-   "cats": [
-    "bedroom"
-   ],
-   "img": "https://www.homelegance.com/u/HMLG/20251020/503/2418_bedroom__l.jpg",
-   "gallery": [],
-   "url": "https://www.homelegance.com/bedroom_bedroomcollections/2418Bedroom.htm",
-   "net": 323.0,
-   "price": "1017",
-   "synth": true
-  },
-  {
-   "id": "mazin-synth-2418-queen-footboard-slats",
-   "name": "Queen Footboard & Slats — Oakmont Collection",
-   "sku": "2418",
-   "cats": [
-    "bedroom"
-   ],
-   "img": "https://www.homelegance.com/u/HMLG/20251020/503/2418_bedroom__l.jpg",
-   "gallery": [],
-   "url": "https://www.homelegance.com/bedroom_bedroomcollections/2418Bedroom.htm",
-   "net": 151.0,
-   "price": "476",
-   "synth": true
-  },
-  {
-   "id": "mazin-synth-2418-eastern-king-queen-side-rails",
-   "name": "Eastern King/Queen Side Rails — Oakmont Collection",
-   "sku": "2418",
-   "cats": [
-    "bedroom"
-   ],
-   "img": "https://www.homelegance.com/u/HMLG/20251020/503/2418_bedroom__l.jpg",
-   "gallery": [],
-   "url": "https://www.homelegance.com/bedroom_bedroomcollections/2418Bedroom.htm",
-   "net": 127.0,
-   "price": "400",
-   "synth": true
-  },
-  {
-   "id": "mazin-synth-2418-night-stand",
-   "name": "Night Stand — Oakmont Collection",
+   "id": "mazin-synth-2418-nightstand",
+   "name": "Oakmont — Nightstand",
    "sku": "2418",
    "cats": [
     "bedroom"
@@ -6968,7 +6058,7 @@
   },
   {
    "id": "mazin-synth-2418-dresser",
-   "name": "Dresser — Oakmont Collection",
+   "name": "Oakmont — Dresser",
    "sku": "2418",
    "cats": [
     "bedroom"
@@ -6982,7 +6072,7 @@
   },
   {
    "id": "mazin-synth-2418-mirror",
-   "name": "Mirror — Oakmont Collection",
+   "name": "Oakmont — Mirror",
    "sku": "2418",
    "cats": [
     "bedroom"
@@ -6996,7 +6086,7 @@
   },
   {
    "id": "mazin-synth-2418-chest",
-   "name": "Chest — Oakmont Collection",
+   "name": "Oakmont — Chest",
    "sku": "2418",
    "cats": [
     "bedroom"
@@ -7009,64 +6099,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-2418-california-eastern-king-headboard",
-   "name": "California/Eastern King Headboard — Oakmont Collection",
-   "sku": "2418",
-   "cats": [
-    "bedroom"
-   ],
-   "img": "https://www.homelegance.com/u/HMLG/20251020/503/2418_bedroom__l.jpg",
-   "gallery": [],
-   "url": "https://www.homelegance.com/bedroom_bedroomcollections/2418Bedroom.htm",
-   "net": 405.0,
-   "price": "1276",
-   "synth": true
-  },
-  {
-   "id": "mazin-synth-2424-queen-headboard",
-   "name": "Queen Headboard — Gilmartin Collection",
-   "sku": "2424",
-   "cats": [
-    "bedroom"
-   ],
-   "img": "https://www.homelegance.com/u/HMLG/20251020/404/2424_bedroom__l.jpg",
-   "gallery": [],
-   "url": "https://www.homelegance.com/bedroom_bedroomcollections/2424Bedroom.htm",
-   "net": 1444.0,
-   "price": "4549",
-   "synth": true
-  },
-  {
-   "id": "mazin-synth-2424-queen-footboard-slats",
-   "name": "Queen Footboard & Slats — Gilmartin Collection",
-   "sku": "2424",
-   "cats": [
-    "bedroom"
-   ],
-   "img": "https://www.homelegance.com/u/HMLG/20251020/404/2424_bedroom__l.jpg",
-   "gallery": [],
-   "url": "https://www.homelegance.com/bedroom_bedroomcollections/2424Bedroom.htm",
-   "net": 1097.0,
-   "price": "3456",
-   "synth": true
-  },
-  {
-   "id": "mazin-synth-2424-eastern-king-queen-side-rails",
-   "name": "Eastern King/Queen Side Rails — Gilmartin Collection",
-   "sku": "2424",
-   "cats": [
-    "bedroom"
-   ],
-   "img": "https://www.homelegance.com/u/HMLG/20251020/404/2424_bedroom__l.jpg",
-   "gallery": [],
-   "url": "https://www.homelegance.com/bedroom_bedroomcollections/2424Bedroom.htm",
-   "net": 327.0,
-   "price": "1030",
-   "synth": true
-  },
-  {
-   "id": "mazin-synth-2424-night-stand",
-   "name": "Night Stand — Gilmartin Collection",
+   "id": "mazin-synth-2424-nightstand",
+   "name": "Gilmartin — Nightstand",
    "sku": "2424",
    "cats": [
     "bedroom"
@@ -7080,7 +6114,7 @@
   },
   {
    "id": "mazin-synth-2424-dresser",
-   "name": "Dresser — Gilmartin Collection",
+   "name": "Gilmartin — Dresser",
    "sku": "2424",
    "cats": [
     "bedroom"
@@ -7094,7 +6128,7 @@
   },
   {
    "id": "mazin-synth-2424-mirror",
-   "name": "Mirror — Gilmartin Collection",
+   "name": "Gilmartin — Mirror",
    "sku": "2424",
    "cats": [
     "bedroom"
@@ -7108,7 +6142,7 @@
   },
   {
    "id": "mazin-synth-2424-chest",
-   "name": "Chest — Gilmartin Collection",
+   "name": "Gilmartin — Chest",
    "sku": "2424",
    "cats": [
     "bedroom"
@@ -7121,50 +6155,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-2424-california-eastern-king-headboard",
-   "name": "California/Eastern King Headboard — Gilmartin Collection",
-   "sku": "2424",
-   "cats": [
-    "bedroom"
-   ],
-   "img": "https://www.homelegance.com/u/HMLG/20251020/404/2424_bedroom__l.jpg",
-   "gallery": [],
-   "url": "https://www.homelegance.com/bedroom_bedroomcollections/2424Bedroom.htm",
-   "net": 1772.0,
-   "price": "5582",
-   "synth": true
-  },
-  {
-   "id": "mazin-synth-2425-queen-headboard-footboard-slats",
-   "name": "Queen Headboard & Footboard & Slats — Garrison Collection",
-   "sku": "2425",
-   "cats": [
-    "bedroom"
-   ],
-   "img": "https://www.homelegance.com/u/HMLG/20251020/435/2425_bedroom__l.jpg",
-   "gallery": [],
-   "url": "https://www.homelegance.com/bedroom_bedroomcollections/2425Bedroom.htm",
-   "net": 335.0,
-   "price": "1055",
-   "synth": true
-  },
-  {
-   "id": "mazin-synth-2425-eastern-king-queen-side-rails",
-   "name": "Eastern King/Queen Side Rails — Garrison Collection",
-   "sku": "2425",
-   "cats": [
-    "bedroom"
-   ],
-   "img": "https://www.homelegance.com/u/HMLG/20251020/435/2425_bedroom__l.jpg",
-   "gallery": [],
-   "url": "https://www.homelegance.com/bedroom_bedroomcollections/2425Bedroom.htm",
-   "net": 107.0,
-   "price": "337",
-   "synth": true
-  },
-  {
-   "id": "mazin-synth-2425-night-stand",
-   "name": "Night Stand — Garrison Collection",
+   "id": "mazin-synth-2425-nightstand",
+   "name": "Garrison — Nightstand",
    "sku": "2425",
    "cats": [
     "bedroom"
@@ -7178,7 +6170,7 @@
   },
   {
    "id": "mazin-synth-2425-dresser",
-   "name": "Dresser — Garrison Collection",
+   "name": "Garrison — Dresser",
    "sku": "2425",
    "cats": [
     "bedroom"
@@ -7192,7 +6184,7 @@
   },
   {
    "id": "mazin-synth-2425-mirror",
-   "name": "Mirror — Garrison Collection",
+   "name": "Garrison — Mirror",
    "sku": "2425",
    "cats": [
     "bedroom"
@@ -7206,7 +6198,7 @@
   },
   {
    "id": "mazin-synth-2425-chest",
-   "name": "Chest — Garrison Collection",
+   "name": "Garrison — Chest",
    "sku": "2425",
    "cats": [
     "bedroom"
@@ -7219,36 +6211,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-2434-queen-headboard-footboard-slats",
-   "name": "Queen Headboard & Footboard & Slats — Anatole Collection",
-   "sku": "2434",
-   "cats": [
-    "bedroom"
-   ],
-   "img": "https://www.homelegance.com/u/HMLG/20251119/12/2434SV_bedroom2__l.jpg",
-   "gallery": [],
-   "url": "https://www.homelegance.com/bedroom_bedroomcollections/2434SVBedroom.htm",
-   "net": 887.0,
-   "price": "2794",
-   "synth": true
-  },
-  {
-   "id": "mazin-synth-2434-eastern-king-queen-side-rails",
-   "name": "Eastern King/Queen Side Rails — Anatole Collection",
-   "sku": "2434",
-   "cats": [
-    "bedroom"
-   ],
-   "img": "https://www.homelegance.com/u/HMLG/20251119/12/2434SV_bedroom2__l.jpg",
-   "gallery": [],
-   "url": "https://www.homelegance.com/bedroom_bedroomcollections/2434SVBedroom.htm",
-   "net": 197.0,
-   "price": "621",
-   "synth": true
-  },
-  {
-   "id": "mazin-synth-2434-night-stand",
-   "name": "Night Stand — Anatole Collection",
+   "id": "mazin-synth-2434-nightstand",
+   "name": "Anatole — Nightstand",
    "sku": "2434",
    "cats": [
     "bedroom"
@@ -7262,7 +6226,7 @@
   },
   {
    "id": "mazin-synth-2434-dresser",
-   "name": "Dresser — Anatole Collection",
+   "name": "Anatole — Dresser",
    "sku": "2434",
    "cats": [
     "bedroom"
@@ -7276,7 +6240,7 @@
   },
   {
    "id": "mazin-synth-2434-mirror",
-   "name": "Mirror — Anatole Collection",
+   "name": "Anatole — Mirror",
    "sku": "2434",
    "cats": [
     "bedroom"
@@ -7290,7 +6254,7 @@
   },
   {
    "id": "mazin-synth-2434-chest",
-   "name": "Chest — Anatole Collection",
+   "name": "Anatole — Chest",
    "sku": "2434",
    "cats": [
     "bedroom"
@@ -7303,64 +6267,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-2451-queen-headboard",
-   "name": "Queen Headboard — Montrose Collection",
-   "sku": "2451",
-   "cats": [
-    "bedroom"
-   ],
-   "img": "https://www.homelegance.com/u/HMLG/20250825/99/2451_bedroom__l.jpg",
-   "gallery": [],
-   "url": "https://www.homelegance.com/bedroom_bedroomcollections/2451Bedroom.htm",
-   "net": 475.0,
-   "price": "1496",
-   "synth": true
-  },
-  {
-   "id": "mazin-synth-2451-queen-footboard-slats",
-   "name": "Queen Footboard & Slats — Montrose Collection",
-   "sku": "2451",
-   "cats": [
-    "bedroom"
-   ],
-   "img": "https://www.homelegance.com/u/HMLG/20250825/99/2451_bedroom__l.jpg",
-   "gallery": [],
-   "url": "https://www.homelegance.com/bedroom_bedroomcollections/2451Bedroom.htm",
-   "net": 181.0,
-   "price": "570",
-   "synth": true
-  },
-  {
-   "id": "mazin-synth-2451-queen-storage-drawers",
-   "name": "Queen Storage Drawers — Montrose Collection",
-   "sku": "2451",
-   "cats": [
-    "bedroom"
-   ],
-   "img": "https://www.homelegance.com/u/HMLG/20250825/99/2451_bedroom__l.jpg",
-   "gallery": [],
-   "url": "https://www.homelegance.com/bedroom_bedroomcollections/2451Bedroom.htm",
-   "net": 184.0,
-   "price": "580",
-   "synth": true
-  },
-  {
-   "id": "mazin-synth-2451-eastern-king-queen-side-rails",
-   "name": "Eastern King/Queen Side Rails — Montrose Collection",
-   "sku": "2451",
-   "cats": [
-    "bedroom"
-   ],
-   "img": "https://www.homelegance.com/u/HMLG/20250825/99/2451_bedroom__l.jpg",
-   "gallery": [],
-   "url": "https://www.homelegance.com/bedroom_bedroomcollections/2451Bedroom.htm",
-   "net": 116.0,
-   "price": "365",
-   "synth": true
-  },
-  {
-   "id": "mazin-synth-2451-night-stand",
-   "name": "Night Stand — Montrose Collection",
+   "id": "mazin-synth-2451-nightstand",
+   "name": "Montrose — Nightstand",
    "sku": "2451",
    "cats": [
     "bedroom"
@@ -7374,7 +6282,7 @@
   },
   {
    "id": "mazin-synth-2451-dresser",
-   "name": "Dresser — Montrose Collection",
+   "name": "Montrose — Dresser",
    "sku": "2451",
    "cats": [
     "bedroom"
@@ -7388,7 +6296,7 @@
   },
   {
    "id": "mazin-synth-2451-mirror",
-   "name": "Mirror — Montrose Collection",
+   "name": "Montrose — Mirror",
    "sku": "2451",
    "cats": [
     "bedroom"
@@ -7402,7 +6310,7 @@
   },
   {
    "id": "mazin-synth-2451-chest",
-   "name": "Chest — Montrose Collection",
+   "name": "Montrose — Chest",
    "sku": "2451",
    "cats": [
     "bedroom"
@@ -7415,50 +6323,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-2473-queen-headboard",
-   "name": "Queen Headboard — Buckingham Collection",
-   "sku": "2473",
-   "cats": [
-    "bedroom"
-   ],
-   "img": "https://www.homelegance.com/u/HMLG/20260122/58/2473_bedroom__l.jpg",
-   "gallery": [],
-   "url": "https://www.homelegance.com/bedroom_bedroomcollections/2473Bedroom.htm",
-   "net": 1076.0,
-   "price": "3389",
-   "synth": true
-  },
-  {
-   "id": "mazin-synth-2473-queen-footboard-slats",
-   "name": "Queen Footboard & Slats — Buckingham Collection",
-   "sku": "2473",
-   "cats": [
-    "bedroom"
-   ],
-   "img": "https://www.homelegance.com/u/HMLG/20260122/58/2473_bedroom__l.jpg",
-   "gallery": [],
-   "url": "https://www.homelegance.com/bedroom_bedroomcollections/2473Bedroom.htm",
-   "net": 621.0,
-   "price": "1956",
-   "synth": true
-  },
-  {
-   "id": "mazin-synth-2473-eastern-king-queen-side-rails",
-   "name": "Eastern King/Queen Side Rails — Buckingham Collection",
-   "sku": "2473",
-   "cats": [
-    "bedroom"
-   ],
-   "img": "https://www.homelegance.com/u/HMLG/20260122/58/2473_bedroom__l.jpg",
-   "gallery": [],
-   "url": "https://www.homelegance.com/bedroom_bedroomcollections/2473Bedroom.htm",
-   "net": 229.0,
-   "price": "721",
-   "synth": true
-  },
-  {
-   "id": "mazin-synth-2473-night-stand",
-   "name": "Night Stand — Buckingham Collection",
+   "id": "mazin-synth-2473-nightstand",
+   "name": "Buckingham — Nightstand",
    "sku": "2473",
    "cats": [
     "bedroom"
@@ -7472,7 +6338,7 @@
   },
   {
    "id": "mazin-synth-2473-dresser",
-   "name": "Dresser — Buckingham Collection",
+   "name": "Buckingham — Dresser",
    "sku": "2473",
    "cats": [
     "bedroom"
@@ -7486,7 +6352,7 @@
   },
   {
    "id": "mazin-synth-2473-mirror",
-   "name": "Mirror — Buckingham Collection",
+   "name": "Buckingham — Mirror",
    "sku": "2473",
    "cats": [
     "bedroom"
@@ -7500,7 +6366,7 @@
   },
   {
    "id": "mazin-synth-2473-chest",
-   "name": "Chest — Buckingham Collection",
+   "name": "Buckingham — Chest",
    "sku": "2473",
    "cats": [
     "bedroom"
@@ -7513,22 +6379,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-2473-california-eastern-king-headboard",
-   "name": "California/Eastern King Headboard — Buckingham Collection",
-   "sku": "2473",
-   "cats": [
-    "bedroom"
-   ],
-   "img": "https://www.homelegance.com/u/HMLG/20260122/58/2473_bedroom__l.jpg",
-   "gallery": [],
-   "url": "https://www.homelegance.com/bedroom_bedroomcollections/2473Bedroom.htm",
-   "net": 1400.0,
-   "price": "4410",
-   "synth": true
-  },
-  {
-   "id": "mazin-synth-3506-cocktail-table",
-   "name": "Cocktail Table — Sienna Collection",
+   "id": "mazin-synth-3506-table",
+   "name": "Sienna — Table",
    "sku": "3506",
    "cats": [
     "occasional"
@@ -7542,7 +6394,7 @@
   },
   {
    "id": "mazin-synth-3506-end-table",
-   "name": "End Table — Sienna Collection",
+   "name": "Sienna — End Table",
    "sku": "3506",
    "cats": [
     "occasional"
@@ -7556,7 +6408,7 @@
   },
   {
    "id": "mazin-synth-3550-end-table",
-   "name": "End Table — Duncan Collection",
+   "name": "Duncan — End Table",
    "sku": "3550",
    "cats": [
     "occasional"
@@ -7569,8 +6421,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-3550-sofa-table",
-   "name": "Sofa Table — Duncan Collection",
+   "id": "mazin-synth-3550-sofa",
+   "name": "Duncan — Sofa",
    "sku": "3550",
    "cats": [
     "occasional"
@@ -7583,8 +6435,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-3550-cocktail-table",
-   "name": "Cocktail Table — Duncan Collection",
+   "id": "mazin-synth-3550-table",
+   "name": "Duncan — Table",
    "sku": "3550",
    "cats": [
     "occasional"
@@ -7597,8 +6449,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-3553-chairside-table",
-   "name": "Chairside Table — Lakeside Collection",
+   "id": "mazin-synth-3553-chair",
+   "name": "Lakeside — Chair",
    "sku": "3553",
    "cats": [
     "occasional"
@@ -7612,7 +6464,7 @@
   },
   {
    "id": "mazin-synth-3553-end-table",
-   "name": "End Table — Lakeside Collection",
+   "name": "Lakeside — End Table",
    "sku": "3553",
    "cats": [
     "occasional"
@@ -7625,8 +6477,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-3553-cocktail-table",
-   "name": "Cocktail Table — Lakeside Collection",
+   "id": "mazin-synth-3553-table",
+   "name": "Lakeside — Table",
    "sku": "3553",
    "cats": [
     "occasional"
@@ -7639,8 +6491,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-3554-cocktail-table",
-   "name": "Cocktail Table — Rochester Collection",
+   "id": "mazin-synth-3554-table",
+   "name": "Rochester — Table",
    "sku": "3554",
    "cats": [
     "occasional"
@@ -7653,8 +6505,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-3554-chairside-table",
-   "name": "Chairside Table — Rochester Collection",
+   "id": "mazin-synth-3554-chair",
+   "name": "Rochester — Chair",
    "sku": "3554",
    "cats": [
     "occasional"
@@ -7668,7 +6520,7 @@
   },
   {
    "id": "mazin-synth-3554-end-table",
-   "name": "End Table — Rochester Collection",
+   "name": "Rochester — End Table",
    "sku": "3554",
    "cats": [
     "occasional"
@@ -7681,8 +6533,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-3554-sofa-table",
-   "name": "Sofa Table — Rochester Collection",
+   "id": "mazin-synth-3554-sofa",
+   "name": "Rochester — Sofa",
    "sku": "3554",
    "cats": [
     "occasional"
@@ -7695,36 +6547,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-3590-writing-desk",
-   "name": "Writing Desk — Frolic Collection",
-   "sku": "3590",
-   "cats": [
-    "occasional"
-   ],
-   "img": "https://www.homelegance.com/u/HMLG/20230723/39/3590_occasional__l.jpg",
-   "gallery": [],
-   "url": "https://www.homelegance.com/occasional_tablecollections/3590Occasional.htm",
-   "net": 471.0,
-   "price": "1484",
-   "synth": true
-  },
-  {
-   "id": "mazin-synth-3590-counter-height-writing-desk",
-   "name": "Counter-Height Writing Desk — Frolic Collection",
-   "sku": "3590",
-   "cats": [
-    "occasional"
-   ],
-   "img": "https://www.homelegance.com/u/HMLG/20230723/39/3590_occasional__l.jpg",
-   "gallery": [],
-   "url": "https://www.homelegance.com/occasional_tablecollections/3590Occasional.htm",
-   "net": 480.0,
-   "price": "1512",
-   "synth": true
-  },
-  {
-   "id": "mazin-synth-3620-coffee-table-with-drawers",
-   "name": "Coffee Table With Drawers — Whitley Collection",
+   "id": "mazin-synth-3620-coffee-table",
+   "name": "Whitley — Coffee Table",
    "sku": "3620",
    "cats": [
     "occasional"
@@ -7738,7 +6562,7 @@
   },
   {
    "id": "mazin-synth-3620-end-table",
-   "name": "End Table — Whitley Collection",
+   "name": "Whitley — End Table",
    "sku": "3620",
    "cats": [
     "occasional"
@@ -7751,8 +6575,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-3621-lift-top-cocktail-table",
-   "name": "Lift Top Cocktail Table — Minot Collection",
+   "id": "mazin-synth-3621-table",
+   "name": "Minot — Table",
    "sku": "3621",
    "cats": [
     "occasional"
@@ -7766,7 +6590,7 @@
   },
   {
    "id": "mazin-synth-3621-end-table",
-   "name": "End Table — Minot Collection",
+   "name": "Minot — End Table",
    "sku": "3621",
    "cats": [
     "occasional"
@@ -7779,8 +6603,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-3624-cocktail-table",
-   "name": "Cocktail Table — Auburn Collection",
+   "id": "mazin-synth-3624-table",
+   "name": "Auburn — Table",
    "sku": "3624",
    "cats": [
     "occasional"
@@ -7794,7 +6618,7 @@
   },
   {
    "id": "mazin-synth-3624-end-table",
-   "name": "End Table — Auburn Collection",
+   "name": "Auburn — End Table",
    "sku": "3624",
    "cats": [
     "occasional"
@@ -7807,8 +6631,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-3681-round-coffee-table",
-   "name": "Round Coffee Table — Tobias Collection",
+   "id": "mazin-synth-3681-coffee-table",
+   "name": "Tobias — Coffee Table",
    "sku": "3681",
    "cats": [
     "occasional"
@@ -7821,22 +6645,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-3681-lift-top-coffee-table",
-   "name": "Lift-Top Coffee Table — Tobias Collection",
-   "sku": "3681",
-   "cats": [
-    "occasional"
-   ],
-   "img": "https://www.homelegance.com/u/HMLG/20201217/37/3681RD_occasional__l.jpg",
-   "gallery": [],
-   "url": "https://www.homelegance.com/occasional_tablecollections/3681-RDOccasional.htm",
-   "net": 522.0,
-   "price": "1644",
-   "synth": true
-  },
-  {
    "id": "mazin-synth-3681-end-table",
-   "name": "End Table — Tobias Collection",
+   "name": "Tobias — End Table",
    "sku": "3681",
    "cats": [
     "occasional"
@@ -7849,22 +6659,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-3681-round-end-table",
-   "name": "Round End Table — Tobias Collection",
-   "sku": "3681",
-   "cats": [
-    "occasional"
-   ],
-   "img": "https://www.homelegance.com/u/HMLG/20201217/37/3681RD_occasional__l.jpg",
-   "gallery": [],
-   "url": "https://www.homelegance.com/occasional_tablecollections/3681-RDOccasional.htm",
-   "net": 277.0,
-   "price": "873",
-   "synth": true
-  },
-  {
-   "id": "mazin-synth-3681-sofa-table",
-   "name": "Sofa Table — Tobias Collection",
+   "id": "mazin-synth-3681-sofa",
+   "name": "Tobias — Sofa",
    "sku": "3681",
    "cats": [
     "occasional"
@@ -7877,8 +6673,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-3699-piece-pack-occasional-set",
-   "name": "Piece Pack Occasional Set — Martine Collection",
+   "id": "mazin-synth-3699-set",
+   "name": "Martine — Set",
    "sku": "3699",
    "cats": [
     "occasional"
@@ -7891,8 +6687,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-3700-piece-pack-occasional-set",
-   "name": "Piece Pack Occasional Set — Astral Collection",
+   "id": "mazin-synth-3700-set",
+   "name": "Astral — Set",
    "sku": "3700",
    "cats": [
     "occasional"
@@ -7905,8 +6701,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-3701-piece-pack-occasional-set",
-   "name": "Piece Pack Occasional Set — Zamir Collection",
+   "id": "mazin-synth-3701-set",
+   "name": "Zamir — Set",
    "sku": "3701",
    "cats": [
     "occasional"
@@ -7919,8 +6715,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-3702-piece-pack-occasional-set",
-   "name": "Piece Pack Occasional Set — Amara Collection",
+   "id": "mazin-synth-3702-set",
+   "name": "Amara — Set",
    "sku": "3702",
    "cats": [
     "occasional"
@@ -7933,8 +6729,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-3705-piece-pack-occasional-set",
-   "name": "Piece Pack Occasional Set — Melody Collection",
+   "id": "mazin-synth-3705-set",
+   "name": "Melody — Set",
    "sku": "3705",
    "cats": [
     "occasional"
@@ -7947,8 +6743,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-3706-piece-pack-occasional-set",
-   "name": "Piece Pack Occasional Set — Laird Collection",
+   "id": "mazin-synth-3706-set",
+   "name": "Laird — Set",
    "sku": "3706",
    "cats": [
     "occasional"
@@ -7961,8 +6757,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-3709-piece-pack-occasional-set",
-   "name": "Piece Pack Occasional Set — Gaffney Collection",
+   "id": "mazin-synth-3709-set",
+   "name": "Gaffney — Set",
    "sku": "3709",
    "cats": [
     "occasional"
@@ -7976,7 +6772,7 @@
   },
   {
    "id": "mazin-synth-3716-end-table",
-   "name": "End Table — Riverton Collection",
+   "name": "Riverton — End Table",
    "sku": "3716",
    "cats": [
     "occasional"
@@ -7989,8 +6785,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-3716-cocktail-table",
-   "name": "Cocktail Table — Riverton Collection",
+   "id": "mazin-synth-3716-table",
+   "name": "Riverton — Table",
    "sku": "3716",
    "cats": [
     "occasional"
@@ -8003,64 +6799,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-4522-hutch",
-   "name": "Hutch — Blanche Collection",
-   "sku": "4522",
-   "cats": [
-    "office"
-   ],
-   "img": "https://www.homelegance.com/u/HMLG/20201117/22/4522_office__l.jpg",
-   "gallery": [],
-   "url": "https://www.homelegance.com/office_officecollections/4522Office.htm",
-   "net": 279.0,
-   "price": "879",
-   "synth": true
-  },
-  {
-   "id": "mazin-synth-4522-desk",
-   "name": "Desk — Blanche Collection",
-   "sku": "4522",
-   "cats": [
-    "office"
-   ],
-   "img": "https://www.homelegance.com/u/HMLG/20201117/22/4522_office__l.jpg",
-   "gallery": [],
-   "url": "https://www.homelegance.com/office_officecollections/4522Office.htm",
-   "net": 340.0,
-   "price": "1071",
-   "synth": true
-  },
-  {
-   "id": "mazin-synth-4522-cenza",
-   "name": "Cenza — Blanche Collection",
-   "sku": "4522",
-   "cats": [
-    "office"
-   ],
-   "img": "https://www.homelegance.com/u/HMLG/20201117/22/4522_office__l.jpg",
-   "gallery": [],
-   "url": "https://www.homelegance.com/office_officecollections/4522Office.htm",
-   "net": 625.0,
-   "price": "1969",
-   "synth": true
-  },
-  {
-   "id": "mazin-synth-4522-corner",
-   "name": "Corner — Blanche Collection",
-   "sku": "4522",
-   "cats": [
-    "office"
-   ],
-   "img": "https://www.homelegance.com/u/HMLG/20201117/22/4522_office__l.jpg",
-   "gallery": [],
-   "url": "https://www.homelegance.com/office_officecollections/4522Office.htm",
-   "net": 147.0,
-   "price": "463",
-   "synth": true
-  },
-  {
-   "id": "mazin-synth-4998-piece-pack-desks-with-stool-set",
-   "name": "Piece Pack Desks With Stool Set — Salina Collection",
+   "id": "mazin-synth-4998-set",
+   "name": "Salina — Set",
    "sku": "4998",
    "cats": [
     "occasional"
@@ -8073,8 +6813,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-5415-trestle-table-self-strg-leaf",
-   "name": "Trestle Table Self Strg Leaf — Sedley Collection",
+   "id": "mazin-synth-5415-table",
+   "name": "Sedley — Table",
    "sku": "5415",
    "cats": [
     "occasional"
@@ -8087,8 +6827,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-5415-side-chair-chocolate-fabric",
-   "name": "Side Chair Chocolate Fabric — Sedley Collection",
+   "id": "mazin-synth-5415-dining-chair",
+   "name": "Sedley — Dining Chair",
    "sku": "5415",
    "cats": [
     "occasional"
@@ -8102,7 +6842,7 @@
   },
   {
    "id": "mazin-synth-5415-bench",
-   "name": "Bench — Sedley Collection",
+   "name": "Sedley — Bench",
    "sku": "5415",
    "cats": [
     "occasional"
@@ -8115,8 +6855,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-5415-pc-dining-set",
-   "name": "Pc Dining Set — Sedley Collection",
+   "id": "mazin-synth-5415-set",
+   "name": "Sedley — Set",
    "sku": "5415",
    "cats": [
     "occasional"
@@ -8129,64 +6869,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-5415-desk-w-two-cabinets",
-   "name": "Desk W/Two Cabinets — Sedley Collection",
-   "sku": "5415",
-   "cats": [
-    "occasional"
-   ],
-   "img": "https://www.homelegance.com/u/HMLG/20201105/21/5415RF_occasional__l.jpg",
-   "gallery": [],
-   "url": "https://www.homelegance.com/occasional_tablecollections/5415RFOccasional.htm",
-   "net": 811.0,
-   "price": "2555",
-   "synth": true
-  },
-  {
-   "id": "mazin-synth-5415-return-desk-w-cabinet",
-   "name": "Return Desk W/ Cabinet — Sedley Collection",
-   "sku": "5415",
-   "cats": [
-    "occasional"
-   ],
-   "img": "https://www.homelegance.com/u/HMLG/20201105/21/5415RF_occasional__l.jpg",
-   "gallery": [],
-   "url": "https://www.homelegance.com/occasional_tablecollections/5415RFOccasional.htm",
-   "net": 436.0,
-   "price": "1373",
-   "synth": true
-  },
-  {
-   "id": "mazin-synth-5415-bookcase",
-   "name": "Bookcase — Sedley Collection",
-   "sku": "5415",
-   "cats": [
-    "occasional"
-   ],
-   "img": "https://www.homelegance.com/u/HMLG/20201105/21/5415RF_occasional__l.jpg",
-   "gallery": [],
-   "url": "https://www.homelegance.com/occasional_tablecollections/5415RFOccasional.htm",
-   "net": 715.0,
-   "price": "2252",
-   "synth": true
-  },
-  {
-   "id": "mazin-synth-5415-file-cabinet",
-   "name": "File Cabinet — Sedley Collection",
-   "sku": "5415",
-   "cats": [
-    "occasional"
-   ],
-   "img": "https://www.homelegance.com/u/HMLG/20201105/21/5415RF_occasional__l.jpg",
-   "gallery": [],
-   "url": "https://www.homelegance.com/occasional_tablecollections/5415RFOccasional.htm",
-   "net": 415.0,
-   "price": "1307",
-   "synth": true
-  },
-  {
-   "id": "mazin-synth-54150-tv-stand-set-up",
-   "name": "Tv Stand Set Up — Sedley Collection",
+   "id": "mazin-synth-54150-set",
+   "name": "Sedley — Set",
    "sku": "54150",
    "cats": [
     "media"
@@ -8199,22 +6883,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-54150-side-pier",
-   "name": "Side Pier — Sedley Collection",
-   "sku": "54150",
-   "cats": [
-    "media"
-   ],
-   "img": "https://www.homelegance.com/u/HMLG/20201108/72/54150RF_media__l.jpg",
-   "gallery": [],
-   "url": "https://www.homelegance.com/media_mediacollections/54150RFMedia.htm",
-   "net": 597.0,
-   "price": "1881",
-   "synth": true
-  },
-  {
-   "id": "mazin-synth-5503-table-wt-lacquer-stnls-steel-base",
-   "name": "Table Wt Lacquer Stnls Steel Base — Yannis Collection",
+   "id": "mazin-synth-5503-table",
+   "name": "Yannis — Table",
    "sku": "5503",
    "cats": [
     "dining"
@@ -8227,8 +6897,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-5503-side-chair-chrome-tube-pu",
-   "name": "Side Chair Chrome Tube Pu — Yannis Collection",
+   "id": "mazin-synth-5503-dining-chair",
+   "name": "Yannis — Dining Chair",
    "sku": "5503",
    "cats": [
     "dining"
@@ -8241,8 +6911,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-5503-pc-dining-set",
-   "name": "Pc Dining Set — Yannis Collection",
+   "id": "mazin-synth-5503-set",
+   "name": "Yannis — Set",
    "sku": "5503",
    "cats": [
     "dining"
@@ -8255,36 +6925,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-5687-counter-height-stool",
-   "name": "Counter Height Stool — Caspian Collection",
-   "sku": "5687",
-   "cats": [
-    "office"
-   ],
-   "img": "https://www.homelegance.com/u/HMLG/20240219/79/5687BLK-364P_di__l.jpg",
-   "gallery": [],
-   "url": "https://www.homelegance.com/dining_diningroomcollections/5687BLK-364PDining.htm",
-   "net": 70.0,
-   "price": "220",
-   "synth": true
-  },
-  {
-   "id": "mazin-synth-5687-pub-height-stool",
-   "name": "Pub Height Stool — Caspian Collection",
-   "sku": "5687",
-   "cats": [
-    "office"
-   ],
-   "img": "https://www.homelegance.com/u/HMLG/20240219/79/5687BLK-364P_di__l.jpg",
-   "gallery": [],
-   "url": "https://www.homelegance.com/dining_diningroomcollections/5687BLK-364PDining.htm",
-   "net": 75.0,
-   "price": "236",
-   "synth": true
-  },
-  {
-   "id": "mazin-synth-5687-piece-pack-counter-height-set",
-   "name": "Piece Pack Counter Height Set — Caspian Collection",
+   "id": "mazin-synth-5687-set",
+   "name": "Caspian — Set",
    "sku": "5687",
    "cats": [
     "office"
@@ -8297,36 +6939,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-5687-piece-pack-pub-height-set",
-   "name": "Piece Pack Pub Height Set — Caspian Collection",
-   "sku": "5687",
-   "cats": [
-    "office"
-   ],
-   "img": "https://www.homelegance.com/u/HMLG/20240219/79/5687BLK-364P_di__l.jpg",
-   "gallery": [],
-   "url": "https://www.homelegance.com/dining_diningroomcollections/5687BLK-364PDining.htm",
-   "net": 464.0,
-   "price": "1462",
-   "synth": true
-  },
-  {
-   "id": "mazin-synth-5709-pc-pack-dinette",
-   "name": "Pc Pack Dinette — Blair Farm Collection",
-   "sku": "5709",
-   "cats": [
-    "dining"
-   ],
-   "img": "https://www.homelegance.com/u/HMLG/20260527/36/5709WH_dining__l.jpg",
-   "gallery": [],
-   "url": "https://www.homelegance.com/new_arrivals/5709WHDining.htm",
-   "net": 697.0,
-   "price": "2196",
-   "synth": true
-  },
-  {
    "id": "mazin-synth-5901-end-table",
-   "name": "End Table — Monroe Collection",
+   "name": "Monroe — End Table",
    "sku": "5901",
    "cats": [
     "occasional"
@@ -8339,8 +6953,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-5901-sofa-table",
-   "name": "Sofa Table — Monroe Collection",
+   "id": "mazin-synth-5901-sofa",
+   "name": "Monroe — Sofa",
    "sku": "5901",
    "cats": [
     "occasional"
@@ -8354,7 +6968,7 @@
   },
   {
    "id": "mazin-synth-5901-bench",
-   "name": "Bench — Monroe Collection",
+   "name": "Monroe — Bench",
    "sku": "5901",
    "cats": [
     "occasional"
@@ -8367,8 +6981,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-5901-cocktail-table",
-   "name": "Cocktail Table — Monroe Collection",
+   "id": "mazin-synth-5901-table",
+   "name": "Monroe — Table",
    "sku": "5901",
    "cats": [
     "occasional"
@@ -8382,7 +6996,7 @@
   },
   {
    "id": "mazin-synth-5901-server",
-   "name": "Server — Monroe Collection",
+   "name": "Monroe — Server",
    "sku": "5901",
    "cats": [
     "occasional"
@@ -8396,7 +7010,7 @@
   },
   {
    "id": "mazin-synth-5901-dining-table",
-   "name": "Dining Table — Monroe Collection",
+   "name": "Monroe — Dining Table",
    "sku": "5901",
    "cats": [
     "occasional"
@@ -8409,8 +7023,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-5901-side-chair",
-   "name": "Side Chair — Monroe Collection",
+   "id": "mazin-synth-5901-dining-chair",
+   "name": "Monroe — Dining Chair",
    "sku": "5901",
    "cats": [
     "occasional"
@@ -8424,7 +7038,7 @@
   },
   {
    "id": "mazin-synth-5985-dining-table",
-   "name": "Dining Table — Ogden Collection",
+   "name": "Ogden — Dining Table",
    "sku": "5985",
    "cats": [
     "dining"
@@ -8437,8 +7051,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-5985-side-chair",
-   "name": "Side Chair — Ogden Collection",
+   "id": "mazin-synth-5985-dining-chair",
+   "name": "Ogden — Dining Chair",
    "sku": "5985",
    "cats": [
     "dining"
@@ -8452,7 +7066,7 @@
   },
   {
    "id": "mazin-synth-6022-bench",
-   "name": "Bench — Tyler Collection",
+   "name": "Tyler — Bench",
    "sku": "6022",
    "cats": [
     "dining"
@@ -8465,8 +7079,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-6022-piece-pack-counter-height-set",
-   "name": "Piece Pack Counter Height Set — Tyler Collection",
+   "id": "mazin-synth-6022-set",
+   "name": "Tyler — Set",
    "sku": "6022",
    "cats": [
     "dining"
@@ -8480,7 +7094,7 @@
   },
   {
    "id": "mazin-synth-6022-dining-table",
-   "name": "Dining Table — Tyler Collection",
+   "name": "Tyler — Dining Table",
    "sku": "6022",
    "cats": [
     "dining"
@@ -8493,8 +7107,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-6022-side-chair",
-   "name": "Side Chair — Tyler Collection",
+   "id": "mazin-synth-6022-dining-chair",
+   "name": "Tyler — Dining Chair",
    "sku": "6022",
    "cats": [
     "dining"
@@ -8508,7 +7122,7 @@
   },
   {
    "id": "mazin-synth-6048-dining-table",
-   "name": "Dining Table — Marais Collection",
+   "name": "Marais — Dining Table",
    "sku": "6048",
    "cats": [
     "dining"
@@ -8522,7 +7136,7 @@
   },
   {
    "id": "mazin-synth-6050-dining-table",
-   "name": "Dining Table — Marais Collection",
+   "name": "Marais — Dining Table",
    "sku": "6050",
    "cats": [
     "dining"
@@ -8536,7 +7150,7 @@
   },
   {
    "id": "mazin-synth-6066-server",
-   "name": "Server — Clara Collection",
+   "name": "Clara — Server",
    "sku": "6066",
    "cats": [
     "dining"
@@ -8549,8 +7163,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-6066-dining-table-top",
-   "name": "Dining Table Top — Clara Collection",
+   "id": "mazin-synth-6066-dining-table",
+   "name": "Clara — Dining Table",
    "sku": "6066",
    "cats": [
     "dining"
@@ -8563,22 +7177,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-6066-dining-table-base",
-   "name": "Dining Table Base — Clara Collection",
-   "sku": "6066",
-   "cats": [
-    "dining"
-   ],
-   "img": "https://www.homelegance.com/u/HMLG/20250527/638/6066-54RD_dining__l.jpg",
-   "gallery": [],
-   "url": "https://www.homelegance.com/dining_diningroomcollections/6066-54RDDining.htm",
-   "net": 214.0,
-   "price": "674",
-   "synth": true
-  },
-  {
-   "id": "mazin-synth-6066-side-chair",
-   "name": "Side Chair — Clara Collection",
+   "id": "mazin-synth-6066-dining-chair",
+   "name": "Clara — Dining Chair",
    "sku": "6066",
    "cats": [
     "dining"
@@ -8592,7 +7192,7 @@
   },
   {
    "id": "mazin-synth-6099-server",
-   "name": "Server — Niche Collection",
+   "name": "Niche — Server",
    "sku": "6099",
    "cats": [
     "dining"
@@ -8605,8 +7205,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-6099-dining-table-top",
-   "name": "Dining Table Top — Niche Collection",
+   "id": "mazin-synth-6099-dining-table",
+   "name": "Niche — Dining Table",
    "sku": "6099",
    "cats": [
     "dining"
@@ -8619,22 +7219,8 @@
    "synth": true
   },
   {
-   "id": "mazin-synth-6099-dining-table-base",
-   "name": "Dining Table Base — Niche Collection",
-   "sku": "6099",
-   "cats": [
-    "dining"
-   ],
-   "img": "https://www.homelegance.com/u/HMLG/20260413/115/6099-94_dining__l.jpg",
-   "gallery": [],
-   "url": "https://www.homelegance.com/new_arrivals/6099Dining.htm",
-   "net": 1073.0,
-   "price": "3380",
-   "synth": true
-  },
-  {
-   "id": "mazin-synth-6099-arm-chair",
-   "name": "Arm Chair — Niche Collection",
+   "id": "mazin-synth-6099-chair",
+   "name": "Niche — Chair",
    "sku": "6099",
    "cats": [
     "dining"

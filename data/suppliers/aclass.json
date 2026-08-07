@@ -1,7 +1,7 @@
 {
  "supplier": "aclass",
  "source": "https://www.aclassfurniture.ca",
- "count": 530,
+ "count": 540,
  "items": [
   {
    "id": "aclass-1010-sofa",
@@ -3039,7 +3039,7 @@
   },
   {
    "id": "aclass-synth-1280-sofa",
-   "name": "Model 1280 — Sofa",
+   "name": "1280 — Sofa",
    "sku": "1280",
    "cats": [
     "sofa"
@@ -3053,7 +3053,7 @@
   },
   {
    "id": "aclass-synth-1280-loveseat",
-   "name": "Model 1280 — Loveseat",
+   "name": "1280 — Loveseat",
    "sku": "1280",
    "cats": [
     "loveseat"
@@ -3067,7 +3067,7 @@
   },
   {
    "id": "aclass-synth-1280-chair",
-   "name": "Model 1280 — Chair",
+   "name": "1280 — Chair",
    "sku": "1280",
    "cats": [
     "chair"
@@ -3081,7 +3081,7 @@
   },
   {
    "id": "aclass-synth-1280-set",
-   "name": "Model 1280 — 3-Piece Set (Sofa + Loveseat + Chair)",
+   "name": "1280 — 3-Pc Set",
    "sku": "1280",
    "cats": [
     "sofa"
@@ -3095,7 +3095,7 @@
   },
   {
    "id": "aclass-synth-1290-sofa",
-   "name": "Model 1290 — Sofa",
+   "name": "1290 — Sofa",
    "sku": "1290",
    "cats": [
     "sofa"
@@ -3109,7 +3109,7 @@
   },
   {
    "id": "aclass-synth-1290-loveseat",
-   "name": "Model 1290 — Loveseat",
+   "name": "1290 — Loveseat",
    "sku": "1290",
    "cats": [
     "loveseat"
@@ -3123,7 +3123,7 @@
   },
   {
    "id": "aclass-synth-1290-chair",
-   "name": "Model 1290 — Chair",
+   "name": "1290 — Chair",
    "sku": "1290",
    "cats": [
     "chair"
@@ -3137,7 +3137,7 @@
   },
   {
    "id": "aclass-synth-1290-set",
-   "name": "Model 1290 — 3-Piece Set (Sofa + Loveseat + Chair)",
+   "name": "1290 — 3-Pc Set",
    "sku": "1290",
    "cats": [
     "sofa"
@@ -3151,7 +3151,7 @@
   },
   {
    "id": "aclass-synth-1510-sofa",
-   "name": "Model 1510 — Sofa",
+   "name": "1510 — Sofa",
    "sku": "1510",
    "cats": [
     "sofa"
@@ -3165,7 +3165,7 @@
   },
   {
    "id": "aclass-synth-1510-loveseat",
-   "name": "Model 1510 — Loveseat",
+   "name": "1510 — Loveseat",
    "sku": "1510",
    "cats": [
     "loveseat"
@@ -3179,7 +3179,7 @@
   },
   {
    "id": "aclass-synth-1510-chair",
-   "name": "Model 1510 — Chair",
+   "name": "1510 — Chair",
    "sku": "1510",
    "cats": [
     "chair"
@@ -3193,7 +3193,7 @@
   },
   {
    "id": "aclass-synth-1510-set",
-   "name": "Model 1510 — 3-Piece Set (Sofa + Loveseat + Chair)",
+   "name": "1510 — 3-Pc Set",
    "sku": "1510",
    "cats": [
     "sofa"
@@ -3207,7 +3207,7 @@
   },
   {
    "id": "aclass-synth-1617-sofa",
-   "name": "Model 1617 — Sofa",
+   "name": "1617 — Sofa",
    "sku": "1617",
    "cats": [
     "sofa"
@@ -3221,7 +3221,7 @@
   },
   {
    "id": "aclass-synth-1617-loveseat",
-   "name": "Model 1617 — Loveseat",
+   "name": "1617 — Loveseat",
    "sku": "1617",
    "cats": [
     "loveseat"
@@ -3235,7 +3235,7 @@
   },
   {
    "id": "aclass-synth-1617-chair",
-   "name": "Model 1617 — Chair",
+   "name": "1617 — Chair",
    "sku": "1617",
    "cats": [
     "chair"
@@ -3249,7 +3249,7 @@
   },
   {
    "id": "aclass-synth-1617-set",
-   "name": "Model 1617 — 3-Piece Set (Sofa + Loveseat + Chair)",
+   "name": "1617 — 3-Pc Set",
    "sku": "1617",
    "cats": [
     "sofa"
@@ -3263,7 +3263,7 @@
   },
   {
    "id": "aclass-synth-1625-sofa",
-   "name": "Model 1625 — Sofa",
+   "name": "1625 — Sofa",
    "sku": "1625",
    "cats": [
     "sofa"
@@ -3277,7 +3277,7 @@
   },
   {
    "id": "aclass-synth-1625-loveseat",
-   "name": "Model 1625 — Loveseat",
+   "name": "1625 — Loveseat",
    "sku": "1625",
    "cats": [
     "loveseat"
@@ -3291,7 +3291,7 @@
   },
   {
    "id": "aclass-synth-1625-chair",
-   "name": "Model 1625 — Chair",
+   "name": "1625 — Chair",
    "sku": "1625",
    "cats": [
     "chair"
@@ -3305,7 +3305,7 @@
   },
   {
    "id": "aclass-synth-1625-set",
-   "name": "Model 1625 — 3-Piece Set (Sofa + Loveseat + Chair)",
+   "name": "1625 — 3-Pc Set",
    "sku": "1625",
    "cats": [
     "sofa"
@@ -3319,7 +3319,7 @@
   },
   {
    "id": "aclass-synth-1650-sofa",
-   "name": "Model 1650 — Sofa",
+   "name": "1650 — Sofa",
    "sku": "1650",
    "cats": [
     "sofa"
@@ -3333,7 +3333,7 @@
   },
   {
    "id": "aclass-synth-1650-loveseat",
-   "name": "Model 1650 — Loveseat",
+   "name": "1650 — Loveseat",
    "sku": "1650",
    "cats": [
     "loveseat"
@@ -3347,7 +3347,7 @@
   },
   {
    "id": "aclass-synth-1650-chair",
-   "name": "Model 1650 — Chair",
+   "name": "1650 — Chair",
    "sku": "1650",
    "cats": [
     "chair"
@@ -3361,7 +3361,7 @@
   },
   {
    "id": "aclass-synth-1650-set",
-   "name": "Model 1650 — 3-Piece Set (Sofa + Loveseat + Chair)",
+   "name": "1650 — 3-Pc Set",
    "sku": "1650",
    "cats": [
     "sofa"
@@ -3375,7 +3375,7 @@
   },
   {
    "id": "aclass-synth-1825-sofa",
-   "name": "Model 1825 — Sofa",
+   "name": "1825 — Sofa",
    "sku": "1825",
    "cats": [
     "sofa"
@@ -3389,7 +3389,7 @@
   },
   {
    "id": "aclass-synth-1825-loveseat",
-   "name": "Model 1825 — Loveseat",
+   "name": "1825 — Loveseat",
    "sku": "1825",
    "cats": [
     "loveseat"
@@ -3403,7 +3403,7 @@
   },
   {
    "id": "aclass-synth-1825-chair",
-   "name": "Model 1825 — Chair",
+   "name": "1825 — Chair",
    "sku": "1825",
    "cats": [
     "chair"
@@ -3417,7 +3417,7 @@
   },
   {
    "id": "aclass-synth-1825-set",
-   "name": "Model 1825 — 3-Piece Set (Sofa + Loveseat + Chair)",
+   "name": "1825 — 3-Pc Set",
    "sku": "1825",
    "cats": [
     "sofa"
@@ -3431,7 +3431,7 @@
   },
   {
    "id": "aclass-synth-1830-sofa",
-   "name": "Model 1830 — Sofa",
+   "name": "1830 — Sofa",
    "sku": "1830",
    "cats": [
     "sofa"
@@ -3445,7 +3445,7 @@
   },
   {
    "id": "aclass-synth-1830-loveseat",
-   "name": "Model 1830 — Loveseat",
+   "name": "1830 — Loveseat",
    "sku": "1830",
    "cats": [
     "loveseat"
@@ -3459,7 +3459,7 @@
   },
   {
    "id": "aclass-synth-1830-chair",
-   "name": "Model 1830 — Chair",
+   "name": "1830 — Chair",
    "sku": "1830",
    "cats": [
     "chair"
@@ -3473,7 +3473,7 @@
   },
   {
    "id": "aclass-synth-1830-set",
-   "name": "Model 1830 — 3-Piece Set (Sofa + Loveseat + Chair)",
+   "name": "1830 — 3-Pc Set",
    "sku": "1830",
    "cats": [
     "sofa"
@@ -3487,7 +3487,7 @@
   },
   {
    "id": "aclass-synth-1840-sofa",
-   "name": "Model 1840 — Sofa",
+   "name": "1840 — Sofa",
    "sku": "1840",
    "cats": [
     "sofa"
@@ -3501,7 +3501,7 @@
   },
   {
    "id": "aclass-synth-1840-loveseat",
-   "name": "Model 1840 — Loveseat",
+   "name": "1840 — Loveseat",
    "sku": "1840",
    "cats": [
     "loveseat"
@@ -3515,7 +3515,7 @@
   },
   {
    "id": "aclass-synth-1840-chair",
-   "name": "Model 1840 — Chair",
+   "name": "1840 — Chair",
    "sku": "1840",
    "cats": [
     "chair"
@@ -3529,7 +3529,7 @@
   },
   {
    "id": "aclass-synth-1840-set",
-   "name": "Model 1840 — 3-Piece Set (Sofa + Loveseat + Chair)",
+   "name": "1840 — 3-Pc Set",
    "sku": "1840",
    "cats": [
     "sofa"
@@ -3543,7 +3543,7 @@
   },
   {
    "id": "aclass-synth-1845-sofa",
-   "name": "Model 1845 — Sofa",
+   "name": "1845 — Sofa",
    "sku": "1845",
    "cats": [
     "sofa"
@@ -3557,7 +3557,7 @@
   },
   {
    "id": "aclass-synth-1845-loveseat",
-   "name": "Model 1845 — Loveseat",
+   "name": "1845 — Loveseat",
    "sku": "1845",
    "cats": [
     "loveseat"
@@ -3571,7 +3571,7 @@
   },
   {
    "id": "aclass-synth-1845-chair",
-   "name": "Model 1845 — Chair",
+   "name": "1845 — Chair",
    "sku": "1845",
    "cats": [
     "chair"
@@ -3585,7 +3585,7 @@
   },
   {
    "id": "aclass-synth-1845-set",
-   "name": "Model 1845 — 3-Piece Set (Sofa + Loveseat + Chair)",
+   "name": "1845 — 3-Pc Set",
    "sku": "1845",
    "cats": [
     "sofa"
@@ -3599,7 +3599,7 @@
   },
   {
    "id": "aclass-synth-1850-sofa",
-   "name": "Model 1850 — Sofa",
+   "name": "1850 — Sofa",
    "sku": "1850",
    "cats": [
     "sofa"
@@ -3613,7 +3613,7 @@
   },
   {
    "id": "aclass-synth-1850-loveseat",
-   "name": "Model 1850 — Loveseat",
+   "name": "1850 — Loveseat",
    "sku": "1850",
    "cats": [
     "loveseat"
@@ -3627,7 +3627,7 @@
   },
   {
    "id": "aclass-synth-1850-chair",
-   "name": "Model 1850 — Chair",
+   "name": "1850 — Chair",
    "sku": "1850",
    "cats": [
     "chair"
@@ -3641,7 +3641,7 @@
   },
   {
    "id": "aclass-synth-1850-set",
-   "name": "Model 1850 — 3-Piece Set (Sofa + Loveseat + Chair)",
+   "name": "1850 — 3-Pc Set",
    "sku": "1850",
    "cats": [
     "sofa"
@@ -3655,7 +3655,7 @@
   },
   {
    "id": "aclass-synth-1855-sofa",
-   "name": "Model 1855 — Sofa",
+   "name": "1855 — Sofa",
    "sku": "1855",
    "cats": [
     "sofa"
@@ -3669,7 +3669,7 @@
   },
   {
    "id": "aclass-synth-1855-loveseat",
-   "name": "Model 1855 — Loveseat",
+   "name": "1855 — Loveseat",
    "sku": "1855",
    "cats": [
     "loveseat"
@@ -3683,7 +3683,7 @@
   },
   {
    "id": "aclass-synth-1855-chair",
-   "name": "Model 1855 — Chair",
+   "name": "1855 — Chair",
    "sku": "1855",
    "cats": [
     "chair"
@@ -3697,7 +3697,7 @@
   },
   {
    "id": "aclass-synth-1855-set",
-   "name": "Model 1855 — 3-Piece Set (Sofa + Loveseat + Chair)",
+   "name": "1855 — 3-Pc Set",
    "sku": "1855",
    "cats": [
     "sofa"
@@ -3711,7 +3711,7 @@
   },
   {
    "id": "aclass-synth-1865-sofa",
-   "name": "Model 1865 — Sofa",
+   "name": "1865 — Sofa",
    "sku": "1865",
    "cats": [
     "sofa"
@@ -3725,7 +3725,7 @@
   },
   {
    "id": "aclass-synth-1865-loveseat",
-   "name": "Model 1865 — Loveseat",
+   "name": "1865 — Loveseat",
    "sku": "1865",
    "cats": [
     "loveseat"
@@ -3739,7 +3739,7 @@
   },
   {
    "id": "aclass-synth-1865-chair",
-   "name": "Model 1865 — Chair",
+   "name": "1865 — Chair",
    "sku": "1865",
    "cats": [
     "chair"
@@ -3753,7 +3753,7 @@
   },
   {
    "id": "aclass-synth-1865-set",
-   "name": "Model 1865 — 3-Piece Set (Sofa + Loveseat + Chair)",
+   "name": "1865 — 3-Pc Set",
    "sku": "1865",
    "cats": [
     "sofa"
@@ -3767,7 +3767,7 @@
   },
   {
    "id": "aclass-synth-1870-sofa",
-   "name": "Model 1870 — Sofa",
+   "name": "1870 — Sofa",
    "sku": "1870",
    "cats": [
     "sofa"
@@ -3781,7 +3781,7 @@
   },
   {
    "id": "aclass-synth-1870-loveseat",
-   "name": "Model 1870 — Loveseat",
+   "name": "1870 — Loveseat",
    "sku": "1870",
    "cats": [
     "loveseat"
@@ -3795,7 +3795,7 @@
   },
   {
    "id": "aclass-synth-1870-chair",
-   "name": "Model 1870 — Chair",
+   "name": "1870 — Chair",
    "sku": "1870",
    "cats": [
     "chair"
@@ -3809,7 +3809,7 @@
   },
   {
    "id": "aclass-synth-1870-set",
-   "name": "Model 1870 — 3-Piece Set (Sofa + Loveseat + Chair)",
+   "name": "1870 — 3-Pc Set",
    "sku": "1870",
    "cats": [
     "sofa"
@@ -3823,7 +3823,7 @@
   },
   {
    "id": "aclass-synth-2020-sofa",
-   "name": "Model 2020 — Sofa",
+   "name": "2020 — Sofa",
    "sku": "2020",
    "cats": [
     "sofa"
@@ -3837,7 +3837,7 @@
   },
   {
    "id": "aclass-synth-2020-loveseat",
-   "name": "Model 2020 — Loveseat",
+   "name": "2020 — Loveseat",
    "sku": "2020",
    "cats": [
     "loveseat"
@@ -3851,7 +3851,7 @@
   },
   {
    "id": "aclass-synth-2020-chair",
-   "name": "Model 2020 — Chair",
+   "name": "2020 — Chair",
    "sku": "2020",
    "cats": [
     "chair"
@@ -3865,7 +3865,7 @@
   },
   {
    "id": "aclass-synth-2020-set",
-   "name": "Model 2020 — 3-Piece Set (Sofa + Loveseat + Chair)",
+   "name": "2020 — 3-Pc Set",
    "sku": "2020",
    "cats": [
     "sofa"
@@ -3879,7 +3879,7 @@
   },
   {
    "id": "aclass-synth-2070-sofa",
-   "name": "Model 2070 — Sofa",
+   "name": "2070 — Sofa",
    "sku": "2070",
    "cats": [
     "sofa"
@@ -3893,7 +3893,7 @@
   },
   {
    "id": "aclass-synth-2070-loveseat",
-   "name": "Model 2070 — Loveseat",
+   "name": "2070 — Loveseat",
    "sku": "2070",
    "cats": [
     "loveseat"
@@ -3907,7 +3907,7 @@
   },
   {
    "id": "aclass-synth-2070-chair",
-   "name": "Model 2070 — Chair",
+   "name": "2070 — Chair",
    "sku": "2070",
    "cats": [
     "chair"
@@ -3921,7 +3921,7 @@
   },
   {
    "id": "aclass-synth-2070-set",
-   "name": "Model 2070 — 3-Piece Set (Sofa + Loveseat + Chair)",
+   "name": "2070 — 3-Pc Set",
    "sku": "2070",
    "cats": [
     "sofa"
@@ -3935,7 +3935,7 @@
   },
   {
    "id": "aclass-synth-2110-sofa",
-   "name": "Model 2110 — Sofa",
+   "name": "2110 — Sofa",
    "sku": "2110",
    "cats": [
     "sofa"
@@ -3949,7 +3949,7 @@
   },
   {
    "id": "aclass-synth-2110-loveseat",
-   "name": "Model 2110 — Loveseat",
+   "name": "2110 — Loveseat",
    "sku": "2110",
    "cats": [
     "loveseat"
@@ -3963,7 +3963,7 @@
   },
   {
    "id": "aclass-synth-2110-chair",
-   "name": "Model 2110 — Chair",
+   "name": "2110 — Chair",
    "sku": "2110",
    "cats": [
     "chair"
@@ -3977,7 +3977,7 @@
   },
   {
    "id": "aclass-synth-2110-set",
-   "name": "Model 2110 — 3-Piece Set (Sofa + Loveseat + Chair)",
+   "name": "2110 — 3-Pc Set",
    "sku": "2110",
    "cats": [
     "sofa"
@@ -3991,7 +3991,7 @@
   },
   {
    "id": "aclass-synth-2160-sofa",
-   "name": "Model 2160 — Sofa",
+   "name": "2160 — Sofa",
    "sku": "2160",
    "cats": [
     "sofa"
@@ -4005,7 +4005,7 @@
   },
   {
    "id": "aclass-synth-2160-loveseat",
-   "name": "Model 2160 — Loveseat",
+   "name": "2160 — Loveseat",
    "sku": "2160",
    "cats": [
     "loveseat"
@@ -4019,7 +4019,7 @@
   },
   {
    "id": "aclass-synth-2160-chair",
-   "name": "Model 2160 — Chair",
+   "name": "2160 — Chair",
    "sku": "2160",
    "cats": [
     "chair"
@@ -4033,7 +4033,7 @@
   },
   {
    "id": "aclass-synth-2160-set",
-   "name": "Model 2160 — 3-Piece Set (Sofa + Loveseat + Chair)",
+   "name": "2160 — 3-Pc Set",
    "sku": "2160",
    "cats": [
     "sofa"
@@ -4047,7 +4047,7 @@
   },
   {
    "id": "aclass-synth-2170-sofa",
-   "name": "Model 2170 — Sofa",
+   "name": "2170 — Sofa",
    "sku": "2170",
    "cats": [
     "sofa"
@@ -4061,7 +4061,7 @@
   },
   {
    "id": "aclass-synth-2170-loveseat",
-   "name": "Model 2170 — Loveseat",
+   "name": "2170 — Loveseat",
    "sku": "2170",
    "cats": [
     "loveseat"
@@ -4075,7 +4075,7 @@
   },
   {
    "id": "aclass-synth-2170-chair",
-   "name": "Model 2170 — Chair",
+   "name": "2170 — Chair",
    "sku": "2170",
    "cats": [
     "chair"
@@ -4089,7 +4089,7 @@
   },
   {
    "id": "aclass-synth-2170-set",
-   "name": "Model 2170 — 3-Piece Set (Sofa + Loveseat + Chair)",
+   "name": "2170 — 3-Pc Set",
    "sku": "2170",
    "cats": [
     "sofa"
@@ -4103,7 +4103,7 @@
   },
   {
    "id": "aclass-synth-2310-sofa",
-   "name": "Model 2310 — Sofa",
+   "name": "2310 — Sofa",
    "sku": "2310",
    "cats": [
     "sofa"
@@ -4117,7 +4117,7 @@
   },
   {
    "id": "aclass-synth-2310-loveseat",
-   "name": "Model 2310 — Loveseat",
+   "name": "2310 — Loveseat",
    "sku": "2310",
    "cats": [
     "loveseat"
@@ -4131,7 +4131,7 @@
   },
   {
    "id": "aclass-synth-2310-chair",
-   "name": "Model 2310 — Chair",
+   "name": "2310 — Chair",
    "sku": "2310",
    "cats": [
     "chair"
@@ -4145,7 +4145,7 @@
   },
   {
    "id": "aclass-synth-2310-set",
-   "name": "Model 2310 — 3-Piece Set (Sofa + Loveseat + Chair)",
+   "name": "2310 — 3-Pc Set",
    "sku": "2310",
    "cats": [
     "sofa"
@@ -4159,7 +4159,7 @@
   },
   {
    "id": "aclass-synth-2350-sofa",
-   "name": "Model 2350 — Sofa",
+   "name": "2350 — Sofa",
    "sku": "2350",
    "cats": [
     "sofa"
@@ -4173,7 +4173,7 @@
   },
   {
    "id": "aclass-synth-2350-loveseat",
-   "name": "Model 2350 — Loveseat",
+   "name": "2350 — Loveseat",
    "sku": "2350",
    "cats": [
     "loveseat"
@@ -4187,7 +4187,7 @@
   },
   {
    "id": "aclass-synth-2350-chair",
-   "name": "Model 2350 — Chair",
+   "name": "2350 — Chair",
    "sku": "2350",
    "cats": [
     "chair"
@@ -4201,7 +4201,7 @@
   },
   {
    "id": "aclass-synth-2350-set",
-   "name": "Model 2350 — 3-Piece Set (Sofa + Loveseat + Chair)",
+   "name": "2350 — 3-Pc Set",
    "sku": "2350",
    "cats": [
     "sofa"
@@ -4215,7 +4215,7 @@
   },
   {
    "id": "aclass-synth-2550-sofa",
-   "name": "Model 2550 — Sofa",
+   "name": "2550 — Sofa",
    "sku": "2550",
    "cats": [
     "sofa"
@@ -4229,7 +4229,7 @@
   },
   {
    "id": "aclass-synth-2550-loveseat",
-   "name": "Model 2550 — Loveseat",
+   "name": "2550 — Loveseat",
    "sku": "2550",
    "cats": [
     "loveseat"
@@ -4243,7 +4243,7 @@
   },
   {
    "id": "aclass-synth-2550-chair",
-   "name": "Model 2550 — Chair",
+   "name": "2550 — Chair",
    "sku": "2550",
    "cats": [
     "chair"
@@ -4257,7 +4257,7 @@
   },
   {
    "id": "aclass-synth-2750-sofa",
-   "name": "Model 2750 — Sofa",
+   "name": "2750 — Sofa",
    "sku": "2750",
    "cats": [
     "sofa"
@@ -4271,7 +4271,7 @@
   },
   {
    "id": "aclass-synth-2750-loveseat",
-   "name": "Model 2750 — Loveseat",
+   "name": "2750 — Loveseat",
    "sku": "2750",
    "cats": [
     "loveseat"
@@ -4285,7 +4285,7 @@
   },
   {
    "id": "aclass-synth-2750-chair",
-   "name": "Model 2750 — Chair",
+   "name": "2750 — Chair",
    "sku": "2750",
    "cats": [
     "chair"
@@ -4299,7 +4299,7 @@
   },
   {
    "id": "aclass-synth-2750-chaise",
-   "name": "Model 2750 — Chaise",
+   "name": "2750 — Chaise",
    "sku": "2750",
    "cats": [
     "chaise"
@@ -4313,7 +4313,7 @@
   },
   {
    "id": "aclass-synth-2750-set",
-   "name": "Model 2750 — 3-Piece Set (Sofa + Loveseat + Chair)",
+   "name": "2750 — 3-Pc Set",
    "sku": "2750",
    "cats": [
     "sofa"
@@ -4327,7 +4327,7 @@
   },
   {
    "id": "aclass-synth-2760-sofa",
-   "name": "Model 2760 — Sofa",
+   "name": "2760 — Sofa",
    "sku": "2760",
    "cats": [
     "sofa"
@@ -4341,7 +4341,7 @@
   },
   {
    "id": "aclass-synth-2760-loveseat",
-   "name": "Model 2760 — Loveseat",
+   "name": "2760 — Loveseat",
    "sku": "2760",
    "cats": [
     "loveseat"
@@ -4355,7 +4355,7 @@
   },
   {
    "id": "aclass-synth-2760-chair",
-   "name": "Model 2760 — Chair",
+   "name": "2760 — Chair",
    "sku": "2760",
    "cats": [
     "chair"
@@ -4369,7 +4369,7 @@
   },
   {
    "id": "aclass-synth-2760-set",
-   "name": "Model 2760 — 3-Piece Set (Sofa + Loveseat + Chair)",
+   "name": "2760 — 3-Pc Set",
    "sku": "2760",
    "cats": [
     "sofa"
@@ -4383,7 +4383,7 @@
   },
   {
    "id": "aclass-synth-2860-sofa",
-   "name": "Model 2860 — Sofa",
+   "name": "2860 — Sofa",
    "sku": "2860",
    "cats": [
     "sofa"
@@ -4397,7 +4397,7 @@
   },
   {
    "id": "aclass-synth-2860-loveseat",
-   "name": "Model 2860 — Loveseat",
+   "name": "2860 — Loveseat",
    "sku": "2860",
    "cats": [
     "loveseat"
@@ -4411,7 +4411,7 @@
   },
   {
    "id": "aclass-synth-2860-chair",
-   "name": "Model 2860 — Chair",
+   "name": "2860 — Chair",
    "sku": "2860",
    "cats": [
     "chair"
@@ -4425,7 +4425,7 @@
   },
   {
    "id": "aclass-synth-2860-set",
-   "name": "Model 2860 — 3-Piece Set (Sofa + Loveseat + Chair)",
+   "name": "2860 — 3-Pc Set",
    "sku": "2860",
    "cats": [
     "sofa"
@@ -4439,7 +4439,7 @@
   },
   {
    "id": "aclass-synth-2870-sofa",
-   "name": "Model 2870 — Sofa",
+   "name": "2870 — Sofa",
    "sku": "2870",
    "cats": [
     "sofa"
@@ -4453,7 +4453,7 @@
   },
   {
    "id": "aclass-synth-2870-loveseat",
-   "name": "Model 2870 — Loveseat",
+   "name": "2870 — Loveseat",
    "sku": "2870",
    "cats": [
     "loveseat"
@@ -4467,7 +4467,7 @@
   },
   {
    "id": "aclass-synth-2870-chair",
-   "name": "Model 2870 — Chair",
+   "name": "2870 — Chair",
    "sku": "2870",
    "cats": [
     "chair"
@@ -4481,7 +4481,7 @@
   },
   {
    "id": "aclass-synth-2870-set",
-   "name": "Model 2870 — 3-Piece Set (Sofa + Loveseat + Chair)",
+   "name": "2870 — 3-Pc Set",
    "sku": "2870",
    "cats": [
     "sofa"
@@ -4495,7 +4495,7 @@
   },
   {
    "id": "aclass-synth-2900-sofa",
-   "name": "Model 2900 — Sofa",
+   "name": "2900 — Sofa",
    "sku": "2900",
    "cats": [
     "sofa"
@@ -4509,7 +4509,7 @@
   },
   {
    "id": "aclass-synth-2900-loveseat",
-   "name": "Model 2900 — Loveseat",
+   "name": "2900 — Loveseat",
    "sku": "2900",
    "cats": [
     "loveseat"
@@ -4523,7 +4523,7 @@
   },
   {
    "id": "aclass-synth-2900-chair",
-   "name": "Model 2900 — Chair",
+   "name": "2900 — Chair",
    "sku": "2900",
    "cats": [
     "chair"
@@ -4537,7 +4537,7 @@
   },
   {
    "id": "aclass-synth-2900-set",
-   "name": "Model 2900 — 3-Piece Set (Sofa + Loveseat + Chair)",
+   "name": "2900 — 3-Pc Set",
    "sku": "2900",
    "cats": [
     "sofa"
@@ -4551,7 +4551,7 @@
   },
   {
    "id": "aclass-synth-2910-sofa",
-   "name": "Model 2910 — Sofa",
+   "name": "2910 — Sofa",
    "sku": "2910",
    "cats": [
     "sofa"
@@ -4565,7 +4565,7 @@
   },
   {
    "id": "aclass-synth-2910-loveseat",
-   "name": "Model 2910 — Loveseat",
+   "name": "2910 — Loveseat",
    "sku": "2910",
    "cats": [
     "loveseat"
@@ -4579,7 +4579,7 @@
   },
   {
    "id": "aclass-synth-2910-chair",
-   "name": "Model 2910 — Chair",
+   "name": "2910 — Chair",
    "sku": "2910",
    "cats": [
     "chair"
@@ -4593,7 +4593,7 @@
   },
   {
    "id": "aclass-synth-2910-set",
-   "name": "Model 2910 — 3-Piece Set (Sofa + Loveseat + Chair)",
+   "name": "2910 — 3-Pc Set",
    "sku": "2910",
    "cats": [
     "sofa"
@@ -4607,7 +4607,7 @@
   },
   {
    "id": "aclass-synth-2920-sofa",
-   "name": "Model 2920 — Sofa",
+   "name": "2920 — Sofa",
    "sku": "2920",
    "cats": [
     "sofa"
@@ -4621,7 +4621,7 @@
   },
   {
    "id": "aclass-synth-2920-loveseat",
-   "name": "Model 2920 — Loveseat",
+   "name": "2920 — Loveseat",
    "sku": "2920",
    "cats": [
     "loveseat"
@@ -4635,7 +4635,7 @@
   },
   {
    "id": "aclass-synth-2920-chair",
-   "name": "Model 2920 — Chair",
+   "name": "2920 — Chair",
    "sku": "2920",
    "cats": [
     "chair"
@@ -4649,7 +4649,7 @@
   },
   {
    "id": "aclass-synth-2920-set",
-   "name": "Model 2920 — 3-Piece Set (Sofa + Loveseat + Chair)",
+   "name": "2920 — 3-Pc Set",
    "sku": "2920",
    "cats": [
     "sofa"
@@ -4663,7 +4663,7 @@
   },
   {
    "id": "aclass-synth-2950-sofa",
-   "name": "Model 2950 — Sofa",
+   "name": "2950 — Sofa",
    "sku": "2950",
    "cats": [
     "sofa"
@@ -4677,7 +4677,7 @@
   },
   {
    "id": "aclass-synth-2950-loveseat",
-   "name": "Model 2950 — Loveseat",
+   "name": "2950 — Loveseat",
    "sku": "2950",
    "cats": [
     "loveseat"
@@ -4691,7 +4691,7 @@
   },
   {
    "id": "aclass-synth-2950-chair",
-   "name": "Model 2950 — Chair",
+   "name": "2950 — Chair",
    "sku": "2950",
    "cats": [
     "chair"
@@ -4705,7 +4705,7 @@
   },
   {
    "id": "aclass-synth-2950-set",
-   "name": "Model 2950 — 3-Piece Set (Sofa + Loveseat + Chair)",
+   "name": "2950 — 3-Pc Set",
    "sku": "2950",
    "cats": [
     "sofa"
@@ -4719,7 +4719,7 @@
   },
   {
    "id": "aclass-synth-3120-sofa",
-   "name": "Model 3120 — Sofa",
+   "name": "3120 — Sofa",
    "sku": "3120",
    "cats": [
     "sofa"
@@ -4733,7 +4733,7 @@
   },
   {
    "id": "aclass-synth-3120-loveseat",
-   "name": "Model 3120 — Loveseat",
+   "name": "3120 — Loveseat",
    "sku": "3120",
    "cats": [
     "loveseat"
@@ -4747,7 +4747,7 @@
   },
   {
    "id": "aclass-synth-3120-chair",
-   "name": "Model 3120 — Chair",
+   "name": "3120 — Chair",
    "sku": "3120",
    "cats": [
     "chair"
@@ -4761,7 +4761,7 @@
   },
   {
    "id": "aclass-synth-3120-set",
-   "name": "Model 3120 — 3-Piece Set (Sofa + Loveseat + Chair)",
+   "name": "3120 — 3-Pc Set",
    "sku": "3120",
    "cats": [
     "sofa"
@@ -4775,7 +4775,7 @@
   },
   {
    "id": "aclass-synth-3130-sofa",
-   "name": "Model 3130 — Sofa",
+   "name": "3130 — Sofa",
    "sku": "3130",
    "cats": [
     "sofa"
@@ -4789,7 +4789,7 @@
   },
   {
    "id": "aclass-synth-3130-loveseat",
-   "name": "Model 3130 — Loveseat",
+   "name": "3130 — Loveseat",
    "sku": "3130",
    "cats": [
     "loveseat"
@@ -4803,7 +4803,7 @@
   },
   {
    "id": "aclass-synth-3130-chair",
-   "name": "Model 3130 — Chair",
+   "name": "3130 — Chair",
    "sku": "3130",
    "cats": [
     "chair"
@@ -4817,7 +4817,7 @@
   },
   {
    "id": "aclass-synth-3130-set",
-   "name": "Model 3130 — 3-Piece Set (Sofa + Loveseat + Chair)",
+   "name": "3130 — 3-Pc Set",
    "sku": "3130",
    "cats": [
     "sofa"
@@ -4831,7 +4831,7 @@
   },
   {
    "id": "aclass-synth-3260-sofa",
-   "name": "Model 3260 — Sofa",
+   "name": "3260 — Sofa",
    "sku": "3260",
    "cats": [
     "sofa"
@@ -4845,7 +4845,7 @@
   },
   {
    "id": "aclass-synth-3260-loveseat",
-   "name": "Model 3260 — Loveseat",
+   "name": "3260 — Loveseat",
    "sku": "3260",
    "cats": [
     "loveseat"
@@ -4859,7 +4859,7 @@
   },
   {
    "id": "aclass-synth-3260-chair",
-   "name": "Model 3260 — Chair",
+   "name": "3260 — Chair",
    "sku": "3260",
    "cats": [
     "chair"
@@ -4873,7 +4873,7 @@
   },
   {
    "id": "aclass-synth-3260-set",
-   "name": "Model 3260 — 3-Piece Set (Sofa + Loveseat + Chair)",
+   "name": "3260 — 3-Pc Set",
    "sku": "3260",
    "cats": [
     "sofa"
@@ -4887,7 +4887,7 @@
   },
   {
    "id": "aclass-synth-3300-sofa",
-   "name": "Model 3300 — Sofa",
+   "name": "3300 — Sofa",
    "sku": "3300",
    "cats": [
     "sofa"
@@ -4901,7 +4901,7 @@
   },
   {
    "id": "aclass-synth-3300-loveseat",
-   "name": "Model 3300 — Loveseat",
+   "name": "3300 — Loveseat",
    "sku": "3300",
    "cats": [
     "loveseat"
@@ -4915,7 +4915,7 @@
   },
   {
    "id": "aclass-synth-3300-chair",
-   "name": "Model 3300 — Chair",
+   "name": "3300 — Chair",
    "sku": "3300",
    "cats": [
     "chair"
@@ -4929,7 +4929,7 @@
   },
   {
    "id": "aclass-synth-3300-chaise",
-   "name": "Model 3300 — Chaise",
+   "name": "3300 — Chaise",
    "sku": "3300",
    "cats": [
     "chaise"
@@ -4943,7 +4943,7 @@
   },
   {
    "id": "aclass-synth-3300-set",
-   "name": "Model 3300 — 3-Piece Set (Sofa + Loveseat + Chair)",
+   "name": "3300 — 3-Pc Set",
    "sku": "3300",
    "cats": [
     "sofa"
@@ -4957,7 +4957,7 @@
   },
   {
    "id": "aclass-synth-3320-sofa",
-   "name": "Model 3320 — Sofa",
+   "name": "3320 — Sofa",
    "sku": "3320",
    "cats": [
     "sofa"
@@ -4971,7 +4971,7 @@
   },
   {
    "id": "aclass-synth-3320-loveseat",
-   "name": "Model 3320 — Loveseat",
+   "name": "3320 — Loveseat",
    "sku": "3320",
    "cats": [
     "loveseat"
@@ -4985,7 +4985,7 @@
   },
   {
    "id": "aclass-synth-3320-chair",
-   "name": "Model 3320 — Chair",
+   "name": "3320 — Chair",
    "sku": "3320",
    "cats": [
     "chair"
@@ -4999,7 +4999,7 @@
   },
   {
    "id": "aclass-synth-3320-chaise",
-   "name": "Model 3320 — Chaise",
+   "name": "3320 — Chaise",
    "sku": "3320",
    "cats": [
     "chaise"
@@ -5013,7 +5013,7 @@
   },
   {
    "id": "aclass-synth-3320-set",
-   "name": "Model 3320 — 3-Piece Set (Sofa + Loveseat + Chair)",
+   "name": "3320 — 3-Pc Set",
    "sku": "3320",
    "cats": [
     "sofa"
@@ -5027,7 +5027,7 @@
   },
   {
    "id": "aclass-synth-3335-sofa",
-   "name": "Model 3335 — Sofa",
+   "name": "3335 — Sofa",
    "sku": "3335",
    "cats": [
     "sofa"
@@ -5041,7 +5041,7 @@
   },
   {
    "id": "aclass-synth-3335-loveseat",
-   "name": "Model 3335 — Loveseat",
+   "name": "3335 — Loveseat",
    "sku": "3335",
    "cats": [
     "loveseat"
@@ -5055,7 +5055,7 @@
   },
   {
    "id": "aclass-synth-3335-chair",
-   "name": "Model 3335 — Chair",
+   "name": "3335 — Chair",
    "sku": "3335",
    "cats": [
     "chair"
@@ -5069,7 +5069,7 @@
   },
   {
    "id": "aclass-synth-3335-chaise",
-   "name": "Model 3335 — Chaise",
+   "name": "3335 — Chaise",
    "sku": "3335",
    "cats": [
     "chaise"
@@ -5083,7 +5083,7 @@
   },
   {
    "id": "aclass-synth-3335-set",
-   "name": "Model 3335 — 3-Piece Set (Sofa + Loveseat + Chair)",
+   "name": "3335 — 3-Pc Set",
    "sku": "3335",
    "cats": [
     "sofa"
@@ -5097,7 +5097,7 @@
   },
   {
    "id": "aclass-synth-3370-sofa",
-   "name": "Model 3370 — Sofa",
+   "name": "3370 — Sofa",
    "sku": "3370",
    "cats": [
     "sofa"
@@ -5111,7 +5111,7 @@
   },
   {
    "id": "aclass-synth-3370-loveseat",
-   "name": "Model 3370 — Loveseat",
+   "name": "3370 — Loveseat",
    "sku": "3370",
    "cats": [
     "loveseat"
@@ -5125,7 +5125,7 @@
   },
   {
    "id": "aclass-synth-3370-chair",
-   "name": "Model 3370 — Chair",
+   "name": "3370 — Chair",
    "sku": "3370",
    "cats": [
     "chair"
@@ -5139,7 +5139,7 @@
   },
   {
    "id": "aclass-synth-3370-set",
-   "name": "Model 3370 — 3-Piece Set (Sofa + Loveseat + Chair)",
+   "name": "3370 — 3-Pc Set",
    "sku": "3370",
    "cats": [
     "sofa"
@@ -5153,7 +5153,7 @@
   },
   {
    "id": "aclass-synth-3400-sofa",
-   "name": "Model 3400 — Sofa",
+   "name": "3400 — Sofa",
    "sku": "3400",
    "cats": [
     "sofa"
@@ -5167,7 +5167,7 @@
   },
   {
    "id": "aclass-synth-3400-loveseat",
-   "name": "Model 3400 — Loveseat",
+   "name": "3400 — Loveseat",
    "sku": "3400",
    "cats": [
     "loveseat"
@@ -5181,7 +5181,7 @@
   },
   {
    "id": "aclass-synth-3400-chair",
-   "name": "Model 3400 — Chair",
+   "name": "3400 — Chair",
    "sku": "3400",
    "cats": [
     "chair"
@@ -5195,7 +5195,7 @@
   },
   {
    "id": "aclass-synth-3400-set",
-   "name": "Model 3400 — 3-Piece Set (Sofa + Loveseat + Chair)",
+   "name": "3400 — 3-Pc Set",
    "sku": "3400",
    "cats": [
     "sofa"
@@ -5209,7 +5209,7 @@
   },
   {
    "id": "aclass-synth-3410-sofa",
-   "name": "Model 3410 — Sofa",
+   "name": "3410 — Sofa",
    "sku": "3410",
    "cats": [
     "sofa"
@@ -5223,7 +5223,7 @@
   },
   {
    "id": "aclass-synth-3410-loveseat",
-   "name": "Model 3410 — Loveseat",
+   "name": "3410 — Loveseat",
    "sku": "3410",
    "cats": [
     "loveseat"
@@ -5237,7 +5237,7 @@
   },
   {
    "id": "aclass-synth-3410-chair",
-   "name": "Model 3410 — Chair",
+   "name": "3410 — Chair",
    "sku": "3410",
    "cats": [
     "chair"
@@ -5251,7 +5251,7 @@
   },
   {
    "id": "aclass-synth-3410-set",
-   "name": "Model 3410 — 3-Piece Set (Sofa + Loveseat + Chair)",
+   "name": "3410 — 3-Pc Set",
    "sku": "3410",
    "cats": [
     "sofa"
@@ -5265,7 +5265,7 @@
   },
   {
    "id": "aclass-synth-4100-sofa",
-   "name": "Model 4100 — Sofa",
+   "name": "4100 — Sofa",
    "sku": "4100",
    "cats": [
     "sofa"
@@ -5279,7 +5279,7 @@
   },
   {
    "id": "aclass-synth-4100-loveseat",
-   "name": "Model 4100 — Loveseat",
+   "name": "4100 — Loveseat",
    "sku": "4100",
    "cats": [
     "loveseat"
@@ -5293,7 +5293,7 @@
   },
   {
    "id": "aclass-synth-4100-chair",
-   "name": "Model 4100 — Chair",
+   "name": "4100 — Chair",
    "sku": "4100",
    "cats": [
     "chair"
@@ -5307,7 +5307,7 @@
   },
   {
    "id": "aclass-synth-4100-set",
-   "name": "Model 4100 — 3-Piece Set (Sofa + Loveseat + Chair)",
+   "name": "4100 — 3-Pc Set",
    "sku": "4100",
    "cats": [
     "sofa"
@@ -5321,7 +5321,7 @@
   },
   {
    "id": "aclass-synth-4210-sofa",
-   "name": "Model 4210 — Sofa",
+   "name": "4210 — Sofa",
    "sku": "4210",
    "cats": [
     "sofa"
@@ -5335,7 +5335,7 @@
   },
   {
    "id": "aclass-synth-4210-loveseat",
-   "name": "Model 4210 — Loveseat",
+   "name": "4210 — Loveseat",
    "sku": "4210",
    "cats": [
     "loveseat"
@@ -5349,7 +5349,7 @@
   },
   {
    "id": "aclass-synth-4210-chair",
-   "name": "Model 4210 — Chair",
+   "name": "4210 — Chair",
    "sku": "4210",
    "cats": [
     "chair"
@@ -5363,7 +5363,7 @@
   },
   {
    "id": "aclass-synth-4210-set",
-   "name": "Model 4210 — 3-Piece Set (Sofa + Loveseat + Chair)",
+   "name": "4210 — 3-Pc Set",
    "sku": "4210",
    "cats": [
     "sofa"
@@ -5377,7 +5377,7 @@
   },
   {
    "id": "aclass-synth-4250-sofa",
-   "name": "Model 4250 — Sofa",
+   "name": "4250 — Sofa",
    "sku": "4250",
    "cats": [
     "sofa"
@@ -5391,7 +5391,7 @@
   },
   {
    "id": "aclass-synth-4250-loveseat",
-   "name": "Model 4250 — Loveseat",
+   "name": "4250 — Loveseat",
    "sku": "4250",
    "cats": [
     "loveseat"
@@ -5405,7 +5405,7 @@
   },
   {
    "id": "aclass-synth-4250-chair",
-   "name": "Model 4250 — Chair",
+   "name": "4250 — Chair",
    "sku": "4250",
    "cats": [
     "chair"
@@ -5419,7 +5419,7 @@
   },
   {
    "id": "aclass-synth-4250-set",
-   "name": "Model 4250 — 3-Piece Set (Sofa + Loveseat + Chair)",
+   "name": "4250 — 3-Pc Set",
    "sku": "4250",
    "cats": [
     "sofa"
@@ -5433,7 +5433,7 @@
   },
   {
    "id": "aclass-synth-4260-sofa",
-   "name": "Model 4260 — Sofa",
+   "name": "4260 — Sofa",
    "sku": "4260",
    "cats": [
     "sofa"
@@ -5447,7 +5447,7 @@
   },
   {
    "id": "aclass-synth-4260-loveseat",
-   "name": "Model 4260 — Loveseat",
+   "name": "4260 — Loveseat",
    "sku": "4260",
    "cats": [
     "loveseat"
@@ -5461,7 +5461,7 @@
   },
   {
    "id": "aclass-synth-4260-chair",
-   "name": "Model 4260 — Chair",
+   "name": "4260 — Chair",
    "sku": "4260",
    "cats": [
     "chair"
@@ -5475,7 +5475,7 @@
   },
   {
    "id": "aclass-synth-4260-set",
-   "name": "Model 4260 — 3-Piece Set (Sofa + Loveseat + Chair)",
+   "name": "4260 — 3-Pc Set",
    "sku": "4260",
    "cats": [
     "sofa"
@@ -5489,7 +5489,7 @@
   },
   {
    "id": "aclass-synth-4280-sofa",
-   "name": "Model 4280 — Sofa",
+   "name": "4280 — Sofa",
    "sku": "4280",
    "cats": [
     "sofa"
@@ -5503,7 +5503,7 @@
   },
   {
    "id": "aclass-synth-4280-loveseat",
-   "name": "Model 4280 — Loveseat",
+   "name": "4280 — Loveseat",
    "sku": "4280",
    "cats": [
     "loveseat"
@@ -5517,7 +5517,7 @@
   },
   {
    "id": "aclass-synth-4280-chair",
-   "name": "Model 4280 — Chair",
+   "name": "4280 — Chair",
    "sku": "4280",
    "cats": [
     "chair"
@@ -5531,7 +5531,7 @@
   },
   {
    "id": "aclass-synth-4280-set",
-   "name": "Model 4280 — 3-Piece Set (Sofa + Loveseat + Chair)",
+   "name": "4280 — 3-Pc Set",
    "sku": "4280",
    "cats": [
     "sofa"
@@ -5545,7 +5545,7 @@
   },
   {
    "id": "aclass-synth-4310-sofa",
-   "name": "Model 4310 — Sofa",
+   "name": "4310 — Sofa",
    "sku": "4310",
    "cats": [
     "sofa"
@@ -5559,7 +5559,7 @@
   },
   {
    "id": "aclass-synth-4310-loveseat",
-   "name": "Model 4310 — Loveseat",
+   "name": "4310 — Loveseat",
    "sku": "4310",
    "cats": [
     "loveseat"
@@ -5573,7 +5573,7 @@
   },
   {
    "id": "aclass-synth-4310-chair",
-   "name": "Model 4310 — Chair",
+   "name": "4310 — Chair",
    "sku": "4310",
    "cats": [
     "chair"
@@ -5587,7 +5587,7 @@
   },
   {
    "id": "aclass-synth-4310-set",
-   "name": "Model 4310 — 3-Piece Set (Sofa + Loveseat + Chair)",
+   "name": "4310 — 3-Pc Set",
    "sku": "4310",
    "cats": [
     "sofa"
@@ -5601,7 +5601,7 @@
   },
   {
    "id": "aclass-synth-4320-sofa",
-   "name": "Model 4320 — Sofa",
+   "name": "4320 — Sofa",
    "sku": "4320",
    "cats": [
     "sofa"
@@ -5615,7 +5615,7 @@
   },
   {
    "id": "aclass-synth-4320-loveseat",
-   "name": "Model 4320 — Loveseat",
+   "name": "4320 — Loveseat",
    "sku": "4320",
    "cats": [
     "loveseat"
@@ -5629,7 +5629,7 @@
   },
   {
    "id": "aclass-synth-4320-chair",
-   "name": "Model 4320 — Chair",
+   "name": "4320 — Chair",
    "sku": "4320",
    "cats": [
     "chair"
@@ -5643,7 +5643,7 @@
   },
   {
    "id": "aclass-synth-4320-set",
-   "name": "Model 4320 — 3-Piece Set (Sofa + Loveseat + Chair)",
+   "name": "4320 — 3-Pc Set",
    "sku": "4320",
    "cats": [
     "sofa"
@@ -5657,7 +5657,7 @@
   },
   {
    "id": "aclass-synth-4330-sofa",
-   "name": "Model 4330 — Sofa",
+   "name": "4330 — Sofa",
    "sku": "4330",
    "cats": [
     "sofa"
@@ -5671,7 +5671,7 @@
   },
   {
    "id": "aclass-synth-4330-loveseat",
-   "name": "Model 4330 — Loveseat",
+   "name": "4330 — Loveseat",
    "sku": "4330",
    "cats": [
     "loveseat"
@@ -5685,7 +5685,7 @@
   },
   {
    "id": "aclass-synth-4330-chair",
-   "name": "Model 4330 — Chair",
+   "name": "4330 — Chair",
    "sku": "4330",
    "cats": [
     "chair"
@@ -5699,7 +5699,7 @@
   },
   {
    "id": "aclass-synth-4330-set",
-   "name": "Model 4330 — 3-Piece Set (Sofa + Loveseat + Chair)",
+   "name": "4330 — 3-Pc Set",
    "sku": "4330",
    "cats": [
     "sofa"
@@ -5713,7 +5713,7 @@
   },
   {
    "id": "aclass-synth-4340-sofa",
-   "name": "Model 4340 — Sofa",
+   "name": "4340 — Sofa",
    "sku": "4340",
    "cats": [
     "sofa"
@@ -5727,7 +5727,7 @@
   },
   {
    "id": "aclass-synth-4340-loveseat",
-   "name": "Model 4340 — Loveseat",
+   "name": "4340 — Loveseat",
    "sku": "4340",
    "cats": [
     "loveseat"
@@ -5741,7 +5741,7 @@
   },
   {
    "id": "aclass-synth-4340-chair",
-   "name": "Model 4340 — Chair",
+   "name": "4340 — Chair",
    "sku": "4340",
    "cats": [
     "chair"
@@ -5755,7 +5755,7 @@
   },
   {
    "id": "aclass-synth-4340-set",
-   "name": "Model 4340 — 3-Piece Set (Sofa + Loveseat + Chair)",
+   "name": "4340 — 3-Pc Set",
    "sku": "4340",
    "cats": [
     "sofa"
@@ -5769,7 +5769,7 @@
   },
   {
    "id": "aclass-synth-4900-sofa",
-   "name": "Model 4900 — Sofa",
+   "name": "4900 — Sofa",
    "sku": "4900",
    "cats": [
     "sofa"
@@ -5783,7 +5783,7 @@
   },
   {
    "id": "aclass-synth-4900-loveseat",
-   "name": "Model 4900 — Loveseat",
+   "name": "4900 — Loveseat",
    "sku": "4900",
    "cats": [
     "loveseat"
@@ -5797,7 +5797,7 @@
   },
   {
    "id": "aclass-synth-4900-chair",
-   "name": "Model 4900 — Chair",
+   "name": "4900 — Chair",
    "sku": "4900",
    "cats": [
     "chair"
@@ -5811,7 +5811,7 @@
   },
   {
    "id": "aclass-synth-4900-chaise",
-   "name": "Model 4900 — Chaise",
+   "name": "4900 — Chaise",
    "sku": "4900",
    "cats": [
     "chaise"
@@ -5825,7 +5825,7 @@
   },
   {
    "id": "aclass-synth-4900-set",
-   "name": "Model 4900 — 3-Piece Set (Sofa + Loveseat + Chair)",
+   "name": "4900 — 3-Pc Set",
    "sku": "4900",
    "cats": [
     "sofa"
@@ -5839,7 +5839,7 @@
   },
   {
    "id": "aclass-synth-4910-sofa",
-   "name": "Model 4910 — Sofa",
+   "name": "4910 — Sofa",
    "sku": "4910",
    "cats": [
     "sofa"
@@ -5853,7 +5853,7 @@
   },
   {
    "id": "aclass-synth-4910-loveseat",
-   "name": "Model 4910 — Loveseat",
+   "name": "4910 — Loveseat",
    "sku": "4910",
    "cats": [
     "loveseat"
@@ -5867,7 +5867,7 @@
   },
   {
    "id": "aclass-synth-4910-chair",
-   "name": "Model 4910 — Chair",
+   "name": "4910 — Chair",
    "sku": "4910",
    "cats": [
     "chair"
@@ -5881,7 +5881,7 @@
   },
   {
    "id": "aclass-synth-4910-set",
-   "name": "Model 4910 — 3-Piece Set (Sofa + Loveseat + Chair)",
+   "name": "4910 — 3-Pc Set",
    "sku": "4910",
    "cats": [
     "sofa"
@@ -5895,7 +5895,7 @@
   },
   {
    "id": "aclass-synth-4950-sofa",
-   "name": "Model 4950 — Sofa",
+   "name": "4950 — Sofa",
    "sku": "4950",
    "cats": [
     "sofa"
@@ -5909,7 +5909,7 @@
   },
   {
    "id": "aclass-synth-4950-loveseat",
-   "name": "Model 4950 — Loveseat",
+   "name": "4950 — Loveseat",
    "sku": "4950",
    "cats": [
     "loveseat"
@@ -5923,7 +5923,7 @@
   },
   {
    "id": "aclass-synth-4950-chair",
-   "name": "Model 4950 — Chair",
+   "name": "4950 — Chair",
    "sku": "4950",
    "cats": [
     "chair"
@@ -5937,7 +5937,7 @@
   },
   {
    "id": "aclass-synth-4950-set",
-   "name": "Model 4950 — 3-Piece Set (Sofa + Loveseat + Chair)",
+   "name": "4950 — 3-Pc Set",
    "sku": "4950",
    "cats": [
     "sofa"
@@ -5951,7 +5951,7 @@
   },
   {
    "id": "aclass-synth-5100-sofa",
-   "name": "Model 5100 — Sofa",
+   "name": "5100 — Sofa",
    "sku": "5100",
    "cats": [
     "sofa"
@@ -5965,7 +5965,7 @@
   },
   {
    "id": "aclass-synth-5100-loveseat",
-   "name": "Model 5100 — Loveseat",
+   "name": "5100 — Loveseat",
    "sku": "5100",
    "cats": [
     "loveseat"
@@ -5979,7 +5979,7 @@
   },
   {
    "id": "aclass-synth-5100-chair",
-   "name": "Model 5100 — Chair",
+   "name": "5100 — Chair",
    "sku": "5100",
    "cats": [
     "chair"
@@ -5993,7 +5993,7 @@
   },
   {
    "id": "aclass-synth-5100-set",
-   "name": "Model 5100 — 3-Piece Set (Sofa + Loveseat + Chair)",
+   "name": "5100 — 3-Pc Set",
    "sku": "5100",
    "cats": [
     "sofa"
@@ -6007,7 +6007,7 @@
   },
   {
    "id": "aclass-synth-5150-sofa",
-   "name": "Model 5150 — Sofa",
+   "name": "5150 — Sofa",
    "sku": "5150",
    "cats": [
     "sofa"
@@ -6021,7 +6021,7 @@
   },
   {
    "id": "aclass-synth-5150-loveseat",
-   "name": "Model 5150 — Loveseat",
+   "name": "5150 — Loveseat",
    "sku": "5150",
    "cats": [
     "loveseat"
@@ -6035,7 +6035,7 @@
   },
   {
    "id": "aclass-synth-5150-chair",
-   "name": "Model 5150 — Chair",
+   "name": "5150 — Chair",
    "sku": "5150",
    "cats": [
     "chair"
@@ -6049,7 +6049,7 @@
   },
   {
    "id": "aclass-synth-5150-set",
-   "name": "Model 5150 — 3-Piece Set (Sofa + Loveseat + Chair)",
+   "name": "5150 — 3-Pc Set",
    "sku": "5150",
    "cats": [
     "sofa"
@@ -6063,7 +6063,7 @@
   },
   {
    "id": "aclass-synth-5200-sofa",
-   "name": "Model 5200 — Sofa",
+   "name": "5200 — Sofa",
    "sku": "5200",
    "cats": [
     "sofa"
@@ -6077,7 +6077,7 @@
   },
   {
    "id": "aclass-synth-5200-loveseat",
-   "name": "Model 5200 — Loveseat",
+   "name": "5200 — Loveseat",
    "sku": "5200",
    "cats": [
     "loveseat"
@@ -6091,7 +6091,7 @@
   },
   {
    "id": "aclass-synth-5200-chair",
-   "name": "Model 5200 — Chair",
+   "name": "5200 — Chair",
    "sku": "5200",
    "cats": [
     "chair"
@@ -6105,7 +6105,7 @@
   },
   {
    "id": "aclass-synth-5200-set",
-   "name": "Model 5200 — 3-Piece Set (Sofa + Loveseat + Chair)",
+   "name": "5200 — 3-Pc Set",
    "sku": "5200",
    "cats": [
     "sofa"
@@ -6119,7 +6119,7 @@
   },
   {
    "id": "aclass-synth-5250-sofa",
-   "name": "Model 5250 — Sofa",
+   "name": "5250 — Sofa",
    "sku": "5250",
    "cats": [
     "sofa"
@@ -6133,7 +6133,7 @@
   },
   {
    "id": "aclass-synth-5250-loveseat",
-   "name": "Model 5250 — Loveseat",
+   "name": "5250 — Loveseat",
    "sku": "5250",
    "cats": [
     "loveseat"
@@ -6147,7 +6147,7 @@
   },
   {
    "id": "aclass-synth-5250-chair",
-   "name": "Model 5250 — Chair",
+   "name": "5250 — Chair",
    "sku": "5250",
    "cats": [
     "chair"
@@ -6161,7 +6161,7 @@
   },
   {
    "id": "aclass-synth-5250-set",
-   "name": "Model 5250 — 3-Piece Set (Sofa + Loveseat + Chair)",
+   "name": "5250 — 3-Pc Set",
    "sku": "5250",
    "cats": [
     "sofa"
@@ -6175,7 +6175,7 @@
   },
   {
    "id": "aclass-synth-5300-sofa",
-   "name": "Model 5300 — Sofa",
+   "name": "5300 — Sofa",
    "sku": "5300",
    "cats": [
     "sofa"
@@ -6189,7 +6189,7 @@
   },
   {
    "id": "aclass-synth-5300-loveseat",
-   "name": "Model 5300 — Loveseat",
+   "name": "5300 — Loveseat",
    "sku": "5300",
    "cats": [
     "loveseat"
@@ -6203,7 +6203,7 @@
   },
   {
    "id": "aclass-synth-5300-chair",
-   "name": "Model 5300 — Chair",
+   "name": "5300 — Chair",
    "sku": "5300",
    "cats": [
     "chair"
@@ -6217,7 +6217,7 @@
   },
   {
    "id": "aclass-synth-5300-set",
-   "name": "Model 5300 — 3-Piece Set (Sofa + Loveseat + Chair)",
+   "name": "5300 — 3-Pc Set",
    "sku": "5300",
    "cats": [
     "sofa"
@@ -6231,7 +6231,7 @@
   },
   {
    "id": "aclass-synth-5350-sofa",
-   "name": "Model 5350 — Sofa",
+   "name": "5350 — Sofa",
    "sku": "5350",
    "cats": [
     "sofa"
@@ -6245,7 +6245,7 @@
   },
   {
    "id": "aclass-synth-5350-loveseat",
-   "name": "Model 5350 — Loveseat",
+   "name": "5350 — Loveseat",
    "sku": "5350",
    "cats": [
     "loveseat"
@@ -6259,7 +6259,7 @@
   },
   {
    "id": "aclass-synth-5350-chair",
-   "name": "Model 5350 — Chair",
+   "name": "5350 — Chair",
    "sku": "5350",
    "cats": [
     "chair"
@@ -6273,7 +6273,7 @@
   },
   {
    "id": "aclass-synth-5350-set",
-   "name": "Model 5350 — 3-Piece Set (Sofa + Loveseat + Chair)",
+   "name": "5350 — 3-Pc Set",
    "sku": "5350",
    "cats": [
     "sofa"
@@ -6287,7 +6287,7 @@
   },
   {
    "id": "aclass-synth-5360-sofa",
-   "name": "Model 5360 — Sofa",
+   "name": "5360 — Sofa",
    "sku": "5360",
    "cats": [
     "sofa"
@@ -6301,7 +6301,7 @@
   },
   {
    "id": "aclass-synth-5360-loveseat",
-   "name": "Model 5360 — Loveseat",
+   "name": "5360 — Loveseat",
    "sku": "5360",
    "cats": [
     "loveseat"
@@ -6315,7 +6315,7 @@
   },
   {
    "id": "aclass-synth-5360-chair",
-   "name": "Model 5360 — Chair",
+   "name": "5360 — Chair",
    "sku": "5360",
    "cats": [
     "chair"
@@ -6329,7 +6329,7 @@
   },
   {
    "id": "aclass-synth-5360-set",
-   "name": "Model 5360 — 3-Piece Set (Sofa + Loveseat + Chair)",
+   "name": "5360 — 3-Pc Set",
    "sku": "5360",
    "cats": [
     "sofa"
@@ -6343,7 +6343,7 @@
   },
   {
    "id": "aclass-synth-5370-sofa",
-   "name": "Model 5370 — Sofa",
+   "name": "5370 — Sofa",
    "sku": "5370",
    "cats": [
     "sofa"
@@ -6357,7 +6357,7 @@
   },
   {
    "id": "aclass-synth-5370-loveseat",
-   "name": "Model 5370 — Loveseat",
+   "name": "5370 — Loveseat",
    "sku": "5370",
    "cats": [
     "loveseat"
@@ -6371,7 +6371,7 @@
   },
   {
    "id": "aclass-synth-5370-chair",
-   "name": "Model 5370 — Chair",
+   "name": "5370 — Chair",
    "sku": "5370",
    "cats": [
     "chair"
@@ -6385,7 +6385,7 @@
   },
   {
    "id": "aclass-synth-5370-set",
-   "name": "Model 5370 — 3-Piece Set (Sofa + Loveseat + Chair)",
+   "name": "5370 — 3-Pc Set",
    "sku": "5370",
    "cats": [
     "sofa"
@@ -6399,7 +6399,7 @@
   },
   {
    "id": "aclass-synth-5375-sofa",
-   "name": "Model 5375 — Sofa",
+   "name": "5375 — Sofa",
    "sku": "5375",
    "cats": [
     "sofa"
@@ -6413,7 +6413,7 @@
   },
   {
    "id": "aclass-synth-5375-loveseat",
-   "name": "Model 5375 — Loveseat",
+   "name": "5375 — Loveseat",
    "sku": "5375",
    "cats": [
     "loveseat"
@@ -6427,7 +6427,7 @@
   },
   {
    "id": "aclass-synth-5375-chair",
-   "name": "Model 5375 — Chair",
+   "name": "5375 — Chair",
    "sku": "5375",
    "cats": [
     "chair"
@@ -6441,7 +6441,7 @@
   },
   {
    "id": "aclass-synth-5375-set",
-   "name": "Model 5375 — 3-Piece Set (Sofa + Loveseat + Chair)",
+   "name": "5375 — 3-Pc Set",
    "sku": "5375",
    "cats": [
     "sofa"
@@ -6455,7 +6455,7 @@
   },
   {
    "id": "aclass-synth-5400-sofa",
-   "name": "Model 5400 — Sofa",
+   "name": "5400 — Sofa",
    "sku": "5400",
    "cats": [
     "sofa"
@@ -6469,7 +6469,7 @@
   },
   {
    "id": "aclass-synth-5400-loveseat",
-   "name": "Model 5400 — Loveseat",
+   "name": "5400 — Loveseat",
    "sku": "5400",
    "cats": [
     "loveseat"
@@ -6483,7 +6483,7 @@
   },
   {
    "id": "aclass-synth-5400-chair",
-   "name": "Model 5400 — Chair",
+   "name": "5400 — Chair",
    "sku": "5400",
    "cats": [
     "chair"
@@ -6497,7 +6497,7 @@
   },
   {
    "id": "aclass-synth-5400-set",
-   "name": "Model 5400 — 3-Piece Set (Sofa + Loveseat + Chair)",
+   "name": "5400 — 3-Pc Set",
    "sku": "5400",
    "cats": [
     "sofa"
@@ -6511,7 +6511,7 @@
   },
   {
    "id": "aclass-synth-6050-sofa",
-   "name": "Model 6050 — Sofa",
+   "name": "6050 — Sofa",
    "sku": "6050",
    "cats": [
     "sofa"
@@ -6525,7 +6525,7 @@
   },
   {
    "id": "aclass-synth-6050-loveseat",
-   "name": "Model 6050 — Loveseat",
+   "name": "6050 — Loveseat",
    "sku": "6050",
    "cats": [
     "loveseat"
@@ -6539,7 +6539,7 @@
   },
   {
    "id": "aclass-synth-6050-chair",
-   "name": "Model 6050 — Chair",
+   "name": "6050 — Chair",
    "sku": "6050",
    "cats": [
     "chair"
@@ -6553,7 +6553,7 @@
   },
   {
    "id": "aclass-synth-6050-set",
-   "name": "Model 6050 — 3-Piece Set (Sofa + Loveseat + Chair)",
+   "name": "6050 — 3-Pc Set",
    "sku": "6050",
    "cats": [
     "sofa"
@@ -6567,7 +6567,7 @@
   },
   {
    "id": "aclass-synth-6070-sofa",
-   "name": "Model 6070 — Sofa",
+   "name": "6070 — Sofa",
    "sku": "6070",
    "cats": [
     "sofa"
@@ -6581,7 +6581,7 @@
   },
   {
    "id": "aclass-synth-6070-loveseat",
-   "name": "Model 6070 — Loveseat",
+   "name": "6070 — Loveseat",
    "sku": "6070",
    "cats": [
     "loveseat"
@@ -6595,7 +6595,7 @@
   },
   {
    "id": "aclass-synth-6070-chair",
-   "name": "Model 6070 — Chair",
+   "name": "6070 — Chair",
    "sku": "6070",
    "cats": [
     "chair"
@@ -6609,7 +6609,7 @@
   },
   {
    "id": "aclass-synth-6070-set",
-   "name": "Model 6070 — 3-Piece Set (Sofa + Loveseat + Chair)",
+   "name": "6070 — 3-Pc Set",
    "sku": "6070",
    "cats": [
     "sofa"
@@ -6623,7 +6623,7 @@
   },
   {
    "id": "aclass-synth-6100-sofa",
-   "name": "Model 6100 — Sofa",
+   "name": "6100 — Sofa",
    "sku": "6100",
    "cats": [
     "sofa"
@@ -6637,7 +6637,7 @@
   },
   {
    "id": "aclass-synth-6100-loveseat",
-   "name": "Model 6100 — Loveseat",
+   "name": "6100 — Loveseat",
    "sku": "6100",
    "cats": [
     "loveseat"
@@ -6651,7 +6651,7 @@
   },
   {
    "id": "aclass-synth-6100-chair",
-   "name": "Model 6100 — Chair",
+   "name": "6100 — Chair",
    "sku": "6100",
    "cats": [
     "chair"
@@ -6665,7 +6665,7 @@
   },
   {
    "id": "aclass-synth-6100-set",
-   "name": "Model 6100 — 3-Piece Set (Sofa + Loveseat + Chair)",
+   "name": "6100 — 3-Pc Set",
    "sku": "6100",
    "cats": [
     "sofa"
@@ -6679,7 +6679,7 @@
   },
   {
    "id": "aclass-synth-6150-sofa",
-   "name": "Model 6150 — Sofa",
+   "name": "6150 — Sofa",
    "sku": "6150",
    "cats": [
     "sofa"
@@ -6693,7 +6693,7 @@
   },
   {
    "id": "aclass-synth-6150-loveseat",
-   "name": "Model 6150 — Loveseat",
+   "name": "6150 — Loveseat",
    "sku": "6150",
    "cats": [
     "loveseat"
@@ -6707,7 +6707,7 @@
   },
   {
    "id": "aclass-synth-6150-chair",
-   "name": "Model 6150 — Chair",
+   "name": "6150 — Chair",
    "sku": "6150",
    "cats": [
     "chair"
@@ -6721,7 +6721,7 @@
   },
   {
    "id": "aclass-synth-6150-set",
-   "name": "Model 6150 — 3-Piece Set (Sofa + Loveseat + Chair)",
+   "name": "6150 — 3-Pc Set",
    "sku": "6150",
    "cats": [
     "sofa"
@@ -6735,7 +6735,7 @@
   },
   {
    "id": "aclass-synth-7100-sofa",
-   "name": "Model 7100 — Sofa",
+   "name": "7100 — Sofa",
    "sku": "7100",
    "cats": [
     "sofa"
@@ -6749,7 +6749,7 @@
   },
   {
    "id": "aclass-synth-7100-loveseat",
-   "name": "Model 7100 — Loveseat",
+   "name": "7100 — Loveseat",
    "sku": "7100",
    "cats": [
     "loveseat"
@@ -6763,7 +6763,7 @@
   },
   {
    "id": "aclass-synth-7100-chair",
-   "name": "Model 7100 — Chair",
+   "name": "7100 — Chair",
    "sku": "7100",
    "cats": [
     "chair"
@@ -6777,7 +6777,7 @@
   },
   {
    "id": "aclass-synth-7100-set",
-   "name": "Model 7100 — 3-Piece Set (Sofa + Loveseat + Chair)",
+   "name": "7100 — 3-Pc Set",
    "sku": "7100",
    "cats": [
     "sofa"
@@ -6791,7 +6791,7 @@
   },
   {
    "id": "aclass-synth-7110-sofa",
-   "name": "Model 7110 — Sofa",
+   "name": "7110 — Sofa",
    "sku": "7110",
    "cats": [
     "sofa"
@@ -6805,7 +6805,7 @@
   },
   {
    "id": "aclass-synth-7110-loveseat",
-   "name": "Model 7110 — Loveseat",
+   "name": "7110 — Loveseat",
    "sku": "7110",
    "cats": [
     "loveseat"
@@ -6819,7 +6819,7 @@
   },
   {
    "id": "aclass-synth-7110-chair",
-   "name": "Model 7110 — Chair",
+   "name": "7110 — Chair",
    "sku": "7110",
    "cats": [
     "chair"
@@ -6833,7 +6833,7 @@
   },
   {
    "id": "aclass-synth-7110-set",
-   "name": "Model 7110 — 3-Piece Set (Sofa + Loveseat + Chair)",
+   "name": "7110 — 3-Pc Set",
    "sku": "7110",
    "cats": [
     "sofa"
@@ -6846,8 +6846,64 @@
    "synth": true
   },
   {
+   "id": "aclass-synth-1111-sofa",
+   "name": "1111 — Sofa",
+   "sku": "1111",
+   "cats": [
+    "sofa"
+   ],
+   "img": "https://www.aclassfurniture.ca/assets/uploads/product_images/1111a.jpg",
+   "gallery": [],
+   "url": "https://www.aclassfurniture.ca",
+   "net": 475.0,
+   "price": "1496",
+   "synth": true
+  },
+  {
+   "id": "aclass-synth-1111-chaise",
+   "name": "1111 — Chaise",
+   "sku": "1111",
+   "cats": [
+    "chaise"
+   ],
+   "img": "https://www.aclassfurniture.ca/assets/uploads/product_images/1111a.jpg",
+   "gallery": [],
+   "url": "https://www.aclassfurniture.ca",
+   "net": 455.0,
+   "price": "1433",
+   "synth": true
+  },
+  {
+   "id": "aclass-synth-1111-loveseat",
+   "name": "1111 — Loveseat",
+   "sku": "1111",
+   "cats": [
+    "loveseat"
+   ],
+   "img": "https://www.aclassfurniture.ca/assets/uploads/product_images/1111a.jpg",
+   "gallery": [],
+   "url": "https://www.aclassfurniture.ca",
+   "net": 455.0,
+   "price": "1433",
+   "synth": true
+  },
+  {
+   "id": "aclass-synth-1111-chair",
+   "name": "1111 — Chair",
+   "sku": "1111",
+   "cats": [
+    "chair"
+   ],
+   "img": "https://www.aclassfurniture.ca/assets/uploads/product_images/1111a.jpg",
+   "gallery": [],
+   "url": "https://www.aclassfurniture.ca",
+   "net": 305.0,
+   "price": "961",
+   "synth": true
+  },
+  {
    "id": "aclass-synth-1212-sofa",
-   "name": "Model 1212 — Sofa",
+   "name": "1212 — Sofa",
    "sku": "1212",
    "cats": [
     "sofa"
@@ -6861,7 +6917,7 @@
   },
   {
    "id": "aclass-synth-1212-chaise",
-   "name": "Model 1212 — Chaise",
+   "name": "1212 — Chaise",
    "sku": "1212",
    "cats": [
     "chaise"
@@ -6875,7 +6931,7 @@
   },
   {
    "id": "aclass-synth-1212-loveseat",
-   "name": "Model 1212 — Loveseat",
+   "name": "1212 — Loveseat",
    "sku": "1212",
    "cats": [
     "loveseat"
@@ -6889,7 +6945,7 @@
   },
   {
    "id": "aclass-synth-1212-chair",
-   "name": "Model 1212 — Chair",
+   "name": "1212 — Chair",
    "sku": "1212",
    "cats": [
     "chair"
@@ -6903,7 +6959,7 @@
   },
   {
    "id": "aclass-synth-1213-sofa",
-   "name": "Model 1213 — Sofa",
+   "name": "1213 — Sofa",
    "sku": "1213",
    "cats": [
     "sofa"
@@ -6917,7 +6973,7 @@
   },
   {
    "id": "aclass-synth-1213-chaise",
-   "name": "Model 1213 — Chaise",
+   "name": "1213 — Chaise",
    "sku": "1213",
    "cats": [
     "chaise"
@@ -6931,7 +6987,7 @@
   },
   {
    "id": "aclass-synth-1213-chair",
-   "name": "Model 1213 — Chair",
+   "name": "1213 — Chair",
    "sku": "1213",
    "cats": [
     "chair"
@@ -6945,7 +7001,7 @@
   },
   {
    "id": "aclass-synth-1220-sofa",
-   "name": "Model 1220 — Sofa",
+   "name": "1220 — Sofa",
    "sku": "1220",
    "cats": [
     "sofa"
@@ -6959,7 +7015,7 @@
   },
   {
    "id": "aclass-synth-1220-chaise",
-   "name": "Model 1220 — Chaise",
+   "name": "1220 — Chaise",
    "sku": "1220",
    "cats": [
     "chaise"
@@ -6973,7 +7029,7 @@
   },
   {
    "id": "aclass-synth-1220-loveseat",
-   "name": "Model 1220 — Loveseat",
+   "name": "1220 — Loveseat",
    "sku": "1220",
    "cats": [
     "loveseat"
@@ -6987,7 +7043,7 @@
   },
   {
    "id": "aclass-synth-1220-chair",
-   "name": "Model 1220 — Chair",
+   "name": "1220 — Chair",
    "sku": "1220",
    "cats": [
     "chair"
@@ -7001,7 +7057,7 @@
   },
   {
    "id": "aclass-synth-1250-sofa",
-   "name": "Model 1250 — Sofa",
+   "name": "1250 — Sofa",
    "sku": "1250",
    "cats": [
     "sofa"
@@ -7015,7 +7071,7 @@
   },
   {
    "id": "aclass-synth-1250-chaise",
-   "name": "Model 1250 — Chaise",
+   "name": "1250 — Chaise",
    "sku": "1250",
    "cats": [
     "chaise"
@@ -7029,7 +7085,7 @@
   },
   {
    "id": "aclass-synth-1250-loveseat",
-   "name": "Model 1250 — Loveseat",
+   "name": "1250 — Loveseat",
    "sku": "1250",
    "cats": [
     "loveseat"
@@ -7043,7 +7099,7 @@
   },
   {
    "id": "aclass-synth-1250-chair",
-   "name": "Model 1250 — Chair",
+   "name": "1250 — Chair",
    "sku": "1250",
    "cats": [
     "chair"
@@ -7057,7 +7113,7 @@
   },
   {
    "id": "aclass-synth-1260-sofa",
-   "name": "Model 1260 — Sofa",
+   "name": "1260 — Sofa",
    "sku": "1260",
    "cats": [
     "sofa"
@@ -7071,7 +7127,7 @@
   },
   {
    "id": "aclass-synth-1260-loveseat",
-   "name": "Model 1260 — Loveseat",
+   "name": "1260 — Loveseat",
    "sku": "1260",
    "cats": [
     "loveseat"
@@ -7085,7 +7141,7 @@
   },
   {
    "id": "aclass-synth-1260-chair",
-   "name": "Model 1260 — Chair",
+   "name": "1260 — Chair",
    "sku": "1260",
    "cats": [
     "chair"
@@ -7099,7 +7155,7 @@
   },
   {
    "id": "aclass-synth-1260-chaise",
-   "name": "Model 1260 — Chaise",
+   "name": "1260 — Chaise",
    "sku": "1260",
    "cats": [
     "chaise"
@@ -7113,7 +7169,7 @@
   },
   {
    "id": "aclass-synth-1270-loveseat",
-   "name": "Model 1270 — Loveseat",
+   "name": "1270 — Loveseat",
    "sku": "1270",
    "cats": [
     "loveseat"
@@ -7127,7 +7183,7 @@
   },
   {
    "id": "aclass-synth-1270-sofa",
-   "name": "Model 1270 — Sofa",
+   "name": "1270 — Sofa",
    "sku": "1270",
    "cats": [
     "sofa"
@@ -7141,7 +7197,7 @@
   },
   {
    "id": "aclass-synth-1270-chair",
-   "name": "Model 1270 — Chair",
+   "name": "1270 — Chair",
    "sku": "1270",
    "cats": [
     "chair"
@@ -7155,7 +7211,7 @@
   },
   {
    "id": "aclass-synth-1270-chaise",
-   "name": "Model 1270 — Chaise",
+   "name": "1270 — Chaise",
    "sku": "1270",
    "cats": [
     "chaise"
@@ -7169,7 +7225,7 @@
   },
   {
    "id": "aclass-synth-1280-chaise",
-   "name": "Model 1280 — Chaise",
+   "name": "1280 — Chaise",
    "sku": "1280",
    "cats": [
     "chaise"
@@ -7183,7 +7239,7 @@
   },
   {
    "id": "aclass-synth-1515-sofa",
-   "name": "Model 1515 — Sofa",
+   "name": "1515 — Sofa",
    "sku": "1515",
    "cats": [
     "sofa"
@@ -7197,7 +7253,7 @@
   },
   {
    "id": "aclass-synth-1515-loveseat",
-   "name": "Model 1515 — Loveseat",
+   "name": "1515 — Loveseat",
    "sku": "1515",
    "cats": [
     "loveseat"
@@ -7211,7 +7267,7 @@
   },
   {
    "id": "aclass-synth-1515-chair",
-   "name": "Model 1515 — Chair",
+   "name": "1515 — Chair",
    "sku": "1515",
    "cats": [
     "chair"
@@ -7225,7 +7281,7 @@
   },
   {
    "id": "aclass-synth-1515-chaise",
-   "name": "Model 1515 — Chaise",
+   "name": "1515 — Chaise",
    "sku": "1515",
    "cats": [
     "chaise"
@@ -7239,7 +7295,7 @@
   },
   {
    "id": "aclass-synth-1525-sofa",
-   "name": "Model 1525 — Sofa",
+   "name": "1525 — Sofa",
    "sku": "1525",
    "cats": [
     "sofa"
@@ -7253,7 +7309,7 @@
   },
   {
    "id": "aclass-synth-1525-chaise",
-   "name": "Model 1525 — Chaise",
+   "name": "1525 — Chaise",
    "sku": "1525",
    "cats": [
     "chaise"
@@ -7267,7 +7323,7 @@
   },
   {
    "id": "aclass-synth-1550-sofa",
-   "name": "Model 1550 — Sofa",
+   "name": "1550 — Sofa",
    "sku": "1550",
    "cats": [
     "sofa"
@@ -7281,7 +7337,7 @@
   },
   {
    "id": "aclass-synth-1550-chaise",
-   "name": "Model 1550 — Chaise",
+   "name": "1550 — Chaise",
    "sku": "1550",
    "cats": [
     "chaise"
@@ -7295,7 +7351,7 @@
   },
   {
    "id": "aclass-synth-1550-chair",
-   "name": "Model 1550 — Chair",
+   "name": "1550 — Chair",
    "sku": "1550",
    "cats": [
     "chair"
@@ -7309,7 +7365,7 @@
   },
   {
    "id": "aclass-synth-1616-sofa",
-   "name": "Model 1616 — Sofa",
+   "name": "1616 — Sofa",
    "sku": "1616",
    "cats": [
     "sofa"
@@ -7323,7 +7379,7 @@
   },
   {
    "id": "aclass-synth-1616-loveseat",
-   "name": "Model 1616 — Loveseat",
+   "name": "1616 — Loveseat",
    "sku": "1616",
    "cats": [
     "loveseat"
@@ -7337,7 +7393,7 @@
   },
   {
    "id": "aclass-synth-1616-chair",
-   "name": "Model 1616 — Chair",
+   "name": "1616 — Chair",
    "sku": "1616",
    "cats": [
     "chair"
@@ -7351,7 +7407,7 @@
   },
   {
    "id": "aclass-synth-1616-chaise",
-   "name": "Model 1616 — Chaise",
+   "name": "1616 — Chaise",
    "sku": "1616",
    "cats": [
     "chaise"
@@ -7365,7 +7421,7 @@
   },
   {
    "id": "aclass-synth-1890-sofa",
-   "name": "Model 1890 — Sofa",
+   "name": "1890 — Sofa",
    "sku": "1890",
    "cats": [
     "sofa"
@@ -7379,7 +7435,7 @@
   },
   {
    "id": "aclass-synth-1890-chaise",
-   "name": "Model 1890 — Chaise",
+   "name": "1890 — Chaise",
    "sku": "1890",
    "cats": [
     "chaise"
@@ -7393,7 +7449,7 @@
   },
   {
    "id": "aclass-synth-2020-chaise",
-   "name": "Model 2020 — Chaise",
+   "name": "2020 — Chaise",
    "sku": "2020",
    "cats": [
     "chaise"
@@ -7407,7 +7463,7 @@
   },
   {
    "id": "aclass-synth-2050-sofa",
-   "name": "Model 2050 — Sofa",
+   "name": "2050 — Sofa",
    "sku": "2050",
    "cats": [
     "sofa"
@@ -7421,7 +7477,7 @@
   },
   {
    "id": "aclass-synth-2060-sectional",
-   "name": "Model 2060 — Sectional",
+   "name": "2060 — Sectional",
    "sku": "2060",
    "cats": [
     "sectional"
@@ -7435,7 +7491,7 @@
   },
   {
    "id": "aclass-synth-2060-sofa",
-   "name": "Model 2060 — Sofa",
+   "name": "2060 — Sofa",
    "sku": "2060",
    "cats": [
     "sofa"
@@ -7449,7 +7505,7 @@
   },
   {
    "id": "aclass-synth-2060-loveseat",
-   "name": "Model 2060 — Loveseat",
+   "name": "2060 — Loveseat",
    "sku": "2060",
    "cats": [
     "loveseat"
@@ -7463,7 +7519,7 @@
   },
   {
    "id": "aclass-synth-2060-chair",
-   "name": "Model 2060 — Chair",
+   "name": "2060 — Chair",
    "sku": "2060",
    "cats": [
     "chair"
@@ -7477,7 +7533,7 @@
   },
   {
    "id": "aclass-synth-2060-chaise",
-   "name": "Model 2060 — Chaise",
+   "name": "2060 — Chaise",
    "sku": "2060",
    "cats": [
     "chaise"
@@ -7491,7 +7547,7 @@
   },
   {
    "id": "aclass-synth-2070-chaise",
-   "name": "Model 2070 — Chaise",
+   "name": "2070 — Chaise",
    "sku": "2070",
    "cats": [
     "chaise"
@@ -7505,7 +7561,7 @@
   },
   {
    "id": "aclass-synth-2121-sofa",
-   "name": "Model 2121 — Sofa",
+   "name": "2121 — Sofa",
    "sku": "2121",
    "cats": [
     "sofa"
@@ -7519,7 +7575,7 @@
   },
   {
    "id": "aclass-synth-2121-chaise",
-   "name": "Model 2121 — Chaise",
+   "name": "2121 — Chaise",
    "sku": "2121",
    "cats": [
     "chaise"
@@ -7533,7 +7589,7 @@
   },
   {
    "id": "aclass-synth-2121-loveseat",
-   "name": "Model 2121 — Loveseat",
+   "name": "2121 — Loveseat",
    "sku": "2121",
    "cats": [
     "loveseat"
@@ -7547,7 +7603,7 @@
   },
   {
    "id": "aclass-synth-2121-chair",
-   "name": "Model 2121 — Chair",
+   "name": "2121 — Chair",
    "sku": "2121",
    "cats": [
     "chair"
@@ -7561,7 +7617,7 @@
   },
   {
    "id": "aclass-synth-2160-chaise",
-   "name": "Model 2160 — Chaise",
+   "name": "2160 — Chaise",
    "sku": "2160",
    "cats": [
     "chaise"
@@ -7575,7 +7631,7 @@
   },
   {
    "id": "aclass-synth-2860-chaise",
-   "name": "Model 2860 — Chaise",
+   "name": "2860 — Chaise",
    "sku": "2860",
    "cats": [
     "chaise"
@@ -7589,7 +7645,7 @@
   },
   {
    "id": "aclass-synth-2870-chaise",
-   "name": "Model 2870 — Chaise",
+   "name": "2870 — Chaise",
    "sku": "2870",
    "cats": [
     "chaise"
@@ -7603,7 +7659,7 @@
   },
   {
    "id": "aclass-synth-2929-sofa",
-   "name": "Model 2929 — Sofa",
+   "name": "2929 — Sofa",
    "sku": "2929",
    "cats": [
     "sofa"
@@ -7617,7 +7673,7 @@
   },
   {
    "id": "aclass-synth-2929-chair",
-   "name": "Model 2929 — Chair",
+   "name": "2929 — Chair",
    "sku": "2929",
    "cats": [
     "chair"
@@ -7631,7 +7687,7 @@
   },
   {
    "id": "aclass-synth-2929-chaise",
-   "name": "Model 2929 — Chaise",
+   "name": "2929 — Chaise",
    "sku": "2929",
    "cats": [
     "chaise"
@@ -7645,7 +7701,7 @@
   },
   {
    "id": "aclass-synth-2933-sofa",
-   "name": "Model 2933 — Sofa",
+   "name": "2933 — Sofa",
    "sku": "2933",
    "cats": [
     "sofa"
@@ -7659,7 +7715,7 @@
   },
   {
    "id": "aclass-synth-2933-chair",
-   "name": "Model 2933 — Chair",
+   "name": "2933 — Chair",
    "sku": "2933",
    "cats": [
     "chair"
@@ -7673,7 +7729,7 @@
   },
   {
    "id": "aclass-synth-2933-chaise",
-   "name": "Model 2933 — Chaise",
+   "name": "2933 — Chaise",
    "sku": "2933",
    "cats": [
     "chaise"
@@ -7687,7 +7743,7 @@
   },
   {
    "id": "aclass-synth-2935-sofa",
-   "name": "Model 2935 — Sofa",
+   "name": "2935 — Sofa",
    "sku": "2935",
    "cats": [
     "sofa"
@@ -7701,7 +7757,7 @@
   },
   {
    "id": "aclass-synth-2935-chair",
-   "name": "Model 2935 — Chair",
+   "name": "2935 — Chair",
    "sku": "2935",
    "cats": [
     "chair"
@@ -7715,7 +7771,7 @@
   },
   {
    "id": "aclass-synth-2935-chaise",
-   "name": "Model 2935 — Chaise",
+   "name": "2935 — Chaise",
    "sku": "2935",
    "cats": [
     "chaise"
@@ -7729,7 +7785,7 @@
   },
   {
    "id": "aclass-synth-4253-chaise",
-   "name": "Model 4253 — Chaise",
+   "name": "4253 — Chaise",
    "sku": "4253",
    "cats": [
     "chaise"
@@ -7743,7 +7799,7 @@
   },
   {
    "id": "aclass-synth-4253-chair",
-   "name": "Model 4253 — Chair",
+   "name": "4253 — Chair",
    "sku": "4253",
    "cats": [
     "chair"
@@ -7757,7 +7813,7 @@
   },
   {
    "id": "aclass-synth-4253-sofa",
-   "name": "Model 4253 — Sofa",
+   "name": "4253 — Sofa",
    "sku": "4253",
    "cats": [
     "sofa"
@@ -7771,7 +7827,7 @@
   },
   {
    "id": "aclass-synth-5100-chaise",
-   "name": "Model 5100 — Chaise",
+   "name": "5100 — Chaise",
    "sku": "5100",
    "cats": [
     "chaise"
@@ -7785,7 +7841,7 @@
   },
   {
    "id": "aclass-synth-5155-sofa",
-   "name": "Model 5155 — Sofa",
+   "name": "5155 — Sofa",
    "sku": "5155",
    "cats": [
     "sofa"
@@ -7799,7 +7855,7 @@
   },
   {
    "id": "aclass-synth-5155-chaise",
-   "name": "Model 5155 — Chaise",
+   "name": "5155 — Chaise",
    "sku": "5155",
    "cats": [
     "chaise"
@@ -7813,7 +7869,7 @@
   },
   {
    "id": "aclass-synth-5155-chair",
-   "name": "Model 5155 — Chair",
+   "name": "5155 — Chair",
    "sku": "5155",
    "cats": [
     "chair"
@@ -7827,7 +7883,7 @@
   },
   {
    "id": "aclass-synth-5370-chaise",
-   "name": "Model 5370 — Chaise",
+   "name": "5370 — Chaise",
    "sku": "5370",
    "cats": [
     "chaise"
@@ -7841,7 +7897,7 @@
   },
   {
    "id": "aclass-synth-401-chair",
-   "name": "Model 401 — Chair",
+   "name": "401 — Chair",
    "sku": "401",
    "cats": [
     "chair"
@@ -7855,7 +7911,7 @@
   },
   {
    "id": "aclass-synth-405-chair",
-   "name": "Model 405 — Chair",
+   "name": "405 — Chair",
    "sku": "405",
    "cats": [
     "chair"
@@ -7869,7 +7925,7 @@
   },
   {
    "id": "aclass-synth-407-chair",
-   "name": "Model 407 — Chair",
+   "name": "407 — Chair",
    "sku": "407",
    "cats": [
     "chair"
@@ -7883,7 +7939,7 @@
   },
   {
    "id": "aclass-synth-408-chair",
-   "name": "Model 408 — Chair",
+   "name": "408 — Chair",
    "sku": "408",
    "cats": [
     "chair"
@@ -7897,7 +7953,7 @@
   },
   {
    "id": "aclass-synth-409-chair",
-   "name": "Model 409 — Chair",
+   "name": "409 — Chair",
    "sku": "409",
    "cats": [
     "chair"
@@ -7911,7 +7967,7 @@
   },
   {
    "id": "aclass-synth-412-chair",
-   "name": "Model 412 — Chair",
+   "name": "412 — Chair",
    "sku": "412",
    "cats": [
     "chair"
@@ -7925,7 +7981,7 @@
   },
   {
    "id": "aclass-synth-413-chair",
-   "name": "Model 413 — Chair",
+   "name": "413 — Chair",
    "sku": "413",
    "cats": [
     "chair"
@@ -7939,7 +7995,7 @@
   },
   {
    "id": "aclass-synth-415-chair",
-   "name": "Model 415 — Chair",
+   "name": "415 — Chair",
    "sku": "415",
    "cats": [
     "chair"
@@ -7953,7 +8009,7 @@
   },
   {
    "id": "aclass-synth-426-chair",
-   "name": "Model 426 — Chair",
+   "name": "426 — Chair",
    "sku": "426",
    "cats": [
     "chair"
@@ -7967,7 +8023,7 @@
   },
   {
    "id": "aclass-synth-427-chair",
-   "name": "Model 427 — Chair",
+   "name": "427 — Chair",
    "sku": "427",
    "cats": [
     "chair"
@@ -7981,7 +8037,7 @@
   },
   {
    "id": "aclass-synth-428-chair",
-   "name": "Model 428 — Chair",
+   "name": "428 — Chair",
    "sku": "428",
    "cats": [
     "chair"
@@ -7995,7 +8051,7 @@
   },
   {
    "id": "aclass-synth-429-chair",
-   "name": "Model 429 — Chair",
+   "name": "429 — Chair",
    "sku": "429",
    "cats": [
     "chair"
@@ -8008,8 +8064,22 @@
    "synth": true
   },
   {
+   "id": "aclass-synth-430-chair",
+   "name": "430 — Chair",
+   "sku": "430",
+   "cats": [
+    "chair"
+   ],
+   "img": "https://www.aclassfurniture.ca/assets/uploads/product_images/430.jpg",
+   "gallery": [],
+   "url": "https://www.aclassfurniture.ca",
+   "net": 400.0,
+   "price": "1260",
+   "synth": true
+  },
+  {
    "id": "aclass-synth-431-chair",
-   "name": "Model 431 — Chair",
+   "name": "431 — Chair",
    "sku": "431",
    "cats": [
     "chair"
@@ -8023,7 +8093,7 @@
   },
   {
    "id": "aclass-synth-435-chair",
-   "name": "Model 435 — Chair",
+   "name": "435 — Chair",
    "sku": "435",
    "cats": [
     "chair"
@@ -8037,7 +8107,7 @@
   },
   {
    "id": "aclass-synth-440-chair",
-   "name": "Model 440 — Chair",
+   "name": "440 — Chair",
    "sku": "440",
    "cats": [
     "chair"
@@ -8050,8 +8120,22 @@
    "synth": true
   },
   {
+   "id": "aclass-synth-445-chair",
+   "name": "445 — Chair",
+   "sku": "445",
+   "cats": [
+    "chair"
+   ],
+   "img": "https://www.aclassfurniture.ca/assets/uploads/product_images/445.jpg",
+   "gallery": [],
+   "url": "https://www.aclassfurniture.ca",
+   "net": 400.0,
+   "price": "1260",
+   "synth": true
+  },
+  {
    "id": "aclass-synth-455-chair",
-   "name": "Model 455 — Chair",
+   "name": "455 — Chair",
    "sku": "455",
    "cats": [
     "chair"
@@ -8064,8 +8148,36 @@
    "synth": true
   },
   {
+   "id": "aclass-synth-457-chair",
+   "name": "457 — Chair",
+   "sku": "457",
+   "cats": [
+    "chair"
+   ],
+   "img": "https://www.aclassfurniture.ca/assets/uploads/product_images/457a.jpg",
+   "gallery": [],
+   "url": "https://www.aclassfurniture.ca",
+   "net": 400.0,
+   "price": "1260",
+   "synth": true
+  },
+  {
+   "id": "aclass-synth-458-chair",
+   "name": "458 — Chair",
+   "sku": "458",
+   "cats": [
+    "chair"
+   ],
+   "img": "https://www.aclassfurniture.ca/assets/uploads/product_images/458.jpg",
+   "gallery": [],
+   "url": "https://www.aclassfurniture.ca",
+   "net": 400.0,
+   "price": "1260",
+   "synth": true
+  },
+  {
    "id": "aclass-synth-459-chair",
-   "name": "Model 459 — Chair",
+   "name": "459 — Chair",
    "sku": "459",
    "cats": [
     "chair"
@@ -8079,7 +8191,7 @@
   },
   {
    "id": "aclass-synth-465-chair",
-   "name": "Model 465 — Chair",
+   "name": "465 — Chair",
    "sku": "465",
    "cats": [
     "chair"
@@ -8093,7 +8205,7 @@
   },
   {
    "id": "aclass-synth-480-chair",
-   "name": "Model 480 — Chair",
+   "name": "480 — Chair",
    "sku": "480",
    "cats": [
     "chair"
@@ -8106,8 +8218,22 @@
    "synth": true
   },
   {
+   "id": "aclass-synth-495-chair",
+   "name": "495 — Chair",
+   "sku": "495",
+   "cats": [
+    "chair"
+   ],
+   "img": "https://www.aclassfurniture.ca/assets/uploads/product_images/495a.jpg",
+   "gallery": [],
+   "url": "https://www.aclassfurniture.ca",
+   "net": 400.0,
+   "price": "1260",
+   "synth": true
+  },
+  {
    "id": "aclass-synth-2192-chair",
-   "name": "Model 2192 — Chair",
+   "name": "2192 — Chair",
    "sku": "2192",
    "cats": [
     "chair"
@@ -8121,7 +8247,7 @@
   },
   {
    "id": "aclass-synth-2380-chaise",
-   "name": "Model 2380 — Chaise",
+   "name": "2380 — Chaise",
    "sku": "2380",
    "cats": [
     "chaise"
@@ -8135,7 +8261,7 @@
   },
   {
    "id": "aclass-synth-2390-chaise",
-   "name": "Model 2390 — Chaise",
+   "name": "2390 — Chaise",
    "sku": "2390",
    "cats": [
     "chaise"
@@ -8148,8 +8274,22 @@
    "synth": true
   },
   {
+   "id": "aclass-synth-501-ottoman",
+   "name": "501 — Ottoman",
+   "sku": "501",
+   "cats": [
+    "ottoman"
+   ],
+   "img": "https://www.aclassfurniture.ca/assets/uploads/product_images/501a.jpg",
+   "gallery": [],
+   "url": "https://www.aclassfurniture.ca",
+   "net": 325.0,
+   "price": "1024",
+   "synth": true
+  },
+  {
    "id": "aclass-synth-502-ottoman",
-   "name": "Model 502 — Ottoman",
+   "name": "502 — Ottoman",
    "sku": "502",
    "cats": [
     "ottoman"
@@ -8163,7 +8303,7 @@
   },
   {
    "id": "aclass-synth-503-ottoman",
-   "name": "Model 503 — Ottoman",
+   "name": "503 — Ottoman",
    "sku": "503",
    "cats": [
     "ottoman"
@@ -8177,7 +8317,7 @@
   },
   {
    "id": "aclass-synth-505-ottoman",
-   "name": "Model 505 — Ottoman",
+   "name": "505 — Ottoman",
    "sku": "505",
    "cats": [
     "ottoman"
@@ -8191,7 +8331,7 @@
   },
   {
    "id": "aclass-synth-510-ottoman",
-   "name": "Model 510 — Ottoman",
+   "name": "510 — Ottoman",
    "sku": "510",
    "cats": [
     "ottoman"
@@ -8205,7 +8345,7 @@
   },
   {
    "id": "aclass-synth-520-ottoman",
-   "name": "Model 520 — Ottoman",
+   "name": "520 — Ottoman",
    "sku": "520",
    "cats": [
     "ottoman"
@@ -8219,7 +8359,7 @@
   },
   {
    "id": "aclass-synth-540-ottoman",
-   "name": "Model 540 — Ottoman",
+   "name": "540 — Ottoman",
    "sku": "540",
    "cats": [
     "ottoman"
@@ -8233,7 +8373,7 @@
   },
   {
    "id": "aclass-synth-544-ottoman",
-   "name": "Model 544 — Ottoman",
+   "name": "544 — Ottoman",
    "sku": "544",
    "cats": [
     "ottoman"
@@ -8247,7 +8387,7 @@
   },
   {
    "id": "aclass-synth-550-ottoman",
-   "name": "Model 550 — Ottoman",
+   "name": "550 — Ottoman",
    "sku": "550",
    "cats": [
     "ottoman"
@@ -8261,7 +8401,7 @@
   },
   {
    "id": "aclass-synth-550-sofa",
-   "name": "Model 550 — Sofa",
+   "name": "550 — Sofa",
    "sku": "550",
    "cats": [
     "sofa"

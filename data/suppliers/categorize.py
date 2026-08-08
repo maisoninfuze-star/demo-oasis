@@ -120,7 +120,35 @@ KEYWORDS = [
     (r'\btable\b', ('living-room', 'accent-tables')),
 ]
 
+SET_RE = re.compile(r'\b(set|ensemble|complete|\d\s*-?\s*(pc|pcs|piece|pieces))\b', re.I)
+PIECE_RE = [
+    (re.compile(r'\bnight ?stand\b', re.I), ('bed-room', 'nightstands')),
+    (re.compile(r'\bdresser|\barmoire\b', re.I), ('bed-room', 'dressers')),
+    (re.compile(r'\bchest\b', re.I), ('bed-room', 'chests')),
+    (re.compile(r'\bmirror\b', re.I), ('decor', 'mirrors')),
+    (re.compile(r'\bheadboard', re.I), ('bed-room', 'headboards')),
+    (re.compile(r'\bmattress', re.I), ('bed-room', 'mattresses')),
+    (re.compile(r'\bbunk\b|\btrundle\b|\byouth\b|\bkids?\b', re.I), ('bed-room', 'youth')),
+    (re.compile(r'\bbed\b|\bdaybed\b', re.I), ('bed-room', 'beds')),
+]
+
+def split_set_or_piece(top, sub, name):
+    """bedroom-sets is for genuine multi-piece sets only; a single dresser or
+    nightstand belongs in its own subcategory so shoppers can browse pieces."""
+    if (top, sub) != ('bed-room', 'bedroom-sets'):
+        return top, sub
+    n = str(name or '')
+    if SET_RE.search(n):
+        return top, sub
+    for rx, dest in PIECE_RE:
+        if rx.search(n):
+            return dest
+    return 'bed-room', 'beds'      # a named collection with no piece word = the bed
+
 def classify(cats, name):
+    return split_set_or_piece(*_classify_raw(cats, name), name)
+
+def _classify_raw(cats, name):
     for c in cats or []:
         if c in M:
             return M[c]
@@ -205,6 +233,25 @@ for slug in FILES:
             if it.get('retail'): row['retail'] = it.get('retail')
             if it.get('clearance'): row['clearance'] = True
         buckets[top].append(row)
+
+# ---- 2b. image honesty: an image shared across many DISTINCT skus is a
+#         category tile / placeholder, not a product photo. Drop it so those
+#         items show "photo pending" instead of misrepresenting the product.
+#         (Same sku with several configs legitimately shares one photo.)
+_imgskus = defaultdict(set)
+for top, rows in buckets.items():
+    for r in rows:
+        if r.get('img'):
+            _imgskus[r['img']].add(str(r.get('sku') or r.get('ref') or r.get('id')))
+_placeholders = {img for img, skus in _imgskus.items() if len(skus) >= 4}
+_blanked = 0
+for rows in buckets.values():
+    for r in rows:
+        if r.get('img') in _placeholders:
+            r.pop('img', None); r.pop('img_src', None); r.pop('gallery', None)
+            _blanked += 1
+if _placeholders:
+    print(f'blanked {_blanked} items on {len(_placeholders)} placeholder images')
 
 # ---- 3. write per-top files + index ----
 index = {'tops': [], 'brands': BRANDS}

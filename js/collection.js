@@ -171,6 +171,24 @@
     if (state.sort === 'price-desc') view.sort((a, b) => (parseFloat(b.price ?? -1)) - (parseFloat(a.price ?? -1)));
     /* Two sections when no price filter is active: live prices first,
        then price-on-request — each with a full-width header row. */
+    /* Department view leads with complete sets, then individual pieces —
+       a shopper furnishing a room wants the set; someone replacing one piece
+       wants the rest. Both are one scroll apart. */
+    const SETSUB = { 'bed-room': 'bedroom-sets', 'dining-room': 'dining-sets', 'living-room': 'living-sets' }[top];
+    if (SETSUB && state.sub === 'all' && state.price === 'all' && !state.q) {
+      const sets = view.filter(it => it.sub === SETSUB);
+      const rest = view.filter(it => it.sub !== SETSUB);
+      if (sets.length && rest.length) {
+        view = [
+          { _hdr: true, kind: 'sets', n: sets.length }, ...sets,
+          { _hdr: true, kind: 'pieces', n: rest.length }, ...rest
+        ];
+        grid.innerHTML = ''; shown = 0;
+        $('#pcount').textContent = (sets.length + rest.length).toLocaleString();
+        renderMore();
+        return;
+      }
+    }
     if (state.price === 'all') {
       const priced = view.filter(it => it.price);
       const request = view.filter(it => !it.price);
@@ -189,6 +207,17 @@
 
   function headerHTML(h) {
     const fr = L() === 'fr';
+    if (h.kind === 'sets' || h.kind === 'pieces') {
+      const t = h.kind === 'sets'
+        ? (fr ? 'Ensembles complets' : 'Complete sets')
+        : (fr ? 'Pièces individuelles' : 'Individual pieces');
+      const sb = h.kind === 'sets'
+        ? (fr ? 'Tout ce qu’il faut pour la pièce, en un seul achat.'
+              : 'Everything for the room, bought once.')
+        : (fr ? 'Lits, commodes, tables de nuit et coffres — vendus séparément.'
+              : 'Beds, dressers, nightstands and chests — sold individually.');
+      return `<div class="grid-sec"><h3>${t} · ${h.n.toLocaleString()}</h3><p>${sb}</p></div>`;
+    }
     const title = h.kind === 'priced'
       ? (fr ? 'Prix affichés' : 'Live prices')
       : (fr ? 'Sur demande' : 'Price on request');

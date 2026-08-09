@@ -121,17 +121,7 @@
     btn.disabled = true;
     span.textContent = T('Sending…', 'Envoi…');
 
-    let ok = false;
-    if (CFG.leadWebhook) {
-      try {
-        const r = await fetch(CFG.leadWebhook, {
-          method: 'POST',
-          headers: { 'Content-Type': 'application/json' },
-          body: JSON.stringify(payload)
-        });
-        ok = r.ok;
-      } catch (err) { ok = false; }
-    }
+    const ok = await (window.OasisCRM?.send(payload) ?? Promise.resolve(false));
 
     if (ok) {
       done(kind);
@@ -208,9 +198,7 @@
     if (!/^[^@\s]+@[^@\s]+\.[^@\s]+$/.test(input.value)) { input.focus(); return; }
     btn.disabled = true;
     const payload = { email: input.value, type: 'newsletter', language: L(), source: 'galerieoasis.ca' };
-    if (CFG.leadWebhook) {
-      try { await fetch(CFG.leadWebhook, { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(payload) }); } catch (err) {}
-    }
+    await (window.OasisCRM?.send(payload) ?? Promise.resolve(false));
     f.innerHTML = `<p class="news-done">${T('You’re on the list — welcome.', 'Vous êtes inscrit — bienvenue.')}</p>`;
   }));
 

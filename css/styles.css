@@ -963,3 +963,42 @@ html.has-promo .purch{padding-top:calc(9rem + 44px)}
 .nav__buy{background:var(--gold);color:var(--black) !important;border-radius:2rem;padding:.45rem 1rem !important;font-weight:500}
 .nav__buy::after{display:none !important}
 .nav__buy:hover{background:var(--cream)}
+
+/* ---------- Customer account ---------- */
+.acct__card{max-width:640px;margin:0 auto;border:1px solid var(--line-gold);border-radius:6px;
+  padding:2.4rem 2rem;background:rgba(198,166,98,.04)}
+.acct__hello{font-size:.7rem;letter-spacing:.18em;text-transform:uppercase;color:var(--gold)}
+.acct__card h2{font-family:'Cormorant Garamond',serif;font-size:2rem;font-weight:400;margin:.3rem 0 1.4rem}
+.acct__dl{display:grid;gap:.9rem;margin-bottom:1.8rem}
+.acct__dl div{display:flex;justify-content:space-between;gap:1rem;border-bottom:1px solid rgba(198,166,98,.16);padding-bottom:.6rem}
+.acct__dl dt{font-size:.7rem;letter-spacing:.12em;text-transform:uppercase;opacity:.6}
+.acct__dl dd{font-size:.92rem;text-align:right}
+.acct__actions{display:flex;flex-wrap:wrap;gap:.7rem;align-items:center}
+.acct__link{background:none;border:0;color:var(--gold);font-family:inherit;font-size:.8rem;
+  cursor:pointer;text-decoration:underline;text-underline-offset:3px;padding:.4rem}
+.acct__link:hover{opacity:.75}
+.acct__form{max-width:560px;margin:0 auto;display:grid;gap:1.1rem}
+.acct__form label{display:grid;gap:.4rem}
+.acct__form label>span{font-size:.7rem;letter-spacing:.12em;text-transform:uppercase;opacity:.7}
+.acct__form input[type=text],.acct__form input[type=email],.acct__form input[type=tel],.acct__form input:not([type]){
+  background:transparent;border:1px solid var(--line-gold);border-radius:3px;color:inherit;
+  font-family:inherit;font-size:.95rem;padding:.75rem .9rem}
+.acct__form input:focus{outline:none;border-color:var(--gold)}
+.acct__chips{border:0;padding:0;margin:0}
+.acct__chips legend{font-size:.7rem;letter-spacing:.12em;text-transform:uppercase;opacity:.7;margin-bottom:.6rem}
+.acct__form .acct__chip{display:inline-flex;align-items:center;gap:.5rem;border:1px solid var(--line-gold);
+  border-radius:2rem;padding:.45rem 1rem;margin:0 .45rem .5rem 0;cursor:pointer;font-size:.82rem;
+  width:auto;transition:background .2s,color .2s}
+.acct__form .acct__chip>span{font-size:.82rem;letter-spacing:.02em;text-transform:none;opacity:1}
+.acct__chip input{accent-color:var(--gold)}
+.acct__chip:has(input:checked){background:var(--gold);color:var(--black);border-color:var(--gold)}
+.acct__form .acct__consent{display:flex;flex-direction:row;align-items:flex-start;gap:.6rem;font-size:.82rem;line-height:1.5}
+.acct__form .acct__consent>span{font-size:.82rem;letter-spacing:.02em;text-transform:none;opacity:.85}
+.acct__consent input{margin-top:.2rem;accent-color:var(--gold)}
+.acct__note{font-size:.75rem;opacity:.6;line-height:1.5;margin:0}
+.acct__err{color:#e0836b;font-size:.82rem;margin:0}
+@media(max-width:600px){.acct__dl div{flex-direction:column;gap:.2rem}.acct__dl dd{text-align:left}}
+.head__acct{font-size:.72rem;letter-spacing:.14em;text-transform:uppercase;color:inherit;
+  text-decoration:none;opacity:.85;margin-right:.2rem;white-space:nowrap}
+.head__acct:hover{opacity:1;color:var(--gold)}
+@media(max-width:720px){.head__acct{display:none}}

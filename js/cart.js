@@ -149,11 +149,7 @@
     /* >>> Stripe integration point: replace the block below with a
        redirect to the Stripe Checkout session once keys are configured. */
     const btn = f.querySelector('button'); btn.disabled = true;
-    let ok = false;
-    if (CFG.leadWebhook) {
-      try { ok = (await fetch(CFG.leadWebhook, { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(payload) })).ok; }
-      catch (err) { ok = false; }
-    }
+    const ok = await (window.OasisCRM?.send(payload) ?? Promise.resolve(false));
     if (!ok) {
       const lines = [`${T('Order', 'Commande')}:`, ...cart.map(it => ` - ${it.qty}x ${it.name}${it.sku ? ' [' + it.sku + ']' : ''} — $${it.price}`),
         '', `${T('Subtotal', 'Sous-total')}: $${sub.toFixed(2)}`, `Name: ${data.name}`, `Email: ${data.email}`, `Phone: ${data.phone}`, `Address: ${data.address}`].join('\n');

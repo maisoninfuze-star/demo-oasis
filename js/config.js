@@ -11,6 +11,11 @@ window.OASIS_CONFIG = {
      so keep spam filtering / required fields on the GHL side. */
   leadWebhook: 'https://services.leadconnectorhq.com/hooks/3WZJmfyOZdm174uTBbc8/webhook-trigger/6beda3ad-3cf8-419b-b759-10afe76dd602',
 
+  /* Account signups go to their own GHL workflow so they can be tagged and
+     nurtured separately from orders and quote requests. Falls back to
+     leadWebhook if left null. */
+  accountWebhook: 'https://services.leadconnectorhq.com/hooks/3WZJmfyOZdm174uTBbc8/webhook-trigger/c66f431d-82df-4e8f-b9b5-43e3673acf74',
+
   storeEmail: 'galerieoasis@bellnet.ca',
   storePhone: '+14509730000',
   storePhoneDisplay: '+1 (450) 973-0000',
@@ -47,5 +52,5 @@ window.OASIS_CONFIG = {
     ctaEn: 'Shop the event', ctaFr: 'Profiter de l’offre'
   },
 
-  dataVersion: '20260808d'
+  dataVersion: '20260808e'
 };

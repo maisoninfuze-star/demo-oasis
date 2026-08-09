@@ -3,10 +3,13 @@
    =========================================================== */
 window.OASIS_CONFIG = {
   /* Where enquiries are sent.
-     Set to Galerie Oasis's OWN GoHighLevel webhook (or any endpoint that
-     accepts a JSON POST). Leave null and forms fall back to opening the
-     customer's mail app addressed to the store — no lead is ever lost. */
-  leadWebhook: null,
+     Galerie Oasis's own GoHighLevel inbound webhook. Every form (quote,
+     visit, newsletter, account, order) POSTs JSON here and GHL creates or
+     updates the contact. If the request ever fails, the form falls back to
+     opening the customer's mail app addressed to the store — no lead is lost.
+     Note: an inbound webhook URL is public by design (it ships in the page),
+     so keep spam filtering / required fields on the GHL side. */
+  leadWebhook: 'https://services.leadconnectorhq.com/hooks/3WZJmfyOZdm174uTBbc8/webhook-trigger/6beda3ad-3cf8-419b-b759-10afe76dd602',
 
   storeEmail: 'galerieoasis@bellnet.ca',
   storePhone: '+14509730000',

@@ -65,20 +65,26 @@
   const params = new URLSearchParams(location.search);
   const top = TOP_LABEL[params.get('cat')] ? params.get('cat') : 'all';
 
-  /* hero text */
+  /* hero text — "On request" is its own destination, so it gets its own hero;
+     otherwise the department decides. Priced items are NOT a category: they
+     live in their real department alongside everything else. */
   const t = $('.col-hero__title');
-  const PRICE_HERO = {
-    priced:  { en: ['Ready to', 'Order'], fr: ['Prêt à', 'commander'] },
-    request: { en: ['Made for', 'You'],   fr: ['Fait pour', 'vous'] },
+  const REQUEST_HERO = { en: ['On', 'Request'], fr: ['Sur', 'demande'] };
+  const REQUEST_SUB = {
+    en: 'Pieces we price for you the same day — tell us the model and we confirm your price, fabric and lead time.',
+    fr: 'Des pièces dont nous confirmons le prix le jour même — dites-nous le modèle et nous confirmons prix, tissu et délai.'
   };
+  const isRequest = () => state.price === 'request';
   const heroPair = () => {
-    const p = (top === 'all' && PRICE_HERO[state.price]) ? PRICE_HERO[state.price][L()] : TOP_LABEL[top][L()];
+    const p = isRequest() ? REQUEST_HERO[L()] : TOP_LABEL[top][L()];
     if (t) t.innerHTML = `<span>${p[0]}</span> <em>${p[1]}</em>`;
   };
   const sub = $('.col-hero__sub');
-  const heroSub = () => { if (sub) sub.textContent = TOP_SUB[top][L()]; };
+  const heroSub = () => { if (sub) sub.textContent = isRequest() ? REQUEST_SUB[L()] : TOP_SUB[top][L()]; };
   const crumbLast = $('.crumb span');
-  const heroCrumb = () => { if (crumbLast) crumbLast.textContent = TOP_LABEL[top][L()].join(' '); };
+  const heroCrumb = () => {
+    if (crumbLast) crumbLast.textContent = isRequest() ? REQUEST_HERO[L()].join(' ') : TOP_LABEL[top][L()].join(' ');
+  };
 
   /* ---------- state ---------- */
   let index = null, items = [], view = [], shown = 0;
@@ -102,7 +108,11 @@
     $('#fltSearch').addEventListener('input', e => { clearTimeout(window.__fd);
       window.__fd = setTimeout(() => { state.q = e.target.value; apply(); }, 200); });
     $('#fltBrand').addEventListener('change', e => { state.brand = e.target.value; apply(); });
-    $('#fltPrice').addEventListener('change', e => { state.price = e.target.value; apply(); });
+    $('#fltPrice').addEventListener('change', e => {
+      state.price = e.target.value;
+      heroPair(); heroSub(); heroCrumb();   // "On request" swaps the hero
+      apply();
+    });
     $('#fltSort').addEventListener('change', e => { state.sort = e.target.value; apply(); });
     syncControlLabels();
   }
@@ -189,16 +199,6 @@
         return;
       }
     }
-    if (state.price === 'all') {
-      const priced = view.filter(it => it.price);
-      const request = view.filter(it => !it.price);
-      if (priced.length && request.length) {
-        view = [
-          { _hdr: true, kind: 'priced', n: priced.length }, ...priced,
-          { _hdr: true, kind: 'request', n: request.length }, ...request
-        ];
-      }
-    }
     grid.innerHTML = '';
     shown = 0;
     $('#pcount').textContent = view.filter(it => !it._hdr).length.toLocaleString();
@@ -218,18 +218,7 @@
               : 'Beds, dressers, nightstands and chests — sold individually.');
       return `<div class="grid-sec"><h3>${t} · ${h.n.toLocaleString()}</h3><p>${sb}</p></div>`;
     }
-    const title = h.kind === 'priced'
-      ? (fr ? 'Prix affichés' : 'Live prices')
-      : (fr ? 'Sur demande' : 'Price on request');
-    const sub = h.kind === 'priced'
-      ? (fr ? 'Prêts à commander — de notre entrepôt et des listes de prix de nos partenaires.'
-            : 'Order-ready — from our warehouse and our partners\' pricelists.')
-      : (fr ? 'Nous confirmons le prix le jour même — demandez un devis en un clic.'
-            : 'We confirm pricing the same day — request a quote in one click.');
-    const jump = h.kind === 'priced'
-      ? `<button class="grid-sec__jump" data-jump="request">${fr ? 'Voir les articles sur demande →' : 'Skip to on-request items →'}</button>`
-      : `<button class="grid-sec__jump" data-jump="priced">${fr ? '← Voir les prix affichés' : '← Back to live prices'}</button>`;
-    return `<div class="grid-sec"><div><h3>${title} · ${h.n.toLocaleString()}</h3><p>${sub}</p></div>${jump}</div>`;
+    return '';
   }
 
   const money = n => { n = parseFloat(n); return isNaN(n) ? '' : '$' + (n % 1 ? n.toFixed(2) : n.toLocaleString('en-CA')); };
@@ -257,16 +246,6 @@
       ? `<div class="pcard pcard--buy">${inner}</div>`
       : `<a class="pcard pcard--ask" href="#" data-name="${it.name.replace(/"/g,'&quot;')}" data-brand="${brandName}">${inner}</a>`;
   }
-
-  grid.addEventListener('click', e => {
-    const j = e.target.closest('.grid-sec__jump');
-    if (!j) return;
-    e.preventDefault();
-    state.price = j.dataset.jump === 'request' ? 'request' : 'priced';
-    const sel = $('#fltPrice'); if (sel) sel.value = state.price;
-    apply();
-    window.scrollTo({ top: grid.getBoundingClientRect().top + scrollY - 140, behavior: 'smooth' });
-  });
 
   function renderMore() {
     const next = view.slice(shown, shown + BATCH);

@@ -2,109 +2,109 @@
  "tops": [
   {
    "slug": "living-room",
-   "count": 2094,
+   "count": 1787,
    "subs": {
-    "accent-tables": 609,
-    "chairs": 403,
-    "sofas": 376,
-    "loveseats": 140,
-    "coffee-tables": 134,
+    "accent-tables": 529,
+    "sofas": 371,
+    "chairs": 309,
+    "coffee-tables": 133,
     "sectionals": 95,
-    "tv-media": 82,
-    "living-sets": 65,
-    "ottomans": 57,
-    "chaises": 37,
-    "end-tables": 35,
+    "tv-media": 81,
+    "living-sets": 59,
+    "ottomans": 56,
+    "loveseats": 55,
+    "end-tables": 34,
     "recliners": 22,
     "console-tables": 21,
-    "sofa-beds": 18
+    "sofa-beds": 18,
+    "chaises": 4
    },
    "brands": {
     "monarch": 867,
-    "aclass": 506,
-    "matrix": 240,
+    "aclass": 304,
+    "matrix": 225,
     "glory": 154,
-    "mazin": 123,
     "oasis": 112,
     "sofabyfancy": 85,
+    "mazin": 33,
     "creative": 6,
     "titus": 1
    }
   },
   {
    "slug": "dining-room",
-   "count": 906,
+   "count": 915,
    "subs": {
-    "dining-sets": 518,
-    "dining-chairs": 211,
-    "dining-tables": 175,
+    "dining-sets": 481,
+    "dining-tables": 220,
+    "dining-chairs": 212,
     "buffets": 2
    },
    "brands": {
+    "monarch": 295,
     "creative": 257,
-    "monarch": 249,
     "glory": 145,
     "titus": 118,
-    "mazin": 61,
-    "matrix": 59,
+    "matrix": 58,
+    "mazin": 25,
     "oasis": 17
    }
   },
   {
    "slug": "bed-room",
-   "count": 1303,
+   "count": 1213,
    "subs": {
-    "beds": 442,
-    "nightstands": 368,
-    "bedroom-sets": 196,
-    "dressers": 161,
-    "chests": 93,
+    "beds": 434,
+    "nightstands": 344,
+    "bedroom-sets": 190,
+    "dressers": 138,
+    "chests": 70,
     "headboards": 20,
-    "youth": 15,
+    "youth": 9,
     "mattresses": 8
    },
    "brands": {
-    "matrix": 558,
+    "matrix": 540,
     "monarch": 416,
     "titus": 162,
-    "mazin": 115,
+    "mazin": 43,
     "glory": 31,
     "oasis": 21
    }
   },
   {
    "slug": "office",
-   "count": 481,
+   "count": 457,
    "subs": {
-    "desks": 325,
+    "desks": 301,
     "bookcases": 119,
     "office-chairs": 37
    },
    "brands": {
     "monarch": 436,
-    "mazin": 45
+    "mazin": 21
    }
   },
   {
    "slug": "decor",
-   "count": 1442,
+   "count": 1421,
    "subs": {
-    "decor-objects": 573,
+    "decor-objects": 570,
     "lighting": 456,
     "accent-furniture": 136,
     "plants": 97,
     "figurines": 77,
     "wall-decor": 75,
-    "mirrors": 28
+    "mirrors": 10
    },
    "brands": {
     "monarch": 831,
     "creative": 279,
     "titus": 188,
     "sofabyfancy": 89,
-    "mazin": 23,
     "glory": 20,
-    "matrix": 12
+    "matrix": 9,
+    "mazin": 5
    }
   },
   {

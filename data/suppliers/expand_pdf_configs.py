@@ -50,6 +50,38 @@ try: AC_FOUND = _j.load(open('/tmp/ac_found.json'))
 except Exception: AC_FOUND = {}
 report = {}
 
+# A synthesized config must not wear another piece's photo. "Roma — Nightstand"
+# showing the collection's sofa is worse than showing nothing: the customer sees
+# a sofa labelled Nightstand. Prefer a sibling of the SAME piece type; if the
+# collection has no photo of that piece, ship no photo and let the card say
+# "photo pending".
+PIECE_HINTS = {
+    '3-Pc Set': ('sofa', 'sectional', 'set'), 'Queen Set': ('bed', 'set'),
+    'King Set': ('bed', 'set'), 'Queen Bed': ('bed',), 'King Bed': ('bed',),
+    'Bed': ('bed',), 'Dresser & Mirror': ('dresser', 'mirror'),
+    'Dresser': ('dresser',), 'Mirror': ('mirror',), 'Chest': ('chest',),
+    'Nightstand': ('nightstand', 'night stand'), 'Sectional': ('sectional',),
+    'Sofa Bed': ('sofa',), 'Loveseat': ('loveseat', 'love seat'), 'Sofa': ('sofa',),
+    'Chaise': ('chaise',), 'Ottoman': ('ottoman',), 'Accent Chair': ('chair',),
+    'Dining Chair': ('chair',), 'Chair': ('chair',),
+    'Coffee & End Tables': ('coffee', 'end table'), 'Coffee Table': ('coffee',),
+    'End Table': ('end table',), 'Console': ('console',), 'Server': ('server', 'buffet'),
+    'Dining Table': ('table',), 'Table': ('table',), 'Bench': ('bench',),
+    'Daybed': ('daybed',), 'Futon': ('futon',),
+}
+
+def photo_for(label, siblings, fallback=None):
+    """A sibling photo only when that sibling IS the same kind of piece."""
+    hints = PIECE_HINTS.get(label)
+    if hints:
+        for it in siblings:
+            if not it.get('img'):
+                continue
+            blob = (str(it.get('name','')) + ' ' + ' '.join(it.get('cats') or [])).lower()
+            if any(h in blob for h in hints):
+                return it
+    return fallback
+
 # ================= MATRIX =================
 mx = parse_matrix()
 d = load('matrix')
@@ -81,13 +113,14 @@ for code, lines in mx['codes'].items():
         lab = short_label(label)
         if not lab: continue
         if covered(siblings, lab): continue
-        if not img_src: continue          # no photo in the collection at all
+        src = photo_for(lab, siblings, None)
+        if not src: continue              # no photo of THIS piece in the collection
         d['items'].append({
             'id': f'matrix-synth-{code}-{label_slug(lab)}',
             'name': f'{name} — {lab}',
-            'sku': code, 'cats': list(img_src.get('cats') or []),
-            'img': img_src.get('img'), 'gallery': [],
-            'url': img_src.get('url'),
+            'sku': code, 'cats': list(src.get('cats') or []),
+            'img': src.get('img'), 'gallery': [],
+            'url': src.get('url'),
             'net': net, 'price': str(MARGIN(net)), 'synth': True,
         })
         synth += 1
@@ -115,12 +148,20 @@ for (code, piece), net in ac.items():
     if piece != 'set' and has: continue
     if piece == 'set' and any('3-piece' in str(it.get('name','')).lower() for it in siblings): continue
     pretty = '3-Pc Set' if piece == 'set' else piece.title()
+    # An upholstery suite photo genuinely depicts the sofa and the 3-pc set, so
+    # those may use it. A chair or loveseat may not: the customer would see a
+    # sofa on a card labelled Chair. Those need their own photo or none.
+    if piece in ('sofa', 'set', 'sectional'):
+        src = photo_for(pretty, siblings, img_src)
+    else:
+        src = photo_for(pretty, siblings, None)
+    if not src: continue
     d['items'].append({
         'id': f'aclass-synth-{code}-{piece}',
         'name': f'{code} — {pretty}',
         'sku': code, 'cats': ['sofa' if piece in ('set','sofa') else piece],
-        'img': img_src.get('img'), 'gallery': [],
-        'url': img_src.get('url'),
+        'img': src.get('img'), 'gallery': [],
+        'url': src.get('url'),
         'net': net, 'price': str(MARGIN(net)), 'synth': True,
     })
     synth += 1
@@ -149,12 +190,14 @@ for base, descs in detail.items():
         lab = short_label(desc)
         if not lab or lab in seen_labels: continue
         seen_labels.add(lab)
+        src = photo_for(lab, siblings, None)
+        if not src: continue
         d['items'].append({
             'id': f'mazin-synth-{base}-{label_slug(lab)}',
             'name': f'{coll} — {lab}',
-            'sku': base, 'cats': list(img_src.get('cats') or []),
-            'img': img_src.get('img'), 'gallery': [],
-            'url': img_src.get('url'),
+            'sku': base, 'cats': list(src.get('cats') or []),
+            'img': src.get('img'), 'gallery': [],
+            'url': src.get('url'),
             'net': net, 'price': str(MARGIN(net)), 'synth': True,
         })
         synth += 1

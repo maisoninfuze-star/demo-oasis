@@ -46,8 +46,10 @@
      opts.hook picks a different GHL workflow (e.g. 'account'); unknown or
      unset hooks fall back to the main lead webhook. */
   async function send(data, opts) {
-    const HOOKS = { account: CFG.accountWebhook };
-    const url = (opts && HOOKS[opts.hook]) || CFG.leadWebhook;
+    /* Route by payload type so callers don't have to know about hooks;
+       opts.hook still wins when a caller needs to be explicit. */
+    const HOOKS = { account: CFG.accountWebhook, quote: CFG.quoteWebhook };
+    const url = (opts && HOOKS[opts.hook]) || HOOKS[data && data.type] || CFG.leadWebhook;
     if (!url) return false;
     try {
       const r = await fetch(url, {

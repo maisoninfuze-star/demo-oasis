@@ -16,6 +16,10 @@ window.OASIS_CONFIG = {
      leadWebhook if left null. */
   accountWebhook: 'https://services.leadconnectorhq.com/hooks/3WZJmfyOZdm174uTBbc8/webhook-trigger/c66f431d-82df-4e8f-b9b5-43e3673acf74',
 
+  /* Price-on-request enquiries have their own workflow (same-day quote SLA),
+     so they route to a dedicated webhook rather than the general lead one. */
+  quoteWebhook: 'https://services.leadconnectorhq.com/hooks/3WZJmfyOZdm174uTBbc8/webhook-trigger/be0d87e6-0f90-47cd-a90a-f7ae267b2b76',
+
   storeEmail: 'galerieoasis@bellnet.ca',
   storePhone: '+14509730000',
   storePhoneDisplay: '+1 (450) 973-0000',
@@ -52,5 +56,5 @@ window.OASIS_CONFIG = {
     ctaEn: 'Shop the event', ctaFr: 'Profiter de l’offre'
   },
 
-  dataVersion: '20260808e'
+  dataVersion: '20260809a'
 };

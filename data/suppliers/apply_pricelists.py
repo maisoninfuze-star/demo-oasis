@@ -19,6 +19,11 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.dirname(os.path.dirname(HERE))
 MARGIN = lambda net: round(net * 3.15)   # owner: pdf price x 3.15
 
+# Returned when we know the collection but cannot confidently price this piece.
+# Keeps the product on the site as price-on-request instead of inventing a
+# number. Distinct from None, which means "not in the pricelist at all".
+ON_REQUEST = 'ON_REQUEST'
+
 def money(s):
     s = s.replace(',', '').replace(' ', '')
     try: return float(s)
@@ -116,13 +121,17 @@ def parse_matrix():
 def apply(slug, pricemap, key_fn):
     path = os.path.join(HERE, f'{slug}.json')
     d = json.load(open(path))
-    priced = delisted = 0
+    priced = delisted = onreq = 0
     for it in d['items']:
         if it.get('synth'):
             continue          # synthesized configs carry their own pdf price
         it.pop('delisted', None)
         net = key_fn(it, pricemap)
-        if net:
+        if net == ON_REQUEST:
+            # in the pricelist, but this piece has no line — show it, don't price it
+            it.pop('price', None); it.pop('net', None); it.pop('from', None)
+            onreq += 1
+        elif net:
             it['net'] = net
             it['price'] = str(MARGIN(net))
             it['from'] = True          # configs/colours vary; price is "from"
@@ -132,7 +141,7 @@ def apply(slug, pricemap, key_fn):
             it.pop('price', None); it.pop('net', None)
             delisted += 1
     json.dump(d, open(path, 'w'), ensure_ascii=False, indent=1)
-    print(f"{slug:8s} priced {priced}, delisted {delisted}, total {len(d['items'])}")
+    print(f"{slug:8s} priced {priced}, on-request {onreq}, delisted {delisted}, total {len(d['items'])}")
 
 def mazin_key(it, pm):
     sku = str(it.get('sku', ''))
@@ -163,19 +172,46 @@ PIECE_WORDS = [
     ('set', ['complete set', 'set']),
 ]
 
+# A set is checked FIRST and on a word boundary. Substring matching priced the
+# Roma bedroom SET off the "queen bed" line, because "bedroom-sets" contains the
+# letters "bed" — a $9,447 set sold for $3,777.
+SET_RE = re.compile(r'\b(?:bedroom[- ]?sets?|dining[- ]?sets?|living[- ]?sets?|'
+                    r'complete\s+sets?|\d\s*-?\s*pc\b|sets?)\b', re.I)
+
+def _word_in(word, text):
+    return re.search(rf'\b{re.escape(word)}\b', text) is not None
+
 def _pick_line(lines, it):
     # lines: {label: net} -> choose the line for this item's own piece type
     blob = (str(it.get('name','')) + ' ' + ' '.join(it.get('cats') or []) + ' ' + str(it.get('id',''))).lower()
+
+    # 1. A named piece wins, matched on whole words. "Roma Dresser mirror set"
+    #    is a dresser-and-mirror, not the bedroom set, even though it says "set".
     for piece, labels in PIECE_WORDS:
-        if piece in blob:
+        if piece == 'set':
+            continue                      # handled below
+        if _word_in(piece, blob):
             for lab in labels:
                 for label, v in lines.items():
                     if lab in label:
                         return v
-    for label, v in lines.items():
-        if 'complete set' in label or 'set' in label:
-            return v
-    return max(lines.values())
+
+    # 2. No specific piece named -> this is the collection/set itself. Prefer the
+    #    size it names. Whole-word matching matters here: "bedroom-sets" contains
+    #    the letters "bed", which used to price a $9,447 set as a $3,777 bed.
+    if SET_RE.search(blob):
+        want = ('king complete', 'king') if _word_in('king', blob) else \
+               ('queen complete', 'queen') if _word_in('queen', blob) else ()
+        for pref in want + ('complete set', 'pc set', 'set'):
+            for label, v in lines.items():
+                if pref in label and 'bed' not in label.replace('bedroom', ''):
+                    return v
+    # No line matches this item's own piece type. Do NOT fall back to the set
+    # (or max) price — that silently charged set money for a single chest, and
+    # in other collections handed a king bed the cheapest line. Return the
+    # ON_REQUEST sentinel so the item stays visible but unpriced, and the team
+    # quotes it. Guessing here is worse than asking.
+    return ON_REQUEST
 
 def matrix_key(it, pm):
     sku_num = re.sub(r'[A-Z]', '', str(it.get('sku', '')))

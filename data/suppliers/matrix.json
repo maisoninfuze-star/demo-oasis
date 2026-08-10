@@ -14,8 +14,8 @@
    "img": "assets/cutouts/1433ea025971357a.webp",
    "gallery": [],
    "url": "https://matrixfurnituregroup.ca/product-detail/1714-sterling",
-   "net": 729.0,
-   "price": "2296",
+   "net": 1699.0,
+   "price": "5352",
    "from": true,
    "img_src": "https://matrixfurnituregroup.ca/uploads/thumbs/1775663362_05a0f32777b12c4fab51.jpg"
   },
@@ -30,14 +30,14 @@
    "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1745262110_0a907219009ec674bc61.jpg",
    "gallery": [],
    "url": "https://matrixfurnituregroup.ca/product-detail/1814-sterling",
-   "net": 729.0,
-   "price": "2296",
+   "net": 1699.0,
+   "price": "5352",
    "from": true
   },
   {
    "id": "matrix-b1051-skylar",
    "sku": "B1051",
-   "name": "Skylar",
+   "name": "Skylar — Queen Set",
    "cats": [
     "bedroom-sets"
    ],
@@ -45,14 +45,15 @@
    "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1744653481_072ef1de88c421393fde.jpg",
    "gallery": [],
    "url": "https://matrixfurnituregroup.ca/product-detail/b1051-skylar",
-   "net": 579.0,
-   "price": "1824",
-   "from": true
+   "net": 1649.0,
+   "price": "5194",
+   "from": true,
+   "is_set": true
   },
   {
    "id": "matrix-b1061-rylee",
    "sku": "B1061",
-   "name": "Rylee",
+   "name": "Rylee — Queen Set",
    "cats": [
     "bedroom-sets"
    ],
@@ -60,14 +61,15 @@
    "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1744382357_55d204a5cf4024ff7e66.jpg",
    "gallery": [],
    "url": "https://matrixfurnituregroup.ca/product-detail/b1061-rylee",
-   "net": 519.0,
-   "price": "1635",
-   "from": true
+   "net": 1299.0,
+   "price": "4092",
+   "from": true,
+   "is_set": true
   },
   {
    "id": "matrix-b1071-cypress",
    "sku": "B1071",
-   "name": "Cypress",
+   "name": "Cypress — Queen Set",
    "cats": [
     "bedroom-sets"
    ],
@@ -75,10 +77,11 @@
    "img": "assets/cutouts/a3875d4f2ca1a86d.webp",
    "gallery": [],
    "url": "https://matrixfurnituregroup.ca/product-detail/b1071-cypress",
-   "net": 839.0,
-   "price": "2643",
+   "net": 2099.0,
+   "price": "6612",
    "from": true,
-   "img_src": "https://matrixfurnituregroup.ca/uploads/thumbs/1744384245_41746fce346c45efa318.jpg"
+   "img_src": "https://matrixfurnituregroup.ca/uploads/thumbs/1744384245_41746fce346c45efa318.jpg",
+   "is_set": true
   },
   {
    "id": "matrix-b1101-bombay",
@@ -104,15 +107,12 @@
    "img": "assets/cutouts/8cb8126c7c65e4e7.webp",
    "gallery": [],
    "url": "https://matrixfurnituregroup.ca/product-detail/b1141-ginger",
-   "net": 799.0,
-   "price": "2517",
-   "from": true,
    "img_src": "https://matrixfurnituregroup.ca/uploads/thumbs/1749917400_53d9ddba8193aa0a2a05.jpg"
   },
   {
    "id": "matrix-b1161-brooklyn",
    "sku": "B1161",
-   "name": "Brooklyn",
+   "name": "Brooklyn — Queen Set",
    "cats": [
     "bedroom-sets"
    ],
@@ -120,14 +120,15 @@
    "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1744386847_1cb39c0e9910261f5155.jpg",
    "gallery": [],
    "url": "https://matrixfurnituregroup.ca/product-detail/b1161-brooklyn",
-   "net": 379.0,
-   "price": "1194",
-   "from": true
+   "net": 1099.0,
+   "price": "3462",
+   "from": true,
+   "is_set": true
   },
   {
    "id": "matrix-b1171-destiny",
    "sku": "B1171",
-   "name": "Destiny",
+   "name": "Destiny — Queen Set",
    "cats": [
     "bedroom-sets"
    ],
@@ -135,14 +136,15 @@
    "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1744387615_6eb4c28e893962878a45.jpg",
    "gallery": [],
    "url": "https://matrixfurnituregroup.ca/product-detail/b1171-destiny",
-   "net": 679.0,
-   "price": "2139",
-   "from": true
+   "net": 1699.0,
+   "price": "5352",
+   "from": true,
+   "is_set": true
   },
   {
    "id": "matrix-b1181-sophia",
    "sku": "B1181",
-   "name": "Sophia",
+   "name": "Sophia — Queen Set",
    "cats": [
     "bedroom-sets"
    ],
@@ -150,10 +152,11 @@
    "img": "assets/cutouts/8dffb97b4af9d898.webp",
    "gallery": [],
    "url": "https://matrixfurnituregroup.ca/product-detail/b1181-sophia",
-   "net": 529.0,
-   "price": "1666",
+   "net": 1499.0,
+   "price": "4722",
    "from": true,
-   "img_src": "https://matrixfurnituregroup.ca/uploads/thumbs/1776281114_4337571e550ebfc85548.jpg"
+   "img_src": "https://matrixfurnituregroup.ca/uploads/thumbs/1776281114_4337571e550ebfc85548.jpg",
+   "is_set": true
   },
   {
    "id": "matrix-b1191-harmony",
@@ -171,7 +174,7 @@
   {
    "id": "matrix-b1291-jasmine",
    "sku": "B1291",
-   "name": "Jasmine",
+   "name": "Jasmine — Queen Set",
    "cats": [
     "bedroom-sets"
    ],
@@ -179,14 +182,15 @@
    "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1744393781_96d465d7d8ead0e55516.jpg",
    "gallery": [],
    "url": "https://matrixfurnituregroup.ca/product-detail/b1291-jasmine",
-   "net": 879.0,
-   "price": "2769",
-   "from": true
+   "net": 2199.0,
+   "price": "6927",
+   "from": true,
+   "is_set": true
   },
   {
    "id": "matrix-b1341-lorenzo",
    "sku": "B1341",
-   "name": "Lorenzo",
+   "name": "Lorenzo — Queen Set",
    "cats": [
     "bedroom-sets"
    ],
@@ -194,9 +198,10 @@
    "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1744396014_15ec1a27bc40bd728931.jpg",
    "gallery": [],
    "url": "https://matrixfurnituregroup.ca/product-detail/b1341-lorenzo",
-   "net": 1159.0,
-   "price": "3651",
-   "from": true
+   "net": 2899.0,
+   "price": "9132",
+   "from": true,
+   "is_set": true
   },
   {
    "id": "matrix-b1371-elliot",
@@ -209,15 +214,12 @@
    "img": "assets/cutouts/468946790a9e8fc1.webp",
    "gallery": [],
    "url": "https://matrixfurnituregroup.ca/product-detail/b1371-elliot",
-   "net": 199.0,
-   "price": "627",
-   "from": true,
    "img_src": "https://matrixfurnituregroup.ca/uploads/thumbs/1744384466_11d05d20af31957eda85.jpg"
   },
   {
    "id": "matrix-b1391-crystal",
    "sku": "B1391",
-   "name": "Crystal",
+   "name": "Crystal — Queen Set",
    "cats": [
     "bedroom-sets"
    ],
@@ -225,14 +227,15 @@
    "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1744387103_cd6559e5943a095bcc40.jpg",
    "gallery": [],
    "url": "https://matrixfurnituregroup.ca/product-detail/b1391-crystal",
-   "net": 839.0,
-   "price": "2643",
-   "from": true
+   "net": 2099.0,
+   "price": "6612",
+   "from": true,
+   "is_set": true
   },
   {
    "id": "matrix-b1401-laura",
    "sku": "B1401",
-   "name": "Laura",
+   "name": "Laura — Queen Set",
    "cats": [
     "bedroom-sets"
    ],
@@ -240,15 +243,16 @@
    "img": "assets/cutouts/b6ed08d7740dcdc0.webp",
    "gallery": [],
    "url": "https://matrixfurnituregroup.ca/product-detail/b1401-laura",
-   "net": 959.0,
-   "price": "3021",
+   "net": 2399.0,
+   "price": "7557",
    "from": true,
-   "img_src": "https://matrixfurnituregroup.ca/uploads/thumbs/1743518074_c8bb271cbfa83f42bfb0.jpg"
+   "img_src": "https://matrixfurnituregroup.ca/uploads/thumbs/1743518074_c8bb271cbfa83f42bfb0.jpg",
+   "is_set": true
   },
   {
    "id": "matrix-b1441-kenzo",
    "sku": "B1441",
-   "name": "Kenzo",
+   "name": "Kenzo — Queen Set",
    "cats": [
     "bedroom-sets"
    ],
@@ -256,14 +260,15 @@
    "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1744394010_6467451e39e2ba23d8b8.jpg",
    "gallery": [],
    "url": "https://matrixfurnituregroup.ca/product-detail/b1441-kenzo",
-   "net": 659.0,
-   "price": "2076",
-   "from": true
+   "net": 1649.0,
+   "price": "5194",
+   "from": true,
+   "is_set": true
   },
   {
    "id": "matrix-b1471-ember",
    "sku": "B1471",
-   "name": "Ember",
+   "name": "Ember — Queen Set",
    "cats": [
     "bedroom-sets"
    ],
@@ -271,10 +276,11 @@
    "img": "assets/cutouts/9359c06dc0fef6d4.webp",
    "gallery": [],
    "url": "https://matrixfurnituregroup.ca/product-detail/b1471-ember",
-   "net": 999.0,
-   "price": "3147",
+   "net": 2499.0,
+   "price": "7872",
    "from": true,
-   "img_src": "https://matrixfurnituregroup.ca/uploads/thumbs/1743526551_efea824d902caa691236.jpg"
+   "img_src": "https://matrixfurnituregroup.ca/uploads/thumbs/1743526551_efea824d902caa691236.jpg",
+   "is_set": true
   },
   {
    "id": "matrix-b1491-sienna",
@@ -287,15 +293,12 @@
    "img": "assets/cutouts/c8eaf851ed69a77a.webp",
    "gallery": [],
    "url": "https://matrixfurnituregroup.ca/product-detail/b1491-sienna",
-   "net": 879.0,
-   "price": "2769",
-   "from": true,
    "img_src": "https://matrixfurnituregroup.ca/uploads/thumbs/1744396941_5dcc32f08ff560ed0b18.jpg"
   },
   {
    "id": "matrix-b1571-denver",
    "sku": "B1571",
-   "name": "Denver",
+   "name": "Denver — Queen Set",
    "cats": [
     "bedroom-sets"
    ],
@@ -303,15 +306,16 @@
    "img": "assets/cutouts/45477b2f699d12db.webp",
    "gallery": [],
    "url": "https://matrixfurnituregroup.ca/product-detail/b1571-denver",
-   "net": 379.0,
-   "price": "1194",
+   "net": 1099.0,
+   "price": "3462",
    "from": true,
-   "img_src": "https://matrixfurnituregroup.ca/uploads/thumbs/1744387404_e5b6e88bdecbb65da07d.jpg"
+   "img_src": "https://matrixfurnituregroup.ca/uploads/thumbs/1744387404_e5b6e88bdecbb65da07d.jpg",
+   "is_set": true
   },
   {
    "id": "matrix-b1581-obsession",
    "sku": "B1581",
-   "name": "Obsession",
+   "name": "Obsession — Queen Set",
    "cats": [
     "bedroom-sets"
    ],
@@ -319,15 +323,16 @@
    "img": "assets/cutouts/2ddf87714f531c54.webp",
    "gallery": [],
    "url": "https://matrixfurnituregroup.ca/product-detail/b1581-obsession",
-   "net": 759.0,
-   "price": "2391",
+   "net": 1899.0,
+   "price": "5982",
    "from": true,
-   "img_src": "https://matrixfurnituregroup.ca/uploads/thumbs/1743542397_941c7cf916e943360436.jpg"
+   "img_src": "https://matrixfurnituregroup.ca/uploads/thumbs/1743542397_941c7cf916e943360436.jpg",
+   "is_set": true
   },
   {
    "id": "matrix-b1591-samantha",
    "sku": "B1591",
-   "name": "Samantha",
+   "name": "Samantha — King Set",
    "cats": [
     "bedroom-sets"
    ],
@@ -335,14 +340,15 @@
    "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1744385905_6452d7e65c346f0b3e5d.jpg",
    "gallery": [],
    "url": "https://matrixfurnituregroup.ca/product-detail/b1591-samantha",
-   "net": 919.0,
-   "price": "2895",
-   "from": true
+   "net": 2299.0,
+   "price": "7242",
+   "from": true,
+   "is_set": true
   },
   {
    "id": "matrix-b1621-rachel",
    "sku": "B1621",
-   "name": "Rachel",
+   "name": "Rachel — Queen Set",
    "cats": [
     "bedroom-sets"
    ],
@@ -350,9 +356,10 @@
    "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1744396666_ae200b483ac344a5385c.jpg",
    "gallery": [],
    "url": "https://matrixfurnituregroup.ca/product-detail/b1621-rachel",
-   "net": 919.0,
-   "price": "2895",
-   "from": true
+   "net": 2299.0,
+   "price": "7242",
+   "from": true,
+   "is_set": true
   },
   {
    "id": "matrix-b1631-madrid",
@@ -365,9 +372,6 @@
    "img": "assets/cutouts/34f072e7683d631f.webp",
    "gallery": [],
    "url": "https://matrixfurnituregroup.ca/product-detail/b1631-madrid",
-   "net": 1039.0,
-   "price": "3273",
-   "from": true,
    "img_src": "https://matrixfurnituregroup.ca/uploads/thumbs/1743607392_ce831e4e8628e33e7836.jpg"
   },
   {
@@ -386,7 +390,7 @@
   {
    "id": "matrix-b1681-chole",
    "sku": "B1681",
-   "name": "Chole",
+   "name": "Chole — Queen Set",
    "cats": [
     "bedroom-sets"
    ],
@@ -394,15 +398,16 @@
    "img": "assets/cutouts/0110f0f3d5a102ad.webp",
    "gallery": [],
    "url": "https://matrixfurnituregroup.ca/product-detail/b1681-chole",
-   "net": 959.0,
-   "price": "3021",
+   "net": 2399.0,
+   "price": "7557",
    "from": true,
-   "img_src": "https://matrixfurnituregroup.ca/uploads/thumbs/1759430409_534104cf3ad3d564e3c2.jpg"
+   "img_src": "https://matrixfurnituregroup.ca/uploads/thumbs/1759430409_534104cf3ad3d564e3c2.jpg",
+   "is_set": true
   },
   {
    "id": "matrix-b1711-munich",
    "sku": "B1711",
-   "name": "Munich",
+   "name": "Munich — Queen Set",
    "cats": [
     "bedroom-sets"
    ],
@@ -410,15 +415,16 @@
    "img": "assets/cutouts/546060aba9ccde95.webp",
    "gallery": [],
    "url": "https://matrixfurnituregroup.ca/product-detail/b1711-munich",
-   "net": 839.0,
-   "price": "2643",
+   "net": 2099.0,
+   "price": "6612",
    "from": true,
-   "img_src": "https://matrixfurnituregroup.ca/uploads/thumbs/1744384674_87aec1403e8cb89e8b21.jpg"
+   "img_src": "https://matrixfurnituregroup.ca/uploads/thumbs/1744384674_87aec1403e8cb89e8b21.jpg",
+   "is_set": true
   },
   {
    "id": "matrix-b1741-lavita",
    "sku": "B1741",
-   "name": "Lavita",
+   "name": "Lavita — Queen Set",
    "cats": [
     "bedroom-sets"
    ],
@@ -426,10 +432,11 @@
    "img": "assets/cutouts/fd2ba22bef64c55a.webp",
    "gallery": [],
    "url": "https://matrixfurnituregroup.ca/product-detail/b1741-lavita",
-   "net": 999.0,
-   "price": "3147",
+   "net": 2499.0,
+   "price": "7872",
    "from": true,
-   "img_src": "https://matrixfurnituregroup.ca/uploads/thumbs/1781905817_13321fb7a5a2ba17923f.png"
+   "img_src": "https://matrixfurnituregroup.ca/uploads/thumbs/1781905817_13321fb7a5a2ba17923f.png",
+   "is_set": true
   },
   {
    "id": "matrix-b1751-eternity",
@@ -460,7 +467,7 @@
   {
    "id": "matrix-b1781-bristal",
    "sku": "B1781",
-   "name": "Bristal",
+   "name": "Bristal — Queen Set",
    "cats": [
     "bedroom-sets"
    ],
@@ -468,15 +475,16 @@
    "img": "assets/cutouts/5dadd7b1e16d31fd.webp",
    "gallery": [],
    "url": "https://matrixfurnituregroup.ca/product-detail/b1781-bristal",
-   "net": 799.0,
-   "price": "2517",
+   "net": 1999.0,
+   "price": "6297",
    "from": true,
-   "img_src": "https://matrixfurnituregroup.ca/uploads/thumbs/1744384814_1fbb78e3142482367886.jpg"
+   "img_src": "https://matrixfurnituregroup.ca/uploads/thumbs/1744384814_1fbb78e3142482367886.jpg",
+   "is_set": true
   },
   {
    "id": "matrix-b1801-germani",
    "sku": "B1801",
-   "name": "Germani",
+   "name": "Germani — Queen Set",
    "cats": [
     "bedroom-sets"
    ],
@@ -484,9 +492,10 @@
    "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1744324588_03a298151f7343edcabe.jpg",
    "gallery": [],
    "url": "https://matrixfurnituregroup.ca/product-detail/b1801-germani",
-   "net": 919.0,
-   "price": "2895",
-   "from": true
+   "net": 2299.0,
+   "price": "7242",
+   "from": true,
+   "is_set": true
   },
   {
    "id": "matrix-b1811-heritage",
@@ -517,7 +526,7 @@
   {
    "id": "matrix-b1831-laguna",
    "sku": "B1831",
-   "name": "Laguna",
+   "name": "Laguna — Queen Set",
    "cats": [
     "bedroom-sets"
    ],
@@ -525,14 +534,15 @@
    "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1744388837_8940e4e8e539eedaa998.jpg",
    "gallery": [],
    "url": "https://matrixfurnituregroup.ca/product-detail/b1831-laguna",
-   "net": 799.0,
-   "price": "2517",
-   "from": true
+   "net": 1999.0,
+   "price": "6297",
+   "from": true,
+   "is_set": true
   },
   {
    "id": "matrix-b1861-landmark",
    "sku": "B1861",
-   "name": "Landmark",
+   "name": "Landmark — Queen Set",
    "cats": [
     "bedroom-sets"
    ],
@@ -540,15 +550,16 @@
    "img": "assets/cutouts/8f2b42d2f86138ef.webp",
    "gallery": [],
    "url": "https://matrixfurnituregroup.ca/product-detail/b1861-landmark",
-   "net": 879.0,
-   "price": "2769",
+   "net": 2199.0,
+   "price": "6927",
    "from": true,
-   "img_src": "https://matrixfurnituregroup.ca/uploads/thumbs/1775679605_4144e2568846580bc19a.jpg"
+   "img_src": "https://matrixfurnituregroup.ca/uploads/thumbs/1775679605_4144e2568846580bc19a.jpg",
+   "is_set": true
   },
   {
    "id": "matrix-b1891-zain",
    "sku": "B1891",
-   "name": "Zain",
+   "name": "Zain — Queen Set",
    "cats": [
     "bedroom-sets"
    ],
@@ -556,15 +567,16 @@
    "img": "assets/cutouts/6540de5742bfd16c.webp",
    "gallery": [],
    "url": "https://matrixfurnituregroup.ca/product-detail/b1891-zain",
-   "net": 799.0,
-   "price": "2517",
+   "net": 1999.0,
+   "price": "6297",
    "from": true,
-   "img_src": "https://matrixfurnituregroup.ca/uploads/thumbs/1744398051_3fc06889ffd99b46ae1e.jpg"
+   "img_src": "https://matrixfurnituregroup.ca/uploads/thumbs/1744398051_3fc06889ffd99b46ae1e.jpg",
+   "is_set": true
   },
   {
    "id": "matrix-b1901-blayne",
    "sku": "B1901",
-   "name": "Blayne",
+   "name": "Blayne — Queen Set",
    "cats": [
     "bedroom-sets"
    ],
@@ -572,14 +584,15 @@
    "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1744326993_52070c3fede7bea549f2.jpg",
    "gallery": [],
    "url": "https://matrixfurnituregroup.ca/product-detail/b1901-blayne",
-   "net": 999.0,
-   "price": "3147",
-   "from": true
+   "net": 2499.0,
+   "price": "7872",
+   "from": true,
+   "is_set": true
   },
   {
    "id": "matrix-b1911-manchester",
    "sku": "B1911",
-   "name": "Manchester",
+   "name": "Manchester — Queen Set",
    "cats": [
     "bedroom-sets"
    ],
@@ -587,15 +600,16 @@
    "img": "assets/cutouts/bc47c621f32a8653.webp",
    "gallery": [],
    "url": "https://matrixfurnituregroup.ca/product-detail/b1911-manchester",
-   "net": 919.0,
-   "price": "2895",
+   "net": 2299.0,
+   "price": "7242",
    "from": true,
-   "img_src": "https://matrixfurnituregroup.ca/uploads/thumbs/1744327491_6caf4434b72dd352fe2b.jpg"
+   "img_src": "https://matrixfurnituregroup.ca/uploads/thumbs/1744327491_6caf4434b72dd352fe2b.jpg",
+   "is_set": true
   },
   {
    "id": "matrix-b1921-venice",
    "sku": "B1921",
-   "name": "Venice",
+   "name": "Venice — Queen Set",
    "cats": [
     "bedroom-sets"
    ],
@@ -603,10 +617,11 @@
    "img": "assets/cutouts/288da1542dd9a47f.webp",
    "gallery": [],
    "url": "https://matrixfurnituregroup.ca/product-detail/b1921-venice",
-   "net": 959.0,
-   "price": "3021",
+   "net": 2399.0,
+   "price": "7557",
    "from": true,
-   "img_src": "https://matrixfurnituregroup.ca/uploads/thumbs/1743536602_38cb1bf3f73f3a568456.jpg"
+   "img_src": "https://matrixfurnituregroup.ca/uploads/thumbs/1743536602_38cb1bf3f73f3a568456.jpg",
+   "is_set": true
   },
   {
    "id": "matrix-b1931-sperenza",
@@ -637,7 +652,7 @@
   {
    "id": "matrix-b1941-elara",
    "sku": "B1941",
-   "name": "Elara",
+   "name": "Elara — Queen Set",
    "cats": [
     "bedroom-sets"
    ],
@@ -645,14 +660,15 @@
    "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1776701326_1d8c2cea4ea414a03a75.jpg",
    "gallery": [],
    "url": "https://matrixfurnituregroup.ca/product-detail/b1941-elara",
-   "net": 599.0,
-   "price": "1887",
-   "from": true
+   "net": 1499.0,
+   "price": "4722",
+   "from": true,
+   "is_set": true
   },
   {
    "id": "matrix-b1951-treasure",
    "sku": "B1951",
-   "name": "Treasure",
+   "name": "Treasure — Queen Set",
    "cats": [
     "bedroom-sets"
    ],
@@ -660,15 +676,16 @@
    "img": "assets/cutouts/e900800f4dda5293.webp",
    "gallery": [],
    "url": "https://matrixfurnituregroup.ca/product-detail/b1951-treasure",
-   "net": 839.0,
-   "price": "2643",
+   "net": 2099.0,
+   "price": "6612",
    "from": true,
-   "img_src": "https://matrixfurnituregroup.ca/uploads/thumbs/1780336336_2d0c04beb701a8083672.png"
+   "img_src": "https://matrixfurnituregroup.ca/uploads/thumbs/1780336336_2d0c04beb701a8083672.png",
+   "is_set": true
   },
   {
    "id": "matrix-b1961-disco",
    "sku": "B1961",
-   "name": "Disco",
+   "name": "Disco — Queen Set",
    "cats": [
     "bedroom-sets"
    ],
@@ -676,15 +693,16 @@
    "img": "assets/cutouts/e372a4f759890fc7.webp",
    "gallery": [],
    "url": "https://matrixfurnituregroup.ca/product-detail/b1961-disco",
-   "net": 919.0,
-   "price": "2895",
+   "net": 2299.0,
+   "price": "7242",
    "from": true,
-   "img_src": "https://matrixfurnituregroup.ca/uploads/thumbs/1754337004_41b8e4257a4130ee2829.jpg"
+   "img_src": "https://matrixfurnituregroup.ca/uploads/thumbs/1754337004_41b8e4257a4130ee2829.jpg",
+   "is_set": true
   },
   {
    "id": "matrix-b1971-monaco",
    "sku": "B1971",
-   "name": "Monaco",
+   "name": "Monaco — Queen Set",
    "cats": [
     "bedroom-sets"
    ],
@@ -692,15 +710,16 @@
    "img": "assets/cutouts/493d90e854c9a7ba.webp",
    "gallery": [],
    "url": "https://matrixfurnituregroup.ca/product-detail/b1971-monaco",
-   "net": 1039.0,
-   "price": "3273",
+   "net": 2599.0,
+   "price": "8187",
    "from": true,
-   "img_src": "https://matrixfurnituregroup.ca/uploads/thumbs/1758136052_41cee98090783570efaa.jpg"
+   "img_src": "https://matrixfurnituregroup.ca/uploads/thumbs/1758136052_41cee98090783570efaa.jpg",
+   "is_set": true
   },
   {
    "id": "matrix-b1981-leonor",
    "sku": "B1981",
-   "name": "Leonor",
+   "name": "Leonor — Queen Set",
    "cats": [
     "bedroom-sets"
    ],
@@ -708,15 +727,16 @@
    "img": "assets/cutouts/71985a3c4f472c27.webp",
    "gallery": [],
    "url": "https://matrixfurnituregroup.ca/product-detail/b1981-leonor",
-   "net": 919.0,
-   "price": "2895",
+   "net": 2299.0,
+   "price": "7242",
    "from": true,
-   "img_src": "https://matrixfurnituregroup.ca/uploads/thumbs/1767028766_7d816b509b0798ebb4bc.jpg"
+   "img_src": "https://matrixfurnituregroup.ca/uploads/thumbs/1767028766_7d816b509b0798ebb4bc.jpg",
+   "is_set": true
   },
   {
    "id": "matrix-b1991-houston",
    "sku": "B1991",
-   "name": "Houston",
+   "name": "Houston — Queen Set",
    "cats": [
     "bedroom-sets"
    ],
@@ -724,15 +744,16 @@
    "img": "assets/cutouts/9c98eff5663e4070.webp",
    "gallery": [],
    "url": "https://matrixfurnituregroup.ca/product-detail/b1991-houston",
-   "net": 559.0,
-   "price": "1761",
+   "net": 1399.0,
+   "price": "4407",
    "from": true,
-   "img_src": "https://matrixfurnituregroup.ca/uploads/thumbs/1758817199_109314947dc4c61dd7e0.jpg"
+   "img_src": "https://matrixfurnituregroup.ca/uploads/thumbs/1758817199_109314947dc4c61dd7e0.jpg",
+   "is_set": true
   },
   {
    "id": "matrix-b2011-aria",
    "sku": "B2011",
-   "name": "Aria",
+   "name": "Aria — Queen Set",
    "cats": [
     "bedroom-sets"
    ],
@@ -740,14 +761,15 @@
    "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1761678954_c0c2fcc37e8371c515cb.jpg",
    "gallery": [],
    "url": "https://matrixfurnituregroup.ca/product-detail/b2011-aria",
-   "net": 599.0,
-   "price": "1887",
-   "from": true
+   "net": 1499.0,
+   "price": "4722",
+   "from": true,
+   "is_set": true
   },
   {
    "id": "matrix-b2021-sydney",
    "sku": "B2021",
-   "name": "Sydney",
+   "name": "Sydney — Queen Set",
    "cats": [
     "bedroom-sets"
    ],
@@ -755,15 +777,16 @@
    "img": "assets/cutouts/d08eb54a0fe06612.webp",
    "gallery": [],
    "url": "https://matrixfurnituregroup.ca/product-detail/b2021-sydney",
-   "net": 719.0,
-   "price": "2265",
+   "net": 1799.0,
+   "price": "5667",
    "from": true,
-   "img_src": "https://matrixfurnituregroup.ca/uploads/thumbs/1758818381_9a5ad0015bb4317e9490.jpg"
+   "img_src": "https://matrixfurnituregroup.ca/uploads/thumbs/1758818381_9a5ad0015bb4317e9490.jpg",
+   "is_set": true
   },
   {
    "id": "matrix-b2031-bronco",
    "sku": "B2031",
-   "name": "Bronco",
+   "name": "Bronco — Queen Set",
    "cats": [
     "bedroom-sets"
    ],
@@ -771,15 +794,16 @@
    "img": "assets/cutouts/0f73a6ecae3b4662.webp",
    "gallery": [],
    "url": "https://matrixfurnituregroup.ca/product-detail/b2031-bronco",
-   "net": 679.0,
-   "price": "2139",
+   "net": 1699.0,
+   "price": "5352",
    "from": true,
-   "img_src": "https://matrixfurnituregroup.ca/uploads/thumbs/1759931909_4518e8799b38efdca94b.jpg"
+   "img_src": "https://matrixfurnituregroup.ca/uploads/thumbs/1759931909_4518e8799b38efdca94b.jpg",
+   "is_set": true
   },
   {
    "id": "matrix-b2041-highland",
    "sku": "B2041",
-   "name": "Highland",
+   "name": "Highland — Queen Set",
    "cats": [
     "bedroom-sets"
    ],
@@ -787,15 +811,16 @@
    "img": "assets/cutouts/8978eb96f7906809.webp",
    "gallery": [],
    "url": "https://matrixfurnituregroup.ca/product-detail/b2041-highland",
-   "net": 679.0,
-   "price": "2139",
+   "net": 1699.0,
+   "price": "5352",
    "from": true,
-   "img_src": "https://matrixfurnituregroup.ca/uploads/thumbs/1778600667_4106cc483ee74713b7d9.png"
+   "img_src": "https://matrixfurnituregroup.ca/uploads/thumbs/1778600667_4106cc483ee74713b7d9.png",
+   "is_set": true
   },
   {
    "id": "matrix-b2071-talia",
    "sku": "B2071",
-   "name": "Talia",
+   "name": "Talia — Queen Set",
    "cats": [
     "bedroom-sets"
    ],
@@ -803,14 +828,15 @@
    "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1744328862_caaeac19440bb48ab572.jpg",
    "gallery": [],
    "url": "https://matrixfurnituregroup.ca/product-detail/b2071-talia",
-   "net": 839.0,
-   "price": "2643",
-   "from": true
+   "net": 2099.0,
+   "price": "6612",
+   "from": true,
+   "is_set": true
   },
   {
    "id": "matrix-b2191-geneva",
    "sku": "B2191",
-   "name": "Geneva",
+   "name": "Geneva — Queen Set",
    "cats": [
     "bedroom-sets"
    ],
@@ -818,15 +844,16 @@
    "img": "assets/cutouts/6311acaa71930d57.webp",
    "gallery": [],
    "url": "https://matrixfurnituregroup.ca/product-detail/b2191-geneva",
-   "net": 1119.0,
-   "price": "3525",
+   "net": 2799.0,
+   "price": "8817",
    "from": true,
-   "img_src": "https://matrixfurnituregroup.ca/uploads/thumbs/1766178859_a05638806be212921871.jpg"
+   "img_src": "https://matrixfurnituregroup.ca/uploads/thumbs/1766178859_a05638806be212921871.jpg",
+   "is_set": true
   },
   {
    "id": "matrix-b2201-olympia",
    "sku": "B2201",
-   "name": "Olympia",
+   "name": "Olympia — Queen Set",
    "cats": [
     "bedroom-sets"
    ],
@@ -834,15 +861,16 @@
    "img": "assets/cutouts/2ecdff70e8dc6e29.webp",
    "gallery": [],
    "url": "https://matrixfurnituregroup.ca/product-detail/b2201-olympia",
-   "net": 879.0,
-   "price": "2769",
+   "net": 2199.0,
+   "price": "6927",
    "from": true,
-   "img_src": "https://matrixfurnituregroup.ca/uploads/thumbs/1777397987_d30d28fd0ef718704677.png"
+   "img_src": "https://matrixfurnituregroup.ca/uploads/thumbs/1777397987_d30d28fd0ef718704677.png",
+   "is_set": true
   },
   {
    "id": "matrix-b2211-versailles",
    "sku": "B2211",
-   "name": "Versailles",
+   "name": "Versailles — Queen Set",
    "cats": [
     "bedroom-sets"
    ],
@@ -850,15 +878,16 @@
    "img": "assets/cutouts/d993425b83b3fe73.webp",
    "gallery": [],
    "url": "https://matrixfurnituregroup.ca/product-detail/b2211-versailles",
-   "net": 879.0,
-   "price": "2769",
+   "net": 2199.0,
+   "price": "6927",
    "from": true,
-   "img_src": "https://matrixfurnituregroup.ca/uploads/thumbs/1777398156_bc7aa66e466d66273ada.png"
+   "img_src": "https://matrixfurnituregroup.ca/uploads/thumbs/1777398156_bc7aa66e466d66273ada.png",
+   "is_set": true
   },
   {
    "id": "matrix-b2221-seville",
    "sku": "B2221",
-   "name": "Seville",
+   "name": "Seville — Queen Set",
    "cats": [
     "bedroom-sets"
    ],
@@ -866,15 +895,16 @@
    "img": "assets/cutouts/0540f6ed3006d4d9.webp",
    "gallery": [],
    "url": "https://matrixfurnituregroup.ca/product-detail/b2221-seville",
-   "net": 959.0,
-   "price": "3021",
+   "net": 2399.0,
+   "price": "7557",
    "from": true,
-   "img_src": "https://matrixfurnituregroup.ca/uploads/thumbs/1776717109_e9eeba08fb6691e350be.jpg"
+   "img_src": "https://matrixfurnituregroup.ca/uploads/thumbs/1776717109_e9eeba08fb6691e350be.jpg",
+   "is_set": true
   },
   {
    "id": "matrix-b2231-sterling",
    "sku": "B2231",
-   "name": "Sterling",
+   "name": "Sterling — Queen Set",
    "cats": [
     "bedroom-sets"
    ],
@@ -882,15 +912,16 @@
    "img": "assets/cutouts/dac40280753a439a.webp",
    "gallery": [],
    "url": "https://matrixfurnituregroup.ca/product-detail/b2231-sterling",
-   "net": 729.0,
-   "price": "2296",
+   "net": 1699.0,
+   "price": "5352",
    "from": true,
-   "img_src": "https://matrixfurnituregroup.ca/uploads/thumbs/1785783390_4d29f5472321f2d93731.png"
+   "img_src": "https://matrixfurnituregroup.ca/uploads/thumbs/1785783390_4d29f5472321f2d93731.png",
+   "is_set": true
   },
   {
    "id": "matrix-b2241-lexington",
    "sku": "B2241",
-   "name": "Lexington",
+   "name": "Lexington — Queen Set",
    "cats": [
     "bedroom-sets"
    ],
@@ -898,15 +929,16 @@
    "img": "assets/cutouts/3106cc73ed323ab7.webp",
    "gallery": [],
    "url": "https://matrixfurnituregroup.ca/product-detail/b2241-lexington",
-   "net": 899.0,
-   "price": "2832",
+   "net": 2249.0,
+   "price": "7084",
    "from": true,
-   "img_src": "https://matrixfurnituregroup.ca/uploads/thumbs/1776369125_57bb4035b56df7739077.jpg"
+   "img_src": "https://matrixfurnituregroup.ca/uploads/thumbs/1776369125_57bb4035b56df7739077.jpg",
+   "is_set": true
   },
   {
    "id": "matrix-b2251-berlin",
    "sku": "B2251",
-   "name": "Berlin",
+   "name": "Berlin — Queen Set",
    "cats": [
     "bedroom-sets"
    ],
@@ -914,15 +946,16 @@
    "img": "assets/cutouts/99af9ee521aef1f8.webp",
    "gallery": [],
    "url": "https://matrixfurnituregroup.ca/product-detail/b2251-berlin",
-   "net": 999.0,
-   "price": "3147",
+   "net": 2499.0,
+   "price": "7872",
    "from": true,
-   "img_src": "https://matrixfurnituregroup.ca/uploads/thumbs/1779724282_8c94e525c1f8365e02c4.jpg"
+   "img_src": "https://matrixfurnituregroup.ca/uploads/thumbs/1779724282_8c94e525c1f8365e02c4.jpg",
+   "is_set": true
   },
   {
    "id": "matrix-b2261-lisbon",
    "sku": "B2261",
-   "name": "Lisbon",
+   "name": "Lisbon — Queen Set",
    "cats": [
     "bedroom-sets"
    ],
@@ -930,15 +963,16 @@
    "img": "assets/cutouts/b7eebbb33d4fe358.webp",
    "gallery": [],
    "url": "https://matrixfurnituregroup.ca/product-detail/b2261-lisbon",
-   "net": 1079.0,
-   "price": "3399",
+   "net": 2699.0,
+   "price": "8502",
    "from": true,
-   "img_src": "https://matrixfurnituregroup.ca/uploads/thumbs/1785787104_acc0b0f63aedfd18f48f.png"
+   "img_src": "https://matrixfurnituregroup.ca/uploads/thumbs/1785787104_acc0b0f63aedfd18f48f.png",
+   "is_set": true
   },
   {
    "id": "matrix-b2391-henry",
    "sku": "B2391",
-   "name": "Henry",
+   "name": "Henry — Queen Set",
    "cats": [
     "bedroom-sets"
    ],
@@ -946,14 +980,15 @@
    "img": null,
    "gallery": [],
    "url": "https://matrixfurnituregroup.ca/product-detail/b2391-henry",
-   "net": 659.0,
-   "price": "2076",
-   "from": true
+   "net": 1649.0,
+   "price": "5194",
+   "from": true,
+   "is_set": true
   },
   {
    "id": "matrix-b2411-hugo",
    "sku": "B2411",
-   "name": "Hugo",
+   "name": "Hugo — Queen Set",
    "cats": [
     "bedroom-sets"
    ],
@@ -961,14 +996,15 @@
    "img": null,
    "gallery": [],
    "url": "https://matrixfurnituregroup.ca/product-detail/b2411-hugo",
-   "net": 699.0,
-   "price": "2202",
-   "from": true
+   "net": 1749.0,
+   "price": "5509",
+   "from": true,
+   "is_set": true
   },
   {
    "id": "matrix-b391-roma",
    "sku": "B391",
-   "name": "Roma",
+   "name": "Roma — Queen Set",
    "cats": [
     "bedroom-sets"
    ],
@@ -976,10 +1012,11 @@
    "img": "assets/cutouts/bd80779166b3bb5e.webp",
    "gallery": [],
    "url": "https://matrixfurnituregroup.ca/product-detail/b391-roma",
-   "net": 1199.0,
-   "price": "3777",
+   "net": 2999.0,
+   "price": "9447",
    "from": true,
-   "img_src": "https://matrixfurnituregroup.ca/uploads/thumbs/1744396825_12979893f3a186fecfaf.jpg"
+   "img_src": "https://matrixfurnituregroup.ca/uploads/thumbs/1744396825_12979893f3a186fecfaf.jpg",
+   "is_set": true
   },
   {
    "id": "matrix-b423-hazel",
@@ -992,15 +1029,12 @@
    "img": "assets/cutouts/ab1796bd6298df48.webp",
    "gallery": [],
    "url": "https://matrixfurnituregroup.ca/product-detail/b423-hazel",
-   "net": 599.0,
-   "price": "1887",
-   "from": true,
    "img_src": "https://matrixfurnituregroup.ca/uploads/thumbs/1775853626_f2fb54bf0936d3687f39.jpg"
   },
   {
    "id": "matrix-b851-baltimore",
    "sku": "B851",
-   "name": "Baltimore",
+   "name": "Baltimore — Queen Set",
    "cats": [
     "bedroom-sets"
    ],
@@ -1008,14 +1042,15 @@
    "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1744386437_a55eeb7a7460cc4b0c00.jpg",
    "gallery": [],
    "url": "https://matrixfurnituregroup.ca/product-detail/b851-baltimore",
-   "net": 759.0,
-   "price": "2391",
-   "from": true
+   "net": 1799.0,
+   "price": "5667",
+   "from": true,
+   "is_set": true
   },
   {
    "id": "matrix-b852-austin",
    "sku": "B852",
-   "name": "Austin",
+   "name": "Austin — Queen Set",
    "cats": [
     "bedroom-sets"
    ],
@@ -1023,9 +1058,10 @@
    "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1744386049_e3127f4f43e108217f4f.jpg",
    "gallery": [],
    "url": "https://matrixfurnituregroup.ca/product-detail/b852-austin",
-   "net": 799.0,
-   "price": "2517",
-   "from": true
+   "net": 1899.0,
+   "price": "5982",
+   "from": true,
+   "is_set": true
   },
   {
    "id": "matrix-b853-baltimore",
@@ -1038,8 +1074,8 @@
    "img": "assets/cutouts/07e1d5649578ba00.webp",
    "gallery": [],
    "url": "https://matrixfurnituregroup.ca/product-detail/b853-baltimore",
-   "net": 759.0,
-   "price": "2391",
+   "net": 1799.0,
+   "price": "5667",
    "from": true,
    "img_src": "https://matrixfurnituregroup.ca/uploads/thumbs/1785781023_8b948e87aabc088c08be.png"
   },
@@ -1708,10 +1744,7 @@
    "desc": "",
    "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1745349142_ff5ea81c7da4c6ec5d81.jpg",
    "gallery": [],
-   "url": "https://matrixfurnituregroup.ca/product-detail/b1371-elliot-king-bed-chestnut",
-   "net": 199.0,
-   "price": "627",
-   "from": true
+   "url": "https://matrixfurnituregroup.ca/product-detail/b1371-elliot-king-bed-chestnut"
   },
   {
    "id": "matrix-b1371-elliot-queen-bed-chestnut",
@@ -1723,10 +1756,7 @@
    "desc": "",
    "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1745349254_07d9bff676e8dc498ac1.jpg",
    "gallery": [],
-   "url": "https://matrixfurnituregroup.ca/product-detail/b1371-elliot-queen-bed-chestnut",
-   "net": 199.0,
-   "price": "627",
-   "from": true
+   "url": "https://matrixfurnituregroup.ca/product-detail/b1371-elliot-queen-bed-chestnut"
   },
   {
    "id": "matrix-b1391-crystal-king-bed-black",
@@ -2005,10 +2035,7 @@
    "desc": "",
    "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1745420084_37233014de9d0c4cc4ea.jpg",
    "gallery": [],
-   "url": "https://matrixfurnituregroup.ca/product-detail/b1541-kylie-king-bed-grey",
-   "net": 299.0,
-   "price": "942",
-   "from": true
+   "url": "https://matrixfurnituregroup.ca/product-detail/b1541-kylie-king-bed-grey"
   },
   {
    "id": "matrix-b1541-kylie-queen-bed-grey",
@@ -2020,10 +2047,7 @@
    "desc": "",
    "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1745420130_ca08b3fe7fd2584111c3.jpg",
    "gallery": [],
-   "url": "https://matrixfurnituregroup.ca/product-detail/b1541-kylie-queen-bed-grey",
-   "net": 299.0,
-   "price": "942",
-   "from": true
+   "url": "https://matrixfurnituregroup.ca/product-detail/b1541-kylie-queen-bed-grey"
   },
   {
    "id": "matrix-b1571-denver-full-bed-light-grey",
@@ -2738,10 +2762,7 @@
    "desc": "",
    "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1775678493_65387a3f1d88eb1d0585.jpg",
    "gallery": [],
-   "url": "https://matrixfurnituregroup.ca/product-detail/b1862-eros",
-   "net": 1499.0,
-   "price": "4722",
-   "from": true
+   "url": "https://matrixfurnituregroup.ca/product-detail/b1862-eros"
   },
   {
    "id": "matrix-b1862-eros-king-bed-room-set-silver",
@@ -2754,9 +2775,6 @@
    "img": "assets/cutouts/33dad9f8fbb74cb5.webp",
    "gallery": [],
    "url": "https://matrixfurnituregroup.ca/product-detail/b1862-eros-king-bed-room-set-silver",
-   "net": 1499.0,
-   "price": "4722",
-   "from": true,
    "img_src": "https://matrixfurnituregroup.ca/uploads/thumbs/1775679421_4db41425f5885d856f76.jpg"
   },
   {
@@ -2769,10 +2787,7 @@
    "desc": "",
    "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1759932454_dff6322569fcf0bc7cf3.jpg",
    "gallery": [],
-   "url": "https://matrixfurnituregroup.ca/product-detail/b1862-eros-king-bed-silver",
-   "net": 1499.0,
-   "price": "4722",
-   "from": true
+   "url": "https://matrixfurnituregroup.ca/product-detail/b1862-eros-king-bed-silver"
   },
   {
    "id": "matrix-b1862-eros-queen-bed-silver",
@@ -2784,10 +2799,7 @@
    "desc": "",
    "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1759932497_9bff3d5e1840a7f8eeb6.jpg",
    "gallery": [],
-   "url": "https://matrixfurnituregroup.ca/product-detail/b1862-eros-queen-bed-silver",
-   "net": 1499.0,
-   "price": "4722",
-   "from": true
+   "url": "https://matrixfurnituregroup.ca/product-detail/b1862-eros-queen-bed-silver"
   },
   {
    "id": "matrix-b1871-glam-king-bed-white",
@@ -4117,10 +4129,7 @@
    "desc": "",
    "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1744656682_42b5e9e5de5d037c7c70.jpg",
    "gallery": [],
-   "url": "https://matrixfurnituregroup.ca/product-detail/b1061-rylee-chest-grey",
-   "net": 1299.0,
-   "price": "4092",
-   "from": true
+   "url": "https://matrixfurnituregroup.ca/product-detail/b1061-rylee-chest-grey"
   },
   {
    "id": "matrix-b1071-cypress-chest-black",
@@ -4235,10 +4244,7 @@
    "desc": "",
    "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1745345313_f18ce30d5cca4c1ec458.jpg",
    "gallery": [],
-   "url": "https://matrixfurnituregroup.ca/product-detail/b1171-destiny-chest-silver",
-   "net": 1699.0,
-   "price": "5352",
-   "from": true
+   "url": "https://matrixfurnituregroup.ca/product-detail/b1171-destiny-chest-silver"
   },
   {
    "id": "matrix-b1181-sophia-chest-black",
@@ -4351,10 +4357,7 @@
    "desc": "",
    "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1745348723_e26253c49509e11a699e.jpg",
    "gallery": [],
-   "url": "https://matrixfurnituregroup.ca/product-detail/b1371-elliot-chest-chestnut",
-   "net": 199.0,
-   "price": "627",
-   "from": true
+   "url": "https://matrixfurnituregroup.ca/product-detail/b1371-elliot-chest-chestnut"
   },
   {
    "id": "matrix-b1391-crystal-chest-black",
@@ -4534,9 +4537,6 @@
    "img": "assets/cutouts/4c170d00d860664b.webp",
    "gallery": [],
    "url": "https://matrixfurnituregroup.ca/product-detail/b1631-madrid-chest-graphite",
-   "net": 1139.0,
-   "price": "3588",
-   "from": true,
    "img_src": "https://matrixfurnituregroup.ca/uploads/thumbs/1743601525_31dcf0403f7d859a6142.jpg"
   },
   {
@@ -4734,10 +4734,7 @@
    "desc": "",
    "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1775679361_e9df57b90569e4c073e7.jpg",
    "gallery": [],
-   "url": "https://matrixfurnituregroup.ca/product-detail/b1862-eros-chest-silver",
-   "net": 1499.0,
-   "price": "4722",
-   "from": true
+   "url": "https://matrixfurnituregroup.ca/product-detail/b1862-eros-chest-silver"
   },
   {
    "id": "matrix-b1891-zain-chest-grey-angly-white",
@@ -5572,10 +5569,7 @@
    "desc": "",
    "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1745349071_09bb364b34cedd3900a2.jpg",
    "gallery": [],
-   "url": "https://matrixfurnituregroup.ca/product-detail/b1371-elliot-nightstand-chestnut",
-   "net": 199.0,
-   "price": "627",
-   "from": true
+   "url": "https://matrixfurnituregroup.ca/product-detail/b1371-elliot-nightstand-chestnut"
   },
   {
    "id": "matrix-b1391-crystal-nightstand-black",
@@ -5969,10 +5963,7 @@
    "desc": "",
    "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1775679213_a5eec2032d56e1795f1d.jpg",
    "gallery": [],
-   "url": "https://matrixfurnituregroup.ca/product-detail/b1862-eros-nightstand-silver",
-   "net": 1499.0,
-   "price": "4722",
-   "from": true
+   "url": "https://matrixfurnituregroup.ca/product-detail/b1862-eros-nightstand-silver"
   },
   {
    "id": "matrix-b1891-zain-nightstand-grey-angly-white",
@@ -6000,8 +5991,8 @@
    "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1771449578_2fe52c30b15772208b97.jpg",
    "gallery": [],
    "url": "https://matrixfurnituregroup.ca/product-detail/b1911-manchester-nightstand-walnut-grey",
-   "net": 459.0,
-   "price": "1446",
+   "net": 229.0,
+   "price": "721",
    "from": true
   },
   {
@@ -6070,10 +6061,7 @@
    "desc": "",
    "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1775829673_6d52ca363e05ccc588d9.png",
    "gallery": [],
-   "url": "https://matrixfurnituregroup.ca/product-detail/b1951-treasure-night-stand-grey",
-   "net": 209.0,
-   "price": "658",
-   "from": true
+   "url": "https://matrixfurnituregroup.ca/product-detail/b1951-treasure-night-stand-grey"
   },
   {
    "id": "matrix-b1951-treasure-night-stand-white",
@@ -6085,10 +6073,7 @@
    "desc": "",
    "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1775830511_ac7b4728264df46478da.png",
    "gallery": [],
-   "url": "https://matrixfurnituregroup.ca/product-detail/b1951-treasure-night-stand-white",
-   "net": 209.0,
-   "price": "658",
-   "from": true
+   "url": "https://matrixfurnituregroup.ca/product-detail/b1951-treasure-night-stand-white"
   },
   {
    "id": "matrix-b1961-disco-nightstand-grey",
@@ -6180,9 +6165,6 @@
    "img": "assets/cutouts/f172563e6a985f9a.webp",
    "gallery": [],
    "url": "https://matrixfurnituregroup.ca/product-detail/b2021-sydney-night-stand-grey",
-   "net": 179.0,
-   "price": "564",
-   "from": true,
    "img_src": "https://matrixfurnituregroup.ca/uploads/thumbs/1758818978_87871ac9a87d20b2c993.jpg"
   },
   {
@@ -6289,9 +6271,6 @@
    "img": "assets/cutouts/cc6796e12a527d31.webp",
    "gallery": [],
    "url": "https://matrixfurnituregroup.ca/product-detail/b2201-olympia-night-stand-left-grey",
-   "net": 219.0,
-   "price": "690",
-   "from": true,
    "img_src": "https://matrixfurnituregroup.ca/uploads/thumbs/1775844655_8da7241e0fb31b047241.png"
   },
   {
@@ -6305,9 +6284,6 @@
    "img": "assets/cutouts/1cec1fb502a4c8cd.webp",
    "gallery": [],
    "url": "https://matrixfurnituregroup.ca/product-detail/b2201-olympia-night-stand-right-grey",
-   "net": 219.0,
-   "price": "690",
-   "from": true,
    "img_src": "https://matrixfurnituregroup.ca/uploads/thumbs/1775844971_dcd6bbb96602c6ffe28b.png"
   },
   {
@@ -6320,10 +6296,7 @@
    "desc": "",
    "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1775852106_47b517f6ce8a74deb9db.jpg",
    "gallery": [],
-   "url": "https://matrixfurnituregroup.ca/product-detail/b2211-versailles-night-stand-dark-walnut",
-   "net": 219.0,
-   "price": "690",
-   "from": true
+   "url": "https://matrixfurnituregroup.ca/product-detail/b2211-versailles-night-stand-dark-walnut"
   },
   {
    "id": "matrix-b2221-seville-nightstand-white",
@@ -6673,10 +6646,7 @@
    "desc": "",
    "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1745340757_80469bdc6c1297eece15.jpg",
    "gallery": [],
-   "url": "https://matrixfurnituregroup.ca/product-detail/b1141-ginger-dresser-mirror-set-gun-metal",
-   "net": 899.0,
-   "price": "2832",
-   "from": true
+   "url": "https://matrixfurnituregroup.ca/product-detail/b1141-ginger-dresser-mirror-set-gun-metal"
   },
   {
    "id": "matrix-b1141-ginger-dresser-mirror-set-white",
@@ -6688,10 +6658,7 @@
    "desc": "",
    "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1745344092_12b3b995347c0af3f0c1.jpg",
    "gallery": [],
-   "url": "https://matrixfurnituregroup.ca/product-detail/b1141-ginger-dresser-mirror-set-white",
-   "net": 899.0,
-   "price": "2832",
-   "from": true
+   "url": "https://matrixfurnituregroup.ca/product-detail/b1141-ginger-dresser-mirror-set-white"
   },
   {
    "id": "matrix-b1161-brooklyn-dresser-mirror-set-gun-metal",
@@ -6863,10 +6830,7 @@
    "desc": "",
    "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1745349333_1247d855bf8d760803bc.jpg",
    "gallery": [],
-   "url": "https://matrixfurnituregroup.ca/product-detail/b1371-elliot-dresser-mirror-set-chestnut",
-   "net": 199.0,
-   "price": "627",
-   "from": true
+   "url": "https://matrixfurnituregroup.ca/product-detail/b1371-elliot-dresser-mirror-set-chestnut"
   },
   {
    "id": "matrix-b1381-milan-dresser-mirror-set-milky-white",
@@ -6982,9 +6946,6 @@
    "img": "assets/cutouts/37bc26926f3955fa.webp",
    "gallery": [],
    "url": "https://matrixfurnituregroup.ca/product-detail/b1491-sienna-dresser-mirror-set-beige",
-   "net": 979.0,
-   "price": "3084",
-   "from": true,
    "img_src": "https://matrixfurnituregroup.ca/uploads/thumbs/1745419683_a5209d5e76b3ef9b7cb0.jpg"
   },
   {
@@ -6997,10 +6958,7 @@
    "desc": "",
    "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1745420184_6dabbcd1a80ca077debb.jpg",
    "gallery": [],
-   "url": "https://matrixfurnituregroup.ca/product-detail/b1541-kylie-dresser-mirror-set-grey",
-   "net": 299.0,
-   "price": "942",
-   "from": true
+   "url": "https://matrixfurnituregroup.ca/product-detail/b1541-kylie-dresser-mirror-set-grey"
   },
   {
    "id": "matrix-b1561-grace-dresser-mirror-set-grey",
@@ -7342,10 +7300,7 @@
    "desc": "",
    "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1775679521_525c7bc1214bc46b3f12.jpg",
    "gallery": [],
-   "url": "https://matrixfurnituregroup.ca/product-detail/b1862-eros-dresser-mirr0r-set-silver",
-   "net": 1499.0,
-   "price": "4722",
-   "from": true
+   "url": "https://matrixfurnituregroup.ca/product-detail/b1862-eros-dresser-mirr0r-set-silver"
   },
   {
    "id": "matrix-b1871-glam-dresser-mirror-set-white",
@@ -7852,9 +7807,6 @@
    "img": "assets/cutouts/e92abab9675d3582.webp",
    "gallery": [],
    "url": "https://matrixfurnituregroup.ca/product-detail/d1360t-bailey",
-   "net": 599.0,
-   "price": "1887",
-   "from": true,
    "img_src": "https://matrixfurnituregroup.ca/uploads/thumbs/1755550901_e611fd25ab1b62d79964.jpg"
   },
   {
@@ -7868,9 +7820,6 @@
    "img": "assets/cutouts/ca083ce3941f3ea3.webp",
    "gallery": [],
    "url": "https://matrixfurnituregroup.ca/product-detail/d1460t-maya",
-   "net": 699.0,
-   "price": "2202",
-   "from": true,
    "img_src": "https://matrixfurnituregroup.ca/uploads/thumbs/1760025843_3d2a5a168911decc80ca.jpg"
   },
   {
@@ -7916,9 +7865,6 @@
    "img": "assets/cutouts/2151a2622be0c723.webp",
    "gallery": [],
    "url": "https://matrixfurnituregroup.ca/product-detail/d1530t-ayla",
-   "net": 749.0,
-   "price": "2359",
-   "from": true,
    "img_src": "https://matrixfurnituregroup.ca/uploads/thumbs/1755031228_affd2989044a9b3f43c0.jpg"
   },
   {
@@ -7947,10 +7893,7 @@
    "desc": "",
    "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1760038124_8661587feaede800f3d1.jpg",
    "gallery": [],
-   "url": "https://matrixfurnituregroup.ca/product-detail/d1560t-remi",
-   "net": 749.0,
-   "price": "2359",
-   "from": true
+   "url": "https://matrixfurnituregroup.ca/product-detail/d1560t-remi"
   },
   {
    "id": "matrix-d1640t-aylin",
@@ -7963,9 +7906,6 @@
    "img": "assets/cutouts/a217406bf09d1dc7.webp",
    "gallery": [],
    "url": "https://matrixfurnituregroup.ca/product-detail/d1640t-aylin",
-   "net": 849.0,
-   "price": "2674",
-   "from": true,
    "img_src": "https://matrixfurnituregroup.ca/uploads/thumbs/1760027623_eba910c929c44999884d.jpg"
   },
   {
@@ -7979,9 +7919,6 @@
    "img": "assets/cutouts/5f2f93c05b0d2f23.webp",
    "gallery": [],
    "url": "https://matrixfurnituregroup.ca/product-detail/d1660t",
-   "net": 749.0,
-   "price": "2359",
-   "from": true,
    "img_src": "https://matrixfurnituregroup.ca/uploads/thumbs/1760026050_6dcab922e84152830b89.jpg"
   },
   {
@@ -8068,10 +8005,7 @@
    "desc": "",
    "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1760040149_2a88e60497824033e9a1.jpg",
    "gallery": [],
-   "url": "https://matrixfurnituregroup.ca/product-detail/d1860-lou",
-   "net": 649.0,
-   "price": "2044",
-   "from": true
+   "url": "https://matrixfurnituregroup.ca/product-detail/d1860-lou"
   },
   {
    "id": "matrix-d1870-atlantis",
@@ -8100,9 +8034,6 @@
    "img": "assets/cutouts/05a223ca98f81be7.webp",
    "gallery": [],
    "url": "https://matrixfurnituregroup.ca/product-detail/d1900-everly",
-   "net": 1099.0,
-   "price": "3462",
-   "from": true,
    "img_src": "https://matrixfurnituregroup.ca/uploads/thumbs/1778005664_c9de55f41d2edaefbe8e.jpg"
   },
   {
@@ -8116,9 +8047,6 @@
    "img": "assets/cutouts/bfdf1d2b5688f0be.webp",
    "gallery": [],
    "url": "https://matrixfurnituregroup.ca/product-detail/d1910-parker",
-   "net": 749.0,
-   "price": "2359",
-   "from": true,
    "img_src": "https://matrixfurnituregroup.ca/uploads/thumbs/1778012114_19e7086d4d9e5eed1118.jpg"
   },
   {
@@ -8132,9 +8060,6 @@
    "img": "assets/cutouts/07f3b52318b88415.webp",
    "gallery": [],
    "url": "https://matrixfurnituregroup.ca/product-detail/d1920-rene",
-   "net": 399.0,
-   "price": "1257",
-   "from": true,
    "img_src": "https://matrixfurnituregroup.ca/uploads/thumbs/1785870863_0849bc63556f610db3eb.png"
   },
   {
@@ -8148,9 +8073,6 @@
    "img": "assets/cutouts/4133ecbda50a8612.webp",
    "gallery": [],
    "url": "https://matrixfurnituregroup.ca/product-detail/d1930-max",
-   "net": 399.0,
-   "price": "1257",
-   "from": true,
    "img_src": "https://matrixfurnituregroup.ca/uploads/thumbs/1785427154_c29739b2dffd5d9496bc.jpg"
   },
   {
@@ -8164,9 +8086,6 @@
    "img": "assets/cutouts/6b2e1f0cba079cbf.webp",
    "gallery": [],
    "url": "https://matrixfurnituregroup.ca/product-detail/d660-pauline",
-   "net": 88.0,
-   "price": "277",
-   "from": true,
    "img_src": "https://matrixfurnituregroup.ca/uploads/thumbs/1743792159_3f9bd58affae8fb60501.jpg"
   },
   {
@@ -8569,10 +8488,7 @@
    "desc": "",
    "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1743791784_49b456fc86f2b6325ca3.jpg",
    "gallery": [],
-   "url": "https://matrixfurnituregroup.ca/product-detail/d660-pauline-dining-table-glass-brown",
-   "net": 88.0,
-   "price": "277",
-   "from": true
+   "url": "https://matrixfurnituregroup.ca/product-detail/d660-pauline-dining-table-glass-brown"
   },
   {
    "id": "matrix-d760-milan-dining-table-white-chrome",
@@ -8627,9 +8543,6 @@
    "img": "assets/cutouts/26ddcd95b11a8a39.webp",
    "gallery": [],
    "url": "https://matrixfurnituregroup.ca/product-detail/dt006-crystal-dining-table",
-   "net": 2099.0,
-   "price": "6612",
-   "from": true,
    "img_src": "https://matrixfurnituregroup.ca/uploads/thumbs/1777997016_e5eecab185b40d502f9c.png"
   },
   {
@@ -9357,10 +9270,7 @@
    "desc": "",
    "img": null,
    "gallery": [],
-   "url": "https://matrixfurnituregroup.ca/product-detail/d1460-maya-fabric-chair-green",
-   "net": 699.0,
-   "price": "2202",
-   "from": true
+   "url": "https://matrixfurnituregroup.ca/product-detail/d1460-maya-fabric-chair-green"
   },
   {
    "id": "matrix-d1470-molly-arm-chair-brown",
@@ -9387,10 +9297,7 @@
    "desc": "",
    "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1743790882_c8812b6c3d9cce96de0c.jpg",
    "gallery": [],
-   "url": "https://matrixfurnituregroup.ca/product-detail/d1490-norah-chair-wgold-legs-black-gold-2pcsctn",
-   "net": 1299.0,
-   "price": "4092",
-   "from": true
+   "url": "https://matrixfurnituregroup.ca/product-detail/d1490-norah-chair-wgold-legs-black-gold-2pcsctn"
   },
   {
    "id": "matrix-d1555-lilly-chair-grey-2pcsctn",
@@ -9417,10 +9324,7 @@
    "desc": "",
    "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1743704953_e8bc895f583aace17990.jpg",
    "gallery": [],
-   "url": "https://matrixfurnituregroup.ca/product-detail/d1640-aylin-chair-pu-wlegs-cream-gold-2pcsctn",
-   "net": 849.0,
-   "price": "2674",
-   "from": true
+   "url": "https://matrixfurnituregroup.ca/product-detail/d1640-aylin-chair-pu-wlegs-cream-gold-2pcsctn"
   },
   {
    "id": "matrix-d1640-aylin-chair-pu-wgold-legs-beige-gold-2pcsctn",
@@ -9432,10 +9336,7 @@
    "desc": "",
    "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1743708255_86c68e4023e4b303ca42.jpg",
    "gallery": [],
-   "url": "https://matrixfurnituregroup.ca/product-detail/d1640-aylin-chair-pu-wgold-legs-beige-gold-2pcsctn",
-   "net": 849.0,
-   "price": "2674",
-   "from": true
+   "url": "https://matrixfurnituregroup.ca/product-detail/d1640-aylin-chair-pu-wgold-legs-beige-gold-2pcsctn"
   },
   {
    "id": "matrix-d1640-aylin-chair-pu-wgold-legs-grey-gold-2pcsctn",
@@ -9447,10 +9348,7 @@
    "desc": "",
    "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1743708359_705d55bb22a2b1041f68.jpg",
    "gallery": [],
-   "url": "https://matrixfurnituregroup.ca/product-detail/d1640-aylin-chair-pu-wgold-legs-grey-gold-2pcsctn",
-   "net": 849.0,
-   "price": "2674",
-   "from": true
+   "url": "https://matrixfurnituregroup.ca/product-detail/d1640-aylin-chair-pu-wgold-legs-grey-gold-2pcsctn"
   },
   {
    "id": "matrix-d1790-madrid-chair-graphite-2pcsctn",
@@ -9633,10 +9531,7 @@
    "desc": "",
    "img": null,
    "gallery": [],
-   "url": "https://matrixfurnituregroup.ca/product-detail/d1470-molly-buffet-brown",
-   "net": 1249.0,
-   "price": "3934",
-   "from": true
+   "url": "https://matrixfurnituregroup.ca/product-detail/d1470-molly-buffet-brown"
   },
   {
    "id": "matrix-d1470-molly-hutch-brown",
@@ -9648,10 +9543,7 @@
    "desc": "",
    "img": null,
    "gallery": [],
-   "url": "https://matrixfurnituregroup.ca/product-detail/d1470-molly-hutch-brown",
-   "net": 1249.0,
-   "price": "3934",
-   "from": true
+   "url": "https://matrixfurnituregroup.ca/product-detail/d1470-molly-hutch-brown"
   },
   {
    "id": "matrix-d1555-lilly-server-grey",
@@ -9663,10 +9555,7 @@
    "desc": "",
    "img": null,
    "gallery": [],
-   "url": "https://matrixfurnituregroup.ca/product-detail/d1555-lilly-server-grey",
-   "net": 749.0,
-   "price": "2359",
-   "from": true
+   "url": "https://matrixfurnituregroup.ca/product-detail/d1555-lilly-server-grey"
   },
   {
    "id": "matrix-l1425-isabella",
@@ -9816,9 +9705,6 @@
    "img": "assets/cutouts/01fd29f578b36ae8.webp",
    "gallery": [],
    "url": "https://matrixfurnituregroup.ca/product-detail/l4025-eros",
-   "net": 1499.0,
-   "price": "4722",
-   "from": true,
    "img_src": "https://matrixfurnituregroup.ca/uploads/thumbs/1744750021_ec98a81dab2948a4119d.jpg"
   },
   {
@@ -12943,9 +12829,6 @@
    "img": "assets/cutouts/d725230478bd1b58.webp",
    "gallery": [],
    "url": "https://matrixfurnituregroup.ca/product-detail/l1865-amiyah",
-   "net": 3099.0,
-   "price": "9762",
-   "from": true,
    "img_src": "https://matrixfurnituregroup.ca/uploads/thumbs/1744322462_12c0715ca72552a072f5.jpg"
   },
   {
@@ -12958,10 +12841,7 @@
    "desc": "",
    "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1744139619_a0bf426c4190f60ae804.jpg",
    "gallery": [],
-   "url": "https://matrixfurnituregroup.ca/product-detail/l2475-duke",
-   "net": 1699.0,
-   "price": "5352",
-   "from": true
+   "url": "https://matrixfurnituregroup.ca/product-detail/l2475-duke"
   },
   {
    "id": "matrix-l2575-polar",
@@ -12974,9 +12854,6 @@
    "img": "assets/cutouts/b2aac45ccb5d6cbc.webp",
    "gallery": [],
    "url": "https://matrixfurnituregroup.ca/product-detail/l2575-polar",
-   "net": 2899.0,
-   "price": "9132",
-   "from": true,
    "img_src": "https://matrixfurnituregroup.ca/uploads/thumbs/1756322076_c35cc3afa6785ed55278.jpg"
   },
   {
@@ -12990,9 +12867,6 @@
    "img": "assets/cutouts/618e488227017094.webp",
    "gallery": [],
    "url": "https://matrixfurnituregroup.ca/product-detail/l2775-inox",
-   "net": 2399.0,
-   "price": "7557",
-   "from": true,
    "img_src": "https://matrixfurnituregroup.ca/uploads/thumbs/1744323173_74a14c9218eabed5f907.jpg"
   },
   {
@@ -13006,9 +12880,6 @@
    "img": "assets/cutouts/d329c795eecabefd.webp",
    "gallery": [],
    "url": "https://matrixfurnituregroup.ca/product-detail/l2875-cooper",
-   "net": 2099.0,
-   "price": "6612",
-   "from": true,
    "img_src": "https://matrixfurnituregroup.ca/uploads/thumbs/1776194683_cd84e723d1a2a27fdb49.jpg"
   },
   {
@@ -13022,9 +12893,6 @@
    "img": "assets/cutouts/60368d9ccaa759ee.webp",
    "gallery": [],
    "url": "https://matrixfurnituregroup.ca/product-detail/l2975-boomer",
-   "net": 2099.0,
-   "price": "6612",
-   "from": true,
    "img_src": "https://matrixfurnituregroup.ca/uploads/thumbs/1744134701_37cdd6bf4c75ec1d8822.jpg"
   },
   {
@@ -13038,9 +12906,6 @@
    "img": "assets/cutouts/2d4066c7dbfa084f.webp",
    "gallery": [],
    "url": "https://matrixfurnituregroup.ca/product-detail/l3075-fortuner",
-   "net": 2649.0,
-   "price": "8344",
-   "from": true,
    "img_src": "https://matrixfurnituregroup.ca/uploads/thumbs/1779977789_846c96b47bdc55309989.jpg"
   },
   {
@@ -13054,9 +12919,6 @@
    "img": "assets/cutouts/d858b47f29176d01.webp",
    "gallery": [],
    "url": "https://matrixfurnituregroup.ca/product-detail/l3175-paloma",
-   "net": 2599.0,
-   "price": "8187",
-   "from": true,
    "img_src": "https://matrixfurnituregroup.ca/uploads/thumbs/1761249089_d18b9f033ab8a9c26383.jpg"
   },
   {
@@ -13069,10 +12931,7 @@
    "desc": "",
    "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1744145725_d5eabcac3a1541a6fd64.jpg",
    "gallery": [],
-   "url": "https://matrixfurnituregroup.ca/product-detail/l3665-comfort",
-   "net": 1429.0,
-   "price": "4501",
-   "from": true
+   "url": "https://matrixfurnituregroup.ca/product-detail/l3665-comfort"
   },
   {
    "id": "matrix-l3765-rogue",
@@ -13085,9 +12944,6 @@
    "img": "assets/cutouts/e23e971b1293c09d.webp",
    "gallery": [],
    "url": "https://matrixfurnituregroup.ca/product-detail/l3765-rogue",
-   "net": 2299.0,
-   "price": "7242",
-   "from": true,
    "img_src": "https://matrixfurnituregroup.ca/uploads/thumbs/1756320456_b07fa4ea14ea973f8776.jpg"
   },
   {
@@ -13101,9 +12957,6 @@
    "img": "assets/cutouts/1fc2bdaa3391aee5.webp",
    "gallery": [],
    "url": "https://matrixfurnituregroup.ca/product-detail/l3965-supra",
-   "net": 1599.0,
-   "price": "5037",
-   "from": true,
    "img_src": "https://matrixfurnituregroup.ca/uploads/thumbs/1774296689_de8a874bd62a460f9ded.jpg"
   },
   {
@@ -13117,9 +12970,6 @@
    "img": "assets/cutouts/4c26bd9bd1e43fa4.webp",
    "gallery": [],
    "url": "https://matrixfurnituregroup.ca/product-detail/l4165-henessey",
-   "net": 2699.0,
-   "price": "8502",
-   "from": true,
    "img_src": "https://matrixfurnituregroup.ca/uploads/thumbs/1776266776_8de3d0c464eaf9d48c9a.jpeg"
   },
   {
@@ -13132,10 +12982,7 @@
    "desc": "",
    "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1744318865_f2c66b5c0d90803034a2.jpg",
    "gallery": [],
-   "url": "https://matrixfurnituregroup.ca/product-detail/l8565-verona",
-   "net": 2699.0,
-   "price": "8502",
-   "from": true
+   "url": "https://matrixfurnituregroup.ca/product-detail/l8565-verona"
   },
   {
    "id": "matrix-l1945-sage",
@@ -13148,9 +12995,6 @@
    "img": "assets/cutouts/f022a6ca95cf3113.webp",
    "gallery": [],
    "url": "https://matrixfurnituregroup.ca/product-detail/l1945-sage",
-   "net": 1399.0,
-   "price": "4407",
-   "from": true,
    "img_src": "https://matrixfurnituregroup.ca/uploads/thumbs/1751914133_4b840db581b053ba1b8a.jpg"
   },
   {
@@ -13163,10 +13007,7 @@
    "desc": "",
    "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1744319842_72ae4bb67d25cf3a9c47.jpg",
    "gallery": [],
-   "url": "https://matrixfurnituregroup.ca/product-detail/l2045-relieve",
-   "net": 1399.0,
-   "price": "4407",
-   "from": true
+   "url": "https://matrixfurnituregroup.ca/product-detail/l2045-relieve"
   },
   {
    "id": "matrix-l2145-pinto",
@@ -13178,10 +13019,7 @@
    "desc": "",
    "img": null,
    "gallery": [],
-   "url": "https://matrixfurnituregroup.ca/product-detail/l2145-pinto",
-   "net": 799.0,
-   "price": "2517",
-   "from": true
+   "url": "https://matrixfurnituregroup.ca/product-detail/l2145-pinto"
   },
   {
    "id": "matrix-l2175-eliana",
@@ -13193,10 +13031,7 @@
    "desc": "",
    "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1744920261_945708da2a56391e0a37.jpg",
    "gallery": [],
-   "url": "https://matrixfurnituregroup.ca/product-detail/l2175-eliana",
-   "net": 2599.0,
-   "price": "8187",
-   "from": true
+   "url": "https://matrixfurnituregroup.ca/product-detail/l2175-eliana"
   },
   {
    "id": "matrix-l2865-amiyah",
@@ -13225,9 +13060,6 @@
    "img": "assets/cutouts/5ba9b477d9292e8c.webp",
    "gallery": [],
    "url": "https://matrixfurnituregroup.ca/product-detail/l3275-fortuner",
-   "net": 2299.0,
-   "price": "7242",
-   "from": true,
    "img_src": "https://matrixfurnituregroup.ca/uploads/thumbs/1779985266_cdf350b60bc01565e74c.jpg"
   },
   {
@@ -13240,10 +13072,7 @@
    "desc": "",
    "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1771450504_e375159e288869ffdf56.jpg",
    "gallery": [],
-   "url": "https://matrixfurnituregroup.ca/product-detail/l3745-mia",
-   "net": 599.0,
-   "price": "1887",
-   "from": true
+   "url": "https://matrixfurnituregroup.ca/product-detail/l3745-mia"
   },
   {
    "id": "matrix-l3755-snug",
@@ -13255,10 +13084,7 @@
    "desc": "",
    "img": "https://matrixfurnituregroup.ca/uploads/thumbs/1744324155_20afbc92379d4cd63aaa.jpg",
    "gallery": [],
-   "url": "https://matrixfurnituregroup.ca/product-detail/l3755-snug",
-   "net": 699.0,
-   "price": "2202",
-   "from": true
+   "url": "https://matrixfurnituregroup.ca/product-detail/l3755-snug"
   },
   {
    "id": "matrix-l3945-rosa",
@@ -13271,9 +13097,6 @@
    "img": "assets/cutouts/2fd5400d11b2ea77.webp",
    "gallery": [],
    "url": "https://matrixfurnituregroup.ca/product-detail/l3945-rosa",
-   "net": 1099.0,
-   "price": "3462",
-   "from": true,
    "img_src": "https://matrixfurnituregroup.ca/uploads/thumbs/1785447877_9c2e0e01d423be25df7e.png"
   },
   {
@@ -13286,10 +13109,7 @@
    "desc": "",
    "img": null,
    "gallery": [],
-   "url": "https://matrixfurnituregroup.ca/product-detail/l4245-milo",
-   "net": 1429.0,
-   "price": "4501",
-   "from": true
+   "url": "https://matrixfurnituregroup.ca/product-detail/l4245-milo"
   },
   {
    "id": "matrix-1425-isabella-coffee-table-silver-gold",
@@ -13687,9 +13507,6 @@
    "img": "assets/cutouts/23bdbd649adb2a4b.webp",
    "gallery": [],
    "url": "https://matrixfurnituregroup.ca/product-detail/l8525-caroline-coffee-table-light-grey",
-   "net": 2699.0,
-   "price": "8502",
-   "from": true,
    "img_src": "https://matrixfurnituregroup.ca/uploads/thumbs/1744127692_feac0555130c21201cc1.jpg"
   },
   {
@@ -13916,9 +13733,6 @@
    "img": "assets/cutouts/15635f15ac4d0076.webp",
    "gallery": [],
    "url": "https://matrixfurnituregroup.ca/product-detail/l8525-caroline-end-table-light-grey",
-   "net": 2699.0,
-   "price": "8502",
-   "from": true,
    "img_src": "https://matrixfurnituregroup.ca/uploads/thumbs/1744127883_a3efd801bcf08eda47f6.jpg"
   },
   {
@@ -14360,10 +14174,7 @@
     "https://matrixfurnituregroup.ca/uploads/categories/1737355715_9976709fcc9c5bbf62bc.png",
     "https://matrixfurnituregroup.ca/uploads/categories/1742918044_5196d9893c1101e21534.png"
    ],
-   "sku": "B1141",
-   "net": 899.0,
-   "price": "2832",
-   "from": true
+   "sku": "B1141"
   },
   {
    "id": "matrix-b1141-ginger-dresser-white",
@@ -14377,10 +14188,7 @@
     "https://matrixfurnituregroup.ca/uploads/categories/1737355715_9976709fcc9c5bbf62bc.png",
     "https://matrixfurnituregroup.ca/uploads/categories/1742918044_5196d9893c1101e21534.png"
    ],
-   "sku": "B1141",
-   "net": 899.0,
-   "price": "2832",
-   "from": true
+   "sku": "B1141"
   },
   {
    "id": "matrix-b1151-infinity-mirror-bulbs-silver",
@@ -14810,10 +14618,7 @@
     "https://matrixfurnituregroup.ca/uploads/categories/1742918044_5196d9893c1101e21534.png"
    ],
    "sku": "B1361",
-   "img_src": "https://matrixfurnituregroup.ca/uploads/categories/1744987784_e39edd160cf887e544be.png",
-   "net": 3099.0,
-   "price": "9762",
-   "from": true
+   "img_src": "https://matrixfurnituregroup.ca/uploads/categories/1744987784_e39edd160cf887e544be.png"
   },
   {
    "id": "matrix-b1361-novah-mirror-beige",
@@ -14828,10 +14633,7 @@
     "https://matrixfurnituregroup.ca/uploads/categories/1742918044_5196d9893c1101e21534.png"
    ],
    "sku": "B1361",
-   "img_src": "https://matrixfurnituregroup.ca/uploads/categories/1744987784_e39edd160cf887e544be.png",
-   "net": 3099.0,
-   "price": "9762",
-   "from": true
+   "img_src": "https://matrixfurnituregroup.ca/uploads/categories/1744987784_e39edd160cf887e544be.png"
   },
   {
    "id": "matrix-b1371-elliot-dresser-chestnut",
@@ -14845,10 +14647,7 @@
     "https://matrixfurnituregroup.ca/uploads/categories/1737355715_9976709fcc9c5bbf62bc.png",
     "https://matrixfurnituregroup.ca/uploads/categories/1742918044_5196d9893c1101e21534.png"
    ],
-   "sku": "B1371",
-   "net": 199.0,
-   "price": "627",
-   "from": true
+   "sku": "B1371"
   },
   {
    "id": "matrix-b1391-crystal-dresser-black",
@@ -14945,10 +14744,7 @@
     "https://matrixfurnituregroup.ca/uploads/categories/1737355715_9976709fcc9c5bbf62bc.png",
     "https://matrixfurnituregroup.ca/uploads/categories/1742918044_5196d9893c1101e21534.png"
    ],
-   "sku": "B1491",
-   "net": 979.0,
-   "price": "3084",
-   "from": true
+   "sku": "B1491"
   },
   {
    "id": "matrix-b1551-daisy-dresser-taupe",
@@ -15444,10 +15240,7 @@
    "gallery": [
     "https://matrixfurnituregroup.ca/uploads/items/1775850309_9cae6b9344894e4b7ce0.jpg"
    ],
-   "sku": "B1862",
-   "net": 1499.0,
-   "price": "4722",
-   "from": true
+   "sku": "B1862"
   },
   {
    "id": "matrix-b1891-zain-dresser-grey-angly-white",
@@ -16330,9 +16123,6 @@
     "https://matrixfurnituregroup.ca/uploads/categories/1742918044_5196d9893c1101e21534.png"
    ],
    "sku": "D1470",
-   "net": 105.0,
-   "price": "331",
-   "from": true,
    "img_src": "https://matrixfurnituregroup.ca/uploads/categories/1744987784_e39edd160cf887e544be.png"
   },
   {
@@ -16347,10 +16137,7 @@
     "https://matrixfurnituregroup.ca/uploads/categories/1737355715_9976709fcc9c5bbf62bc.png",
     "https://matrixfurnituregroup.ca/uploads/categories/1742918044_5196d9893c1101e21534.png"
    ],
-   "sku": "D1490",
-   "net": 1299.0,
-   "price": "4092",
-   "from": true
+   "sku": "D1490"
   },
   {
    "id": "matrix-delia-dresser-spectral-grey",

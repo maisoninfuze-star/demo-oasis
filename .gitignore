@@ -1,8 +1,7 @@
-.DS_Store
-.claude/
 
 # owner documents — not part of the deployed site
-pdf-src.html
 *.pdf
-*.pdf
+.DS_Store
+.claude/
+build/
 pdf-src.html

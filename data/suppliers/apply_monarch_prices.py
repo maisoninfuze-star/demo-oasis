@@ -37,16 +37,23 @@ def main():
         sku = str(it.get('sku') or '').strip()
         net = prices.get(sku) or prices.get(sku.replace(' ', ''))
         if net:
+            it.pop('delisted', None)
             it['net'] = net
             it['price'] = str(MARGIN(net))
             it['from'] = True          # colour/finish variants share a price
             priced += 1
         else:
+            # Not in the dealer portal any more, so Monarch has dropped it and we
+            # cannot order it. Delisted rather than shown price-on-request: a
+            # customer requesting a quote for a discontinued piece wastes their
+            # time and the team's. Kept in this file so a future portal export
+            # can revive it.
+            it['delisted'] = True
             it.pop('price', None); it.pop('net', None); it.pop('from', None)
             onreq += 1
 
     json.dump(d, open(path, 'w'), ensure_ascii=False, indent=1)
-    print(f'monarch  priced {priced}, on-request {onreq}, total {len(d["items"])}')
+    print(f'monarch  priced {priced}, delisted (not in portal) {onreq}, total {len(d["items"])}')
 
 if __name__ == '__main__':
     main()

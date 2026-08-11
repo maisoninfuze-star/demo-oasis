@@ -98,16 +98,14 @@
   /* ---------- filter bar (built once) ---------- */
   const meta = $('.toolbar__meta');
   function buildControls() {
-    if ($('#fltBrand')) { syncControlLabels(); return; }
+    if ($('#fltPrice')) { syncControlLabels(); return; }
     meta.innerHTML = `
       <input type="search" id="fltSearch" class="bsearch" />
-      <select id="fltBrand" class="fsel"></select>
       <select id="fltPrice" class="fsel"></select>
       <select id="fltSort" class="fsel"></select>
       <span class="toolbar__count"><i id="pcount">…</i>&nbsp;<span id="pcountLbl"></span></span>`;
     $('#fltSearch').addEventListener('input', e => { clearTimeout(window.__fd);
       window.__fd = setTimeout(() => { state.q = e.target.value; apply(); }, 200); });
-    $('#fltBrand').addEventListener('change', e => { state.brand = e.target.value; apply(); });
     $('#fltPrice').addEventListener('change', e => {
       state.price = e.target.value;
       heroPair(); heroSub(); heroCrumb();   // "On request" swaps the hero
@@ -119,12 +117,6 @@
   function syncControlLabels() {
     $('#fltSearch').placeholder = T('Search…', 'Chercher…');
     $('#pcountLbl').textContent = T('pieces', 'pièces');
-    const topInfo = index.tops.find(x => x.slug === top);
-    const brands = topInfo ? topInfo.brands : {};
-    const bOpts = [`<option value="all">${T('All brands', 'Toutes les marques')}</option>`]
-      .concat(Object.entries(brands).map(([b, n]) =>
-        `<option value="${b}"${state.brand === b ? ' selected' : ''}>${index.brands[b] || b} (${n})</option>`));
-    $('#fltBrand').innerHTML = bOpts.join('');
     $('#fltPrice').innerHTML = `
       <option value="all"${state.price==='all'?' selected':''}>${T('Any price', 'Tout prix')}</option>
       <option value="priced"${state.price==='priced'?' selected':''}>${T('Displayed prices', 'Prix affichés')}</option>
@@ -149,8 +141,15 @@
           `<a class="chip" href="collection.html?cat=${ti.slug}">${(DEPT[ti.slug]||{})[L()] || ti.slug} · ${ti.count.toLocaleString()}</a>`).join('');
       return;
     }
-    const topInfo = index.tops.find(x => x.slug === top);
-    const subs = topInfo ? topInfo.subs : {};
+    /* Count from the items we will actually render, not the raw index — the
+       department view hides unpriced stock, so index counts would overstate. */
+    const visible = items.filter(it =>
+      state.price === 'request' ? !it.price
+      : state.price === 'clearance' ? !!it.clearance
+      : top === 'custom-studio' ? true : !!it.price);
+    const subs = {};
+    visible.forEach(it => { subs[it.sub] = (subs[it.sub] || 0) + 1; });
+    Object.keys(subs).forEach(k => { if (!subs[k]) delete subs[k]; });
     chipsWrap.innerHTML =
       `<button class="chip${state.sub==='all' ? ' is-active' : ''}" data-f="all">${T('All','Tout')}</button>` +
       Object.entries(subs).map(([s, n]) =>
@@ -169,10 +168,14 @@
     view = items.filter(it =>
       (state.sub === 'all' || it.sub === state.sub) &&
       (state.brand === 'all' || it.brand === state.brand) &&
-      (state.price === 'all' ||
-        (state.price === 'priced' && it.price) ||
-        (state.price === 'clearance' && it.clearance) ||
-        (state.price === 'request' && !it.price)) &&
+      /* An unpriced item belongs in exactly one place: the On Request page.
+         Scattering them through the departments made the catalogue look
+         half-finished. Custom Studio is exempt — it is made-to-order, so
+         "on request" IS its price. */
+      (state.price === 'request' ? !it.price
+        : state.price === 'clearance' ? !!it.clearance
+        : top === 'custom-studio' ? true
+        : !!it.price) &&
       (!q || (it.name + ' ' + (it.sku || '')).toLowerCase().includes(q)));
     if (state.sort === 'featured') view.sort((a, b) =>
       ((b.brand === 'oasis') - (a.brand === 'oasis')) || ((!!b.price) - (!!a.price)));
@@ -224,7 +227,9 @@
   const money = n => { n = parseFloat(n); return isNaN(n) ? '' : '$' + (n % 1 ? n.toFixed(2) : n.toLocaleString('en-CA')); };
   function cardHTML(it) {
     const isCustom = customIds.has(parseInt(it.id, 10));
-    const brandName = index.brands[it.brand] || '';
+    /* Supplier names stay off the storefront — printing "Monarch Specialties"
+       on a card tells the customer exactly who to buy from instead of us. */
+    const brandName = '';
     const tag = isCustom
       ? `<span class="pcard__tag pcard__tag--custom">${T('Custom made','Sur mesure')}</span>`
       : it.clearance ? `<span class="pcard__tag">${T('Clearance','Liquidation')}</span>`
@@ -235,16 +240,16 @@
     const srcset = it.hi ? ` srcset="${it.img} 1x, ${it.hi} 2x"` : '';
     const inner = `
       <div class="pcard__media"><img src="${it.img}"${srcset} alt="${it.name}" loading="lazy" decoding="async" width="480" height="480">${tag}</div>
-      <div class="pcard__info"><div><h3>${it.name}</h3><span class="pcard__sku">${it.sku ? 'SKU ' + it.sku : (it.ref ? (L()==='fr'?'Réf ':'Ref ') + it.ref : '')}</span><span>${it.brand === 'oasis' ? subLabel(it.sub) : brandName}</span></div>
-      <p>${price}</p>${it.price ? `<button class="pcard__add" data-id="${it.id}" data-name="${it.name.replace(/"/g,'&quot;')}" data-sku="${it.sku || ''}" data-brand="${index.brands[it.brand] || it.brand}" data-price="${it.price}" data-from="${it.from ? 1 : 0}" data-img="${it.img}">${L() === 'fr' ? 'Ajouter' : 'Add to order'}</button>` : ''}</div>`;
+      <div class="pcard__info"><div><h3>${it.name}</h3><span class="pcard__sku">${it.sku ? 'SKU ' + it.sku : (it.ref ? (L()==='fr'?'Réf ':'Ref ') + it.ref : '')}</span><span>${subLabel(it.sub)}</span></div>
+      <p>${price}</p>${it.price ? `<button class="pcard__add" data-id="${it.id}" data-name="${it.name.replace(/"/g,'&quot;')}" data-sku="${it.sku || ''}" data-brand="${subLabel(it.sub)}" data-price="${it.price}" data-from="${it.from ? 1 : 0}" data-img="${it.img}">${L() === 'fr' ? 'Ajouter' : 'Add to order'}</button>` : ''}</div>`;
     // Curated items link to their detail page. A PRICED supplier item is a
     // buy card — never a request card — so its body must not open the enquiry
     // modal; only its "Add to order" button acts. Unpriced items stay "ask".
     return it.link
       ? `<a class="pcard" href="${it.link}">${inner}</a>`
       : it.price
-      ? `<div class="pcard pcard--buy">${inner}</div>`
-      : `<a class="pcard pcard--ask" href="#" data-name="${it.name.replace(/"/g,'&quot;')}" data-brand="${brandName}">${inner}</a>`;
+      ? `<div class="pcard pcard--buy" data-qv="${it.id}" role="button" tabindex="0">${inner}</div>`
+      : `<a class="pcard pcard--ask" href="#" data-name="${it.name.replace(/"/g,'&quot;')}" data-brand="${subLabel(it.sub)}">${inner}</a>`;
   }
 
   function renderMore() {
@@ -264,6 +269,69 @@
   grid.after(sentinel);
   new IntersectionObserver(es => { if (es[0].isIntersecting && shown < view.length) renderMore(); },
     { rootMargin: '1000px' }).observe(sentinel);
+
+  /* ---------- quick view ----------
+     A priced supplier item has no detail page of its own, and a card that does
+     nothing when clicked reads as broken. This opens the photo big, with the
+     price and the order button. */
+  function openQuickView(id) {
+    const it = items.find(x => String(x.id) === String(id));
+    if (!it) return;
+    const fr = L() === 'fr';
+    const money2 = n => '$' + parseFloat(n).toLocaleString('en-CA');
+    let el = $('#qv');
+    if (!el) {
+      el = document.createElement('div');
+      el.id = 'qv'; el.className = 'qv';
+      document.body.appendChild(el);
+      el.addEventListener('click', e => {
+        if (e.target.id === 'qv' || e.target.classList.contains('qv__close')) closeQuickView();
+      });
+    }
+    const sku = it.sku ? `SKU ${it.sku}` : (it.ref ? `${fr ? 'Réf' : 'Ref'} ${it.ref}` : '');
+    el.innerHTML = `
+      <div class="qv__box">
+        <button class="qv__close" aria-label="${fr ? 'Fermer' : 'Close'}">&times;</button>
+        <div class="qv__img"><img src="${it.hi || it.img}" alt="${it.name}"></div>
+        <div class="qv__info">
+          <h3>${it.name}</h3>
+          <span class="qv__sku">${sku}</span>
+          <p class="qv__price">${it.from ? (fr ? 'Dès ' : 'From ') : ''}${money2(it.price)}</p>
+          <p class="qv__note">${fr
+            ? 'Livraison gantée incluse. Livraison gratuite au-delà de 500 $.'
+            : 'White-glove delivery included. Free delivery over $500.'}</p>
+          <button class="btn btn--gold pcard__add" data-id="${it.id}"
+            data-name="${it.name.replace(/"/g, '&quot;')}" data-sku="${it.sku || ''}"
+            data-brand="${subLabel(it.sub)}" data-price="${it.price}"
+            data-from="${it.from ? 1 : 0}" data-img="${it.img}">${fr ? 'Ajouter' : 'Add to order'}</button>
+          <button class="qv__ask">${fr ? 'Poser une question' : 'Ask about this piece'}</button>
+        </div>
+      </div>`;
+    el.querySelector('.qv__ask').addEventListener('click', () => {
+      closeQuickView();
+      let ghost = $('#catGhostTitle');
+      if (!ghost) {
+        ghost = document.createElement('span');
+        ghost.id = 'catGhostTitle'; ghost.className = 'pdp-title'; ghost.style.display = 'none';
+        document.body.appendChild(ghost);
+      }
+      ghost.textContent = it.name;
+      window.OasisLead?.open('quote');
+    });
+    el.classList.add('open');
+    document.body.style.overflow = 'hidden';
+  }
+  function closeQuickView() {
+    $('#qv')?.classList.remove('open');
+    document.body.style.overflow = '';
+  }
+  addEventListener('keydown', e => { if (e.key === 'Escape') closeQuickView(); });
+
+  grid.addEventListener('click', e => {
+    if (e.target.closest('.pcard__add')) return;   // the button owns its click
+    const card = e.target.closest('.pcard--buy');
+    if (card) openQuickView(card.dataset.qv);
+  });
 
   /* supplier cards → enquiry modal with context */
   grid.addEventListener('click', e => {

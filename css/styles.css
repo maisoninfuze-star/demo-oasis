@@ -1002,3 +1002,25 @@ html.has-promo .purch{padding-top:calc(9rem + 44px)}
   text-decoration:none;opacity:.85;margin-right:.2rem;white-space:nowrap}
 .head__acct:hover{opacity:1;color:var(--gold)}
 @media(max-width:720px){.head__acct{display:none}}
+
+/* ---------- Quick view (priced supplier items) ---------- */
+.qv{position:fixed;inset:0;z-index:120;display:none;align-items:center;justify-content:center;
+  background:rgba(16,14,12,.82);backdrop-filter:blur(6px);padding:1.5rem}
+.qv.open{display:flex}
+.qv__box{position:relative;display:grid;grid-template-columns:1.1fr 1fr;gap:2rem;max-width:900px;width:100%;
+  max-height:88vh;overflow:auto;background:var(--black,#100E0C);border:1px solid var(--line-gold);
+  border-radius:6px;padding:2rem}
+.qv__close{position:absolute;top:.6rem;right:.9rem;background:none;border:0;color:var(--gold);
+  font-size:1.8rem;line-height:1;cursor:pointer}
+.qv__img{background:#faf7f1;border-radius:4px;display:flex;align-items:center;justify-content:center;padding:1rem}
+.qv__img img{max-width:100%;max-height:52vh;object-fit:contain}
+.qv__info{display:flex;flex-direction:column;gap:.5rem;justify-content:center}
+.qv__info h3{font-family:'Cormorant Garamond',serif;font-size:1.7rem;font-weight:400;line-height:1.15}
+.qv__sku{font-size:.7rem;letter-spacing:.12em;text-transform:uppercase;opacity:.55}
+.qv__price{font-size:1.4rem;font-weight:500;margin:.4rem 0}
+.qv__note{font-size:.78rem;opacity:.65;line-height:1.5;margin-bottom:.6rem}
+.qv__ask{background:none;border:0;color:var(--gold);font-family:inherit;font-size:.8rem;
+  text-decoration:underline;text-underline-offset:3px;cursor:pointer;padding:.5rem 0;text-align:left}
+.pcard--buy{cursor:pointer}
+@media(max-width:760px){.qv__box{grid-template-columns:1fr;padding:1.4rem;gap:1rem}
+  .qv__img img{max-height:34vh}}

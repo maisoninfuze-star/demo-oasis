@@ -76,7 +76,6 @@
     }
     const sub = cart.reduce((s, it) => s + parseFloat(it.price) * it.qty, 0);
     const delivery = sub >= DELIVERY.freeOver ? 0 : DELIVERY.fee;
-    const hasFrom = cart.some(it => it.from);
 
     body.innerHTML = `
       <div class="purch__grid">
@@ -94,7 +93,7 @@
                   <button class="pline__rm" data-rm="${i}">${T('Remove', 'Retirer')}</button>
                 </div>
               </div>
-              <p class="pline__price">${it.from ? T('From ', 'Dès ') : ''}${money(parseFloat(it.price) * it.qty)}</p>
+              <p class="pline__price">${money(parseFloat(it.price) * it.qty)}</p>
             </div>`).join('')}
         </div>
         <aside class="purch__sum">
@@ -107,8 +106,6 @@
             <div class="tot"><dt>${T('Estimated total', 'Total estimé')}</dt><dd>${money(sub + delivery)}</dd></div>
           </dl>
           <p class="purch__area">${(DELIVERY.area || {})[L()] || ''}</p>
-          ${hasFrom ? `<p class="purch__note">${T('“From” prices are confirmed with your configuration before payment.',
-                                                  'Les prix « Dès » sont confirmés selon votre configuration avant paiement.')}</p>` : ''}
           <form class="purch__form" novalidate>
             <input name="name" required placeholder="${T('Full name', 'Nom complet')}" autocomplete="name">
             <input name="email" type="email" required placeholder="${T('Email', 'Courriel')}" autocomplete="email">

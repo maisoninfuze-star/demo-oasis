@@ -333,7 +333,7 @@
       : it.clearance ? `<span class="pcard__tag">${T('Clearance','Liquidation')}</span>`
       : it.sale ? `<span class="pcard__tag">${T('On promotion','Promotion')}</span>` : '';
     const price = it.price
-      ? `${it.from ? (L() === 'fr' ? 'Dès ' : 'From ') : ''}${money(it.price)}${it.retail && parseFloat(it.retail) > parseFloat(it.price) ? ` <s>${money(it.retail)}</s>` : ''}`
+      ? `${money(it.price)}${it.retail && parseFloat(it.retail) > parseFloat(it.price) ? ` <s>${money(it.retail)}</s>` : ''}`
       : T('On request', 'Sur demande');
     const srcset = it.hi ? ` srcset="${it.img} 1x, ${it.hi} 2x"` : '';
     const inner = `
@@ -346,7 +346,7 @@
     return it.link
       ? `<a class="pcard" href="${it.link}">${inner}</a>`
       : it.price
-      ? `<div class="pcard pcard--buy" data-qv="${it.id}" role="button" tabindex="0">${inner}</div>`
+      ? `<a class="pcard pcard--buy" href="product.html?id=${encodeURIComponent(it.id)}">${inner}</a>`
       : `<a class="pcard pcard--ask" href="#" data-name="${it.name.replace(/"/g,'&quot;')}" data-brand="${subLabel(it.sub)}">${inner}</a>`;
   }
 
@@ -367,69 +367,6 @@
   grid.after(sentinel);
   new IntersectionObserver(es => { if (es[0].isIntersecting && shown < view.length) renderMore(); },
     { rootMargin: '1000px' }).observe(sentinel);
-
-  /* ---------- quick view ----------
-     A priced supplier item has no detail page of its own, and a card that does
-     nothing when clicked reads as broken. This opens the photo big, with the
-     price and the order button. */
-  function openQuickView(id) {
-    const it = items.find(x => String(x.id) === String(id));
-    if (!it) return;
-    const fr = L() === 'fr';
-    const money2 = n => '$' + parseFloat(n).toLocaleString('en-CA');
-    let el = $('#qv');
-    if (!el) {
-      el = document.createElement('div');
-      el.id = 'qv'; el.className = 'qv';
-      document.body.appendChild(el);
-      el.addEventListener('click', e => {
-        if (e.target.id === 'qv' || e.target.classList.contains('qv__close')) closeQuickView();
-      });
-    }
-    const sku = it.sku ? `SKU ${it.sku}` : (it.ref ? `${fr ? 'Réf' : 'Ref'} ${it.ref}` : '');
-    el.innerHTML = `
-      <div class="qv__box">
-        <button class="qv__close" aria-label="${fr ? 'Fermer' : 'Close'}">&times;</button>
-        <div class="qv__img"><img src="${it.hi || it.img}" alt="${it.name}"></div>
-        <div class="qv__info">
-          <h3>${it.name}</h3>
-          <span class="qv__sku">${sku}</span>
-          <p class="qv__price">${it.from ? (fr ? 'Dès ' : 'From ') : ''}${money2(it.price)}</p>
-          <p class="qv__note">${fr
-            ? 'Livraison gantée incluse. Livraison gratuite au-delà de 500 $.'
-            : 'White-glove delivery included. Free delivery over $500.'}</p>
-          <button class="btn btn--gold pcard__add" data-id="${it.id}"
-            data-name="${it.name.replace(/"/g, '&quot;')}" data-sku="${it.sku || ''}"
-            data-brand="${subLabel(it.sub)}" data-price="${it.price}"
-            data-from="${it.from ? 1 : 0}" data-img="${it.img}">${fr ? 'Ajouter' : 'Add to order'}</button>
-          <button class="qv__ask">${fr ? 'Poser une question' : 'Ask about this piece'}</button>
-        </div>
-      </div>`;
-    el.querySelector('.qv__ask').addEventListener('click', () => {
-      closeQuickView();
-      let ghost = $('#catGhostTitle');
-      if (!ghost) {
-        ghost = document.createElement('span');
-        ghost.id = 'catGhostTitle'; ghost.className = 'pdp-title'; ghost.style.display = 'none';
-        document.body.appendChild(ghost);
-      }
-      ghost.textContent = it.name;
-      window.OasisLead?.open('quote');
-    });
-    el.classList.add('open');
-    document.body.style.overflow = 'hidden';
-  }
-  function closeQuickView() {
-    $('#qv')?.classList.remove('open');
-    document.body.style.overflow = '';
-  }
-  addEventListener('keydown', e => { if (e.key === 'Escape') closeQuickView(); });
-
-  grid.addEventListener('click', e => {
-    if (e.target.closest('.pcard__add')) return;   // the button owns its click
-    const card = e.target.closest('.pcard--buy');
-    if (card) openQuickView(card.dataset.qv);
-  });
 
   /* supplier cards → enquiry modal with context */
   grid.addEventListener('click', e => {

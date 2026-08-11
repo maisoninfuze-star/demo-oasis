@@ -1115,3 +1115,52 @@ html.has-promo .purch{padding-top:calc(9rem + 44px)}
 @media(prefers-reduced-motion:reduce){
   .shopby__tile,.fopt{transition:none}
 }
+
+/* ---------- Item page (catalogue pieces) ---------- */
+.item-page{max-width:var(--maxw);margin:0 auto;padding:6.5rem var(--pad) 4rem}
+.item__crumb{margin-bottom:1.6rem}
+.item{display:grid;grid-template-columns:1.15fr 1fr;gap:3rem;align-items:start}
+.item__media img{width:100%;background:#faf7f1;border-radius:5px;object-fit:contain;max-height:66vh}
+.item__thumbs{display:flex;gap:.6rem;margin-top:.8rem}
+.item__thumb{width:70px;height:70px;padding:0;border:1px solid var(--line-gold);border-radius:4px;
+  background:#faf7f1;cursor:pointer;overflow:hidden}
+.item__thumb.is-on{border-color:var(--gold)}
+.item__thumb img{width:100%;height:100%;object-fit:contain}
+.item__cat{font-family:var(--font-sans);font-size:.68rem;letter-spacing:.16em;text-transform:uppercase;
+  color:var(--gold-2)}
+.item__info h1{font-family:var(--font-display);font-size:2.5rem;font-weight:400;line-height:1.1;
+  margin:.35rem 0 .5rem;text-wrap:balance}
+.item__sku{font-family:var(--font-sans);font-size:.74rem;color:rgba(246,241,232,.55)}
+.item__price{font-family:var(--font-sans);font-size:2rem;font-weight:600;color:var(--cream);margin:1rem 0 1.2rem}
+.item__price--ask{font-size:1.2rem;font-weight:400;color:var(--gold)}
+.item__add,.item__askbtn{width:100%;max-width:320px}
+.item__specs{margin:2rem 0 1.6rem;border-top:1px solid var(--line-gold)}
+.item__specs div{display:flex;justify-content:space-between;gap:1.4rem;padding:.62rem 0;
+  border-bottom:1px solid rgba(198,166,98,.14)}
+.item__specs dt{font-family:var(--font-sans);font-size:.72rem;letter-spacing:.1em;text-transform:uppercase;
+  color:rgba(246,241,232,.6)}
+.item__specs dd{font-family:var(--font-sans);font-size:.88rem;color:var(--cream);text-align:right}
+.item__terms p{font-family:var(--font-sans);font-size:.8rem;line-height:1.6;color:rgba(246,241,232,.7);
+  margin-bottom:.5rem}
+.item__terms b{color:var(--gold-2);font-weight:500}
+.item__missing{padding:6rem var(--pad);text-align:center;font-family:var(--font-sans)}
+@media(max-width:860px){.item{grid-template-columns:1fr;gap:1.6rem}
+  .item__info h1{font-size:2rem}.item-page{padding-top:5rem}}
+
+/* product.html carries the light .pdp theme, so item-page ink must be dark.
+   Cream-on-cream was unreadable. */
+.pdp .item-page{padding-top:8.5rem;color:var(--black)}
+.pdp .item__cat{color:#867659}
+.pdp .item__info h1{color:var(--black)}
+.pdp .item__sku{color:rgba(16,14,12,.62)}
+.pdp .item__price{color:var(--black)}
+.pdp .item__price--ask{color:#867659}
+.pdp .item__specs{border-top-color:rgba(16,14,12,.16)}
+.pdp .item__specs div{border-bottom-color:rgba(16,14,12,.1)}
+.pdp .item__specs dt{color:rgba(16,14,12,.6)}
+.pdp .item__specs dd{color:var(--black)}
+.pdp .item__terms p{color:rgba(16,14,12,.72)}
+.pdp .item__terms b{color:#867659}
+.pdp .item__crumb,.pdp .item__crumb a{color:rgba(16,14,12,.6)}
+.pdp .item__crumb span{color:var(--black)}
+.pdp .item__thumb{border-color:rgba(16,14,12,.18)}

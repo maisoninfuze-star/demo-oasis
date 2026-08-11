@@ -222,6 +222,11 @@ for slug in FILES:
             'sub': sub, 'brand': slug, 'img': img,
         }
         if it.get('hi'): row['hi'] = it['hi']
+        # the supplier spec string (dimensions, finish, material) drives the
+        # specifications table on the item page. Safe to publish: unlike `net`,
+        # it is what the customer needs to know.
+        if it.get('desc'): row['desc'] = str(it['desc'])[:160]
+        if it.get('gallery'): row['gallery'] = it['gallery'][:3]
         if it.get('sku'): row['sku'] = it['sku']
         else:
             _pfx = {'titus':'T','creative':'CH','glory':'GL','mazin':'MZ','monarch':'M','matrix':'MX','sofabyfancy':'SF','aclass':'AC','rugsnetwork':'RN','wt':'WT'}.get(slug, slug[:2].upper())

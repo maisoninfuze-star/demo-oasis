@@ -1024,3 +1024,94 @@ html.has-promo .purch{padding-top:calc(9rem + 44px)}
 .pcard--buy{cursor:pointer}
 @media(max-width:760px){.qv__box{grid-template-columns:1fr;padding:1.4rem;gap:1rem}
   .qv__img img{max-height:34vh}}
+
+/* ===========================================================
+   Catalogue: filter rail + results
+   4,631 priced pieces. Narrowing is the product, so filters are
+   permanent UI on the left, not a toolbar afterthought. UI chrome
+   uses the sans; Cormorant stays for product names only.
+   =========================================================== */
+.catalog{display:grid;grid-template-columns:248px minmax(0,1fr);gap:2.4rem;
+  max-width:var(--maxw);margin:0 auto;padding:0 var(--pad) 4rem}
+
+/* --- shop-by tiles: the room landing --- */
+.shopby{max-width:var(--maxw);margin:0 auto 2.2rem;padding:0 var(--pad);
+  display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:.9rem}
+.shopby__tile{position:relative;display:block;border:1px solid var(--line-gold);border-radius:5px;
+  overflow:hidden;background:rgba(198,166,98,.04);text-decoration:none;color:var(--cream);
+  transition:border-color .18s ease,background .18s ease}
+.shopby__tile:hover{border-color:var(--gold);background:rgba(198,166,98,.1)}
+.shopby__tile img{width:100%;aspect-ratio:4/3;object-fit:contain;background:#faf7f1;display:block}
+.shopby__tile b{display:block;font-family:var(--font-sans);font-size:.82rem;font-weight:500;
+  padding:.6rem .7rem .1rem}
+.shopby__tile span{display:block;font-family:var(--font-sans);font-size:.7rem;
+  color:var(--gold-2);padding:0 .7rem .65rem}
+
+/* --- filter rail --- */
+.filters{position:sticky;top:5.5rem;align-self:start;max-height:calc(100vh - 7rem);overflow-y:auto;
+  padding-right:.4rem}
+.filters__head{display:flex;align-items:baseline;justify-content:space-between;gap:1rem;
+  padding-bottom:.7rem;border-bottom:1px solid var(--line-gold);margin-bottom:1rem}
+.filters__head h2{font-family:var(--font-sans);font-size:.74rem;font-weight:500;letter-spacing:.16em;
+  text-transform:uppercase;color:var(--cream)}
+.filters__clear{background:none;border:0;color:var(--gold);font-family:var(--font-sans);
+  font-size:.72rem;cursor:pointer;text-decoration:underline;text-underline-offset:3px;padding:0}
+.filters__clear:hover{opacity:.75}
+.fgroup{border-bottom:1px solid rgba(198,166,98,.16);padding:.9rem 0}
+.fgroup:last-child{border-bottom:0}
+.fgroup__t{font-family:var(--font-sans);font-size:.68rem;font-weight:500;letter-spacing:.14em;
+  text-transform:uppercase;color:rgba(246,241,232,.62);margin-bottom:.55rem}
+.fopt{display:flex;align-items:center;justify-content:space-between;gap:.6rem;width:100%;
+  background:none;border:0;padding:.36rem .5rem;border-radius:3px;cursor:pointer;text-align:left;
+  font-family:var(--font-sans);font-size:.84rem;color:rgba(246,241,232,.82);
+  transition:background .15s ease,color .15s ease}
+.fopt:hover{background:rgba(198,166,98,.1);color:var(--cream)}
+.fopt.is-on{background:var(--gold);color:var(--black);font-weight:500}
+.fopt i{font-style:normal;font-size:.74rem;opacity:.6}
+.fopt.is-on i{opacity:.75}
+.fsearch{width:100%;background:transparent;border:1px solid var(--line-gold);border-radius:3px;
+  color:var(--cream);font-family:var(--font-sans);font-size:.84rem;padding:.5rem .65rem}
+.fsearch:focus{outline:none;border-color:var(--gold)}
+.fsearch::placeholder{color:rgba(246,241,232,.5)}
+
+/* --- results bar --- */
+.results__bar{display:flex;align-items:center;justify-content:space-between;gap:1rem;flex-wrap:wrap;
+  padding-bottom:1rem;margin-bottom:1.4rem;border-bottom:1px solid rgba(198,166,98,.16)}
+.results__n{font-family:var(--font-sans);font-size:.8rem;color:rgba(246,241,232,.72)}
+.results__n b{color:var(--gold);font-weight:500}
+.results__sort{display:flex;align-items:center;gap:.5rem;font-family:var(--font-sans);font-size:.78rem;
+  color:rgba(246,241,232,.6)}
+.results__sort select{background:transparent;border:1px solid var(--line-gold);border-radius:3px;
+  color:var(--cream);font-family:var(--font-sans);font-size:.8rem;padding:.4rem .6rem;cursor:pointer}
+.results__sort select:focus{outline:none;border-color:var(--gold)}
+.results__sort select option{background:#1A1613;color:#F6F1E8}
+
+/* --- denser grid: more pieces per screen --- */
+.catalog .pgrid{grid-template-columns:repeat(auto-fill,minmax(226px,1fr));gap:1.5rem 1.2rem;
+  max-width:none;margin:0;padding:0}
+
+/* --- card: the price is what they came for --- */
+.catalog .pcard__info{display:block;margin-top:.75rem}
+.catalog .pcard__info h3{font-size:1.02rem;line-height:1.28;font-weight:400}
+.catalog .pcard__info>div>span{font-size:.62rem;letter-spacing:.13em;margin-top:.22rem}
+.catalog .pcard__info p{font-family:var(--font-sans);font-size:1.06rem;font-weight:600;
+  color:var(--cream);white-space:nowrap;margin-top:.4rem;letter-spacing:.01em}
+.catalog .pcard__info p s{font-size:.76rem;font-weight:400;color:rgba(246,241,232,.42);margin-left:.4rem}
+.catalog .pcard__add{margin-top:.55rem;width:100%}
+
+@media(max-width:1000px){
+  .catalog{grid-template-columns:1fr;gap:0}
+  .filters{position:fixed;inset:0;z-index:600;max-height:none;background:var(--black);
+    padding:1.4rem var(--pad) 2rem;overflow-y:auto;display:none}
+  .filters.open{display:block}
+  .filters__toggle{display:flex}
+  .catalog .pgrid{grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:1.1rem .8rem}
+}
+.filters__toggle{display:none;align-items:center;gap:.5rem;background:transparent;
+  border:1px solid var(--line-gold);border-radius:2rem;color:var(--cream);font-family:var(--font-sans);
+  font-size:.8rem;letter-spacing:.1em;text-transform:uppercase;padding:.6rem 1.2rem;margin-bottom:1.2rem;
+  cursor:pointer;min-height:44px}
+.filters__toggle i{font-style:normal;color:var(--gold)}
+@media(prefers-reduced-motion:reduce){
+  .shopby__tile,.fopt{transition:none}
+}

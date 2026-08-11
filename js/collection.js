@@ -58,7 +58,7 @@
   const subLabel = s => (SUB_LABEL[s] ? SUB_LABEL[s][L()] : s);
 
   const grid = $('#pgrid');
-  const chipsWrap = $('.toolbar__chips');
+  const chipsWrap = $('#filtersBody');
   const count = $('#pcount');
   if (!grid) return;
 
@@ -91,76 +91,169 @@
   const BATCH = 48;
   const state = { sub: params.get('sub') || 'all', brand: params.get('brand') || 'all',
                   price: ['priced','request','clearance'].includes(params.get('price')) ? params.get('price') : 'all',
-                  sort: 'featured', q: '' };
+                  sort: 'featured', q: '', band: 'all' };
   let customIds = new Set();
   heroPair(); heroSub(); heroCrumb();
 
-  /* ---------- filter bar (built once) ---------- */
-  const meta = $('.toolbar__meta');
-  function buildControls() {
-    if ($('#fltPrice')) { syncControlLabels(); return; }
-    meta.innerHTML = `
-      <input type="search" id="fltSearch" class="bsearch" />
-      <select id="fltPrice" class="fsel"></select>
-      <select id="fltSort" class="fsel"></select>
-      <span class="toolbar__count"><i id="pcount">…</i>&nbsp;<span id="pcountLbl"></span></span>`;
-    $('#fltSearch').addEventListener('input', e => { clearTimeout(window.__fd);
-      window.__fd = setTimeout(() => { state.q = e.target.value; apply(); }, 200); });
-    $('#fltPrice').addEventListener('change', e => {
-      state.price = e.target.value;
-      heroPair(); heroSub(); heroCrumb();   // "On request" swaps the hero
-      apply();
-    });
-    $('#fltSort').addEventListener('change', e => { state.sort = e.target.value; apply(); });
-    syncControlLabels();
-  }
-  function syncControlLabels() {
-    $('#fltSearch').placeholder = T('Search…', 'Chercher…');
-    $('#pcountLbl').textContent = T('pieces', 'pièces');
-    $('#fltPrice').innerHTML = `
-      <option value="all"${state.price==='all'?' selected':''}>${T('Any price', 'Tout prix')}</option>
-      <option value="priced"${state.price==='priced'?' selected':''}>${T('Displayed prices', 'Prix affichés')}</option>
-      <option value="clearance"${state.price==='clearance'?' selected':''}>${T('Clearance', 'Liquidation')}</option>
-      <option value="request"${state.price==='request'?' selected':''}>${T('On request', 'Sur demande')}</option>`;
-    $('#fltSort').innerHTML = `
-      <option value="featured"${state.sort==='featured'?' selected':''}>${T('Featured', 'En vedette')}</option>
-      <option value="name"${state.sort==='name'?' selected':''}>${T('Name A–Z', 'Nom A–Z')}</option>
-      <option value="price-asc"${state.sort==='price-asc'?' selected':''}>${T('Price ↑', 'Prix ↑')}</option>
-      <option value="price-desc"${state.sort==='price-desc'?' selected':''}>${T('Price ↓', 'Prix ↓')}</option>`;
+  /* ---------- filter rail, shop-by tiles, results bar ---------- */
+  const PRICE_OPTS = [
+    ['all', 'Everything', 'Tout'],
+    ['priced', 'Ready to order', 'Prêt à commander'],
+    ['clearance', 'Clearance', 'Liquidation'],
+    ['request', 'Made to order', 'Sur mesure'],
+  ];
+  const SORT_OPTS = [
+    ['featured', 'Featured', 'En vedette'],
+    ['price-asc', 'Price: low to high', 'Prix : croissant'],
+    ['price-desc', 'Price: high to low', 'Prix : décroissant'],
+    ['name', 'Name A–Z', 'Nom A–Z'],
+  ];
+
+  function buildControls() { buildChips(); }
+  function syncControlLabels() { buildChips(); }
+
+  /* Counts always describe what the grid will actually render, so a filter
+     never promises results it won't show. */
+  function visibleUnder(pred) {
+    return items.filter(it =>
+      (state.price === 'request' ? !it.price
+        : state.price === 'clearance' ? !!it.clearance
+        : top === 'custom-studio' ? true : !!it.price) && pred(it)).length;
   }
 
   function buildChips() {
+    if (!chipsWrap) return;
+    const fr = L() === 'fr';
+    const parts = [];
+
+    /* search first: the fastest path when they know the piece */
+    parts.push(`<div class="fgroup">
+      <input type="search" id="fltSearch" class="fsearch"
+        placeholder="${T('Search name or SKU…', 'Nom ou SKU…')}" value="${state.q.replace(/"/g, '&quot;')}">
+    </div>`);
+
+    /* category: departments at the all view, pieces inside a department */
     if (top === 'all') {
-      /* the flat 43-chip wall was overwhelming — the all view now offers
-         the departments; subcategories live on each department page */
-      const DEPT = { 'living-room': {en:'Living Room',fr:'Salon'}, 'dining-room': {en:'Dining',fr:'Salle à manger'},
-        'bed-room': {en:'Bedroom',fr:'Chambre'}, 'carpets': {en:'Rugs',fr:'Tapis'}, 'decor': {en:'Décor',fr:'Décor'},
-        'office': {en:'Office',fr:'Bureau'}, 'custom-studio': {en:'Custom Studio',fr:'Atelier'} };
-      chipsWrap.innerHTML = `<span class="chip is-active">${T('Everything','Tout')}</span>` +
-        index.tops.filter(ti => ti.slug !== 'all').map(ti =>
-          `<a class="chip" href="collection.html?cat=${ti.slug}">${(DEPT[ti.slug]||{})[L()] || ti.slug} · ${ti.count.toLocaleString()}</a>`).join('');
-      return;
+      const DEPT = { 'living-room': ['Living Room','Salon'], 'dining-room': ['Dining','Salle à manger'],
+        'bed-room': ['Bedroom','Chambre'], 'carpets': ['Rugs','Tapis'], 'decor': ['Décor','Décor'],
+        'office': ['Office','Bureau'], 'custom-studio': ['Custom Studio','Atelier'] };
+      parts.push(`<div class="fgroup"><p class="fgroup__t">${T('Department','Département')}</p>` +
+        index.tops.filter(t2 => t2.slug !== 'all').map(t2 =>
+          `<a class="fopt" href="collection.html?cat=${t2.slug}">${(DEPT[t2.slug]||[t2.slug])[fr?1:0]}<i>${t2.count.toLocaleString()}</i></a>`
+        ).join('') + '</div>');
+    } else {
+      const subs = {};
+      items.forEach(it => {
+        if (state.price === 'request' ? !it.price
+            : state.price === 'clearance' ? !!it.clearance
+            : top === 'custom-studio' ? true : !!it.price) {
+          subs[it.sub] = (subs[it.sub] || 0) + 1;
+        }
+      });
+      const ordered = Object.entries(subs).sort((a, b) => b[1] - a[1]);
+      const total = ordered.reduce((n, [, v]) => n + v, 0);
+      parts.push(`<div class="fgroup"><p class="fgroup__t">${T('Type','Type')}</p>` +
+        `<button class="fopt${state.sub==='all'?' is-on':''}" data-f="all">${T('All','Tout')}<i>${total.toLocaleString()}</i></button>` +
+        ordered.map(([sub, n]) =>
+          `<button class="fopt${state.sub===sub?' is-on':''}" data-f="${sub}">${subLabel(sub)}<i>${n.toLocaleString()}</i></button>`
+        ).join('') + '</div>');
     }
-    /* Count from the items we will actually render, not the raw index — the
-       department view hides unpriced stock, so index counts would overstate. */
-    const visible = items.filter(it =>
-      state.price === 'request' ? !it.price
-      : state.price === 'clearance' ? !!it.clearance
-      : top === 'custom-studio' ? true : !!it.price);
-    const subs = {};
-    visible.forEach(it => { subs[it.sub] = (subs[it.sub] || 0) + 1; });
-    Object.keys(subs).forEach(k => { if (!subs[k]) delete subs[k]; });
-    chipsWrap.innerHTML =
-      `<button class="chip${state.sub==='all' ? ' is-active' : ''}" data-f="all">${T('All','Tout')}</button>` +
-      Object.entries(subs).map(([s, n]) =>
-        `<button class="chip${state.sub===s ? ' is-active' : ''}" data-f="${s}">${subLabel(s)} · ${n}</button>`).join('');
-    chipsWrap.querySelectorAll('.chip').forEach(ch => ch.addEventListener('click', () => {
-      chipsWrap.querySelectorAll('.chip').forEach(c => c.classList.remove('is-active'));
-      ch.classList.add('is-active');
-      state.sub = ch.dataset.f;
-      apply();
+
+    /* availability */
+    parts.push(`<div class="fgroup"><p class="fgroup__t">${T('Availability','Disponibilité')}</p>` +
+      PRICE_OPTS.map(([v, en, frl]) =>
+        `<button class="fopt${state.price===v?' is-on':''}" data-p="${v}">${fr?frl:en}</button>`
+      ).join('') + '</div>');
+
+    /* budget: real thresholds, counted against what is showing */
+    const BANDS = [['all', T('Any budget','Tout budget'), () => true],
+      ['u500', T('Under $500','Moins de 500 $'), it => it.price && +it.price < 500],
+      ['500-1500', '$500 – $1,500', it => it.price && +it.price >= 500 && +it.price < 1500],
+      ['1500-3000', '$1,500 – $3,000', it => it.price && +it.price >= 1500 && +it.price < 3000],
+      ['o3000', T('$3,000 +','3 000 $ et plus'), it => it.price && +it.price >= 3000]];
+    if (state.price !== 'request') {
+      parts.push(`<div class="fgroup"><p class="fgroup__t">${T('Budget','Budget')}</p>` +
+        BANDS.map(([v, label, pred]) => {
+          const n = v === 'all' ? null : visibleUnder(pred);
+          if (n === 0) return '';
+          return `<button class="fopt${state.band===v?' is-on':''}" data-b="${v}">${label}${n!==null?`<i>${n.toLocaleString()}</i>`:''}</button>`;
+        }).join('') + '</div>');
+    }
+
+    chipsWrap.innerHTML = parts.join('');
+
+    chipsWrap.querySelectorAll('[data-f]').forEach(b => b.addEventListener('click', () => {
+      state.sub = b.dataset.f; apply(); buildChips(); closeFilters();
+    }));
+    chipsWrap.querySelectorAll('[data-p]').forEach(b => b.addEventListener('click', () => {
+      state.price = b.dataset.p; state.sub = 'all';
+      heroPair(); heroSub(); heroCrumb(); apply(); buildChips(); buildShopBy(); closeFilters();
+    }));
+    chipsWrap.querySelectorAll('[data-b]').forEach(b => b.addEventListener('click', () => {
+      state.band = b.dataset.b; apply(); buildChips(); closeFilters();
+    }));
+    const sf = $('#fltSearch');
+    if (sf) sf.addEventListener('input', e => {
+      clearTimeout(window.__fd);
+      window.__fd = setTimeout(() => { state.q = e.target.value; apply(); }, 200);
+    });
+  }
+
+  /* Shop-by tiles: a department opens with its rooms, the way a shopper thinks,
+     instead of dropping them into an undifferentiated wall of results. */
+  function buildShopBy() {
+    const el = $('#shopby');
+    if (!el) return;
+    const showTiles = top !== 'all' && state.sub === 'all' && state.price !== 'request' && !state.q;
+    if (!showTiles) { el.hidden = true; el.innerHTML = ''; return; }
+    const groups = {};
+    items.forEach(it => {
+      if (!it.price && top !== 'custom-studio') return;
+      (groups[it.sub] = groups[it.sub] || []).push(it);
+    });
+    const ordered = Object.entries(groups).sort((a, b) => b[1].length - a[1].length).slice(0, 8);
+    if (ordered.length < 2) { el.hidden = true; el.innerHTML = ''; return; }
+    el.innerHTML = ordered.map(([sub, list]) => {
+      const pic = list.find(x => x.img);
+      return `<a class="shopby__tile" href="#" data-tile="${sub}">
+        ${pic ? `<img src="${pic.img}" alt="" loading="lazy">` : ''}
+        <b>${subLabel(sub)}</b><span>${list.length.toLocaleString()} ${T('pieces','pièces')}</span></a>`;
+    }).join('');
+    el.hidden = false;
+    el.querySelectorAll('[data-tile]').forEach(a => a.addEventListener('click', e => {
+      e.preventDefault();
+      state.sub = a.dataset.tile;
+      apply(); buildChips(); buildShopBy();
+      $('.results')?.scrollIntoView({ behavior: 'smooth', block: 'start' });
     }));
   }
+
+  function buildResultsBar() {
+    const bar = $('#resultsBar');
+    if (!bar) return;
+    const fr = L() === 'fr';
+    bar.innerHTML = `
+      <p class="results__n"><b id="pcount">…</b> <span id="pcountLbl">${T('pieces','pièces')}</span></p>
+      <label class="results__sort">${T('Sort','Trier')}
+        <select id="fltSort">${SORT_OPTS.map(([v, en, frl]) =>
+          `<option value="${v}"${state.sort===v?' selected':''}>${fr?frl:en}</option>`).join('')}</select>
+      </label>`;
+    $('#fltSort').addEventListener('change', e => { state.sort = e.target.value; apply(); });
+  }
+
+  function closeFilters() {
+    if (innerWidth <= 1000) $('#filters')?.classList.remove('open');
+  }
+  $('#filtersToggle')?.addEventListener('click', e => {
+    const f = $('#filters');
+    const open = f.classList.toggle('open');
+    e.currentTarget.setAttribute('aria-expanded', String(open));
+  });
+  $('#filtersClear')?.addEventListener('click', () => {
+    state.sub = 'all'; state.band = 'all'; state.q = '';
+    state.price = new URLSearchParams(location.search).get('price') === 'request' ? 'request' : 'all';
+    apply(); buildChips(); buildShopBy(); closeFilters();
+  });
 
   /* ---------- filtering ---------- */
   function apply() {
@@ -176,6 +269,11 @@
         : state.price === 'clearance' ? !!it.clearance
         : top === 'custom-studio' ? true
         : !!it.price) &&
+      (state.band === 'all' || !state.band ||
+        (state.band === 'u500' && it.price && +it.price < 500) ||
+        (state.band === '500-1500' && it.price && +it.price >= 500 && +it.price < 1500) ||
+        (state.band === '1500-3000' && it.price && +it.price >= 1500 && +it.price < 3000) ||
+        (state.band === 'o3000' && it.price && +it.price >= 3000)) &&
       (!q || (it.name + ' ' + (it.sku || '')).toLowerCase().includes(q)));
     if (state.sort === 'featured') view.sort((a, b) =>
       ((b.brand === 'oasis') - (a.brand === 'oasis')) || ((!!b.price) - (!!a.price)));
@@ -370,12 +468,13 @@
     }
     if (custom) customIds = new Set(Object.keys(custom.products).map(Number));
     items = cats.flatMap(c => c.items || []);
+    buildResultsBar();
     buildChips();
-    buildControls();
+    buildShopBy();
     apply();
   });
 
   $('#langToggle')?.addEventListener('click', () => setTimeout(() => {
-    heroPair(); heroSub(); heroCrumb(); buildChips(); syncControlLabels(); apply();
+    heroPair(); heroSub(); heroCrumb(); buildResultsBar(); buildChips(); buildShopBy(); apply();
   }, 10));
 })();

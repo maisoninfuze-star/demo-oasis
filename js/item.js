@@ -126,13 +126,10 @@
     'bed-room': ['Bedroom', 'Chambre'], office: ['Office', 'Bureau'], decor: ['Décor', 'Décor'],
     carpets: ['Rugs', 'Tapis'], 'custom-studio': ['Custom Studio', 'Atelier'] };
 
-  /* A curated product is custom.js's job (fabric programme, swatches).
-     Only render here when custom.json does not claim this id. */
-  fetch('data/custom.json' + V).then(r => r.json()).catch(() => ({ products: {} }))
-    .then(cust => {
-      if (cust && cust.products && cust.products[id]) return;   // custom.js owns it
-      boot();
-    });
+  /* Every product page uses this template. The fabric-selection programme was
+     removed: choosing a fabric is a showroom conversation with the real swatch
+     books, not something to simulate on a screen. */
+  boot();
 
   function boot() {
   Promise.all(TOPS.map(t => fetch(`data/cat/${t}.json${V}`).then(r => r.ok ? r.json() : null).catch(() => null)))
@@ -144,16 +141,12 @@
         if (hit) { hit._top = s.top; hit._topLabel = (TOPLBL[s.top] || [s.top])[L() === 'fr' ? 1 : 0]; found = hit; }
       });
       if (!found) {
-        document.querySelector('.pdp-wrap')?.setAttribute('hidden', '');
-        host.hidden = false;
         host.innerHTML = `<p class="item__missing">${T(
           'That piece is no longer listed. Browse the collection or call us and we will find it for you.',
           'Cette pièce n’est plus au catalogue. Parcourez la collection ou appelez-nous.')}
           <a class="btn btn--gold" href="collection.html">${T('Browse the collection', 'Parcourir la collection')}</a></p>`;
         return;
       }
-      document.querySelector('.pdp-wrap')?.setAttribute('hidden', '');
-      host.hidden = false;
       render(found);
       $('#langToggle')?.addEventListener('click', () => setTimeout(() => render(found), 10));
     });

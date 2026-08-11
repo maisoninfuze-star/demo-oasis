@@ -515,12 +515,13 @@
     "sofa"
    ],
    "desc": "Made-to-order in Mississauga, Ontario. Available in the ACU performance fabric programme.",
-   "img": "https://www.aclassfurniture.ca/uploads/product_images/soo11.jpg",
+   "img": "assets/cutouts/73b609c487d3411b.webp",
    "gallery": [],
    "url": "https://www.aclassfurniture.ca/product/2950",
    "net": 640.0,
    "price": "2016",
-   "from": true
+   "from": true,
+   "img_src": "https://www.aclassfurniture.ca/uploads/product_images/soo11.jpg"
   },
   {
    "id": "aclass-3110",
@@ -709,7 +710,7 @@
     "sofa"
    ],
    "desc": "Made-to-order in Mississauga, Ontario. Available in the ACU performance fabric programme.",
-   "img": "https://www.aclassfurniture.ca/uploads/product_images/4210_-_1.JPG",
+   "img": "assets/cutouts/e4673a9e19a6c2ce.webp",
    "gallery": [
     "https://www.aclassfurniture.ca/assets/uploads/product_images/4210.jpg",
     "https://www.aclassfurniture.ca/assets/uploads/product_images/4210_-_1.JPG",
@@ -719,7 +720,8 @@
    "url": "https://www.aclassfurniture.ca/product/4210",
    "net": 520.0,
    "price": "1638",
-   "from": true
+   "from": true,
+   "img_src": "https://www.aclassfurniture.ca/uploads/product_images/4210_-_1.JPG"
   },
   {
    "id": "aclass-4250",
@@ -744,12 +746,13 @@
     "sofa"
    ],
    "desc": "Made-to-order in Mississauga, Ontario. Available in the ACU performance fabric programme.",
-   "img": "https://www.aclassfurniture.ca/uploads/product_images/4260.jpg",
+   "img": "assets/cutouts/6ac6f4a7440944ac.webp",
    "gallery": [],
    "url": "https://www.aclassfurniture.ca/product/4260",
    "net": 520.0,
    "price": "1638",
-   "from": true
+   "from": true,
+   "img_src": "https://www.aclassfurniture.ca/uploads/product_images/4260.jpg"
   },
   {
    "id": "aclass-4280",
@@ -860,12 +863,13 @@
     "sofa"
    ],
    "desc": "Made-to-order in Mississauga, Ontario. Available in the ACU performance fabric programme.",
-   "img": "https://www.aclassfurniture.ca/uploads/product_images/49001.jpg",
+   "img": "assets/cutouts/38f21426ae4c6f76.webp",
    "gallery": [],
    "url": "https://www.aclassfurniture.ca/product/4900",
    "net": 520.0,
    "price": "1638",
-   "from": true
+   "from": true,
+   "img_src": "https://www.aclassfurniture.ca/uploads/product_images/49001.jpg"
   },
   {
    "id": "aclass-4910",
@@ -1643,12 +1647,13 @@
     "chair"
    ],
    "desc": "Made-to-order in Mississauga, Ontario. Available in the ACU performance fabric programme.",
-   "img": "https://www.aclassfurniture.ca/uploads/product_images/407.jpg",
+   "img": "assets/cutouts/e634475d143b203f.webp",
    "gallery": [],
    "url": "https://www.aclassfurniture.ca/product/407",
    "net": 450.0,
    "price": "1418",
-   "from": true
+   "from": true,
+   "img_src": "https://www.aclassfurniture.ca/uploads/product_images/407.jpg"
   },
   {
    "id": "aclass-408",
@@ -3095,12 +3100,13 @@
    "cats": [
     "sofa"
    ],
-   "img": "https://www.aclassfurniture.ca/uploads/product_images/soo11.jpg",
+   "img": "assets/cutouts/73b609c487d3411b.webp",
    "gallery": [],
    "url": "https://www.aclassfurniture.ca/product/2950",
    "net": 640.0,
    "price": "2016",
-   "synth": true
+   "synth": true,
+   "img_src": "https://www.aclassfurniture.ca/uploads/product_images/soo11.jpg"
   },
   {
    "id": "aclass-synth-2950-set",
@@ -3109,12 +3115,13 @@
    "cats": [
     "sofa"
    ],
-   "img": "https://www.aclassfurniture.ca/uploads/product_images/soo11.jpg",
+   "img": "assets/cutouts/73b609c487d3411b.webp",
    "gallery": [],
    "url": "https://www.aclassfurniture.ca/product/2950",
    "net": 1600.0,
    "price": "5040",
-   "synth": true
+   "synth": true,
+   "img_src": "https://www.aclassfurniture.ca/uploads/product_images/soo11.jpg"
   },
   {
    "id": "aclass-synth-3120-sofa",
@@ -3403,12 +3410,13 @@
    "cats": [
     "sofa"
    ],
-   "img": "https://www.aclassfurniture.ca/uploads/product_images/4210_-_1.JPG",
+   "img": "assets/cutouts/e4673a9e19a6c2ce.webp",
    "gallery": [],
    "url": "https://www.aclassfurniture.ca/product/4210",
    "net": 520.0,
    "price": "1638",
-   "synth": true
+   "synth": true,
+   "img_src": "https://www.aclassfurniture.ca/uploads/product_images/4210_-_1.JPG"
   },
   {
    "id": "aclass-synth-4210-set",
@@ -3417,12 +3425,13 @@
    "cats": [
     "sofa"
    ],
-   "img": "https://www.aclassfurniture.ca/uploads/product_images/4210_-_1.JPG",
+   "img": "assets/cutouts/e4673a9e19a6c2ce.webp",
    "gallery": [],
    "url": "https://www.aclassfurniture.ca/product/4210",
    "net": 1300.0,
    "price": "4095",
-   "synth": true
+   "synth": true,
+   "img_src": "https://www.aclassfurniture.ca/uploads/product_images/4210_-_1.JPG"
   },
   {
    "id": "aclass-synth-4250-sofa",
@@ -3459,12 +3468,13 @@
    "cats": [
     "sofa"
    ],
-   "img": "https://www.aclassfurniture.ca/uploads/product_images/4260.jpg",
+   "img": "assets/cutouts/6ac6f4a7440944ac.webp",
    "gallery": [],
    "url": "https://www.aclassfurniture.ca/product/4260",
    "net": 520.0,
    "price": "1638",
-   "synth": true
+   "synth": true,
+   "img_src": "https://www.aclassfurniture.ca/uploads/product_images/4260.jpg"
   },
   {
    "id": "aclass-synth-4260-set",
@@ -3473,12 +3483,13 @@
    "cats": [
     "sofa"
    ],
-   "img": "https://www.aclassfurniture.ca/uploads/product_images/4260.jpg",
+   "img": "assets/cutouts/6ac6f4a7440944ac.webp",
    "gallery": [],
    "url": "https://www.aclassfurniture.ca/product/4260",
    "net": 1300.0,
    "price": "4095",
-   "synth": true
+   "synth": true,
+   "img_src": "https://www.aclassfurniture.ca/uploads/product_images/4260.jpg"
   },
   {
    "id": "aclass-synth-4280-sofa",
@@ -3627,12 +3638,13 @@
    "cats": [
     "sofa"
    ],
-   "img": "https://www.aclassfurniture.ca/uploads/product_images/49001.jpg",
+   "img": "assets/cutouts/38f21426ae4c6f76.webp",
    "gallery": [],
    "url": "https://www.aclassfurniture.ca/product/4900",
    "net": 520.0,
    "price": "1638",
-   "synth": true
+   "synth": true,
+   "img_src": "https://www.aclassfurniture.ca/uploads/product_images/49001.jpg"
   },
   {
    "id": "aclass-synth-4900-set",
@@ -3641,12 +3653,13 @@
    "cats": [
     "sofa"
    ],
-   "img": "https://www.aclassfurniture.ca/uploads/product_images/49001.jpg",
+   "img": "assets/cutouts/38f21426ae4c6f76.webp",
    "gallery": [],
    "url": "https://www.aclassfurniture.ca/product/4900",
    "net": 1300.0,
    "price": "4095",
-   "synth": true
+   "synth": true,
+   "img_src": "https://www.aclassfurniture.ca/uploads/product_images/49001.jpg"
   },
   {
    "id": "aclass-synth-4910-sofa",
@@ -4481,12 +4494,13 @@
    "cats": [
     "chair"
    ],
-   "img": "https://www.aclassfurniture.ca/uploads/product_images/407.jpg",
+   "img": "assets/cutouts/e634475d143b203f.webp",
    "gallery": [],
    "url": "https://www.aclassfurniture.ca/product/407",
    "net": 450.0,
    "price": "1418",
-   "synth": true
+   "synth": true,
+   "img_src": "https://www.aclassfurniture.ca/uploads/product_images/407.jpg"
   },
   {
    "id": "aclass-synth-408-chair",

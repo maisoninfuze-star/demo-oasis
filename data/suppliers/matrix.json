@@ -14688,7 +14688,7 @@
    "name": "Laura Dresser White Gold",
    "cats": [],
    "url": "https://matrixfurnituregroup.ca/product-detail/b1401-laura-dresser-white-gold",
-   "img": "https://matrixfurnituregroup.ca/uploads/items/1776284984_3037e81236fe3a57d0f2.jpg",
+   "img": "assets/cutouts/7fb74f87e723d473.webp",
    "gallery": [
     "https://matrixfurnituregroup.ca/uploads/categories/1737351426_be6f7918d93b85c03f03.png",
     "https://matrixfurnituregroup.ca/uploads/categories/1737352032_8f3bd82701b62faf3443.png",
@@ -14698,7 +14698,8 @@
    "sku": "B1401",
    "net": 599.0,
    "price": "1887",
-   "from": true
+   "from": true,
+   "img_src": "https://matrixfurnituregroup.ca/uploads/items/1776284984_3037e81236fe3a57d0f2.jpg"
   },
   {
    "id": "matrix-b1441-kenzo-dresser-dark-walnut",
@@ -14720,7 +14721,7 @@
    "name": "Ember Dresser Graphite",
    "cats": [],
    "url": "https://matrixfurnituregroup.ca/product-detail/b1471-ember-dresser-graphite",
-   "img": "https://matrixfurnituregroup.ca/uploads/items/1776285749_9dd4de808193e14ebb70.jpg",
+   "img": "assets/cutouts/bfc70e390be17ec2.webp",
    "gallery": [
     "https://matrixfurnituregroup.ca/uploads/categories/1737351426_be6f7918d93b85c03f03.png",
     "https://matrixfurnituregroup.ca/uploads/categories/1737352032_8f3bd82701b62faf3443.png",
@@ -14730,7 +14731,8 @@
    "sku": "B1471",
    "net": 619.0,
    "price": "1950",
-   "from": true
+   "from": true,
+   "img_src": "https://matrixfurnituregroup.ca/uploads/items/1776285749_9dd4de808193e14ebb70.jpg"
   },
   {
    "id": "matrix-b1491-sienna-dresser-beige",
@@ -14852,7 +14854,7 @@
    "name": "Madrid Dresser Graphite",
    "cats": [],
    "url": "https://matrixfurnituregroup.ca/product-detail/b1631-madrid-dresser-graphite",
-   "img": "https://matrixfurnituregroup.ca/uploads/items/1776436768_381f7361de701e88bc17.jpg",
+   "img": "assets/cutouts/aaa1bb7b7f4efc5e.webp",
    "gallery": [
     "https://matrixfurnituregroup.ca/uploads/categories/1737351426_be6f7918d93b85c03f03.png",
     "https://matrixfurnituregroup.ca/uploads/categories/1737352032_8f3bd82701b62faf3443.png",
@@ -14862,7 +14864,8 @@
    "sku": "B1631",
    "net": 649.0,
    "price": "2044",
-   "from": true
+   "from": true,
+   "img_src": "https://matrixfurnituregroup.ca/uploads/items/1776436768_381f7361de701e88bc17.jpg"
   },
   {
    "id": "matrix-b1651-paris-dresser-silver",
@@ -15109,7 +15112,7 @@
    "name": "Bristal Dresser Beige",
    "cats": [],
    "url": "https://matrixfurnituregroup.ca/product-detail/b1781-bristal-dresser-beige",
-   "img": "https://matrixfurnituregroup.ca/uploads/items/1776451180_c11c5cd60b1a6b7961ef.jpg",
+   "img": "assets/cutouts/833514d8adbd0574.webp",
    "gallery": [
     "https://matrixfurnituregroup.ca/uploads/categories/1737351426_be6f7918d93b85c03f03.png",
     "https://matrixfurnituregroup.ca/uploads/categories/1737352032_8f3bd82701b62faf3443.png",
@@ -15119,14 +15122,15 @@
    "sku": "B1781",
    "net": 499.0,
    "price": "1572",
-   "from": true
+   "from": true,
+   "img_src": "https://matrixfurnituregroup.ca/uploads/items/1776451180_c11c5cd60b1a6b7961ef.jpg"
   },
   {
    "id": "matrix-b1801-germani-dresser-brown",
    "name": "Germani Dresser Brown",
    "cats": [],
    "url": "https://matrixfurnituregroup.ca/product-detail/b1801-germani-dresser-brown",
-   "img": "https://matrixfurnituregroup.ca/uploads/items/1776452156_bfef13116b393594ae36.jpg",
+   "img": "assets/cutouts/8d09d76e131e7e80.webp",
    "gallery": [
     "https://matrixfurnituregroup.ca/uploads/categories/1737351426_be6f7918d93b85c03f03.png",
     "https://matrixfurnituregroup.ca/uploads/categories/1737352032_8f3bd82701b62faf3443.png",
@@ -15136,7 +15140,8 @@
    "sku": "B1801",
    "net": 579.0,
    "price": "1824",
-   "from": true
+   "from": true,
+   "img_src": "https://matrixfurnituregroup.ca/uploads/items/1776452156_bfef13116b393594ae36.jpg"
   },
   {
    "id": "matrix-b1811-heritage-dresser-white-wash",
@@ -15247,7 +15252,7 @@
    "name": "Zain Dresser Grey Angly White",
    "cats": [],
    "url": "https://matrixfurnituregroup.ca/product-detail/b1891-zain-dresser-grey-angly-white",
-   "img": "https://matrixfurnituregroup.ca/uploads/items/1776696306_f2e185af6d5746272e2b.jpg",
+   "img": "assets/cutouts/6f2d5cd625c1d6b6.webp",
    "gallery": [
     "https://matrixfurnituregroup.ca/uploads/categories/1737351426_be6f7918d93b85c03f03.png",
     "https://matrixfurnituregroup.ca/uploads/categories/1737352032_8f3bd82701b62faf3443.png",
@@ -15257,14 +15262,15 @@
    "sku": "B1891",
    "net": 499.0,
    "price": "1572",
-   "from": true
+   "from": true,
+   "img_src": "https://matrixfurnituregroup.ca/uploads/items/1776696306_f2e185af6d5746272e2b.jpg"
   },
   {
    "id": "matrix-b1911-manchester-dresser-walnut-grey",
    "name": "Manchester Dresser Walnut Grey",
    "cats": [],
    "url": "https://matrixfurnituregroup.ca/product-detail/b1911-manchester-dresser-walnut-grey",
-   "img": "https://matrixfurnituregroup.ca/uploads/items/1776696763_03301700a03fae02905a.jpg",
+   "img": "assets/cutouts/49e2c5c9f90d8319.webp",
    "gallery": [
     "https://matrixfurnituregroup.ca/uploads/categories/1737351426_be6f7918d93b85c03f03.png",
     "https://matrixfurnituregroup.ca/uploads/categories/1737352032_8f3bd82701b62faf3443.png",
@@ -15274,14 +15280,15 @@
    "sku": "B1911",
    "net": 569.0,
    "price": "1792",
-   "from": true
+   "from": true,
+   "img_src": "https://matrixfurnituregroup.ca/uploads/items/1776696763_03301700a03fae02905a.jpg"
   },
   {
    "id": "matrix-b1921-venice-dresser-grey",
    "name": "Venice Dresser Grey",
    "cats": [],
    "url": "https://matrixfurnituregroup.ca/product-detail/b1921-venice-dresser-grey",
-   "img": "https://matrixfurnituregroup.ca/uploads/items/1777578387_52c3895cd9de7c3284e5.jpg",
+   "img": "assets/cutouts/81ac1a8a7278866d.webp",
    "gallery": [
     "https://matrixfurnituregroup.ca/uploads/categories/1737351426_be6f7918d93b85c03f03.png",
     "https://matrixfurnituregroup.ca/uploads/categories/1737352032_8f3bd82701b62faf3443.png",
@@ -15291,7 +15298,8 @@
    "sku": "B1921",
    "net": 599.0,
    "price": "1887",
-   "from": true
+   "from": true,
+   "img_src": "https://matrixfurnituregroup.ca/uploads/items/1777578387_52c3895cd9de7c3284e5.jpg"
   },
   {
    "id": "matrix-b1931-sperenza-dresser-black-oak",
@@ -15376,7 +15384,7 @@
    "name": "Disco Dresser Grey",
    "cats": [],
    "url": "https://matrixfurnituregroup.ca/product-detail/b1961-disco-dresser-grey",
-   "img": "https://matrixfurnituregroup.ca/uploads/items/1757617392_72c47ba821d0f58b206a.jpg",
+   "img": "assets/cutouts/15e1b1e894ad1ad4.webp",
    "gallery": [
     "https://matrixfurnituregroup.ca/uploads/categories/1737351426_be6f7918d93b85c03f03.png",
     "https://matrixfurnituregroup.ca/uploads/categories/1737352032_8f3bd82701b62faf3443.png",
@@ -15386,14 +15394,15 @@
    "sku": "B1961",
    "net": 569.0,
    "price": "1792",
-   "from": true
+   "from": true,
+   "img_src": "https://matrixfurnituregroup.ca/uploads/items/1757617392_72c47ba821d0f58b206a.jpg"
   },
   {
    "id": "matrix-b1971-monaco-dresser-beige",
    "name": "Monaco Dresser Beige",
    "cats": [],
    "url": "https://matrixfurnituregroup.ca/product-detail/b1971-monaco-dresser-beige",
-   "img": "https://matrixfurnituregroup.ca/uploads/items/1757682643_768ea66eadcc51879f94.jpg",
+   "img": "assets/cutouts/15da0af1f5bd015b.webp",
    "gallery": [
     "https://matrixfurnituregroup.ca/uploads/categories/1737351426_be6f7918d93b85c03f03.png",
     "https://matrixfurnituregroup.ca/uploads/categories/1737352032_8f3bd82701b62faf3443.png",
@@ -15403,7 +15412,8 @@
    "sku": "B1971",
    "net": 649.0,
    "price": "2044",
-   "from": true
+   "from": true,
+   "img_src": "https://matrixfurnituregroup.ca/uploads/items/1757682643_768ea66eadcc51879f94.jpg"
   },
   {
    "id": "matrix-b1981-leonor-dresser-zebra-white",
@@ -15427,7 +15437,7 @@
    "name": "Houston Dresser Walnut",
    "cats": [],
    "url": "https://matrixfurnituregroup.ca/product-detail/b1991-houston-dresser-walnut",
-   "img": "https://matrixfurnituregroup.ca/uploads/items/1758739120_dd8906fb2246ff02112d.png",
+   "img": "assets/cutouts/c58c0c9ae21b92c7.webp",
    "gallery": [
     "https://matrixfurnituregroup.ca/uploads/items/1745352654_724a165460acd3c57984.jpg",
     "https://matrixfurnituregroup.ca/uploads/items/1745352879_337ac6fd4a01dc722f2e.jpg"
@@ -15435,14 +15445,15 @@
    "sku": "B1991",
    "net": 349.0,
    "price": "1099",
-   "from": true
+   "from": true,
+   "img_src": "https://matrixfurnituregroup.ca/uploads/items/1758739120_dd8906fb2246ff02112d.png"
   },
   {
    "id": "matrix-b2011-aria-dresser-beige",
    "name": "Aria Dresser Beige",
    "cats": [],
    "url": "https://matrixfurnituregroup.ca/product-detail/b2011-aria-dresser-beige",
-   "img": "https://matrixfurnituregroup.ca/uploads/items/1766178982_5bc02ed33488682667e7.jpg",
+   "img": "assets/cutouts/659b0b942e86eecb.webp",
    "gallery": [
     "https://matrixfurnituregroup.ca/uploads/categories/1737351426_be6f7918d93b85c03f03.png",
     "https://matrixfurnituregroup.ca/uploads/categories/1737352032_8f3bd82701b62faf3443.png",
@@ -15452,14 +15463,15 @@
    "sku": "B2011",
    "net": 379.0,
    "price": "1194",
-   "from": true
+   "from": true,
+   "img_src": "https://matrixfurnituregroup.ca/uploads/items/1766178982_5bc02ed33488682667e7.jpg"
   },
   {
    "id": "matrix-b2011-aria-mirror-beige",
    "name": "Aria Mirror Beige",
    "cats": [],
    "url": "https://matrixfurnituregroup.ca/product-detail/b2011-aria-mirror-beige",
-   "img": "https://matrixfurnituregroup.ca/uploads/items/1766179007_b7d245e5354fb92f7f9c.jpg",
+   "img": "assets/cutouts/319a0919e8c82ac8.webp",
    "gallery": [
     "https://matrixfurnituregroup.ca/uploads/categories/1737351426_be6f7918d93b85c03f03.png",
     "https://matrixfurnituregroup.ca/uploads/categories/1737352032_8f3bd82701b62faf3443.png",
@@ -15469,14 +15481,15 @@
    "sku": "B2011",
    "net": 379.0,
    "price": "1194",
-   "from": true
+   "from": true,
+   "img_src": "https://matrixfurnituregroup.ca/uploads/items/1766179007_b7d245e5354fb92f7f9c.jpg"
   },
   {
    "id": "matrix-b2021-sydney-dresser-grey",
    "name": "Sydney Dresser Grey",
    "cats": [],
    "url": "https://matrixfurnituregroup.ca/product-detail/b2021-sydney-dresser-grey",
-   "img": "https://matrixfurnituregroup.ca/uploads/items/1758818728_776be5a6ec9634bfda5b.jpg",
+   "img": "assets/cutouts/0f74d0f7fdb1c569.webp",
    "gallery": [
     "https://matrixfurnituregroup.ca/uploads/categories/1737351426_be6f7918d93b85c03f03.png",
     "https://matrixfurnituregroup.ca/uploads/categories/1737352032_8f3bd82701b62faf3443.png",
@@ -15486,14 +15499,15 @@
    "sku": "B2021",
    "net": 449.0,
    "price": "1414",
-   "from": true
+   "from": true,
+   "img_src": "https://matrixfurnituregroup.ca/uploads/items/1758818728_776be5a6ec9634bfda5b.jpg"
   },
   {
    "id": "matrix-b2031-bronco-dresser-grey",
    "name": "Bronco Dresser Grey",
    "cats": [],
    "url": "https://matrixfurnituregroup.ca/product-detail/b2031-bronco-dresser-grey",
-   "img": "https://matrixfurnituregroup.ca/uploads/items/1771446945_cfc7560a9f13ecca3919.jpg",
+   "img": "assets/cutouts/3cf32120d693c537.webp",
    "gallery": [
     "https://matrixfurnituregroup.ca/uploads/categories/1737351426_be6f7918d93b85c03f03.png",
     "https://matrixfurnituregroup.ca/uploads/categories/1737352032_8f3bd82701b62faf3443.png",
@@ -15503,14 +15517,15 @@
    "sku": "B2031",
    "net": 429.0,
    "price": "1351",
-   "from": true
+   "from": true,
+   "img_src": "https://matrixfurnituregroup.ca/uploads/items/1771446945_cfc7560a9f13ecca3919.jpg"
   },
   {
    "id": "matrix-b2031-bronco-mirror-grey",
    "name": "Bronco Mirror Grey",
    "cats": [],
    "url": "https://matrixfurnituregroup.ca/product-detail/b2031-bronco-mirror-grey",
-   "img": "https://matrixfurnituregroup.ca/uploads/items/1771446958_68b1653406e1af569fb3.jpg",
+   "img": "assets/cutouts/75b0aae50395d9ce.webp",
    "gallery": [
     "https://matrixfurnituregroup.ca/uploads/categories/1737351426_be6f7918d93b85c03f03.png",
     "https://matrixfurnituregroup.ca/uploads/categories/1737352032_8f3bd82701b62faf3443.png",
@@ -15520,14 +15535,15 @@
    "sku": "B2031",
    "net": 429.0,
    "price": "1351",
-   "from": true
+   "from": true,
+   "img_src": "https://matrixfurnituregroup.ca/uploads/items/1771446958_68b1653406e1af569fb3.jpg"
   },
   {
    "id": "matrix-b2041-highlandcolorado-dresser-grey",
    "name": "Highlandcolorado Dresser Grey",
    "cats": [],
    "url": "https://matrixfurnituregroup.ca/product-detail/b2041-highlandcolorado-dresser-grey",
-   "img": "https://matrixfurnituregroup.ca/uploads/items/1766439571_760a1b574a56b7064fdb.png",
+   "img": "assets/cutouts/2d688e41f3fdab55.webp",
    "gallery": [
     "https://matrixfurnituregroup.ca/uploads/categories/1737351426_be6f7918d93b85c03f03.png",
     "https://matrixfurnituregroup.ca/uploads/categories/1737352032_8f3bd82701b62faf3443.png",
@@ -15537,14 +15553,15 @@
    "sku": "B2041",
    "net": 429.0,
    "price": "1351",
-   "from": true
+   "from": true,
+   "img_src": "https://matrixfurnituregroup.ca/uploads/items/1766439571_760a1b574a56b7064fdb.png"
   },
   {
    "id": "matrix-b2041-highlandcolorado-dresser-white",
    "name": "Highlandcolorado Dresser White",
    "cats": [],
    "url": "https://matrixfurnituregroup.ca/product-detail/b2041-highlandcolorado-dresser-white",
-   "img": "https://matrixfurnituregroup.ca/uploads/items/1766439914_676e0864e4edf671b00d.jpg",
+   "img": "assets/cutouts/355b2cb7832f51b5.webp",
    "gallery": [
     "https://matrixfurnituregroup.ca/uploads/categories/1737351426_be6f7918d93b85c03f03.png",
     "https://matrixfurnituregroup.ca/uploads/categories/1737352032_8f3bd82701b62faf3443.png",
@@ -15554,14 +15571,15 @@
    "sku": "B2041",
    "net": 429.0,
    "price": "1351",
-   "from": true
+   "from": true,
+   "img_src": "https://matrixfurnituregroup.ca/uploads/items/1766439914_676e0864e4edf671b00d.jpg"
   },
   {
    "id": "matrix-b2041-highlandcolorado-mirror-grey",
    "name": "Highlandcolorado Mirror Grey",
    "cats": [],
    "url": "https://matrixfurnituregroup.ca/product-detail/b2041-highlandcolorado-mirror-grey",
-   "img": "https://matrixfurnituregroup.ca/uploads/items/1766439748_e2d1f91a6fb424f872be.jpg",
+   "img": "assets/cutouts/bc98fe9b17a27c6c.webp",
    "gallery": [
     "https://matrixfurnituregroup.ca/uploads/categories/1737351426_be6f7918d93b85c03f03.png",
     "https://matrixfurnituregroup.ca/uploads/categories/1737352032_8f3bd82701b62faf3443.png",
@@ -15571,14 +15589,15 @@
    "sku": "B2041",
    "net": 429.0,
    "price": "1351",
-   "from": true
+   "from": true,
+   "img_src": "https://matrixfurnituregroup.ca/uploads/items/1766439748_e2d1f91a6fb424f872be.jpg"
   },
   {
    "id": "matrix-b2041-highlandcolorado-mirror-white",
    "name": "Highlandcolorado Mirror White",
    "cats": [],
    "url": "https://matrixfurnituregroup.ca/product-detail/b2041-highlandcolorado-mirror-white",
-   "img": "https://matrixfurnituregroup.ca/uploads/items/1766439835_bc51802f07252508bcb3.jpg",
+   "img": "assets/cutouts/6ceeaac32db4ff9f.webp",
    "gallery": [
     "https://matrixfurnituregroup.ca/uploads/categories/1737351426_be6f7918d93b85c03f03.png",
     "https://matrixfurnituregroup.ca/uploads/categories/1737352032_8f3bd82701b62faf3443.png",
@@ -15588,7 +15607,8 @@
    "sku": "B2041",
    "net": 429.0,
    "price": "1351",
-   "from": true
+   "from": true,
+   "img_src": "https://matrixfurnituregroup.ca/uploads/items/1766439835_bc51802f07252508bcb3.jpg"
   },
   {
    "id": "matrix-b2071-talia-dresser-black",
@@ -15760,7 +15780,7 @@
    "name": "Berlin Dresser Grey",
    "cats": [],
    "url": "https://matrixfurnituregroup.ca/product-detail/b2251-berlin-dresser-grey",
-   "img": "https://matrixfurnituregroup.ca/uploads/items/1779726988_da75fd8093a383303538.jpg",
+   "img": "assets/cutouts/3d721fdfa7ff5011.webp",
    "gallery": [
     "https://matrixfurnituregroup.ca/uploads/categories/1737351426_be6f7918d93b85c03f03.png",
     "https://matrixfurnituregroup.ca/uploads/categories/1737352032_8f3bd82701b62faf3443.png",
@@ -15770,14 +15790,15 @@
    "sku": "B2251",
    "net": 619.0,
    "price": "1950",
-   "from": true
+   "from": true,
+   "img_src": "https://matrixfurnituregroup.ca/uploads/items/1779726988_da75fd8093a383303538.jpg"
   },
   {
    "id": "matrix-b2261-lisbon-dresser-grey",
    "name": "Lisbon Dresser Grey",
    "cats": [],
    "url": "https://matrixfurnituregroup.ca/product-detail/b2261-lisbon-dresser-grey",
-   "img": "https://matrixfurnituregroup.ca/uploads/items/1779726568_9a2a4c38f110a373217b.jpg",
+   "img": "assets/cutouts/6aed9336495df3cb.webp",
    "gallery": [
     "https://matrixfurnituregroup.ca/uploads/categories/1737351426_be6f7918d93b85c03f03.png",
     "https://matrixfurnituregroup.ca/uploads/categories/1737352032_8f3bd82701b62faf3443.png",
@@ -15787,7 +15808,8 @@
    "sku": "B2261",
    "net": 669.0,
    "price": "2107",
-   "from": true
+   "from": true,
+   "img_src": "https://matrixfurnituregroup.ca/uploads/items/1779726568_9a2a4c38f110a373217b.jpg"
   },
   {
    "id": "matrix-b2411-hugo-dresser-light-grey",

@@ -1,0 +1,36 @@
+Priority,Category,What we need,Why it matters,Status,Owner
+1 BLOCKING,GoHighLevel,Add a user to the Galerie Oasis sub-account,"Nothing can be assigned to a person. The AI bot's 'talk to a human' goes nowhere, no task can be owned, no escalation fires.",Not started,Client
+1 BLOCKING,GoHighLevel,Publish the 'Quote Request' workflow (currently Draft),A Draft workflow accepts the webhook and enrols nobody. Quote requests reach GHL and vanish.,Not started,Client
+1 BLOCKING,GoHighLevel,Fix or confirm the 'Order Confirmation Email' trigger,Published but 0 enrolled after real test orders. A real order today notifies nobody.,Not started,Client
+1 BLOCKING,Website,Point galerieoasis.ca at the new site,The domain still serves the old site. New catalogue is invisible to anyone typing the domain.,Not started,Client
+1 BLOCKING,SMS,Confirm A2P / 10DLC approval status,All SMS automations are built but must stay off until approved.,Not started,Client
+2 POLICY,Terms,Return and exchange policy,"Window in days, restocking fee, who pays return delivery, condition required.",Not started,Client
+2 POLICY,Terms,Warranty terms,"Length, what is covered, manufacturer vs store, how a claim starts.",Not started,Client
+2 POLICY,Terms,Lead times (in stock / special order / custom),"Site promises same-day pricing, not delivery. Must not imply otherwise.",Not started,Client
+2 POLICY,Terms,Deposit policy,Percentage to place an order and whether it is refundable.,Not started,Client
+2 POLICY,Terms,Cancellation policy,"Before delivery, after delivery, and for custom orders.",Not started,Client
+2 POLICY,Terms,Damage / claims process,"What the customer does if a piece arrives damaged, and the time limit.",Not started,Client
+2 POLICY,Terms,Custom-order rules (final sale?),"If custom is final sale we must say so before the order, not after.",Not started,Client
+2 POLICY,Legal,Terms & Conditions and Privacy Policy text,"Quebec Law 25 requires a privacy policy. We collect name, email and phone today.",Not started,Client
+2 POLICY,Legal,"Legal business name, NEQ, GST/QST numbers","Needed on terms, invoices and receipts.",Not started,Client
+3 PRICING,Pricelist,Creative Home Decor pricelist or portal login,Unlocks 542 products,Not started,Client
+3 PRICING,Pricelist,Titus pricelist or portal login,Unlocks 469 products,Not started,Client
+3 PRICING,Pricelist,Glory Home pricelist or portal login,Unlocks 350 products,Not started,Client
+3 PRICING,Pricelist,Sofa by Fancy pricelist or portal login,Unlocks 174 products,Not started,Client
+3 PRICING,Pricelist,WT Studio pricelist or portal login,Unlocks 120 products,Not started,Client
+3 PRICING,Pricelist,Prices for the 239 own curated pieces,These are the showroom hero pieces and have no price.,Not started,Client
+3 PRICING,Margin,Confirm x3.15 margin applies to every supplier,"Applied uniformly today. If any supplier differs, those prices are wrong.",Not started,Client
+3 PRICING,Margin,Clearance rules,"Which items, what discount, and whether clearance keeps free delivery over $500.",Not started,Client
+4 PAYMENT,Stripe,Stripe account access,Order flow is built with the Stripe hand-off marked. Until then every order is a manual payment call.,Not started,Client
+4 PAYMENT,Stripe,Deposit vs full payment at checkout,Determines what the Stripe step charges.,Not started,Client
+4 PAYMENT,Financing,Flexiti / Klarna real terms,These appear on the site. Need real terms before the bot or pages describe them.,Not started,Client
+5 MARKETING,Content,Real customer testimonials,"The site carries a placeholder testimonial that was written, not collected. Must be replaced or removed.",Not started,Client
+5 MARKETING,Reviews,Google Business Profile access,Needed for review-request automation and to respond to reviews.,Not started,Client
+5 MARKETING,Analytics,GA4 and Meta Pixel IDs,"No analytics today, so we cannot tell which pages or products convert.",Not started,Client
+5 MARKETING,Content,Showroom photography,Interior shots for the visit and about pages.,Not started,Client
+5 MARKETING,Delivery,Delivery zone confirmation by postal code,Exact limit of the $99 and $199 zones so site and bot quote the same thing.,Not started,Client
+5 MARKETING,Hours,Confirm business hours incl. holidays,"Site publishes Mon-Wed 10-6, Thu-Fri 10-8, Sat 10-5, Sun 11-5.",Not started,Client
+6 LATER,GoHighLevel,Showroom appointment calendar in GHL,Turns a visit request into a booked slot with reminders.,Not started,B12
+6 LATER,Bot,After-hours handling for the bot,What it says outside business hours.,Not started,Client
+6 LATER,Trade,Designer / trade programme terms,The account form already segments these buyers; need terms to nurture them.,Not started,Client
+6 LATER,Suppliers,Supplier lead-time table,"Per supplier, so quotes carry a realistic date.",Not started,Client

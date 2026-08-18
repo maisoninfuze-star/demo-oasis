@@ -1164,3 +1164,13 @@ html.has-promo .purch{padding-top:calc(9rem + 44px)}
 .pdp .item__crumb,.pdp .item__crumb a{color:rgba(16,14,12,.6)}
 .pdp .item__crumb span{color:var(--black)}
 .pdp .item__thumb{border-color:rgba(16,14,12,.18)}
+.foot__legal{display:flex;gap:1.2rem;flex-wrap:wrap}
+.foot__legal a{color:inherit;opacity:.7;text-decoration:none}
+.foot__legal a:hover{opacity:1;color:var(--gold)}
+
+/* The base .filters__toggle{display:none} was declared AFTER its own media
+   query, so it beat the mobile rule and the Filter & sort button never
+   appeared on a phone — leaving no way to open the filter drawer. Declared in
+   the correct order here: hidden by default, shown on small screens. */
+.filters__toggle{display:none}
+@media(max-width:1000px){ .filters__toggle{display:flex} }

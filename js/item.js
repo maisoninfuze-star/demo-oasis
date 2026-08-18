@@ -13,7 +13,9 @@
   const $ = (s, c = document) => c.querySelector(s);
   const L = () => (document.body.dataset.lang === 'fr' ? 'fr' : 'en');
   const T = (en, fr) => (L() === 'fr' ? fr : en);
-  const money = n => '$' + parseFloat(n).toLocaleString('en-CA');
+  /* Same rule as the cards and the cart: a price with cents shows both digits.
+     Plain toLocaleString rendered 503.70 as "$503.7". */
+  const money = n => { n = parseFloat(n); return isNaN(n) ? '' : '$' + (n % 1 ? n.toFixed(2) : n.toLocaleString('en-CA')); };
 
   const id = new URLSearchParams(location.search).get('id');
   const host = $('#itemPage');

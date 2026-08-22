@@ -6,7 +6,6 @@ Priority,Category,What we need,Why it matters,Status,Owner
 1 BLOCKING,SMS,Confirm A2P / 10DLC approval status,All SMS automations are built but must stay off until approved.,Not started,Client
 2 POLICY,Terms,Return and exchange policy,"Window in days, restocking fee, who pays return delivery, condition required.",Not started,Client
 2 POLICY,Terms,Warranty terms,"Length, what is covered, manufacturer vs store, how a claim starts.",Not started,Client
-2 POLICY,Terms,Lead times (in stock / special order / custom),"Site promises same-day pricing, not delivery. Must not imply otherwise.",Not started,Client
 2 POLICY,Terms,Deposit policy,Percentage to place an order and whether it is refundable.,Not started,Client
 2 POLICY,Terms,Cancellation policy,"Before delivery, after delivery, and for custom orders.",Not started,Client
 2 POLICY,Terms,Damage / claims process,"What the customer does if a piece arrives damaged, and the time limit.",Not started,Client

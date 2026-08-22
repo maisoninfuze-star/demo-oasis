@@ -109,6 +109,7 @@
             <p><b>${T('Delivery', 'Livraison')}</b> ${T(
               `$${d.fee || 99} within about 20 km of the showroom, $199 North and South Shore. Free over $${d.freeOver || 500}.`,
               `${d.fee || 99} $ dans un rayon d’environ 20 km, 199 $ Rive-Nord et Rive-Sud. Gratuite au-delà de ${d.freeOver || 500} $.`)}</p>
+            <p><b>${T('Lead time', 'Délai')}</b> ${(d.leadTime || {})[L()] || ''}</p>
             <p><b>${T('White glove', 'Service gantée')}</b> ${T(
               'Carried in, placed in your room, assembled, packaging taken away.',
               'Monté chez vous, placé dans la pièce, assemblé, emballage retiré.')}</p>

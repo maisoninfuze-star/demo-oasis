@@ -41,7 +41,11 @@ window.OASIS_CONFIG = {
     included: { en: 'Carried in, placed in your room, assembled, packaging taken away',
                 fr: 'Monté chez vous, placé dans la pièce, assemblé, emballage retiré' },
     note: { en: 'Stairs, elevators and hoisting are quoted after we confirm access.',
-            fr: 'Escaliers, ascenseurs et levage sont estimés après confirmation des accès.' }
+            fr: 'Escaliers, ascenseurs et levage sont estimés après confirmation des accès.' },
+    /* Owner-confirmed 2026-08-10. Applies to catalogue pieces we order in.
+       Custom-made work is quoted separately — do not imply 5-10 days for it. */
+    leadTime: { en: '5 to 10 days from order to delivery.',
+                fr: 'De 5 à 10 jours entre la commande et la livraison.' }
   },
 
   /* Site-wide promotion. Set enabled:false to remove everywhere at once. */
@@ -56,5 +60,5 @@ window.OASIS_CONFIG = {
     ctaEn: 'Shop the event', ctaFr: 'Profiter de l’offre'
   },
 
-  dataVersion: '20260810m'
+  dataVersion: '20260810n'
 };

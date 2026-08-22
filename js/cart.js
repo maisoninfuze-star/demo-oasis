@@ -106,6 +106,7 @@
             <div class="tot"><dt>${T('Estimated total', 'Total estimé')}</dt><dd>${money(sub + delivery)}</dd></div>
           </dl>
           <p class="purch__area">${(DELIVERY.area || {})[L()] || ''}</p>
+          <p class="purch__area">${(DELIVERY.leadTime || {})[L()] || ''}</p>
           <form class="purch__form" novalidate>
             <input name="name" required placeholder="${T('Full name', 'Nom complet')}" autocomplete="name">
             <input name="email" type="email" required placeholder="${T('Email', 'Courriel')}" autocomplete="email">

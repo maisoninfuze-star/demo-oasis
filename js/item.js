@@ -19,7 +19,16 @@
 
   const id = new URLSearchParams(location.search).get('id');
   const host = $('#itemPage');
-  if (!id || !host) return;
+  if (!host) return;
+  /* Landing on product.html with no id used to leave a blank page under the
+     header. Send the shopper somewhere useful instead. */
+  if (!id) {
+    host.innerHTML = `<p class="item__missing">${T(
+      'Choose a piece from the collection to see its details.',
+      'Choisissez une pièce dans la collection pour voir ses détails.')}
+      <a class="btn btn--gold" href="collection.html">${T('Browse the collection','Parcourir la collection')}</a></p>`;
+    return;
+  }
 
   const SUB = {
     sofas: ['Sofas', 'Canapés'], sectionals: ['Sectionals', 'Sectionnels'], loveseats: ['Loveseats', 'Causeuses'],
@@ -70,7 +79,7 @@
       <nav class="crumb item__crumb">
         <a href="index.html">${T('Home', 'Accueil')}</a> /
         <a href="collection.html">${T('Collections', 'Collections')}</a> /
-        <a href="collection.html?cat=${it._top}">${it._topLabel}</a> /
+        <a href="${TOPFILE[it._top] || 'collection.html'}">${it._topLabel}</a> /
         <span>${it.name}</span>
       </nav>
       <div class="item">
@@ -120,9 +129,40 @@
       g.textContent = it.name;
       window.OasisLead?.open('quote');
     });
-    document.title = `${it.name} — Galerie Oasis`;
+    /* "Annabelle Sofa | Galerie Oasis Laval" beats the static
+       "Product — Galerie Oasis, Laval" every product page shipped with. */
+    document.title = `${it.name} | Galerie Oasis Laval`;
+    const md = document.querySelector('meta[name="description"]');
+    if (md) md.setAttribute('content', [it.name, subLabel(it.sub),
+      it.price ? money(it.price) : T('Price on request', 'Prix sur demande'),
+      T('at Galerie Oasis, Laval. White-glove delivery across Greater Montréal.',
+        'chez Galerie Oasis, Laval. Livraison gantée dans le Grand Montréal.')].join(' · '));
+    const can = document.querySelector('link[rel="canonical"]');
+    if (can) can.setAttribute('href', `https://galerieoasis.ca/product.html?id=${encodeURIComponent(it.id)}`);
+
+    /* Product structured data so a listing can carry a price in search. */
+    document.getElementById('itemLd')?.remove();
+    const ld = document.createElement('script');
+    ld.type = 'application/ld+json'; ld.id = 'itemLd';
+    ld.textContent = JSON.stringify({
+      '@context': 'https://schema.org', '@type': 'Product',
+      name: it.name, sku: it.sku || undefined, image: it.img ? [it.img] : undefined,
+      category: subLabel(it.sub),
+      brand: { '@type': 'Brand', name: 'Galerie Oasis' },
+      offers: it.price ? {
+        '@type': 'Offer', priceCurrency: 'CAD', price: String(it.price),
+        availability: 'https://schema.org/InStock',
+        url: `https://galerieoasis.ca/product.html?id=${encodeURIComponent(it.id)}`,
+        seller: { '@type': 'Organization', name: 'Galerie Oasis' }
+      } : undefined
+    });
+    document.head.appendChild(ld);
   }
 
+  /* Departments have their own pages now; the breadcrumb links to those. */
+  const TOPFILE = { 'living-room': 'living-room.html', 'dining-room': 'dining.html',
+    'bed-room': 'bedroom.html', office: 'office.html', decor: 'decor.html',
+    carpets: 'rugs.html', 'custom-studio': 'custom.html' };
   const TOPS = ['living-room', 'dining-room', 'bed-room', 'office', 'decor', 'carpets', 'custom-studio'];
   const TOPLBL = { 'living-room': ['Living Room', 'Salon'], 'dining-room': ['Dining', 'Salle à manger'],
     'bed-room': ['Bedroom', 'Chambre'], office: ['Office', 'Bureau'], decor: ['Décor', 'Décor'],

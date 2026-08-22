@@ -63,7 +63,10 @@
   if (!grid) return;
 
   const params = new URLSearchParams(location.search);
-  const top = TOP_LABEL[params.get('cat')] ? params.get('cat') : 'all';
+  /* A generated department page declares itself on <body data-cat>. The
+     ?cat= query string still works so old links and the sitemap keep resolving. */
+  const declared = document.body.dataset.cat || params.get('cat');
+  const top = TOP_LABEL[declared] ? declared : 'all';
 
   /* hero text — "On request" is its own destination, so it gets its own hero;
      otherwise the department decides. Priced items are NOT a category: they

@@ -25,10 +25,11 @@ STATIC = [
     ('/privacy.html', '0.3', 'yearly'),
     ('/terms.html', '0.3', 'yearly'),
 ]
-DEPTS = ['living-room', 'dining-room', 'bed-room', 'office', 'decor', 'carpets', 'custom-studio']
+DEPT_PAGES = ['living-room.html', 'dining.html', 'bedroom.html', 'rugs.html',
+              'decor.html', 'office.html', 'custom.html']
 
 urls = [(BASE + p, pr, cf) for p, pr, cf in STATIC]
-urls += [(f'{BASE}/collection.html?cat={d}', '0.8', 'daily') for d in DEPTS]
+urls += [(f'{BASE}/{p}', '0.8', 'daily') for p in DEPT_PAGES]
 
 priced = unpriced = 0
 for f in sorted(glob.glob(os.path.join(ROOT, 'data/cat/*.json'))):
@@ -54,4 +55,4 @@ open(os.path.join(ROOT, 'sitemap.xml'), 'w', encoding='utf-8').write(
     f'{body}\n</urlset>\n')
 
 print(f'sitemap.xml: {len(urls):,} urls '
-      f'({len(STATIC) + len(DEPTS)} pages, {priced:,} priced, {unpriced:,} on request)')
+      f'({len(STATIC) + len(DEPT_PAGES)} pages, {priced:,} priced, {unpriced:,} on request)')

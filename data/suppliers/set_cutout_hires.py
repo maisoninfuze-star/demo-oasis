@@ -46,13 +46,29 @@ for path in sorted(os.listdir(HERE)):
         continue
 
     jobs = []
+    local_hits = 0
     for it in items:
         img = it.get('img') or ''
         if not img.startswith('assets/cutouts/') or not os.path.exists(img):
             continue
+        # A locally upscaled cutout wins outright: it keeps the alpha channel,
+        # so the piece still sits on a clean background, and it needs no network
+        # check. These exist only where the supplier had no usable original.
+        local_hi = img.replace('assets/cutouts/', 'assets/cutouts-hi/')
+        if os.path.exists(local_hi):
+            if it.get('hi') != local_hi:
+                it['hi'] = local_hi
+            local_hits += 1
+            continue
         src = it.get('img_src') or (it.get('gallery') or [None])[0]
         if src and str(src).startswith('http'):
             jobs.append((it, img, src))
+    if local_hits:
+        json.dump(data, open(full, 'w', encoding='utf-8'),
+                  ensure_ascii=False, separators=(',', ':'))
+        print(f'  {path}: {local_hits} cutouts pointed at a local upscale')
+        data = json.load(open(full))
+        items = data.get('items') if isinstance(data, dict) else data
     if not jobs:
         continue
 

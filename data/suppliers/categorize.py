@@ -199,6 +199,9 @@ for p in cur:
         'id': p['id'], 'name': p.get('short') or p['name'], 'sub': sub,
         'brand': 'oasis', 'img': p.get('thumb') or p['img'], 'link': f'product.html?id={p["id"]}',
         'sale': p.get('sale', False),
+        # cards use the 480px thumb, but the item page renders ~1000px wide --
+        # hand it the full-size original so our own pieces are not the blurry ones.
+        **({'hi': p['img']} if p.get('thumb') and p.get('img') != p.get('thumb') else {}),
     })
 
 # ---- 2. supplier feeds ----

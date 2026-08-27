@@ -2,15 +2,15 @@
  "tops": [
   {
    "slug": "living-room",
-   "count": 1583,
+   "count": 1582,
    "subs": {
     "accent-tables": 417,
-    "sofas": 359,
+    "sofas": 282,
     "chairs": 258,
+    "living-sets": 136,
     "coffee-tables": 129,
-    "sectionals": 95,
+    "sectionals": 94,
     "tv-media": 75,
-    "living-sets": 59,
     "loveseats": 55,
     "ottomans": 37,
     "end-tables": 34,
@@ -22,7 +22,7 @@
    "brands": {
     "monarch": 663,
     "aclass": 304,
-    "matrix": 225,
+    "matrix": 224,
     "glory": 154,
     "oasis": 112,
     "sofabyfancy": 85,
@@ -35,9 +35,9 @@
    "slug": "dining-room",
    "count": 768,
    "subs": {
-    "dining-sets": 481,
+    "dining-sets": 482,
     "dining-chairs": 209,
-    "dining-tables": 76,
+    "dining-tables": 75,
     "buffets": 2
    },
    "brands": {
@@ -52,10 +52,10 @@
   },
   {
    "slug": "bed-room",
-   "count": 980,
+   "count": 977,
    "subs": {
-    "beds": 422,
-    "bedroom-sets": 188,
+    "beds": 418,
+    "bedroom-sets": 189,
     "dressers": 138,
     "nightstands": 125,
     "chests": 70,
@@ -64,7 +64,7 @@
     "mattresses": 8
    },
    "brands": {
-    "matrix": 540,
+    "matrix": 537,
     "monarch": 183,
     "titus": 162,
     "mazin": 43,

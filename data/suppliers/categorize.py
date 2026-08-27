@@ -220,6 +220,13 @@ for slug in FILES:
             continue
         cats = it.get('cats') or ([it['cat']] if it.get('cat') else [])
         top, sub = classify(cats, it.get('name'))
+        # A price audit can prove the classifier wrong -- a 3-piece set filed
+        # under Sofas, a chair filed under Sectionals. force_top/force_sub let
+        # that verdict stick without weakening the general classifier.
+        if it.get('force_top'):
+            top = it['force_top']
+        if it.get('force_sub'):
+            sub = it['force_sub']
         row = {
             'id': it.get('id') or f"{slug}-{it.get('pid','x')}", 'name': it.get('name'),
             'sub': sub, 'brand': slug, 'img': img,

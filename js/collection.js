@@ -63,8 +63,27 @@
   if (!grid) return;
 
   const params = new URLSearchParams(location.search);
-  /* A generated department page declares itself on <body data-cat>. The
-     ?cat= query string still works so old links and the sitemap keep resolving. */
+  /* A generated department page declares itself on <body data-cat>.
+
+     collection.html?cat=bed-room used to render here instead: it swapped the
+     H1 and the product query but left the title, meta description, canonical
+     and hero image on their Living Room defaults, so Bedroom rendered Living
+     Room metadata and a Living Room photo. Rather than duplicate that metadata
+     in JS, send the shopper to the real department page, which already has all
+     of it and is the URL search should index. Other params ride along. */
+  const DEPT_PAGE = {
+    'living-room': 'living-room.html', 'dining-room': 'dining.html',
+    'bed-room': 'bedroom.html', 'carpets': 'rugs.html', 'decor': 'decor.html',
+    'office': 'office.html', 'custom-studio': 'custom.html',
+  };
+  const asked = params.get('cat');
+  if (!document.body.dataset.cat && asked && DEPT_PAGE[asked]) {
+    params.delete('cat');
+    const q = params.toString();
+    location.replace(DEPT_PAGE[asked] + (q ? '?' + q : ''));
+    return;
+  }
+
   const declared = document.body.dataset.cat || params.get('cat');
   const top = TOP_LABEL[declared] ? declared : 'all';
 

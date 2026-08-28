@@ -54,12 +54,13 @@
    "slug": "bed-room",
    "count": 977,
    "subs": {
-    "beds": 418,
-    "bedroom-sets": 189,
-    "dressers": 138,
-    "nightstands": 125,
-    "chests": 70,
+    "beds": 440,
+    "dressers": 154,
+    "nightstands": 141,
+    "bedroom-sets": 103,
+    "chests": 86,
     "headboards": 20,
+    "mirrors": 16,
     "youth": 9,
     "mattresses": 8
    },

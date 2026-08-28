@@ -165,6 +165,40 @@ BRANDS = {
     'mazin': 'Mazin / Homelegance', 'wt': 'WT Studio',
 }
 
+
+SET_SUBS_STRICT = {'bedroom-sets', 'dining-sets', 'living-sets'}
+# Only a STRUCTURED supplier spec can convict a record: "<TYPE> - <piece> / <finish>",
+# where the type field says BEDROOM SET but the tail names exactly one piece.
+# Prose that happens to list what a set contains ("KING BED DRESSER MIRROR CHEST
+# NIGHT STAND") is a genuine set describing itself, and must be left alone.
+_SPEC_PREFIX = re.compile(
+    r'^\s*(?:BED\s*ROOM|DINING|LIVING|SOFA)\s+SETS?\s*[-\u2013\u2014]\s*(.+)$', re.I)
+_BUNDLE_RE = re.compile(r'\b\d+\s*PCS?\b|\b\d+\s*PIECE\b|\bCOMPLETE\s+SET\b', re.I)
+_PIECE_RE = [
+    (re.compile(r'\bNIGHT\s*STAND\b', re.I), 'nightstands'),
+    (re.compile(r'\bDRESSER\b', re.I), 'dressers'),
+    (re.compile(r'\bCHEST\b', re.I), 'chests'),
+    (re.compile(r'\bMIRROR\b', re.I), 'mirrors'),
+    (re.compile(r'\bHEADBOARD\b', re.I), 'headboards'),
+    (re.compile(r'\bBED\b', re.I), 'beds'),
+]
+
+
+def _guard_sets(sub, desc, name):
+    """Keep single pieces out of Complete Sets. Verified bundles only."""
+    if sub not in SET_SUBS_STRICT:
+        return sub
+    m = _SPEC_PREFIX.match(str(desc or ''))
+    if not m:
+        return sub                                   # not a structured spec -> trust it
+    tail = m.group(1)
+    if _BUNDLE_RE.search(tail):
+        return sub                                   # explicit N-PCS bundle
+    hits = {piece for rx, piece in _PIECE_RE if rx.search(tail)}
+    if len(hits) == 1:                               # names exactly one piece -> it is one
+        return hits.pop()
+    return sub                                       # lists several pieces -> a real set
+
 buckets = defaultdict(list)
 
 # ---- 1. curated store first (they lead every listing) ----
@@ -227,6 +261,13 @@ for slug in FILES:
             top = it['force_top']
         if it.get('force_sub'):
             sub = it['force_sub']
+        # Complete Sets admits verified bundles only. A supplier spec whose type
+        # field reads "BEDROOM SET" but whose tail names one piece ("... - WALL
+        # MIRROR / OAK") is a piece, and a $205 mirror shown as a bedroom set
+        # makes the whole catalogue look unreliable. Never infer a set from the
+        # name, image, SKU family, price or collection -- only from an explicit
+        # N-PCS/N-PIECE bundle marker in the record's own spec.
+        sub = _guard_sets(sub, it.get('desc'), it.get('name'))
         row = {
             'id': it.get('id') or f"{slug}-{it.get('pid','x')}", 'name': it.get('name'),
             'sub': sub, 'brand': slug, 'img': img,

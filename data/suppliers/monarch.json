@@ -42011,9 +42011,9 @@
    "img": "https://www.monarchspec.com/images/lifestyle_WEBQ50/I_5213Q.jpg",
    "gallery": [],
    "url": "https://www.monarchspec.com",
-   "delisted": true,
    "force_top": "bed-room",
-   "force_sub": "beds"
+   "force_sub": "beds",
+   "delisted": true
   },
   {
    "id": "monarch-I5218Q",
@@ -42027,9 +42027,9 @@
    "img": "https://www.monarchspec.com/images/lifestyle_WEBQ50/I_5218Q.jpg",
    "gallery": [],
    "url": "https://www.monarchspec.com",
-   "delisted": true,
    "force_top": "bed-room",
-   "force_sub": "beds"
+   "force_sub": "beds",
+   "delisted": true
   },
   {
    "id": "monarch-I5930Q",

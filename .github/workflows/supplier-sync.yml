@@ -60,9 +60,21 @@ jobs:
             echo "skipped (not first Monday)"
           fi
 
+      # The scrapers rewrite each feed from scratch, dropping every derived
+      # field. Prices come from owner PDFs that are gitignored, so CI cannot
+      # recompute them -- without this step a sync would republish 4,435 priced
+      # products as price-on-request and undo the product-type corrections.
+      - name: Carry prices and corrected types across the re-scrape
+        working-directory: data/suppliers
+        run: python3 preserve_derived.py
+
       - name: Rebuild categorized catalogue
         working-directory: data/suppliers
         run: python3 categorize.py
+
+      # Refuses to let a broken sync reach production.
+      - name: Validate catalogue invariants
+        run: python3 data/validate_catalog.py
 
       - name: Commit if anything changed
         run: |

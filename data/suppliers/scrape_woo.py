@@ -36,7 +36,7 @@ def scrape(slug, base):
         for p in batch:
             imgs = [i.get('src') for i in (p.get('images') or []) if i.get('src')]
             cats = [c.get('slug') for c in (p.get('categories') or [])]
-            items.append({
+            row = {
                 'id': f'{slug}-{p["id"]}',
                 'name': strip(p.get('name')),
                 'cats': cats,
@@ -44,7 +44,25 @@ def scrape(slug, base):
                 'img': imgs[0] if imgs else None,
                 'gallery': imgs[1:6],
                 'url': p.get('permalink'),
-            })
+            }
+            if p.get('sku'):
+                row['sku'] = str(p['sku']).strip()
+            # These are dealer sites: the figure the Store API returns is the
+            # wholesale price, in minor units. Some suppliers publish 0 for
+            # everything (price-on-request) -- those must stay unpriced, so an
+            # absent or zero price is left off rather than stored as 0.
+            pr = p.get('prices') or {}
+            raw = pr.get('price')
+            try:
+                minor = int(pr.get('currency_minor_unit', 2))
+                net = int(raw) / (10 ** minor) if raw not in (None, '') else 0
+            except (TypeError, ValueError):
+                net = 0
+            if net > 0:
+                row['net'] = net
+                # a price range means configurable variants -> "From $X"
+                row['from'] = bool(pr.get('price_range'))
+            items.append(row)
         print(f'  page {page}: +{len(batch)} (total {len(items)})', flush=True)
         if len(batch) < 100:
             break

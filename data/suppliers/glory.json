@@ -1,14 +1,13 @@
 {
  "supplier": "glory",
  "source": "https://gloryhomefurniture.ca",
- "count": 350,
+ "count": 347,
  "items": [
   {
    "id": "glory-4144",
    "name": "Crown Silver",
    "cats": [
-    "dining-chairs",
-    "living"
+    "dining-chairs"
    ],
    "desc": "",
    "img": "https://gloryhomefurniture.ca/wp-content/uploads/2026/07/newsilvercrown-53-005.jpg",
@@ -243,7 +242,7 @@
    "id": "glory-4089",
    "name": "Derby Silver",
    "cats": [
-    "accent"
+    "accent-chairs"
    ],
    "desc": "",
    "img": "https://gloryhomefurniture.ca/wp-content/uploads/2026/06/silverderbygrey-900x598-1.jpg",
@@ -254,7 +253,7 @@
    "id": "glory-4086",
    "name": "Derby",
    "cats": [
-    "accent"
+    "accent-chairs"
    ],
    "desc": "",
    "img": "https://gloryhomefurniture.ca/wp-content/uploads/2026/06/12452.jpg",
@@ -963,6 +962,7 @@
    "id": "glory-3957",
    "name": "Encore Gold",
    "cats": [
+    "accent-chairs",
     "coffee-tables",
     "end-tables",
     "occasional-tables"
@@ -1235,6 +1235,19 @@
    "url": "https://gloryhomefurniture.ca/product/nova/"
   },
   {
+   "id": "glory-3780",
+   "name": "8806 – Sectional with Storage and Adjustable Headrest",
+   "cats": [
+    "living"
+   ],
+   "desc": "Dimensions: 100″ L x 63″ W x 30-40″H Modern upholstered corduroy fabric with channel stitching Pull‑out bed for added sleeping space Extra storage Adjustable headrests for personalized comfort",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2026/02/900d16a7-e01c-4496-a8ce-c64495311d00.jpg",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2026/02/71dd419e-924a-4555-a8a4-511d43c891d7.jpg"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/8806-sectional-with-storage-and-adjustable-headrest/"
+  },
+  {
    "id": "glory-3762",
    "name": "9219 – Dark Grey Sofa with Pull-out Bed",
    "cats": [
@@ -1441,15 +1454,15 @@
    "url": "https://gloryhomefurniture.ca/product/lana/"
   },
   {
-   "id": "glory-3680",
-   "name": "4873 – Grey Sofa Set with Gold Legs",
+   "id": "glory-3676",
+   "name": "Stella – Chocolate Sectional Sofa with Chaise",
    "cats": [
     "living"
    ],
-   "desc": "SOFA = L – 90″ D – 37″ H – 31″ LOVESEAT = L – 70″ D – 37″ H – 31″ CHAIR = L – 50″ D – 37″ H – 31″ Fabric Button-Tufted Velvet Upholstery Waterfall Pattern with gold Legs",
-   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2025/11/9fd142d0-9dd4-4bb8-8c9f-6b4767abd950.jpg",
+   "desc": "Dimensions: 110″ L x 84″ W x 36″H",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2025/11/3-scaled.jpg",
    "gallery": [],
-   "url": "https://gloryhomefurniture.ca/product/4873_grey/"
+   "url": "https://gloryhomefurniture.ca/product/stella-2/"
   },
   {
    "id": "glory-3675",
@@ -1514,39 +1527,6 @@
    "url": "https://gloryhomefurniture.ca/product/027_beige/"
   },
   {
-   "id": "glory-3661",
-   "name": "LCL07 – Grey",
-   "cats": [
-    "living"
-   ],
-   "desc": "",
-   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2025/11/Fendi-Living-Room-Set-Furniture-World-6108_1052x700.webp",
-   "gallery": [],
-   "url": "https://gloryhomefurniture.ca/product/lcl07_grey/"
-  },
-  {
-   "id": "glory-3659",
-   "name": "LCL07 – Black",
-   "cats": [
-    "living"
-   ],
-   "desc": "",
-   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2025/11/Fendi-Living-Room-Set-Furniture-World-5952_1121x700.webp",
-   "gallery": [],
-   "url": "https://gloryhomefurniture.ca/product/lcl07_black/"
-  },
-  {
-   "id": "glory-3657",
-   "name": "LCL07 – Navy Blue",
-   "cats": [
-    "living"
-   ],
-   "desc": "",
-   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2025/11/Fendi-Living-Room-Set-Furniture-World-1448_1200x730.webp",
-   "gallery": [],
-   "url": "https://gloryhomefurniture.ca/product/lcl07_navy/"
-  },
-  {
    "id": "glory-3655",
    "name": "Juliet Bedroom Set",
    "cats": [
@@ -1561,6 +1541,17 @@
     "https://gloryhomefurniture.ca/wp-content/uploads/2025/11/SB785C-Q-K_05.jpg"
    ],
    "url": "https://gloryhomefurniture.ca/product/juliet/"
+  },
+  {
+   "id": "glory-3645",
+   "name": "Stella – Black Sectional Sofa with Chaise",
+   "cats": [
+    "living"
+   ],
+   "desc": "Dimensions: 110″ L x 84″ W x 36″H",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2025/11/Purple-Blue-Modern-Minimalist-Neon-5.5-Super-Sale-Facebook-Ad-scaled.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/stella/"
   },
   {
    "id": "glory-3636",
@@ -1668,21 +1659,6 @@
     "https://gloryhomefurniture.ca/wp-content/uploads/2025/07/2505520--scaled.jpg"
    ],
    "url": "https://gloryhomefurniture.ca/product/selena/"
-  },
-  {
-   "id": "glory-3521",
-   "name": "027 – Black Cloud Modular Sectional Sofa",
-   "cats": [
-    "living"
-   ],
-   "desc": "Dimensions: 67″ D x 103″ W x 35″ H",
-   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2025/07/72f2878982ff7eb0ef60ed6fd3bbe87e.jpg",
-   "gallery": [
-    "https://gloryhomefurniture.ca/wp-content/uploads/2025/07/0f47f99209a86d8bfe7167cdbe7efea7.jpg",
-    "https://gloryhomefurniture.ca/wp-content/uploads/2025/07/L-ShapedCorduroySectionalWithChaiseLoungeAndDeepBonelessSeatsForLivingRoom-1882529595.webp",
-    "https://gloryhomefurniture.ca/wp-content/uploads/2025/07/dce33fd7-cb85-4731-b56b-b65af3d29613.ba6d8452704adb47ee3e280e810121c2.webp"
-   ],
-   "url": "https://gloryhomefurniture.ca/product/ghf027_black/"
   },
   {
    "id": "glory-3518",
@@ -2082,17 +2058,6 @@
    "img": "https://gloryhomefurniture.ca/wp-content/uploads/2025/03/26-1-scaled.jpg",
    "gallery": [],
    "url": "https://gloryhomefurniture.ca/product/dt140/"
-  },
-  {
-   "id": "glory-3261",
-   "name": "Luna – Beige Sectional with Cup Holder",
-   "cats": [
-    "living"
-   ],
-   "desc": "Dimensions: 106″ L x 80″ W x 36″H",
-   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2025/03/Untitled-design-scaled.png",
-   "gallery": [],
-   "url": "https://gloryhomefurniture.ca/product/luna-beige/"
   },
   {
    "id": "glory-3244",
@@ -2718,7 +2683,7 @@
    "id": "glory-2888",
    "name": "Madrid Beige & Gold",
    "cats": [
-    "accent"
+    "accent-chairs"
    ],
    "desc": "",
    "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/07/f47f09f3-1ec1-4aa9-8c06-a53c8527bd0b.jpg",
@@ -2873,7 +2838,7 @@
    "id": "glory-2837",
    "name": "Rome Beige & Gold",
    "cats": [
-    "accent"
+    "accent-chairs"
    ],
    "desc": "",
    "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/07/WhatsApp-Image-2024-07-03-at-4.38.15-PM.jpeg",
@@ -2886,7 +2851,7 @@
    "id": "glory-2785",
    "name": "Madrid Blue & Silver",
    "cats": [
-    "accent"
+    "accent-chairs"
    ],
    "desc": "Blue+Silver",
    "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/06/Honeycomb-B-2.jpg",
@@ -2897,7 +2862,7 @@
    "id": "glory-2774",
    "name": "Madrid Black & Silver",
    "cats": [
-    "accent"
+    "accent-chairs"
    ],
    "desc": "Black + Silver",
    "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/06/Honeycomb-Bk-2.jpg",
@@ -2995,7 +2960,7 @@
    "id": "glory-2632",
    "name": "Madrid Grey & Silver",
    "cats": [
-    "accent"
+    "accent-chairs"
    ],
    "desc": "",
    "img": "https://gloryhomefurniture.ca/wp-content/uploads/2024/03/c77daacd-0695-456f-8c88-ec54a67a775f.jpg",

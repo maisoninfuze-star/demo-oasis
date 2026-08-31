@@ -2,30 +2,30 @@
  "tops": [
   {
    "slug": "living-room",
-   "count": 1582,
+   "count": 1591,
    "subs": {
     "accent-tables": 417,
     "sofas": 282,
     "chairs": 258,
-    "living-sets": 136,
+    "living-sets": 132,
     "coffee-tables": 129,
     "sectionals": 94,
     "tv-media": 75,
     "loveseats": 55,
     "ottomans": 37,
     "end-tables": 34,
+    "sofa-beds": 31,
     "recliners": 22,
     "console-tables": 21,
-    "sofa-beds": 18,
     "chaises": 4
    },
    "brands": {
     "monarch": 663,
     "aclass": 304,
     "matrix": 224,
-    "glory": 154,
+    "glory": 151,
     "oasis": 112,
-    "sofabyfancy": 85,
+    "sofabyfancy": 97,
     "mazin": 33,
     "creative": 6,
     "titus": 1
@@ -33,9 +33,9 @@
   },
   {
    "slug": "dining-room",
-   "count": 768,
+   "count": 769,
    "subs": {
-    "dining-sets": 482,
+    "dining-sets": 483,
     "dining-chairs": 209,
     "dining-tables": 75,
     "buffets": 2
@@ -44,7 +44,7 @@
     "creative": 257,
     "monarch": 148,
     "glory": 145,
-    "titus": 118,
+    "titus": 119,
     "matrix": 58,
     "mazin": 25,
     "oasis": 17
@@ -52,22 +52,22 @@
   },
   {
    "slug": "bed-room",
-   "count": 977,
+   "count": 967,
    "subs": {
-    "beds": 440,
+    "beds": 434,
     "dressers": 154,
     "nightstands": 141,
-    "bedroom-sets": 103,
+    "bedroom-sets": 104,
     "chests": 86,
-    "headboards": 20,
     "mirrors": 16,
+    "headboards": 15,
     "youth": 9,
     "mattresses": 8
    },
    "brands": {
     "matrix": 537,
     "monarch": 183,
-    "titus": 162,
+    "titus": 152,
     "mazin": 43,
     "glory": 31,
     "oasis": 21
@@ -88,11 +88,11 @@
   },
   {
    "slug": "decor",
-   "count": 1201,
+   "count": 1210,
    "subs": {
-    "decor-objects": 525,
+    "decor-objects": 541,
     "lighting": 285,
-    "accent-furniture": 136,
+    "accent-furniture": 129,
     "plants": 94,
     "figurines": 77,
     "wall-decor": 75,
@@ -101,8 +101,8 @@
    "brands": {
     "monarch": 611,
     "creative": 279,
-    "titus": 188,
-    "sofabyfancy": 89,
+    "titus": 209,
+    "sofabyfancy": 77,
     "glory": 20,
     "matrix": 9,
     "mazin": 5

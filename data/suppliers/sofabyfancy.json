@@ -406,6 +406,7 @@
    "cats": [
     "express",
     "sectional",
+    "sofa-bed",
     "sofa-sets"
    ],
    "desc": "Premium Pennylane Silver fabric Includes Lambrequin Grey toss pillows High-density foam seating Canadian hardwood frame Proudly handcrafted in Ontario",
@@ -457,6 +458,7 @@
    "name": "4070 Missouri Grey/Pampa black",
    "cats": [
     "express",
+    "sofa-bed",
     "sofa-sets"
    ],
    "desc": "Premium Missouri Grey/Pampa Black fabric Includes 2 Tone toss pillows High-density foam seating Canadian hardwood frame Proudly handcrafted in Ontario",
@@ -761,7 +763,8 @@
    "name": "9883 Zurick Grey",
    "cats": [
     "express",
-    "sectional"
+    "sectional",
+    "sofa-bed"
    ],
    "desc": "Premium Zurick Grey leather upholstery Genuine top grain leather on all touch surfaces High-density foam seating Canadian hardwood frame Proudly handcrafted in Ontario",
    "img": "https://sofabyfancy.com/wp-content/uploads/2026/07/9883-ZURICK-GREY.png",
@@ -1089,7 +1092,8 @@
    "name": "4392 Zurick Chocolate",
    "cats": [
     "express",
-    "leather"
+    "leather",
+    "sofa-bed"
    ],
    "desc": "Premium Zurick Chocolate top-grain leather upholstery Pillow back cushions with high-density foam seating Toss pillows not included Canadian hardwood frame with solid wood legs Proudly handcrafted in Ontario",
    "img": "https://sofabyfancy.com/wp-content/uploads/2026/07/4392-Zurick-Chocolate-1.jpg",
@@ -1101,7 +1105,8 @@
    "name": "4392 Zurick Black",
    "cats": [
     "express",
-    "leather"
+    "leather",
+    "sofa-bed"
    ],
    "desc": "Premium Zurick Black top-grain leather upholstery Pillow back cushions with high-density foam seating Toss pillows not included Canadian hardwood frame with solid wood legs Proudly handcrafted in Ontario",
    "img": "https://sofabyfancy.com/wp-content/uploads/2026/07/4392-Zurick-Black-1.jpg",
@@ -1187,7 +1192,7 @@
     "express",
     "fabric"
    ],
-   "desc": "Soft Lovey’s Pewter polyester upholstery Includes coordinating toss pillows Channelled back cushions with high-density foam seating Canadian hardwood frame with solid wood legs Proudly handcrafted in Ontario",
+   "desc": "Soft Lovey’s Pewter polyester upholstery Channelled back cushions with high-density foam seating Canadian hardwood frame with solid wood legs Proudly handcrafted in Ontario",
    "img": "https://sofabyfancy.com/wp-content/uploads/2026/07/6050-Loveys-Pewter-1.jpg",
    "gallery": [],
    "url": "https://sofabyfancy.com/product/6050-loveys-pewter/"
@@ -1281,7 +1286,8 @@
    "name": "4415 Beehive Smoke (Without Nails)",
    "cats": [
     "express",
-    "fabric"
+    "fabric",
+    "sofa-bed"
    ],
    "desc": "Soft Beehive Smoke 100% polyester upholstery Includes stylish Brugg Grey accent toss pillows Pillow back cushions with high-density foam seating Canadian hardwood frame with solid wood legs Proudly handcrafted in Ontario",
    "img": "https://sofabyfancy.com/wp-content/uploads/2026/07/4415-Beehive-Smoke-1.jpg",
@@ -1293,7 +1299,8 @@
    "name": "4415 Bedford Oat (With Nails)",
    "cats": [
     "express",
-    "leather"
+    "leather",
+    "sofa-bed"
    ],
    "desc": "Durable Bedford Oat polyurethane upholstery Includes matching accent toss pillows Pillow back cushions with high-density foam seating Canadian hardwood frame with solid wood legs Proudly handcrafted in Ontario",
    "img": "https://sofabyfancy.com/wp-content/uploads/2026/07/4415-Bedford-Oat-1.jpg",
@@ -1305,7 +1312,8 @@
    "name": "4383 Pennylane Anthracite",
    "cats": [
     "express",
-    "fabric"
+    "fabric",
+    "sofa-bed"
    ],
    "desc": "Soft Pennylane Anthracite 100% polyester upholstery Includes elegant Butterfly Steel accent toss pillows Pillow back cushions with high-density foam seating Canadian hardwood frame with solid wood legs Proudly handcrafted in Ontario",
    "img": "https://sofabyfancy.com/wp-content/uploads/2026/07/4383-Pennylane-Anthracite-1.jpg",
@@ -1390,7 +1398,8 @@
    "name": "1775 Lyons Charcoal",
    "cats": [
     "express",
-    "sectional"
+    "sectional",
+    "sofa-bed"
    ],
    "desc": "Soft Lyons Charcoal 100% polyester upholstery Includes Burgdort Grey accent toss pillows Modular design with matching floating chaise Canadian hardwood frame with high-density foam seating Proudly handcrafted in Ontario",
    "img": "https://sofabyfancy.com/wp-content/uploads/2026/07/1775-Lyons-Charcoal.jpg",
@@ -1402,7 +1411,8 @@
    "name": "1775 Lyons Slate",
    "cats": [
     "express",
-    "sectional"
+    "sectional",
+    "sofa-bed"
    ],
    "desc": "Soft Lyons Slate 100% polyester upholstery Includes Burgdort Grey accent toss pillows Modular design with matching floating chaise Canadian hardwood frame with high-density foam seating Proudly handcrafted in Ontario",
    "img": "https://sofabyfancy.com/wp-content/uploads/2026/07/1775-Lyons-Slate.png",
@@ -1461,7 +1471,8 @@
    "name": "1683 Arbour Grey",
    "cats": [
     "express",
-    "fabric"
+    "fabric",
+    "sofa-bed"
    ],
    "desc": "Soft Arbour Grey 100% polyester upholstery Includes vibrant Islay Apple accent toss pillows Channelled back cushions with high-density foam seating Canadian hardwood frame with durable solid wood legs Proudly handcrafted in Ontario",
    "img": "https://sofabyfancy.com/wp-content/uploads/2026/07/1683-Arbour-Grey-1.jpg",
@@ -1535,7 +1546,8 @@
    "name": "9883 Zurick Black",
    "cats": [
     "express",
-    "sectional"
+    "sectional",
+    "sofa-bed"
    ],
    "desc": "Contemporary L-shaped sectional upholstered in premium top grain leather High-density foam seats with channelled fibre back cushions for lasting comfort Canadian hardwood frame with durable no-sag spring suspension Available in Zurick Grey, Zurick Black, Pennylane Silver, and Pennylane Anthracite Fi",
    "img": "https://sofabyfancy.com/wp-content/uploads/2026/07/9883-Zurick-Black.png",
@@ -1570,7 +1582,8 @@
    "name": "9883 Pennylane Anthracite",
    "cats": [
     "express",
-    "sectional"
+    "sectional",
+    "sofa-bed"
    ],
    "desc": "Contemporary L-shaped sectional upholstered in soft, durable 100% polyester fabric High-density foam seating with channelled fibre-filled back cushions for exceptional comfort Canadian hardwood frame with durable no-sag spring suspension Available in Pennylane Anthracite and Pennylane Silver with co",
    "img": "https://sofabyfancy.com/wp-content/uploads/2026/07/Pennylane-anthracite-1.jpg",
@@ -1651,7 +1664,7 @@
     "express",
     "fabric"
    ],
-   "desc": "Comfortable contemporary seating collection upholstered in soft 100% polyester fabric Includes coordinating toss pillows for added comfort and style High-density foam cushions with channelled fibre-filled back support for lasting relaxation Canadian hardwood frame with durable no-sag spring suspensi",
+   "desc": "Comfortable contemporary seating collection upholstered in soft 100% polyester fabric High-density foam cushions with channelled fibre-filled back support for lasting relaxation Canadian hardwood frame with durable no-sag spring suspension and solid wood legs Available in Lovey’s Mocha and Lovey’s P",
    "img": "https://sofabyfancy.com/wp-content/uploads/2026/07/6050-Loveys-Mocha-1.jpg",
    "gallery": [],
    "url": "https://sofabyfancy.com/product/6050-chandler/"
@@ -1773,7 +1786,7 @@
    "id": "sofabyfancy-3549",
    "name": "2644",
    "cats": [
-    "fabric"
+    "sofa-bed"
    ],
    "desc": "Space-saving sofa bed upholstered in stylish Rio Mocha fabric Easily converts from a comfortable sofa into a convenient sleeping surface Compact design is ideal for apartments, guest rooms, and multipurpose spaces Comfortable seating for everyday use with the added functionality of a sleeper A pract",
    "img": "https://sofabyfancy.com/wp-content/uploads/2026/07/2644-Fabric-product.jpg",
@@ -1809,7 +1822,8 @@
    "name": "4415 Bedford Brown (With Nails)",
    "cats": [
     "express",
-    "leather"
+    "leather",
+    "sofa-bed"
    ],
    "desc": "Contemporary seating collection upholstered in durable Bedford Brown 100% polyester fabric Includes matching toss pillows for a coordinated and inviting appearance High-density foam cushions with plush pillow-back support provide exceptional everyday comfort Built with a Canadian hardwood frame and ",
    "img": "https://sofabyfancy.com/wp-content/uploads/2026/07/4415-Leather-product-1.jpg",
@@ -1833,7 +1847,8 @@
    "name": "4392 Kalmar Charcoal",
    "cats": [
     "express",
-    "fabric"
+    "fabric",
+    "sofa-bed"
    ],
    "desc": "Contemporary seating collection upholstered in durable Kalmar Charcoal 100% polyester fabric Clean, streamlined design without toss pillows for a minimalist modern appearance High-density foam seat cushions and plush pillow-back cushions provide exceptional comfort and support Built with a Canadian ",
    "img": "https://sofabyfancy.com/wp-content/uploads/2026/07/4392-Kalmar-Charcoal.jpg",
@@ -1957,7 +1972,9 @@
    "id": "sofabyfancy-3352",
    "name": "4070 Missouri Brown / Pampa Chocolate",
    "cats": [
-    "express"
+    "express",
+    "sofa-bed",
+    "sofa-sets"
    ],
    "desc": "Contemporary seating collection upholstered in a stylish Missouri Brown and Pampa Chocolate two-tone 100% polyester fabric Includes coordinating two-tone accent toss pillows for added comfort and visual appeal High-density foam cushions and channelled fibre backs provide lasting comfort and support ",
    "img": "https://sofabyfancy.com/wp-content/uploads/2026/07/4070_legacy_product_image.jpg",
@@ -2027,7 +2044,8 @@
    "name": "4383 Pennylane Silver",
    "cats": [
     "express",
-    "fabric"
+    "fabric",
+    "sofa-bed"
    ],
    "desc": "Contemporary seating collection upholstered in elegant Pennylane Silver 100% polyester fabric Includes coordinating Lamberquin Grey accent toss pillows for added comfort and style High-density foam seat cushions and plush pillow backs deliver exceptional everyday support Built with a Canadian hardwo",
    "img": "https://sofabyfancy.com/wp-content/uploads/2026/07/4383-Pennylane-Silver.jpg",
@@ -2039,7 +2057,8 @@
    "name": "4392 Kalmar Chocolate",
    "cats": [
     "express",
-    "fabric"
+    "fabric",
+    "sofa-bed"
    ],
    "desc": "Contemporary seating collection upholstered in rich Kalmar Chocolate 100% polyester fabric Clean, modern design without toss pillows for a sleek and minimalist appearance High-density foam seat cushions and plush pillow backs provide exceptional comfort and support Crafted with a Canadian hardwood f",
    "img": "https://sofabyfancy.com/wp-content/uploads/2026/07/4392-Kalmar-Chocolate.jpg",

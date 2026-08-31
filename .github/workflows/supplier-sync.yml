@@ -68,6 +68,13 @@ jobs:
         working-directory: data/suppliers
         run: python3 preserve_derived.py
 
+      # Titus and Creative publish a dealer price through the Store API, so
+      # unlike the PDF suppliers these CAN be priced in CI. Owner rule: x3.5.
+      # Never touches an existing price, and never Rugs Network.
+      - name: Price dealer-priced feeds (x3.5)
+        working-directory: data/suppliers
+        run: python3 apply_feed_prices.py
+
       - name: Rebuild categorized catalogue
         working-directory: data/suppliers
         run: python3 categorize.py

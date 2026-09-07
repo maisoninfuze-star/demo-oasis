@@ -1,8 +1,202 @@
 {
  "supplier": "glory",
  "source": "https://gloryhomefurniture.ca",
- "count": 347,
+ "count": 359,
  "items": [
+  {
+   "id": "glory-4225",
+   "name": "Megan",
+   "cats": [
+    "coffee-tables",
+    "occasional-tables"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2026/09/GLORY-MAIN-CATALOGUE-5-scaled.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/megan-2/"
+  },
+  {
+   "id": "glory-4223",
+   "name": "Dallas",
+   "cats": [
+    "dining-tables"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2026/09/GLORY-MAIN-CATALOGUE-3-scaled.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/dallas/"
+  },
+  {
+   "id": "glory-4221",
+   "name": "Megan",
+   "cats": [
+    "dining",
+    "dining-tables"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2026/09/GLORY-MAIN-CATALOGUE-1-1-scaled.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/megan/"
+  },
+  {
+   "id": "glory-4219",
+   "name": "Dixie",
+   "cats": [
+    "dining",
+    "dining-tables"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2026/09/GLORY-MAIN-CATALOGUE-scaled.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/dixie/"
+  },
+  {
+   "id": "glory-4212",
+   "name": "Athens",
+   "cats": [],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-03-at-4.55.03-PM.jpeg",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-03-at-4.55.04-PM-2.jpeg",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-03-at-4.55.04-PM-1.jpeg",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-03-at-4.55.04-PM.jpeg",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-03-at-4.55.03-PM-2.jpeg",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-03-at-4.55.03-PM-1.jpeg"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/athens/"
+  },
+  {
+   "id": "glory-4209",
+   "name": "Britain",
+   "cats": [
+    "dining-chairs"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2026/09/GLORY-MAIN-CATALOGUE-2-scaled.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/britain/"
+  },
+  {
+   "id": "glory-4207",
+   "name": "Claire",
+   "cats": [
+    "coffee-tables",
+    "occasional-tables"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2026/09/GLORY-MAIN-CATALOGUE-1-scaled.jpg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/claire-2/"
+  },
+  {
+   "id": "glory-4205",
+   "name": "Adrena",
+   "cats": [
+    "dining",
+    "dining-tables"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2026/09/WhatsApp-Image-2026-08-05-at-8.12.40-PM.jpeg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/adrena/"
+  },
+  {
+   "id": "glory-4203",
+   "name": "Claire",
+   "cats": [
+    "dining",
+    "dining-tables"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2026/09/WhatsApp-Image-2026-08-05-at-8.12.19-PM.jpeg",
+   "gallery": [],
+   "url": "https://gloryhomefurniture.ca/product/claire/"
+  },
+  {
+   "id": "glory-4198",
+   "name": "Atlantic",
+   "cats": [],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2026/09/未命名目录-24343-scaled.jpg",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2026/09/未命名目录-24346-scaled.jpg",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2026/09/未命名目录-24347-scaled.jpg",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2026/09/未命名目录-24348-scaled.jpg"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/atlantic/"
+  },
+  {
+   "id": "glory-4188",
+   "name": "Havana",
+   "cats": [
+    "coffee-tables",
+    "occasional-tables"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2026/09/未命名目录-00457-scaled.jpg",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2026/09/未命名目录-00459-scaled.jpg",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2026/09/未命名目录-00460-scaled.jpg",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2026/09/未命名目录-00461-scaled.jpg",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2026/09/未命名目录-00463-scaled.jpg",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2026/09/未命名目录-00464-scaled.jpg"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/havana/"
+  },
+  {
+   "id": "glory-4180",
+   "name": "Manila",
+   "cats": [
+    "coffee-tables",
+    "occasional-tables"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2026/09/未命名目录-24321-scaled.jpg",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2026/09/未命名目录-24323-scaled.jpg",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2026/09/未命名目录-24324-scaled.jpg",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2026/09/未命名目录-24325-scaled.jpg",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2026/09/未命名目录-24326-scaled.jpg",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2026/09/未命名目录-24328-scaled.jpg"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/manila/"
+  },
+  {
+   "id": "glory-4173",
+   "name": "Cairo",
+   "cats": [
+    "coffee-tables",
+    "occasional-tables"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2026/09/未命名目录-02796-scaled.jpg",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2026/09/未命名目录-02797-scaled.jpg",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2026/09/未命名目录-02798-scaled.jpg",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2026/09/未命名目录-02799-scaled.jpg",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2026/09/未命名目录-02800-scaled.jpg",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2026/09/未命名目录-02801-scaled.jpg"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/cairo/"
+  },
+  {
+   "id": "glory-4163",
+   "name": "Dublin",
+   "cats": [
+    "coffee-tables",
+    "occasional-tables"
+   ],
+   "desc": "",
+   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2026/09/未命名目录-00481-scaled.jpg",
+   "gallery": [
+    "https://gloryhomefurniture.ca/wp-content/uploads/2026/09/未命名目录-00483-scaled.jpg",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2026/09/未命名目录-00484-scaled.jpg",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2026/09/未命名目录-00485-scaled.jpg",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2026/09/未命名目录-00486-scaled.jpg",
+    "https://gloryhomefurniture.ca/wp-content/uploads/2026/09/未命名目录-00487-scaled.jpg"
+   ],
+   "url": "https://gloryhomefurniture.ca/product/dublin/"
+  },
   {
    "id": "glory-4144",
    "name": "Crown Silver",
@@ -633,18 +827,6 @@
    "url": "https://gloryhomefurniture.ca/product/prestige-gold/"
   },
   {
-   "id": "glory-4018",
-   "name": "Oasis",
-   "cats": [
-    "dining",
-    "dining-tables"
-   ],
-   "desc": "",
-   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2026/06/oasisdining-900x598-1.jpg",
-   "gallery": [],
-   "url": "https://gloryhomefurniture.ca/product/oasis-2/"
-  },
-  {
    "id": "glory-4016",
    "name": "Franklin",
    "cats": [
@@ -983,20 +1165,6 @@
    "img": "https://gloryhomefurniture.ca/wp-content/uploads/2026/06/unitednew-900x598-2.jpg",
    "gallery": [],
    "url": "https://gloryhomefurniture.ca/product/united/"
-  },
-  {
-   "id": "glory-3953",
-   "name": "Oasis",
-   "cats": [
-    "coffee-tables",
-    "console-tables",
-    "end-tables",
-    "occasional-tables"
-   ],
-   "desc": "Gold & Silver Stainless Steel Base with One Ceramic Slab Ceramic Table Top Oasis Coffee Table 47.5” x 27.5” x 17” H 31-2301CJ Oasis Side Table 20” x 20” x 21” H 31-2301JJ Oasis Console Table 51” x 16” x 31” H 31-2301XG *Ceramic colour may vary",
-   "img": "https://gloryhomefurniture.ca/wp-content/uploads/2026/06/oasis-900x598-1.jpg",
-   "gallery": [],
-   "url": "https://gloryhomefurniture.ca/product/oasis/"
   },
   {
    "id": "glory-3951",

@@ -5,7 +5,7 @@ The scheduled sync runs unattended and pushes straight to production. These are
 the failures that would be embarrassing in front of a customer and easy to miss
 in a diff of 6,600 products.
 """
-import json, glob, os, re, subprocess, sys
+import collections, json, glob, os, re, subprocess, sys
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CAT = os.path.join(ROOT, 'data', 'cat')
@@ -61,6 +61,28 @@ try:
                     f'({100 - len(priced) / prev_n * 100:.0f}% lost) — pricing step likely skipped')
     else:
         print(f'priced vs committed: {prev_n:,} -> {len(priced):,}')
+
+    # A global threshold hides a single supplier collapsing. The 2026-09-10 sync
+    # emptied Mazin and lost 61% of A-Class while the total moved only 5%, so it
+    # sailed through. Judge every supplier on its own.
+    prev_b, cur_b = collections.Counter(), collections.Counter()
+    for f in sorted(glob.glob(os.path.join(CAT, '*.json'))):
+        if f.endswith('index.json'):
+            continue
+        b = subprocess.run(['git', 'show', f'HEAD:{os.path.relpath(f, ROOT)}'], cwd=ROOT,
+                           capture_output=True, text=True, timeout=60)
+        if b.returncode == 0:
+            for i in json.loads(b.stdout)['items']:
+                if i.get('price'):
+                    prev_b[i.get('brand')] += 1
+    for i in priced:
+        cur_b[i.get('brand')] += 1
+    for brand, was in prev_b.items():
+        now = cur_b.get(brand, 0)
+        if was >= 10 and now < was * 0.8:
+            fail.append(f'{brand}: priced products fell {was} -> {now} '
+                        f'({100 - now / was * 100:.0f}% lost) — that supplier\'s feed or '
+                        f'pricing step failed')
 except Exception as e:
     print(f'(could not compare against HEAD: {e})')
 

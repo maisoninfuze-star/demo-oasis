@@ -57,6 +57,14 @@ for slug in FEEDS:
     cur_items = cur['items'] if isinstance(cur, dict) else cur
     prior = {key(i): i for i in old_items}
 
+    # A feed that comes back empty is a failed scrape, not a closed supplier.
+    # The 2026-09-10 sync committed Mazin as 0 items and took 15 priced products
+    # off the site. Refuse the run instead.
+    if not cur_items and old_items:
+        print(f'  {slug}: scrape returned 0 items but {len(old_items)} were committed '
+              f'— treating as a failed scrape')
+        sys.exit(1)
+
     carried = fresh = 0
     for it in cur_items:
         was = prior.get(key(it))
@@ -69,6 +77,22 @@ for slug in FEEDS:
                 it[f] = was[f]
                 touched = True
         carried += bool(touched)
+
+    # Records built locally from the owner PDFs -- expanded configs, split set
+    # pieces -- do not exist on the supplier's site, so a re-scrape simply drops
+    # them. That is how A-Class lost 184 priced products in one sync. Carry any
+    # priced record the scrape did not return; a genuinely discontinued item is
+    # marked `delisted` by the portal check, which is the authority for that.
+    seen = {key(i) for i in cur_items}
+    revived = 0
+    for was in old_items:
+        if key(was) in seen or not was.get('price') or was.get('delisted'):
+            continue
+        cur_items.append(was)
+        revived += 1
+    if revived:
+        print(f'  {slug}: carried forward {revived} priced records the scrape did not return')
+        total['revived'] += revived
     json.dump(cur, open(path, 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
     total['carried'] += carried
     total['new'] += fresh

@@ -350,17 +350,25 @@
     /* Supplier names stay off the storefront — printing "Monarch Specialties"
        on a card tells the customer exactly who to buy from instead of us. */
     const brandName = '';
-    const tag = isCustom
+    /* A set is several products sold together, so its card leads with how many
+       pieces and which ones — a shopper should never have to open the page to
+       learn whether "Collection" means one item or five. */
+    const mem = it.members || [];
+    const tag = mem.length
+      ? `<span class="pcard__tag pcard__tag--set">${mem.length} ${T('pieces','pièces')}</span>`
+      : isCustom
       ? `<span class="pcard__tag pcard__tag--custom">${T('Custom made','Sur mesure')}</span>`
       : it.clearance ? `<span class="pcard__tag">${T('Clearance','Liquidation')}</span>`
       : it.sale ? `<span class="pcard__tag">${T('On promotion','Promotion')}</span>` : '';
+    const setLine = mem.length
+      ? `<span class="pcard__set">${mem.map(m => m.piece).join(' · ')}</span>` : '';
     const price = it.price
       ? `${money(it.price)}${it.retail && parseFloat(it.retail) > parseFloat(it.price) ? ` <s>${money(it.retail)}</s>` : ''}`
       : T('On request', 'Sur demande');
     const srcset = it.hi ? ` srcset="${it.img} 1x, ${it.hi} 2x"` : '';
     const inner = `
       <div class="pcard__media"><img src="${it.img}"${srcset} alt="${it.name}" loading="lazy" decoding="async" width="480" height="480">${tag}</div>
-      <div class="pcard__info"><div><h3>${it.name}</h3><span class="pcard__sku">${it.sku ? 'SKU ' + it.sku : (it.ref ? (L()==='fr'?'Réf ':'Ref ') + it.ref : '')}</span><span>${subLabel(it.sub)}</span></div>
+      <div class="pcard__info"><div><h3>${it.name}</h3>${setLine}<span class="pcard__sku">${it.sku ? 'SKU ' + it.sku : (it.ref ? (L()==='fr'?'Réf ':'Ref ') + it.ref : '')}</span><span>${subLabel(it.sub)}</span></div>
       <p>${price}</p>${it.price ? `<button class="pcard__add" data-id="${it.id}" data-name="${it.name.replace(/"/g,'&quot;')}" data-sku="${it.sku || ''}" data-brand="${subLabel(it.sub)}" data-price="${it.price}" data-from="${it.from ? 1 : 0}" data-img="${it.img}">${L() === 'fr' ? 'Ajouter' : 'Add to order'}</button>` : ''}</div>`;
     // Curated items link to their detail page. A PRICED supplier item is a
     // buy card — never a request card — so its body must not open the enquiry

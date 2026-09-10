@@ -74,6 +74,8 @@
     const d = CFG.delivery || {};
     const rows = specs(it).map(([k, v]) => `<div><dt>${k}</dt><dd>${v}</dd></div>`).join('');
     const gallery = [it.hi || it.img].concat(it.gallery || []).filter(Boolean).slice(0, 4);
+    const members = it.members || [];
+    const sumMembers = members.reduce((n, m) => n + parseFloat(m.price || 0), 0);
 
     host.innerHTML = `
       <nav class="crumb item__crumb">
@@ -92,6 +94,9 @@
         <div class="item__info">
           <p class="item__cat">${subLabel(it.sub)}</p>
           <h1>${it.name}</h1>
+          ${it.partOf ? `<a class="item__partof" href="product.html?id=${encodeURIComponent(it.partOf.id)}">
+            <span>${T('Part of', 'Fait partie de')}</span><b>${it.partOf.name}</b>
+            <i>${T('See the full collection →', 'Voir la collection →')}</i></a>` : ''}
           ${it.sku ? `<p class="item__sku">${T('Model', 'Modèle')} ${it.sku}</p>` : ''}
           ${it.price ? `<p class="item__price">${money(it.price)}</p>` : `
             <p class="item__price item__price--ask">${T('Price on request', 'Prix sur demande')}</p>`}
@@ -102,6 +107,19 @@
             data-brand="${subLabel(it.sub)}" data-price="${it.price}" data-from="0"
             data-img="${it.img}">${T('Add to order', 'Ajouter à la commande')}</button>` : `
           <button class="btn btn--gold item__askbtn">${T('Request a price', 'Demander un prix')}</button>`}
+
+          ${members.length ? `
+          <div class="item__included">
+            <h2>${T('What you get', 'Ce que vous recevez')}</h2>
+            <ul>${members.map(m => `<li><a href="product.html?id=${encodeURIComponent(m.id)}">
+              <img src="${m.img}" alt="" loading="lazy">
+              <span class="ipiece__k">${m.piece}</span>
+              <span class="ipiece__n">${m.name}</span>
+              <span class="ipiece__p">${money(m.price)}</span></a></li>`).join('')}</ul>
+            <p class="item__included__sum">${T(
+              `Five pieces, ${money(sumMembers)} bought together — the same as buying each on its own. Any piece can be ordered separately.`,
+              `Cinq pièces, ${money(sumMembers)} ensemble — le même prix qu'à l'unité. Chaque pièce peut être commandée séparément.`)}</p>
+          </div>` : ''}
 
           <dl class="item__specs">${rows}</dl>
 

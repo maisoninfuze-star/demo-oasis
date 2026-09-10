@@ -75,6 +75,12 @@ jobs:
         working-directory: data/suppliers
         run: python3 apply_feed_prices.py
 
+      # Rebuilds the 16 Monarch bedroom collections from the corrected pieces.
+      # Deterministic and needs no PDF, so it is safe to run unattended.
+      - name: Rebuild bedroom collections
+        working-directory: data/suppliers
+        run: python3 build_bedroom_collections.py
+
       - name: Rebuild categorized catalogue
         working-directory: data/suppliers
         run: python3 categorize.py

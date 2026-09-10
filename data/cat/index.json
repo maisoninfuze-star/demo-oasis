@@ -52,12 +52,12 @@
   },
   {
    "slug": "bed-room",
-   "count": 967,
+   "count": 983,
    "subs": {
     "beds": 434,
     "dressers": 154,
     "nightstands": 141,
-    "bedroom-sets": 104,
+    "bedroom-sets": 120,
     "chests": 86,
     "mirrors": 16,
     "headboards": 15,
@@ -66,7 +66,7 @@
    },
    "brands": {
     "matrix": 537,
-    "monarch": 183,
+    "monarch": 199,
     "titus": 152,
     "mazin": 43,
     "glory": 31,

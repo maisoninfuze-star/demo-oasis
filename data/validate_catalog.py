@@ -64,7 +64,22 @@ try:
 except Exception as e:
     print(f'(could not compare against HEAD: {e})')
 
-# 4. every product needs an id, or its page cannot be reached
+# 4. set links must resolve both ways, or a shopper hits a dead product page
+by_id = {str(i.get('id')): i for i in items}
+dangling_m = [(i.get('sku'), m.get('id')) for i in items for m in (i.get('members') or [])
+              if str(m.get('id')) not in by_id]
+dangling_p = [i.get('sku') for i in items
+              if i.get('partOf') and str(i['partOf'].get('id')) not in by_id]
+if dangling_m:
+    fail.append(f'{len(dangling_m)} set members point at missing products (e.g. {dangling_m[0]})')
+if dangling_p:
+    fail.append(f'{len(dangling_p)} pieces link back to a missing collection (e.g. {dangling_p[0]})')
+mism = [i.get('sku') for i in items if i.get('members') and i.get('price')
+        and abs(sum(float(m.get('price') or 0) for m in i['members']) - float(i['price'])) > 1]
+if mism:
+    fail.append(f'{len(mism)} sets priced differently from the sum of their pieces (e.g. {mism[0]})')
+
+# 5. every product needs an id, or its page cannot be reached
 noid = [i for i in items if not i.get('id')]
 if noid:
     fail.append(f'{len(noid)} items have no id — product.html cannot render them')

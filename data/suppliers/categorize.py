@@ -273,6 +273,11 @@ for slug in FILES:
             'sub': sub, 'brand': slug, 'img': img,
         }
         if it.get('hi'): row['hi'] = it['hi']
+        # a set carries what is in it; a piece carries where it belongs. Both
+        # directions are needed so the shopper can move between them.
+        if it.get('members'): row['members'] = it['members']
+        if it.get('partOf'): row['partOf'] = it['partOf']
+        if it.get('finish'): row['finish'] = it['finish']
         # the supplier spec string (dimensions, finish, material) drives the
         # specifications table on the item page. Safe to publish: unlike `net`,
         # it is what the customer needs to know.

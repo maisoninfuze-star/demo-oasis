@@ -1180,3 +1180,47 @@ html.has-promo .purch{padding-top:calc(9rem + 44px)}
    the correct order here: hidden by default, shown on small screens. */
 .filters__toggle{display:none}
 @media(max-width:1000px){ .filters__toggle{display:flex} }
+
+/* --- set cards: a collection announces its contents on the card ------------ */
+.pcard__tag--set{background:var(--emerald,#33534a);color:var(--cream,#F6F1E8);border-color:transparent}
+.pcard__set{display:block;font-family:var(--font-sans);font-size:.68rem;letter-spacing:.05em;
+  color:var(--gold,#C6A662);margin:.15rem 0 .1rem;line-height:1.45}
+
+/* --- "part of a collection" backlink on a single piece ---------------------
+   The item page sits on the cream ground, not the dark hero, so these use the
+   warm-black text tokens; the paler gold is unreadable on cream. */
+.item__partof{display:block;margin:.9rem 0 1.2rem;padding:.85rem 1rem;
+  border:1px solid rgba(16,14,12,.14);border-radius:2px;
+  background:rgba(134,118,89,.07);transition:background .3s var(--ease),border-color .3s var(--ease)}
+.item__partof:hover{background:rgba(134,118,89,.13);border-color:rgba(134,118,89,.4)}
+.item__partof span{display:block;font-family:var(--font-sans);font-size:.66rem;
+  letter-spacing:.16em;text-transform:uppercase;color:rgba(16,14,12,.55)}
+.item__partof b{display:block;font-family:var(--font-display);font-size:1.15rem;
+  color:var(--black,#100E0C);margin:.15rem 0 .3rem}
+.item__partof i{font-style:normal;font-family:var(--font-sans);font-size:.74rem;
+  letter-spacing:.08em;color:#867659}
+
+/* --- what a set contains, priced ------------------------------------------ */
+.item__included{margin:1.8rem 0}
+.item__included h2{font-family:var(--font-sans);font-size:.72rem;letter-spacing:.18em;
+  text-transform:uppercase;color:rgba(16,14,12,.55);margin-bottom:.9rem}
+.item__included ul{list-style:none;display:grid;gap:.5rem;margin:0;padding:0}
+.item__included a{display:grid;grid-template-columns:56px 1fr auto;grid-template-rows:auto auto;
+  gap:.15rem .9rem;align-items:center;padding:.5rem .7rem;
+  border:1px solid rgba(16,14,12,.12);border-radius:2px;
+  transition:border-color .3s var(--ease),background .3s var(--ease)}
+.item__included a:hover{border-color:rgba(134,118,89,.45);background:rgba(134,118,89,.06)}
+.item__included img{width:56px;height:56px;object-fit:cover;border-radius:2px;
+  background:#fff;grid-column:1;grid-row:1/3}
+.ipiece__k{font-family:var(--font-sans);font-size:.64rem;letter-spacing:.14em;text-transform:uppercase;
+  color:#867659;grid-column:2;grid-row:1;align-self:end}
+.ipiece__n{grid-column:2;grid-row:2;font-size:.88rem;color:rgba(16,14,12,.72);align-self:start;
+  min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.ipiece__p{grid-column:3;grid-row:1/3;align-self:center;font-family:var(--font-display);
+  font-size:1.05rem;color:var(--black,#100E0C)}
+.item__included__sum{margin-top:.8rem;font-size:.82rem;color:rgba(16,14,12,.6);line-height:1.6}
+@media (max-width:560px){
+  .item__included a{grid-template-columns:44px 1fr auto;gap:.15rem .6rem}
+  .item__included img{width:44px;height:44px}
+  .ipiece__n{font-size:.8rem}
+}

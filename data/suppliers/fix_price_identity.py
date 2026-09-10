@@ -42,7 +42,12 @@ for brand, rs in by_brand.items():
         act = r['action']
         before = it.get('price')
         if act.startswith('setprice:'):
-            it['price'] = str(int(act.split(':')[1]))
+            retail = int(act.split(':')[1])
+            it['price'] = str(retail)
+            # Keep the dealer cost in step with the line we just moved to.
+            # Leaving the old `net` behind makes the margin unverifiable and
+            # would hand a wrong price to anything that recomputes from cost.
+            it['net'] = round(retail / 3.15, 2)
             it.pop('from', None)
             done['price corrected to the exact line'] += 1
         elif act == 'unprice':
